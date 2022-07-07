@@ -987,7 +987,7 @@
 
 
                                                 </li>
-
+<!-- 
 
 
                                                 <li class="mobile-nav__item">
@@ -1003,7 +1003,7 @@
 
 
                                                 </li>
-
+ -->
 
 
                                                 <li class="mobile-nav__item">
@@ -1259,12 +1259,12 @@
                                                         <li class="">
                                                             <a href="/collections/aboutUs.html"
                                                                 class="site-nav__dropdown-link site-nav__dropdown-link--second-level ">
-                                                                The In-House Story
+                                                                The  Esca Story
 
                                                             </a>
 
                                                         </li>
-
+<!-- 
 
 
                                                         <li class="">
@@ -1275,7 +1275,7 @@
                                                             </a>
 
                                                         </li>
-
+ -->
 
 
                                                         <li class="">
@@ -14127,6 +14127,18 @@
                         </div>
                     </div>
                 </div>
+                <div class="toast" style="    position: fixed;
+                top: 50px;
+                right: 20px;
+                background: #41d888;
+                padding: 20px;
+                color: #fff;
+                z-index: 999;">
+                    <div class="toast-body">
+                        Đặt Hàng Thành Công
+                    </div>
+                </div>
+             
             </main>
 
             <div id="shopify-section-footer-promotions" class="shopify-section index-section--footer">
@@ -14883,6 +14895,50 @@ Discount codes calculated at checkout.
         [data-type_header_capitalize=true] h3 {
             line-height: 28px;
         }
+        .toast {
+            opacity: 0;
+            font-size: 20px;
+        }
+
+        .toast-active {
+            opacity: 1;
+            animation: toastActive linear 0.3s;
+        }
+
+        .toast-hidden {
+            animation: toastHidden linear 0.3s;
+        }
+
+        @keyframes toastActive {
+            0% {
+                opacity: 0.3;
+                right: -10%;
+            }
+            50% {
+                opacity: 0.6;
+                right: 0%;
+            }
+            100%{
+                opacity: 1;
+                right: 20px;
+            }
+        }
+
+        @keyframes toastHidden {
+            0% {
+                opacity: 1;
+
+            }
+            50% {
+                opacity: 0.6;
+               
+            }
+            100%{
+                opacity: 0.3;
+               
+            }
+        }
+
     </style>
 
     <!-- HC - Product page swatches - 08 Dec '20 -->
@@ -14937,6 +14993,13 @@ Discount codes calculated at checkout.
                     dataType: "json",
                     encode: true,
                 }).done(function (data) {
+                    $(".toast").removeClass('toast-hidden')            
+                    $(".toast").addClass('toast-active')
+
+                    setTimeout(() => {
+                        $(".toast").removeClass('toast-active')
+                        $(".toast").addClass('toast-hidden')
+                    }, 2000)
                 });
                 $("#order-modal").removeClass('order-modal-active')
             });
