@@ -218,9 +218,9 @@
     <link rel="canonical" href="https://escadesk.vn//" href="/assets/images/logo Chu 140.png" />
 
     <meta property="og:image"
-        content="/assets/images/logo Chu 140.png?height=628&pad_color=ffffff&v=1595867938&width=1200" />
+        content="/assets/images/logoEscamo.png?height=628&pad_color=ffffff&v=1595867938&width=1200" />
     <meta property="og:image:secure_url"
-        content="/assets/images/logo Chu 140.png?height=628&pad_color=ffffff&v=1595867938&width=1200" />
+        content="/assets/images/logoEscamo.png?height=628&pad_color=ffffff&v=1595867938&width=1200" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="628" />
     <link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
@@ -2231,6 +2231,65 @@
                         </div>
                     </div>
                 </div>
+
+                <!-- <div id="shopify-section-16337073804619ce85" class="shopify-section index-section--hero">
+                    <div data-section-id="16337073804619ce85" data-section-type="slideshow-section"
+                        data-align-top="true" data-parallax="true">
+                        <div class="slideshow-wrapper">
+                            <div id="Slideshow-16337073804619ce85"
+                                class="hero hero--650px hero--16337073804619ce85 hero--mobile--auto loading loading--delayed"
+                                data-autoplay="true" data-speed="5000" data-aos="hero__animation" data-slide-count="1">
+                                <div class="slideshow__slide slideshow__slide--16337073804619ce85-0"
+                                    data-id="16337073804619ce85-0">
+                                    <style data-shopify>
+                                        .slideshow__slide--16337073804619ce85-0 .hero__title {
+                                            font-size: 24.0px;
+                                        }
+
+                                        @media only screen and (min-width: 769px) {
+                                            .slideshow__slide--16337073804619ce85-0 .hero__title {
+                                                font-size: 80px;
+                                            }
+                                        }
+                                    </style>
+                                    <style data-shopify>
+                                        .hero__image--16337073804619ce85-0 {
+                                            background-position: center center;
+                                            background-size: cover;
+                                        }
+                                    </style>
+
+                                    <div class="parallax-container">
+                                        <div class="hero__image-wrapper">
+
+                                            <div class="parallax-image hero__image hero__image--16337073804619ce8e-0 lazyload"
+                                                data-bgset="
+  
+  /assets/images/homePage/03-GT-trang-bị-truong.jpg?v=34619102471746823 180w 118h,
+  /assets/images/homePage/03-GT-trang-bị-truong.jpg?v=34619102471746823 360w 237h,
+  /assets/images/homePage/03-GT-trang-bị-truong.jpg?v=34619102471746823 540w 355h,
+  /assets/images/homePage/03-GT-trang-bị-truong.jpg?v=34619102471746823 720w 474h,
+  /assets/images/homePage/03-GT-trang-bị-truong.jpg?v=34619102471746823 900w 592h,
+  /assets/images/homePage/03-GT-trang-bị-truong.jpg?v=34619102471746823 1080w 711h,
+  /assets/images/homePage/03-GT-trang-bị-truong.jpg?v=34619102471746823 1296w 853h,
+  /assets/images/homePage/03-GT-trang-bị-truong.jpg?v=34619102471746823 1512w 995h,
+  /assets/images/homePage/03-GT-trang-bị-truong.jpg?v=34619102471746823 1728w 1137h
+
+" data-sizes="auto">
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="hero__text-wrap">
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div> -->
                 <div id="shopify-section-1596052011922" class="shopify-section index-section">
                     <div class="page-width text-center" data-section-id="1596052011922"
                         data-section-type="testimonials">
@@ -2365,9 +2424,6 @@
 
                     </div>
                 </div><!-- END content_for_index -->
-                <div>
-
-                </div>
                 <!-- <div id="shopify-section-1633708282c710c7b7" class="shopify-section index-section">
                     <div class="page-width">
                         <div class="feature-row" data-aos>
@@ -2393,36 +2449,34 @@
                             Thông Tin Khách Hàng
                         </div>
                         <div class="form-vertical">
-                            <form method="post" action="/https://629f0c738b939d3dc28d6fcc.mockapi.io/khachHang"
-                                id="contact-page-contact-template-0" accept-charset="UTF-8" class="contact-form"><input
-                                    type="hidden" name="form_type" value="contact" /><input type="hidden" name="utf8"
-                                    value="✓" />
+                            <form id="order-form1" method="POST" accept-charset="UTF-8" class="contact-form"><input
+                                    type="hidden" />
                                 <div class="grid grid--small">
                                     <div class="grid__item medium-up--one-half">
                                         <label for="ContactFormName-page-contact-template-0">Họ
                                             tên</label>
                                         <input type="text" id="ContactFormName-page-contact-template-0"
-                                            class="input-full" name="contact[name]" autocapitalize="words" value="">
+                                            class="input-full" name="fullName" autocapitalize="words" value="">
                                     </div>
                                     <div class="grid__item medium-up--one-half">
-                                        <label for="ContactFormEmail-page-contact-template-0">Số
+                                        <label for="ContactFormPhone-page-contact-template-1">Số
                                             điện thoại</label>
-                                        <input type="text" id="ContactFormEmail-page-contact-template-0"
-                                            class="input-full" name="contact[phoneNumber]" autocorrect="off"
-                                            autocapitalize="off" value="">
+                                        <input type="text" id="ContactFormPhone-page-contact-template-1"
+                                            class="input-full" name="numberPhone" autocorrect="off" autocapitalize="off"
+                                            value="">
                                     </div>
                                     <div class="grid__item medium-up--one-half">
-                                        <label for="ContactFormEmail-page-contact-template-0">Email</label>
-                                        <input type="email" id="ContactFormEmail-page-contact-template-0"
-                                            class="input-full" name="contact[email]" autocorrect="off"
-                                            autocapitalize="off" value="">
+                                        <label for="ContactFormEmail-page-contact-template-2">Email</label>
+                                        <input type="email" id="ContactFormEmail-page-contact-template-2"
+                                            class="input-full" name="email" autocorrect="off" autocapitalize="off"
+                                            value="">
                                     </div>
                                 </div>
-                                <label for="ContactFormMessage-page-contact-template-0">Nội
+                                <label for="ContactFormMessage-page-contact-template-3">Nội
                                     Dung</label>
-                                <textarea rows="5" id="ContactFormMessage-page-contact-template-0" class="input-full"
-                                    name="contact[body]"></textarea>
-                                <button type="submit" class="btn order-btn">
+                                <textarea rows="5" id="ContactFormMessage-page-contact-template-3" class="input-full"
+                                    name="note" value=""></textarea>
+                                <button type="submit" class="btn order-btn" id="order-btn">
                                     Đặt Hàng
                                 </button>
                             </form>
@@ -3038,33 +3092,6 @@ Discount codes calculated at checkout.
             width: 33%;
         }
 
-        @media only screen and (max-width: 768px) {
-            .small--one-half {
-                width: 50%;
-            }
-
-            .product-3 {
-                margin-left: 25%;
-            }
-        }
-
-        @media only screen and (max-width: 450px) {
-            .small--one-half {
-                width: 100%;
-            }
-
-            .product-3 {
-                margin: 0;
-            }
-        }
-
-        @media only screen and (min-width: 769px) {
-
-            .slideshow__slide--16337073804619ce8e-0 .hero__title,
-            .slideshow__slide--1633708154d0057345-0 .hero__title {
-                font-size: 40px;
-            }
-        }
 
         .order-modal-container {
             position: fixed;
@@ -3085,9 +3112,13 @@ Discount codes calculated at checkout.
             transform: translate(-50%, -50%);
             z-index: 27;
             background: #fff;
-            width: 80vw;
-            height: 85vh;
+            width: 90vw;
         }
+
+        @keyframes activeModal {
+            0% {}
+        }
+
 
         .order-modal-title {
             font-size: 32px;
@@ -3118,15 +3149,11 @@ Discount codes calculated at checkout.
             margin-bottom: 15px;
         }
 
-        @media only screen and (min-width: 769px) {
-            .medium-up--one-half {
-                width: 100%;
-            }
-
-            .order-modal {
-                width: 500px;
-            }
+        .order-modal-active {
+            display: block;
         }
+
+
 
         .announcement-bar {
             background-color: #929090;
@@ -3148,23 +3175,51 @@ Discount codes calculated at checkout.
         [data-type_header_capitalize=true] h3 {
             line-height: 28px;
         }
-    </style>
-    <script>
-        const orderBtn1 = document.querySelector('#order-btn-1');
-        const orderBtn2 = document.querySelector('#order-btn-2')
-        const orderModal = document.querySelector('#order-modal')
-        orderBtn1.onclick = () => {
-            orderModal.style.display = 'block'
-        }
-        orderBtn2.onclick = () => {
-            orderModal.style.display = 'block'
-        }
-        orderModal.onclick = (e) => {
-            if (e.target.className === 'order-modal-container' || e.target.className === 'order-btn-close' || e.target.className === 'order-btn') {
-                orderModal.style.display = 'none'
+
+        @media only screen and (max-width: 769px) {
+            .order-modal-title {
+                font-size: 24px;
             }
         }
-    </script>
+
+        @media only screen and (min-width: 769px) {
+            .medium-up--one-half {
+                width: 100%;
+            }
+
+            .order-modal {
+                width: 500px;
+            }
+        }
+
+        @media only screen and (max-width: 768px) {
+            .small--one-half {
+                width: 50%;
+            }
+
+            .product-3 {
+                margin-left: 25%;
+            }
+        }
+
+        @media only screen and (max-width: 450px) {
+            .small--one-half {
+                width: 100%;
+            }
+
+            .product-3 {
+                margin: 0;
+            }
+        }
+
+        @media only screen and (min-width: 769px) {
+
+            .slideshow__slide--16337073804619ce8e-0 .hero__title,
+            .slideshow__slide--1633708154d0057345-0 .hero__title {
+                font-size: 40px;
+            }
+        }
+    </style>
 
     <!-- HC - Product page swatches - 08 Dec '20 -->
     <script src="https://code.jquery.com/jquery-2.2.4.min.js"
@@ -3183,6 +3238,54 @@ Discount codes calculated at checkout.
         });
     </script>
     <script>window.KlarnaThemeGlobals = {};</script>
+    <script>
+        const orderBtn = document.querySelector('#order-btn-1');
+        const orderBtn2 = document.querySelector('#order-btn-2')
+        const orderModal = document.querySelector('#order-modal')
+
+        orderBtn.onclick = () => {
+            orderModal.classList.add('order-modal-active')
+            document.querySelector("#ContactFormName-page-contact-template-0").value = ''
+            document.querySelector("#ContactFormPhone-page-contact-template-1").value = ''
+            document.querySelector("#ContactFormEmail-page-contact-template-2").value = ''
+            document.querySelector("#ContactFormMessage-page-contact-template-3").value = ''
+        }
+        orderBtn2.onclick = () => {
+            orderModal.classList.add('order-modal-active')
+            document.querySelector("#ContactFormName-page-contact-template-0").value = ''
+            document.querySelector("#ContactFormPhone-page-contact-template-1").value = ''
+            document.querySelector("#ContactFormEmail-page-contact-template-2").value = ''
+            document.querySelector("#ContactFormMessage-page-contact-template-3").value = ''
+        }
+        orderModal.onclick = (e) => {
+            if (e.target.className === 'order-modal-container' || e.target.className === 'order-btn-close') {
+                orderModal.classList.remove("order-modal-active");
+            }
+        }
+    </script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#order-btn").on("click", function (event) {
+                event.preventDefault();
+                var formData = {
+                    fullName: $("#ContactFormName-page-contact-template-0").val(),
+                    numberPhone: $("#ContactFormPhone-page-contact-template-1").val(),
+                    email: $("#ContactFormEmail-page-contact-template-2").val(),
+                    note: $("#ContactFormMessage-page-contact-template-3").val(),
+                };
+                $.ajax({
+                    contentType: "application/json",
+                    type: "POST",
+                    url: "http://api.oceantech.vn/escadesk/saveCustomer",
+                    data: JSON.stringify(formData),
+                    dataType: "json",
+                    encode: true,
+                }).done(function (data) {
+                });
+                $("#order-modal").removeClass('order-modal-active')
+            });
+        });
+    </script>
 </body>
 
 </html>

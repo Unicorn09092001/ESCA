@@ -14093,36 +14093,34 @@
                             Thông Tin Khách Hàng
                         </div>
                         <div class="form-vertical">
-                            <form method="post" action="/https://629f0c738b939d3dc28d6fcc.mockapi.io/khachHang"
-                                id="contact-page-contact-template-0" accept-charset="UTF-8" class="contact-form"><input
-                                    type="hidden" name="form_type" value="contact" /><input type="hidden" name="utf8"
-                                    value="✓" />
+                            <form id="order-form1" method="POST" accept-charset="UTF-8" class="contact-form"><input
+                                    type="hidden" />
                                 <div class="grid grid--small">
                                     <div class="grid__item medium-up--one-half">
                                         <label for="ContactFormName-page-contact-template-0">Họ
                                             tên</label>
                                         <input type="text" id="ContactFormName-page-contact-template-0"
-                                            class="input-full" name="contact[name]" autocapitalize="words" value="">
+                                            class="input-full" name="fullName" autocapitalize="words" value="">
                                     </div>
                                     <div class="grid__item medium-up--one-half">
-                                        <label for="ContactFormEmail-page-contact-template-0">Số
+                                        <label for="ContactFormPhone-page-contact-template-1">Số
                                             điện thoại</label>
-                                        <input type="text" id="ContactFormEmail-page-contact-template-0"
-                                            class="input-full" name="contact[phoneNumber]" autocorrect="off"
-                                            autocapitalize="off" value="">
+                                        <input type="text" id="ContactFormPhone-page-contact-template-1"
+                                            class="input-full" name="numberPhone" autocorrect="off" autocapitalize="off"
+                                            value="">
                                     </div>
                                     <div class="grid__item medium-up--one-half">
-                                        <label for="ContactFormEmail-page-contact-template-0">Email</label>
-                                        <input type="email" id="ContactFormEmail-page-contact-template-0"
-                                            class="input-full" name="contact[email]" autocorrect="off"
-                                            autocapitalize="off" value="">
+                                        <label for="ContactFormEmail-page-contact-template-2">Email</label>
+                                        <input type="email" id="ContactFormEmail-page-contact-template-2"
+                                            class="input-full" name="email" autocorrect="off" autocapitalize="off"
+                                            value="">
                                     </div>
                                 </div>
-                                <label for="ContactFormMessage-page-contact-template-0">Nội
+                                <label for="ContactFormMessage-page-contact-template-3">Nội
                                     Dung</label>
-                                <textarea rows="5" id="ContactFormMessage-page-contact-template-0" class="input-full"
-                                    name="contact[body]"></textarea>
-                                <button type="submit" class="btn order-btn">
+                                <textarea rows="5" id="ContactFormMessage-page-contact-template-3" class="input-full"
+                                    name="note" value=""></textarea>
+                                <button type="submit" class="btn order-btn" id="order-btn">
                                     Đặt Hàng
                                 </button>
                             </form>
@@ -14798,8 +14796,7 @@ Discount codes calculated at checkout.
             transform: translate(-50%, -50%);
             z-index: 27;
             background: #fff;
-            width: 80vw;
-            height: 85vh;
+            width: 90vw;
         }
 
         .order-modal-title {
@@ -14831,6 +14828,16 @@ Discount codes calculated at checkout.
             margin-bottom: 15px;
         }
 
+        .order-modal-active {
+            display: block;
+        }
+
+        @media only screen and (max-width: 769px) {
+            .order-modal-title {
+                font-size: 24px;
+            }
+        }
+
         @media only screen and (min-width: 769px) {
             .medium-up--one-half {
                 width: 100%;
@@ -14855,21 +14862,6 @@ Discount codes calculated at checkout.
         }
     </style>
 
-    <script>
-        const orderBtn = document.querySelector('#order-btn-1');
-
-        const orderModal = document.querySelector('#order-modal')
-        orderBtn.onclick = () => {
-            orderModal.style.display = 'block'
-        }
-
-        orderModal.onclick = (e) => {
-            if (e.target.className === 'order-modal-container' || e.target.className === 'order-btn-close' || e.target.className === 'order-btn') {
-                orderModal.style.display = 'none'
-            }
-        }
-    </script>
-
     <!-- HC - Product page swatches - 08 Dec '20 -->
     <script src="https://code.jquery.com/jquery-2.2.4.min.js"
         integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
@@ -14887,6 +14879,46 @@ Discount codes calculated at checkout.
         });
     </script>
     <script>window.KlarnaThemeGlobals = {};</script>
+    <script>
+        const orderBtn = document.querySelector('#order-btn-1');
+        const orderModal = document.querySelector('#order-modal')
+
+        orderBtn.onclick = () => {
+            orderModal.classList.add('order-modal-active')
+            document.querySelector("#ContactFormName-page-contact-template-0").value = ''
+            document.querySelector("#ContactFormPhone-page-contact-template-1").value = ''
+            document.querySelector("#ContactFormEmail-page-contact-template-2").value = ''
+            document.querySelector("#ContactFormMessage-page-contact-template-3").value = ''
+        }
+        orderModal.onclick = (e) => {
+            if (e.target.className === 'order-modal-container' || e.target.className === 'order-btn-close') {
+                orderModal.classList.remove("order-modal-active");
+            }
+        }
+    </script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#order-btn").on("click", function (event) {
+                event.preventDefault();
+                var formData = {
+                    fullName: $("#ContactFormName-page-contact-template-0").val(),
+                    numberPhone: $("#ContactFormPhone-page-contact-template-1").val(),
+                    email: $("#ContactFormEmail-page-contact-template-2").val(),
+                    note: $("#ContactFormMessage-page-contact-template-3").val(),
+                };
+                $.ajax({
+                    contentType: "application/json",
+                    type: "POST",
+                    url: "http://api.oceantech.vn/escadesk/saveCustomer",
+                    data: JSON.stringify(formData),
+                    dataType: "json",
+                    encode: true,
+                }).done(function (data) {
+                });
+                $("#order-modal").removeClass('order-modal-active')
+            });
+        });
+    </script>
 </body>
 
 </html>
