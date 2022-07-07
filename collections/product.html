@@ -14756,24 +14756,7 @@ Discount codes calculated at checkout.
             margin-left: 15%;
         }
 
-        @media only screen and (max-width: 768px) {
-            .product-container {
-                margin-left: 0;
-            }
 
-            .small--one-half {
-                width: 100%;
-            }
-
-            [data-type_product_capitalize=true] .grid-product__title {
-
-                font-size: calc(var(--typeBaseSize) + 2px);
-            }
-
-            .page-width .small--grid--flush {
-                margin-right: 5px;
-            }
-        }
 
 
 
@@ -14832,6 +14815,27 @@ Discount codes calculated at checkout.
             display: block;
         }
 
+        .order-modal-active .order-modal {
+            animation: modalActive linear 0.4s;
+        }
+
+        @keyframes modalActive {
+            0% {
+                top: 100%;
+                opacity: 0;
+            }
+
+            50% {
+                top: 75%;
+                opacity: 0.5;
+            }
+
+            100% {
+                top: 50%;
+                opacity: 1;
+            }
+        }
+
         @media only screen and (max-width: 769px) {
             .order-modal-title {
                 font-size: 24px;
@@ -14845,6 +14849,25 @@ Discount codes calculated at checkout.
 
             .order-modal {
                 width: 500px;
+            }
+        }
+
+        @media only screen and (max-width: 768px) {
+            .product-container {
+                margin-left: 0;
+            }
+
+            .small--one-half {
+                width: 100%;
+            }
+
+            [data-type_product_capitalize=true] .grid-product__title {
+
+                font-size: calc(var(--typeBaseSize) + 2px);
+            }
+
+            .page-width .small--grid--flush {
+                margin-right: 5px;
             }
         }
 
@@ -14891,7 +14914,7 @@ Discount codes calculated at checkout.
             document.querySelector("#ContactFormMessage-page-contact-template-3").value = ''
         }
         orderModal.onclick = (e) => {
-            if (e.target.className === 'order-modal-container' || e.target.className === 'order-btn-close') {
+            if (e.target.id === 'order-modal' || e.target.className === 'order-btn-close') {
                 orderModal.classList.remove("order-modal-active");
             }
         }

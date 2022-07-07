@@ -1815,7 +1815,7 @@
                     </div>
                 </div>
                 <div class="order-modal-container" id="order-modal">
-                    <div class="order-modal" style="padding: 40px 20px 0 20px;">
+                    <div class="order-modal order-modal-hidden" style="padding: 40px 20px 0 20px;">
                         <div class="order-btn-close">x</div>
                         <div class="order-modal-title">
                             Thông Tin Khách Hàng
@@ -2473,6 +2473,11 @@ Discount codes calculated at checkout.
             display: none;
         }
 
+        .order-modal-active {
+            display: block;
+        }
+
+
         .order-modal {
             position: fixed;
             top: 50%;
@@ -2481,8 +2486,10 @@ Discount codes calculated at checkout.
             z-index: 27;
             background: #fff;
             width: 90vw;
-            animation: modalActive linear 0.3s;
-            opacity: 1;
+        }
+
+        .order-modal-active .order-modal {
+            animation: modalActive linear 0.4s;
         }
 
         @keyframes modalActive {
@@ -2548,9 +2555,8 @@ Discount codes calculated at checkout.
             margin-bottom: 15px;
         }
 
-        .order-modal-active {
-            display: block;
-        }
+
+
 
         .feature-row {
             margin: 0 10%;
@@ -2611,7 +2617,7 @@ Discount codes calculated at checkout.
             document.querySelector("#ContactFormMessage-page-contact-template-3").value = ''
         }
         orderModal.onclick = (e) => {
-            if (e.target.className === 'order-modal-container' || e.target.className === 'order-btn-close') {
+            if (e.target.id === 'order-modal' || e.target.className === 'order-btn-close') {
                 orderModal.classList.remove("order-modal-active");
             }
         }
