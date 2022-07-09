@@ -221,8 +221,8 @@
 
     <meta property="og:image" content="/assets/images/fut.png?v=1595867938" />
     <meta property="og:image:secure_url" content="/assets/images/fut.png?v=1595867938" />
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="628" />
+    <meta property="og:image:width" content="240" />
+    <meta property="og:image:height" content="255" />
     <link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
     <script>(function () { if ("sendBeacon" in navigator && "performance" in window) { var session_token = document.cookie.match(/_shopify_s=([^;]*)/); function handle_abandonment_event(e) { var entries = performance.getEntries().filter(function (entry) { return /monorail-edge.shopifysvc.com/.test(entry.name); }); if (!window.abandonment_tracked && entries.length === 0) { window.abandonment_tracked = true; var currentMs = Date.now(); var navigation_start = performance.timing.navigationStart; var payload = { shop_id: 43713265824, url: window.location.href, navigation_start, duration: currentMs - navigation_start, session_token: session_token && session_token.length === 2 ? session_token[1] : "", page_type: "page" }; window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({ schema_id: "online_store_buyer_site_abandonment/1.1", payload: payload, metadata: { event_created_at_ms: currentMs, event_sent_at_ms: currentMs } })); } } window.addEventListener('pagehide', handle_abandonment_event); } }());</script>
     <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
@@ -236,7 +236,7 @@
 
         };
     </script>
-    <link rel="stylesheet" href="/assets/css/style.css">
+
     <script class="analytics">(window.gaDevIds = window.gaDevIds || []).push('BwiEti');
 
 
@@ -580,6 +580,7 @@
                 });
             }
         })();</script>
+    <link rel="stylesheet" href="/assets/css/style.css">
 </head>
 
 <body class="template-page" data-center-text="true" data-button_style="square" data-type_header_capitalize="true"
@@ -1503,7 +1504,7 @@
                 </div>
                 <div class="toast">
                     <div class="toast-body">
-                        Phản Hồi Thành Công
+                        Cảm ơn bạn đã quan tâm. Chúng tôi sẽ liên lạc lại sớm!
                     </div>
                 </div>
             </main>
@@ -1569,8 +1570,7 @@
                                         <div class="collapsible-content__inner">
                                             <div class="footer__collapsible">
 
-                                                <p>Subscribe to get special offers, free giveaways, and
-                                                    once-in-a-lifetime deals.</p>
+                                                <p>Đắng ký để nhận thông tin về sản phẩm</p>
                                                 <form method="post" action="/contact#newsletter-footer"
                                                     id="newsletter-footer" accept-charset="UTF-8" class="contact-form">
 
@@ -2199,7 +2199,8 @@ Discount codes calculated at checkout.
                 var formData = {
                     fullName: $("#ContactFormName-page-contact-template-0").val(),
                     email: $("#ContactFormEmail-page-contact-template-0").val(),
-                    note: $("#ContactFormMessage-page-contact-template-0").val()
+                    note: $("#ContactFormMessage-page-contact-template-0").val(),
+                    type: 2
                 };
                 const
                     validateEmail = () => {
@@ -2241,7 +2242,7 @@ Discount codes calculated at checkout.
                     $.ajax({
                         contentType: "application/json",
                         type: "POST",
-                        url: "http://api.oceantech.vn/escadesk/saveCustomer",
+                        url: "https://api.oceantech.vn/escadesk/saveCustomer",
                         data: JSON.stringify(formData),
                         dataType: "json",
                         encode: true,
@@ -2269,6 +2270,7 @@ Discount codes calculated at checkout.
                 event.preventDefault();
                 var formData = {
                     email: $("#Email-1598462755230").val(),
+                    type: 3
                 };
                 const
                     validateEmail = () => {
@@ -2295,7 +2297,7 @@ Discount codes calculated at checkout.
                     $.ajax({
                         contentType: "application/json",
                         type: "POST",
-                        url: "http://api.oceantech.vn/escadesk/saveCustomer",
+                        url: "https://api.oceantech.vn/escadesk/saveCustomer",
                         data: JSON.stringify(formData),
                         dataType: "json",
                         encode: true,

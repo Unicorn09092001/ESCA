@@ -217,10 +217,10 @@
 
     <link rel="canonical" href="https://escadesk.vn//" href="/assets/images/logo Chu 140.png" />
 
-    <meta property="og:image" content="/assets/images/logoEscamo.png" />
-    <meta property="og:image:secure_url" content="/assets/images/logoEscamo.png" />
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="628" />
+    <meta property="og:image" content="/assets/images/fut.png?v=1595867938" />
+    <meta property="og:image:secure_url" content="/assets/images/fut.png?v=1595867938" />
+    <meta property="og:image:width" content="240" />
+    <meta property="og:image:height" content="255" />
     <link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
     <script>(function () { if ("sendBeacon" in navigator && "performance" in window) { var session_token = document.cookie.match(/_shopify_s=([^;]*)/); function handle_abandonment_event(e) { var entries = performance.getEntries().filter(function (entry) { return /monorail-edge.shopifysvc.com/.test(entry.name); }); if (!window.abandonment_tracked && entries.length === 0) { window.abandonment_tracked = true; var currentMs = Date.now(); var navigation_start = performance.timing.navigationStart; var payload = { shop_id: 43713265824, url: window.location.href, navigation_start, duration: currentMs - navigation_start, session_token: session_token && session_token.length === 2 ? session_token[1] : "", page_type: "index" }; window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({ schema_id: "online_store_buyer_site_abandonment/1.1", payload: payload, metadata: { event_created_at_ms: currentMs, event_sent_at_ms: currentMs } })); } } window.addEventListener('pagehide', handle_abandonment_event); } }());</script>
     <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
@@ -240,7 +240,7 @@
         };
 
     </script>
-    <link rel="stylesheet" href="/assets/css/style.css">
+
     <script class="analytics">(window.gaDevIds = window.gaDevIds || []).push('BwiEti');
 
 
@@ -584,6 +584,7 @@
                 });
             }
         })();</script>
+    <link rel="stylesheet" href="/assets/css/style.css">
 </head>
 
 <body class="template-index" data-center-text="true" data-button_style="square" data-type_header_capitalize="true"
@@ -1549,7 +1550,7 @@
                 </div>
                 <div id="shopify-section-1595599693042" class="shopify-section index-section">
                     <div class="page-width">
-                        <div class="feature-row" data-aos>
+                        <div class="feature-row home-page" data-aos>
                             <div class="feature-row__item">
                                 <div style="margin: 0 auto; max-width: 500px;">
                                     <div class="image-wrap" style="height: 0; padding-bottom: 66.68%;"><img
@@ -1689,7 +1690,7 @@
                 </div>
                 <div id="shopify-section-1610018920ee37f477" class="shopify-section index-section">
                     <div class="page-width">
-                        <div class="feature-row" data-aos>
+                        <div class="feature-row home-page img--right" data-aos>
                             <div class="feature-row__item feature-row__text feature-row__text--right">
                                 <p class="h5">ESCA góp phần nâng cao chất lượng đào tạo</p>
                                 <p class="h3">CHÚNG TÔI LÀ ĐƠN VỊ ĐẦU TIÊN ĐƯA BÀN CHỐNG GÙ CẬN TỚI TRƯỜNG HỌC</p>
@@ -1928,7 +1929,7 @@
                 </div>
                 <div id="shopify-section-1633708282c710c7b7" class="shopify-section index-section">
                     <div class="page-width">
-                        <div class="feature-row" data-aos>
+                        <div class="feature-row home-page" data-aos>
                             <div class="feature-row__item">
                                 <div style="margin: 0 auto; max-width: 500px;">
                                     <div class="image-wrap" style="height: 0; padding-bottom: 124.94080505130229%;"><img
@@ -2276,11 +2277,11 @@
                                     }
                                 </style>
                                 <div class="footer__item-padding">
-                                    <p class="h4 footer__title small--hide">Sign up and save</p>
+                                    <p class="h4 footer__title small--hide">Sign up </p>
                                     <button type="button"
                                         class="h4 footer__title collapsible-trigger collapsible-trigger-btn medium-up--hide"
                                         aria-controls="Footer-1598462755230">
-                                        Sign up and save
+                                        Sign up
                                         <span class="collapsible-trigger__icon collapsible-trigger__icon--open"
                                             role="presentation">
                                             <svg aria-hidden="true" focusable="false" role="presentation"
@@ -2297,8 +2298,7 @@
                                         <div class="collapsible-content__inner">
                                             <div class="footer__collapsible">
 
-                                                <p>Subscribe to get special offers, free giveaways, and
-                                                    once-in-a-lifetime deals.</p>
+                                                <p>Đắng ký để nhận thông tin về sản phẩm</p>
                                                 <form method="post" action="/contact#newsletter-footer"
                                                     id="newsletter-footer" accept-charset="UTF-8" class="contact-form">
 
@@ -2916,13 +2916,6 @@ Discount codes calculated at checkout.
             width: 90vw;
         }
 
-
-        .order-modal-title {
-            font-size: 32px;
-            text-align: center;
-            margin-bottom: 15px;
-        }
-
         .order-btn {
             width: 100%;
         }
@@ -3032,9 +3025,6 @@ Discount codes calculated at checkout.
 
 
         @media only screen and (max-width: 769px) {
-            .order-modal-title {
-                font-size: 24px;
-            }
 
             .site-footer .grid__item {
                 width: 100% !important;
@@ -3155,6 +3145,7 @@ Discount codes calculated at checkout.
                     numberPhone: $("#ContactFormPhone-page-contact-template-1").val(),
                     email: $("#ContactFormEmail-page-contact-template-2").val(),
                     note: $("#ContactFormMessage-page-contact-template-3").val(),
+                    type: 1
                 };
                 const
                     validateEmail = () => {
@@ -3217,7 +3208,7 @@ Discount codes calculated at checkout.
                     $.ajax({
                         contentType: "application/json",
                         type: "POST",
-                        url: "http://api.oceantech.vn/escadesk/saveCustomer",
+                        url: "https://api.oceantech.vn/escadesk/saveCustomer",
                         data: JSON.stringify(formData),
                         dataType: "json",
                         encode: true,
@@ -3241,6 +3232,7 @@ Discount codes calculated at checkout.
                 event.preventDefault();
                 var formData = {
                     email: $("#Email-1598462755230").val(),
+                    type: 3
                 };
                 const
                     validateEmail = () => {
@@ -3267,7 +3259,7 @@ Discount codes calculated at checkout.
                     $.ajax({
                         contentType: "application/json",
                         type: "POST",
-                        url: "http://api.oceantech.vn/escadesk/saveCustomer",
+                        url: "https://api.oceantech.vn/escadesk/saveCustomer",
                         data: JSON.stringify(formData),
                         dataType: "json",
                         encode: true,

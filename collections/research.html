@@ -33,10 +33,10 @@
     <meta property="og:type" content="website">
     <meta property="og:description"
         content="Nâng tầm thiết kế về bàn học chống gù cận. ESCA - thương hiệu đầu tiên tại Viet Nam đưa bàn chống gù cận tới trường">
-    <meta property="og:image"
-        content="http://cdn.shopify.com/s/files/1/0437/1326/5824/collections/DESK_1200x630.jpg?v=1610979320">
-    <meta property="og:image:secure_url"
-        content="https://cdn.shopify.com/s/files/1/0437/1326/5824/collections/DESK_1200x630.jpg?v=1610979320">
+    <meta property="og:image" content="/assets/images/fut.png?v=1610979320">
+    <meta property="og:image:secure_url" content="/assets/images/fut.png?v=1610979320">
+    <meta property="og:image:width" content="240" />
+    <meta property="og:image:height" content="255" />
     <meta name="twitter:site" content="@">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Research | ESCA">
@@ -1398,7 +1398,7 @@
                                                 <a href="/" title="Back to the frontpage">Home</a>
                                                 <span class="divider" aria-hidden="true">/</span>
                                             </nav> -->
-                                            <h3 class="section-header__title" style="font-size: 28px;">
+                                            <h3 class="section-header__title">
                                                 NGUYÊN NHÂN GÙ CẬN TỪ TƯ THẾ NGỒI HỌC CHƯA ĐÚNG CỦA HỌC SINH
                                             </h3>
                                             <!-- <div class="hero__link" style="margin: 10px 0 0;">
@@ -1495,7 +1495,7 @@
                     <div class="page-width">
                         <div class="feature-column" data-aos>
                             <div class="feature-column__item">
-                                <div style="margin: 0 auto; max-width: 80%;">
+                                <div class="feature-column__item--img">
                                     <img class="feature-column__image lazyload"
                                         src="/assets/images/research/03 ĐỂ CHÂN SAI.png?v=364827364"
                                         data-src="/assets/images/research/03 ĐỂ CHÂN SAI.png?v=364827364"
@@ -1503,7 +1503,7 @@
                                         data-aspectratio="0.8028442146089205" data-sizes="auto" alt="">
                                 </div>
                             </div>
-                            <div class="feature-column__item feature-row__text" style="max-width: 60%; margin: 0 auto;">
+                            <div class="feature-column__item feature-row__text">
                                 <p class="h5"></p>
                                 <p class="h3">TƯ THẾ ĐỂ CHÂN SAI KHI NGỒI HỌC </p>
                                 <div class="rte featured-row__subtext">
@@ -1541,7 +1541,7 @@
                                         data-aspectratio="0.8028442146089205" data-sizes="auto" alt="">
                                 </div>
                             </div>
-                            <div class="feature-column__item feature-row__text" style="max-width: 60%; margin: 0 auto;">
+                            <div class="feature-column__item feature-row__text">
                                 <p class="h5"></p>
                                 <p class="h3">NGUYÊN NHÂN GÙ CẬN THỤ ĐỘNG CỦA HỌC SINH </p>
                                 <div class="rte featured-row__subtext">
@@ -1667,9 +1667,9 @@
                                         data-aspectratio="0.8028442146089205" data-sizes="auto" alt="">
                                 </div>
                             </div>
-                            <div class="feature-column__item feature-row__text" style="max-width: 60%; margin: 0 auto;">
+                            <div class="feature-column__item feature-row__text">
                                 <p class="h5"></p>
-                                <p class="h3">NGUYÊN NHÂN GÙ CẬN THỤ ĐỘNG CỦA HỌC SINH </p>
+                                <p class="h3"> </p>
                                 <div class="rte featured-row__subtext">
                                     <p> Tuy nhiên, giữa ghế và bàn lại cần có một khoảng cách để học sinh lách người vào
                                         trước khi ngồi xuống học
@@ -1742,8 +1742,7 @@
                                         <div class="collapsible-content__inner">
                                             <div class="footer__collapsible">
 
-                                                <p>Subscribe to get special offers, free giveaways, and
-                                                    once-in-a-lifetime deals.</p>
+                                                <p>Đắng ký để nhận thông tin về sản phẩm</p>
                                                 <form method="post" action="/contact#newsletter-footer"
                                                     id="newsletter-footer" accept-charset="UTF-8" class="contact-form">
 
@@ -2361,10 +2360,6 @@ Discount codes calculated at checkout.
 
         @media only screen and (max-width: 769px) {
 
-            .feature-row {
-                margin: 0;
-            }
-
             .feature-column__item div,
             .feature-column__item.feature-row__text {
                 max-width: 100% !important;
@@ -2403,6 +2398,7 @@ Discount codes calculated at checkout.
                 event.preventDefault();
                 var formData = {
                     email: $("#Email-1598462755230").val(),
+                    type: 3
                 };
                 const
                     validateEmail = () => {
@@ -2429,7 +2425,7 @@ Discount codes calculated at checkout.
                     $.ajax({
                         contentType: "application/json",
                         type: "POST",
-                        url: "http://api.oceantech.vn/escadesk/saveCustomer",
+                        url: "https://api.oceantech.vn/escadesk/saveCustomer",
                         data: JSON.stringify(formData),
                         dataType: "json",
                         encode: true,

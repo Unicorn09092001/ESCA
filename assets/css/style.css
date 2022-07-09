@@ -25,7 +25,7 @@
 
 
 .order-modal-title {
-    font-size: 32px;
+    font-size: 28px;
     text-align: center;
     margin-bottom: 15px;
 }
@@ -139,20 +139,19 @@
 
 
 .toast {
-    opacity: 0;
+    opacity: 1;
     font-size: 16px;
     color: #333 !important;
     background: #fff !important;
     border: 1px solid rgb(96, 95, 95);
-    box-shadow: inset 2px 0 #41d888;
+    box-shadow: inset 3px 0 #41d888;
     display: none;
     position: fixed;
-                top: 50px;
-                right: 10px;
-    
-                padding: 15px 8px;
-               
-                z-index: 999;
+    top: 50px;
+    right: 12px;
+    padding: 15px;    
+    max-width: 315px;      
+    z-index: 999;
 }
 
 .toast-active {
@@ -178,7 +177,7 @@
 
     100% {
         opacity: 1;
-        right: 10px;
+        right: 12px;
     }
 }
 
@@ -213,7 +212,23 @@
     width: 35% !important;
 }
 
-@media only screen and (min-width: 1200px) {
+.site-nav__dropdown {
+    top: 130%;
+}
+
+.section-header__title {
+    font-size: 28px !important;
+    line-height: 35px !important;
+}
+.feature-column__item--img {
+    max-width: 80%;
+    margin: 0 auto;
+}  
+.feature-column__item.feature-row__text {
+    max-width: 60%;
+    margin: 0 auto;
+} 
+@media only screen and (min-width: 1024px) {
     .medium-up--one-half {
         width: 100%;
     }
@@ -225,9 +240,20 @@
         display: flex;
         justify-content: space-evenly;
     }
+    p, div.rte {
+        font-size: 18px ;
+        
+    }
+    .feature-row {
+        margin: 0 10%;
+    }
 }
 
-@media only screen and (min-width: 769px) and (max-width: 1200px) {
+.product-container {
+    margin-left: 15%;
+}
+
+@media only screen and (min-width: 770px) and (max-width: 1024px) {
     .footer__item--1595505972374 {
         width: 50% !important;
     }
@@ -241,9 +267,59 @@
             display: flex;
             justify-content: space-evenly;
         }
+        .medium-up--push-one-eighth {
+            left: 0;
+        }
+        .medium-up--three-quarters {
+            width: 100%;
+        }
+        .feature-row {
+            margin: 0 auto;
+        }
+        .feature-column__item--img {
+            max-width: 100%;
+        }   
+    p {
+        font-size: 16px;
+    }
+    .feature-column__item.feature-row__text {
+        max-width: 85%;
+        margin: 0 auto;
+    }
+    .feature-row__text--left {
+        padding-left: 30px;
+    }
+    .feature-row__text--right {
+        padding-right: 30px;
+    }
+    p.h2 {
+        font-size: 20px;
+    }
+    p.h3 {
+        font-size: 19px;
+    }
+    .medium-up--four-fifths {
+        width: 100%;
+        padding: 0;
+    }
+    .product-container {
+        margin-left: 0;
+    }
+    .feature-row.home-page {
+        flex-direction: column;
+    }
+    .feature-row.home-page.img--right {
+        flex-direction: column-reverse;
+    }
+    .feature-row.home-page  .feature-row__text--left {
+        padding-left: 0;
+    }
+    .feature-row.home-page.img--right .feature-row__text--right {
+        padding-right: 0;
+    }
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 769px) {
     .order-modal-title {
         font-size: 24px;
     }
@@ -266,6 +342,30 @@
     .grid-footer {
         display: block;
     }
+    p, div.rte {
+        font-size: 16px; 
+    }
+    .footer__title {
+        font-size: 16px;
+    }
+    .footer__collapsible p {
+        font-size: 16px;
+    }
+    .index-section {
+        margin: 50px 0;
+    }
+    p.h3 {
+        font-size: 19px;
+    }
+    .product-wrapper {
+        margin-left: 0;
+    }
+    .h2.product-single__title {
+        font-size: 20px;
+    }
+    .product-disc {
+        font-size: 18px;
+    }
 }
 
 @media only screen and (max-width: 450px) {
@@ -283,9 +383,28 @@
     }
     
 .h1.hero__title  {
-    font-size: 18px;
-    line-height: 24px;
+    font-size: 21.5px !important;
+    line-height: 24px !important; 
     width: 100%;
+}
+.hero__subtitle {
+    font-size: 16px;
+}
+.section-header__title {
+    font-size: 21.5px !important;   
+}
+p, div.rte {
+    font-size: 16px; 
+}
+#CollectionSection .h2,
+#CollectionSection .rte {
+    padding-right: 17px;
+}
+.footer__title {
+    font-size: 14px;
+}
+.footer__collapsible p{
+    font-size: 14px ;
 }
 }
 
