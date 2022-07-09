@@ -253,6 +253,18 @@
     margin-left: 15%;
 }
 
+.h2.product-single__title {
+    font-size: 21.5px;
+}
+
+.product-disc {
+    font-size: 18px;
+}
+
+.product-single__meta {
+    padding-left: 10px ;
+}
+
 @media only screen and (min-width: 770px) and (max-width: 1024px) {
     .footer__item--1595505972374 {
         width: 50% !important;
