@@ -1,0 +1,155 @@
+.product__main-photos {
+    width: 60%;
+}
+
+@media only screen and (max-width: 768px) {
+    .product__main-photos .slick-list {
+        padding: 0;
+    }
+
+    .slick-initialized .slick-slide {
+        display: block !important;
+    }
+
+    .product-image-main {
+        width: 100%;
+    }
+
+    .slick-slider .slick-active .product__photo-zoom {
+        margin: 10px;
+    }
+
+    .grid__item {
+        padding: 0 10px;
+    }
+
+    .product__photos--beside {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .product__main-photos {
+        width: 100%;
+    }
+
+    .paddingLR-10 {
+        padding: 0;
+    }
+}
+
+.order-modal-container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 27;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.6);
+    display: none;
+}
+
+.order-modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 27;
+    background: #fff;
+    width: 90vw;
+}
+
+.order-btn {
+    width: 100%;
+}
+
+.order-btn-close {
+    font-size: 28px;
+    line-height: 14px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 20px;
+}
+
+.footer__social li {
+    padding: 10px;
+    margin-right: 10px;
+}
+
+.order-btn-close:hover {
+    cursor: pointer;
+}
+
+.announcement-bar {
+    background-color: #929090;
+}
+
+.form-vertical input,
+.form-vertical select,
+.form-vertical textarea {
+    margin-bottom: 15px;
+}
+
+.order-modal-active {
+    display: block;
+}
+
+[data-type_header_capitalize=true] .h1,
+[data-type_header_capitalize=true] .h2,
+[data-type_header_capitalize=true] .h3,
+[data-type_header_capitalize=true] h1,
+[data-type_header_capitalize=true] h2,
+[data-type_header_capitalize=true] h3 {
+    line-height: 28px;
+}
+
+.order-modal-active .order-modal {
+    animation: modalActive linear 0.4s;
+}
+
+.h2.product-single__title {
+    margin: 5px 0 0;
+}
+
+@keyframes modalActive {
+    0% {
+        top: 100%;
+        opacity: 0;
+    }
+
+    50% {
+        top: 75%;
+        opacity: 0.5;
+    }
+
+    100% {
+        top: 50%;
+        opacity: 1;
+    }
+}
+
+@media only screen and (max-width: 769px) {
+    .order-modal-title {
+        font-size: 24px;
+    }
+}
+
+@media only screen and (min-width: 769px) {
+    .medium-up--one-half {
+        width: 100%;
+    }
+
+    .order-modal {
+        width: 500px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .product-image-main {
+        padding: 0;
+    }
+    .product-single__meta {
+        padding: 0 10px;
+    }
+}
