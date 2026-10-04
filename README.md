@@ -54,6 +54,7 @@ python3 tools/animate_video.py   --project "$P" --audio voz_gonzalo.mp3 --title 
 | 21 — 5 Lecciones de Vida Que Aprendí Demasiado Tarde | 03_Motivacion y Superacion (`#FF3B78`) | `aprendi_demasiado_tarde_motion.mp4` |
 | 22 — 5 Retos Que Muy Pocas Personas Se Atreven a Completar | 03_Motivacion y Superacion (`#FF3B78`) | `5_retos_extremos_motion.mp4` |
 | 23 — ¿Buscas Motivación? Deja De Buscarla y Haz Esto | 03_Motivacion y Superacion (`#FF3B78`) | `deja_de_buscar_motivacion_motion.mp4` |
+| 25 — Detox Digital de 7 Días: Recupera Tu Cerebro del Scroll | 04_Productividad Practica (`#3BA7C9`) | `detox_digital_7_dias_motion.mp4` |
 
 ## Lưu ý
 

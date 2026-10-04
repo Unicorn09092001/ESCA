@@ -812,6 +812,17 @@ def icon(name, color=INK, w=7, **kw):
     if name == "reel":
         return (f'<rect x="-40" y="-30" width="80" height="60" rx="10" {s}/><path d="M-10,-14 L16,0 L-10,14 Z" fill="{color}"/>'
                 f'<path d="M-30,44 A46,20 0 0 0 30,44" {_c(color, 4)}/><path d="M22,38 L31,45 L22,52" {_c(color, 4)}/>')
+    if name == "slot":
+        syms = kw.get("syms", ("star", "heart", "bell"))
+        out = [f'<rect x="-46" y="-40" width="80" height="86" rx="10" {s}/>', f'<rect x="-38" y="-24" width="64" height="30" rx="4" {_c(color, 3)}/>',
+               f'<line x1="34" y1="-10" x2="46" y2="-10" {_c(color, 4)}/><line x1="46" y1="-10" x2="46" y2="-34" {_c(color, 4)}/>',
+               f'<circle cx="46" cy="-40" r="6" fill="{color}"/><rect x="-26" y="22" width="40" height="8" rx="3" {_c(color, 3)}/>']
+        for i, nm in enumerate(syms):
+            out.append(f'<g transform="translate({-27 + i * 21},-9) scale(.17)">{icon(nm, color, 10)}</g>')
+        return "".join(out)
+    if name == "hook":
+        return (f'<path d="M0,-46 L0,14 Q0,38 -20,38 Q-38,38 -38,18 L-38,8" {s}/><path d="M-46,18 L-38,4 L-30,18" {_c(color, 5)}/>'
+                f'<circle cx="0" cy="-46" r="6" {_c(color, 4)}/>')
     if name == "nomotiv_book":
         return (icon("book", color, w, progress=0) + f'<g transform="translate(-23,-6) scale(.32)">{icon("flame", color, w * 2)}</g>'
                 f'<line x1="-38" y1="-20" x2="-8" y2="10" {_c(color, 4)}/>')

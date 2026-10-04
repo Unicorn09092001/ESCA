@@ -1,0 +1,653 @@
+================================================================================
+PROJECT 25 — Detox Digital de 7 Días: Recupera Tu Cerebro del Scroll
+TRANSCRIPT AND VISUALS — 01_Disciplina y Habitos... (actually 04_Productividad Practica)
+ACCENT = #3BA7C9
+================================================================================
+
+
+### ESCENA 1: EL GANCHO
+
+[FRAME S01_F001 -> images/img_001.png]
+[SHOT TYPE]: Close-up
+[ES]: Tu mano ya está buscando el teléfono antes de que termine de leer esta frase, y ni siquiera te diste cuenta.
+[VI]: Tay bạn đã lục tìm điện thoại trước khi đọc xong câu này, mà bạn còn chẳng nhận ra.
+[VISUAL DESCRIPTION]: Extreme close-up of a stick-figure hand reaching reflexively toward a dark phone on a table, phone screen dark, faint glow beginning to flicker at the edge.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S01_F002 -> images/img_002.png]
+[SHOT TYPE]: Medium shot
+[ES]: Eso no es falta de voluntad. Es diseño.
+[VI]: Đó không phải thiếu ý chí. Đó là thiết kế.
+[VISUAL DESCRIPTION]: Stick figure staring at the now-glowing phone screen, small gear-and-circuit icon in #3BA7C9 overlaid subtly on the screen glow, suggesting deliberate engineering.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S01_F003 -> images/img_003.png]
+[SHOT TYPE]: Wide shot
+[ES]: Durante los próximos 7 días vas a hacer algo distinto a un "detox digital" genérico:
+[VI]: Trong 7 ngày tới, bạn sẽ làm điều khác hẳn một "detox kỹ thuật số" chung chung:
+[VISUAL DESCRIPTION]: Wide shot of a glowing 7-tile calendar strip floating in dark space, all seven tiles dim/unlit, stick figure standing before it, small and contemplative.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S01_F004 -> images/img_004.png]
+[SHOT TYPE]: Medium shot
+[ES]: vas a entender exactamente qué le pasa a tu cerebro cada día que pasas sin scroll compulsivo,
+[VI]: bạn sẽ hiểu chính xác điều gì xảy ra trong não mỗi ngày bạn không lướt điện thoại,
+[VISUAL DESCRIPTION]: Stick figure with a simplified glowing brain icon above the head, #3BA7C9 pulse lines radiating outward, representing internal neural activity being observed.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S01_F005 -> images/img_005.png]
+[SHOT TYPE]: Wide shot
+[ES]: por qué los primeros días son los peores, y qué hacer para que el cambio dure después del día 7.
+[VI]: vì sao những ngày đầu là khó khăn nhất, và phải làm gì để thay đổi kéo dài sau ngày thứ 7.
+[VISUAL DESCRIPTION]: Wide establishing shot of the same 7-tile calendar strip, first two tiles now flickering red-orange with strain, tile seven glowing steady and calm in the distance, stick figure walking toward it.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+
+### ESCENA 2: MODULO 1 - Dias 1 y 2: Por Que Es Dificil (Adam Alter)
+
+[FRAME S02_F006 -> images/img_006.png]
+[SHOT TYPE]: Text card / title
+[ES]: Días 1 y 2: por qué se siente tan difícil.
+[VI]: Ngày 1 và 2: vì sao lại khó khăn đến vậy.
+[VISUAL DESCRIPTION]: Minimal title card, two calendar tiles (Día 1, Día 2) glowing red-orange with tension lines around them, centered in dark frame.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S02_F007 -> images/img_007.png]
+[SHOT TYPE]: Medium shot
+[ES]: El psicólogo Adam Alter, de la Universidad de Nueva York, explica en su libro "Irresistible"
+[VI]: Nhà tâm lý học Adam Alter, Đại học New York, giải thích trong cuốn sách "Irresistible"
+[VISUAL DESCRIPTION]: Stick figure standing beside a glowing book icon labeled with a simple open-book silhouette, small NYU-style academic building icon faintly in the background.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S02_F008 -> images/img_008.png]
+[SHOT TYPE]: Close-up
+[ES]: que las aplicaciones de redes sociales no son adictivas por accidente.
+[VI]: rằng các ứng dụng mạng xã hội không gây nghiện một cách tình cờ.
+[VISUAL DESCRIPTION]: Close-up of a phone screen icon with small gear teeth visible inside it, implying deliberate mechanical design rather than accident.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S02_F009 -> images/img_009.png]
+[SHOT TYPE]: Wide shot
+[ES]: Usan el mismo mecanismo de recompensa variable que hace irresistibles las máquinas tragamonedas:
+[VI]: Chúng dùng đúng cơ chế phần thưởng biến đổi khiến máy đánh bạc trở nên không thể cưỡng lại:
+[VISUAL DESCRIPTION]: Split visual: on one side a simplified slot-machine icon with spinning symbols, on the other a phone screen with a spinning feed icon, both connected by a glowing #3BA7C9 link line showing they share the same mechanism.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S02_F010 -> images/img_010.png]
+[SHOT TYPE]: Medium shot
+[ES]: nunca sabes si el siguiente scroll te va a mostrar algo aburrido o algo fascinante,
+[VI]: bạn không bao giờ biết lần lướt tiếp theo sẽ hiện ra thứ gì đó nhàm chán hay hấp dẫn,
+[VISUAL DESCRIPTION]: Stick figure mid-scroll gesture, two faint ghost icons above the phone — one dull gray box, one glowing bright box — both equally likely, question mark hovering between them.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S02_F011 -> images/img_011.png]
+[SHOT TYPE]: Close-up
+[ES]: y esa incertidumbre es precisamente lo que mantiene a tu cerebro enganchado,
+[VI]: và chính sự bất định đó là thứ giữ não bạn bị cuốn vào,
+[VISUAL DESCRIPTION]: Close-up of the simplified brain icon with a small glowing hook shape in #3BA7C9 lodged into it, symbolizing being hooked by uncertainty.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S02_F012 -> images/img_012.png]
+[SHOT TYPE]: Medium shot
+[ES]: revisando "por si acaso" una y otra vez.
+[VI]: kiểm tra "phòng khi có gì" hết lần này đến lần khác.
+[VISUAL DESCRIPTION]: Stick figure shown in a short repeating-motion sequence (three overlapping faint silhouettes) reaching for the phone again and again, motion blur lines.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S02_F013 -> images/img_013.png]
+[SHOT TYPE]: Medium shot
+[ES]: Anota esto: durante los días 1 y 2, vas a sentir un impulso físico de revisar el teléfono sin ninguna razón real.
+[VI]: Ghi nhớ điều này: trong ngày 1 và 2, bạn sẽ cảm thấy một thôi thúc thể chất muốn kiểm tra điện thoại mà chẳng có lý do thật sự nào.
+[VISUAL DESCRIPTION]: Stick figure with a small glowing pulse icon in #3BA7C9 at the hand, indicating a physical urge, calendar tiles 1 and 2 flickering red-orange in the background.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S02_F014 -> images/img_014.png]
+[SHOT TYPE]: Wide shot
+[ES]: Eso no significa que estés fallando.
+[VI]: Điều đó không có nghĩa là bạn đang thất bại.
+[VISUAL DESCRIPTION]: Wide shot of the stick figure standing steady despite the flickering tiles behind, posture calm and upright rather than defeated.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S02_F015 -> images/img_015.png]
+[SHOT TYPE]: Wide shot
+[ES]: Significa que el mecanismo está funcionando exactamente como fue diseñado, y tú apenas estás empezando a notarlo por primera vez.
+[VI]: Nghĩa là cơ chế đang hoạt động đúng như nó được thiết kế, và bạn chỉ mới bắt đầu nhận ra nó lần đầu tiên.
+[VISUAL DESCRIPTION]: Wide shot pulling back to reveal the gear-and-circuit icon from earlier now large and fully visible behind the phone, stick figure looking at it directly for the first time, #3BA7C9 rim light outlining the gear.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+
+### ESCENA 3: MODULO 2 - Dias 3 y 4: La Caida Antes de la Mejora
+
+[FRAME S03_F016 -> images/img_016.png]
+[SHOT TYPE]: Text card / title
+[ES]: Días 3 y 4: la caída antes de la mejora.
+[VI]: Ngày 3 và 4: điểm trũng trước khi tốt lên.
+[VISUAL DESCRIPTION]: Minimal title card, two calendar tiles (Día 3, Día 4) glowing dim gray-blue, a small downward arrow icon beneath them.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S03_F017 -> images/img_017.png]
+[SHOT TYPE]: Medium shot
+[ES]: Aquí está lo importante: la mayoría de las personas abandona el detox digital exactamente en este punto,
+[VI]: Đây là điều quan trọng: hầu hết mọi người bỏ cuộc detox kỹ thuật số đúng ngay tại điểm này,
+[VISUAL DESCRIPTION]: Stick figure standing at a fork in a glowing path, one branch leading back to a bright phone icon, the other continuing forward dimly, #3BA7C9 highlight on the fork point.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S03_F018 -> images/img_018.png]
+[SHOT TYPE]: Close-up
+[ES]: porque en lugar de sentirse mejor, se sienten más aburridas, más irritables
+[VI]: vì thay vì cảm thấy tốt hơn, họ lại thấy chán hơn, dễ cáu hơn
+[VISUAL DESCRIPTION]: Close-up of the stick figure's simplified face showing a flat, restless expression, small jagged tension lines around the head.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S03_F019 -> images/img_019.png]
+[SHOT TYPE]: Medium shot
+[ES]: y, paradójicamente, más ansiosas por revisar el teléfono que el primer día.
+[VI]: và nghịch lý thay, lại nôn nóng kiểm tra điện thoại hơn cả ngày đầu tiên.
+[VISUAL DESCRIPTION]: Stick figure glancing sideways at the dark phone with a stronger, larger #3BA7C9 pulse icon at the hand than in Módulo 1, showing intensified urge.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S03_F020 -> images/img_020.png]
+[SHOT TYPE]: Wide shot
+[ES]: Esto es una fase esperada, no una señal de que el detox no está funcionando —
+[VI]: Đây là một giai đoạn được dự đoán trước, không phải dấu hiệu detox thất bại —
+[VISUAL DESCRIPTION]: Wide shot of a simple dipping curve/graph line drawn in light glowing strokes, dipping low around the middle before implying a future rise, calendar tiles 3-4 sitting at the low point of the curve.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S03_F021 -> images/img_021.png]
+[SHOT TYPE]: Medium shot
+[ES]: es el mismo patrón que aparece cuando se reduce cualquier estímulo de recompensa rápida y constante
+[VI]: đó là cùng một khuôn mẫu xuất hiện khi giảm bất kỳ kích thích thưởng nhanh và liên tục nào
+[VISUAL DESCRIPTION]: Medium shot of three small generic reward icons (star, bell, heart) fading out one by one in sequence, the dipping curve line visible faintly beneath them.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S03_F022 -> images/img_022.png]
+[SHOT TYPE]: Close-up
+[ES]: al que el cerebro se había acostumbrado durante meses o incluso años sin que lo notaras conscientemente.
+[VI]: mà não đã quen suốt nhiều tháng, thậm chí nhiều năm, mà bạn không hề nhận ra một cách có ý thức.
+[VISUAL DESCRIPTION]: Close-up of the simplified brain icon with faint layered rings around it representing accumulated time/habit, rings labeled subtly by size rather than text.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S03_F023 -> images/img_023.png]
+[SHOT TYPE]: Wide shot
+[ES]: Si abandonas aquí, justo en el punto más incómodo, vuelves exactamente al mismo punto de partida de siempre,
+[VI]: Nếu bạn bỏ cuộc ngay đây, đúng lúc khó chịu nhất, bạn quay lại đúng điểm xuất phát như mọi khi,
+[VISUAL DESCRIPTION]: Wide shot of the fork-in-path visual returning, stick figure now shown taking the branch back toward the bright phone icon, path behind fading to darkness.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S03_F024 -> images/img_024.png]
+[SHOT TYPE]: Wide shot
+[ES]: sin haber llegado nunca a la parte donde el cambio se vuelve visible y sostenible.
+[VI]: mà chưa bao giờ đến được phần mà sự thay đổi trở nên rõ ràng và bền vững.
+[VISUAL DESCRIPTION]: Wide shot showing the abandoned dim path continuing onward into darkness, the calendar tiles for days 5-7 barely visible and unlit far in the distance, unreached.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+
+### ESCENA 4: MODULO 3 - Dias 5, 6 y 7: El Cambio Real (Melissa Hunt)
+
+[FRAME S04_F025 -> images/img_025.png]
+[SHOT TYPE]: Text card / title
+[ES]: Días 5, 6 y 7: cuándo aparece el cambio real.
+[VI]: Ngày 5, 6 và 7: khi nào sự thay đổi thật sự xuất hiện.
+[VISUAL DESCRIPTION]: Minimal title card, three calendar tiles (Día 5, Día 6, Día 7) glowing steady #3BA7C9, calm and stable compared to earlier flickering tiles.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S04_F026 -> images/img_026.png]
+[SHOT TYPE]: Medium shot
+[ES]: La psicóloga Melissa Hunt, de la Universidad de Pensilvania, publicó un estudio
+[VI]: Nhà tâm lý học Melissa Hunt, Đại học Pennsylvania, công bố một nghiên cứu
+[VISUAL DESCRIPTION]: Stick figure standing beside a glowing document/study-paper icon, small university-building icon faintly in the background, distinct from the earlier NYU icon.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S04_F027 -> images/img_027.png]
+[SHOT TYPE]: Wide shot
+[ES]: donde un grupo de personas limitó su uso de redes sociales a 30 minutos diarios durante tres semanas.
+[VI]: trong đó một nhóm người giới hạn dùng mạng xã hội còn 30 phút mỗi ngày trong ba tuần.
+[VISUAL DESCRIPTION]: Wide shot of a simple clock icon showing a small 30-minute wedge highlighted, beside a row of three glowing week-markers (Semana 1, 2, 3) in sequence.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S04_F028 -> images/img_028.png]
+[SHOT TYPE]: Medium shot
+[ES]: Esto es lo que cambia todo: los niveles de soledad y de síntomas depresivos bajaron de forma medible
+[VI]: Đây là điều thay đổi tất cả: mức độ cô đơn và triệu chứng trầm cảm giảm rõ rệt có thể đo được
+[VISUAL DESCRIPTION]: Medium shot of two simple downward-trending bar/line indicators (one labeled by a small isolated-figure icon, one by a small cloud-over-head icon) both dropping, #3BA7C9 highlight on the downward trend.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S04_F029 -> images/img_029.png]
+[SHOT TYPE]: Wide shot
+[ES]: frente al grupo que siguió usándolas sin límite, y la mejora se hizo más clara pasada la primera semana, no en los primeros días.
+[VI]: so với nhóm tiếp tục dùng không giới hạn, và sự cải thiện rõ ràng hơn sau tuần đầu tiên, không phải trong những ngày đầu.
+[VISUAL DESCRIPTION]: Split wide shot: left side shows a flat/unchanged indicator line for the unrestricted group, right side shows the downward-improving line from before, both aligned against a timeline where the change visibly separates after the first week mark.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S04_F030 -> images/img_030.png]
+[SHOT TYPE]: Medium shot
+[ES]: Un detox de 7 días no te da los mismos resultados que tres semanas,
+[VI]: Detox 7 ngày không mang lại kết quả giống như ba tuần,
+[VISUAL DESCRIPTION]: Medium shot comparing a short 7-tile calendar strip beside a longer 21-tile calendar strip, both glowing but the shorter one visibly less far along the improvement curve.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S04_F031 -> images/img_031.png]
+[SHOT TYPE]: Wide shot
+[ES]: pero sí es suficiente para llegar al punto donde el cerebro empieza a dejar de pedir el teléfono por reflejo —
+[VI]: nhưng đủ để đạt đến điểm mà não bắt đầu ngừng đòi điện thoại theo phản xạ —
+[VISUAL DESCRIPTION]: Wide shot of the simplified brain icon with the earlier glowing hook shape now visibly loosening/detaching, #3BA7C9 light softening around it.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S04_F032 -> images/img_032.png]
+[SHOT TYPE]: Medium shot
+[ES]: y para sentir, aunque sea brevemente, cómo se siente tener la atención de vuelta.
+[VI]: và để cảm nhận, dù chỉ trong chốc lát, cảm giác lấy lại được sự chú ý của mình.
+[VISUAL DESCRIPTION]: Medium shot of the stick figure standing calm and upright, eyes/focus line drawn steady and clear ahead, phone resting dark and untouched in the lower corner of frame.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+
+### ESCENA 5: MODULO 4 - Que Hacer en Su Lugar
+
+[FRAME S05_F033 -> images/img_033.png]
+[SHOT TYPE]: Text card / title
+[ES]: Qué hacer en su lugar, todos los siete días.
+[VI]: Nên làm gì thay vào đó, suốt cả bảy ngày.
+[VISUAL DESCRIPTION]: Minimal title card, the full 7-tile calendar strip now all glowing steady, small replacement-activity icons floating faintly above each tile.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S05_F034 -> images/img_034.png]
+[SHOT TYPE]: Wide shot
+[ES]: No se trata de eliminar el teléfono por completo ni de aislarte del mundo, ni de convertir el detox en un castigo que resientes cada mañana.
+[VI]: Không phải là loại bỏ điện thoại hoàn toàn hay tự cô lập khỏi thế giới, cũng không biến detox thành một hình phạt bạn oán trách mỗi sáng.
+[VISUAL DESCRIPTION]: Wide shot of the stick figure with the phone visible but simply set aside on a table (not hidden, not destroyed), calm neutral expression, no punishment/cage imagery.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S05_F035 -> images/img_035.png]
+[SHOT TYPE]: Medium shot
+[ES]: Se trata de reemplazar el hueco que deja el scroll con algo específico y decidido de antemano, no improvisado en el momento:
+[VI]: Mà là thay thế khoảng trống việc lướt để lại bằng một điều cụ thể, đã quyết định từ trước, không phải ứng biến tại chỗ:
+[VISUAL DESCRIPTION]: Medium shot of a simple glowing puzzle-piece-shaped gap where the phone icon used to be, a small planning/checklist icon in #3BA7C9 being placed into the gap.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S05_F036 -> images/img_036.png]
+[SHOT TYPE]: Wide shot
+[ES]: una caminata sin teléfono, una llamada real en lugar de un mensaje,
+[VI]: một buổi đi bộ không điện thoại, một cuộc gọi thật thay vì tin nhắn,
+[VISUAL DESCRIPTION]: Wide shot split into two simple vignettes: stick figure walking outdoors with no phone visible, and stick figure holding a simple phone-call icon (not a screen) to the ear.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S05_F037 -> images/img_037.png]
+[SHOT TYPE]: Medium shot
+[ES]: un libro físico junto a la cama en lugar de la pantalla que ilumina tu cara hasta la madrugada.
+[VI]: một cuốn sách giấy bên giường thay vì màn hình chiếu sáng mặt bạn đến tận khuya.
+[VISUAL DESCRIPTION]: Medium shot of a simple glowing book icon resting on a nightstand beside a bed, phone shown dark and face-down beside it, warm soft lamp light instead of cold screen glow.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S05_F038 -> images/img_038.png]
+[SHOT TYPE]: Wide shot
+[ES]: Y todavía falta lo más difícil: sostener esto después del día 7,
+[VI]: Và vẫn còn phần khó nhất: duy trì điều này sau ngày thứ 7,
+[VISUAL DESCRIPTION]: Wide shot of the 7-tile calendar strip with an eighth, unlit tile appearing faintly beyond it, representing the uncertain continuation after the challenge ends.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S05_F039 -> images/img_039.png]
+[SHOT TYPE]: Medium shot
+[ES]: cuando ya nadie te está mirando ni felicitando por el reto,
+[VI]: khi không còn ai theo dõi hay khen ngợi bạn vì thử thách nữa,
+[VISUAL DESCRIPTION]: Medium shot of the stick figure standing alone in a now-empty space, small fading applause/star icons drifting away into the darkness.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S05_F040 -> images/img_040.png]
+[SHOT TYPE]: Wide shot
+[ES]: y la app vuelve a estar a un solo toque de distancia, exactamente igual de diseñada para atraerte que antes de que empezaras.
+[VI]: và ứng dụng lại chỉ cách một cú chạm, được thiết kế để hút bạn y hệt như trước khi bạn bắt đầu.
+[VISUAL DESCRIPTION]: Wide shot of the phone glowing again on the table, the gear-and-circuit icon from Módulo 1 reappearing faintly behind it in #3BA7C9, stick figure standing at a calm distance, aware but not reaching.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+
+### ESCENA 6: EL CIERRE
+
+[FRAME S06_F041 -> images/img_041.png]
+[SHOT TYPE]: Wide shot
+[ES]: Los 7 días no te cambian la vida por sí solos.
+[VI]: 7 ngày không tự nó thay đổi cuộc đời bạn.
+[VISUAL DESCRIPTION]: Wide shot of the full glowing 7-tile calendar strip, steady and complete, stick figure standing beside it without dramatic celebration, calm realism.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S06_F042 -> images/img_042.png]
+[SHOT TYPE]: Medium shot
+[ES]: Te muestran, con datos, que tu atención puede volver a ser tuya si decides dónde ponerla antes de que una notificación lo decida por ti.
+[VI]: Chúng cho bạn thấy, bằng dữ liệu, rằng sự chú ý có thể thuộc về bạn trở lại nếu bạn quyết định đặt nó ở đâu trước khi một thông báo quyết định thay bạn.
+[VISUAL DESCRIPTION]: Medium shot of the simplified brain icon now steady and calm, a small glowing compass/direction icon in #3BA7C9 appearing above it, suggesting the person now steers their own attention.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S06_F043 -> images/img_043.png]
+[SHOT TYPE]: Direct address
+[ES]: Escribe en los comentarios en qué día vas ahora mismo, y cuéntanos en qué momento sentiste el impulso más fuerte de rendirte.
+[VI]: Hãy viết ở phần bình luận bạn đang ở ngày thứ mấy, và cho biết thời điểm nào bạn cảm thấy thôi thúc bỏ cuộc mạnh nhất.
+[VISUAL DESCRIPTION]: Medium shot of the stick figure gesturing toward the viewer, a simple glowing comment-bubble icon appearing beside them, calendar strip still visible in the background.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S06_F044 -> images/img_044.png]
+[SHOT TYPE]: Wide shot
+[ES]: Si este video te sirvió, dale like y suscríbete — la disciplina no hace ruido,
+[VI]: Nếu video này hữu ích, hãy nhấn thích và đăng ký — kỷ luật không ồn ào,
+[VISUAL DESCRIPTION]: Wide shot of the stick figure standing calm in dim light, a small subscribe-bell icon and thumbs-up icon glowing softly in #3BA7C9 in the corner of frame, understated rather than flashy.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S06_F045 -> images/img_045.png]
+[SHOT TYPE]: Wide shot
+[ES]: ni siquiera cuando apaga una pantalla que llevaba años encendida.
+[VI]: kể cả khi nó tắt đi một màn hình đã sáng suốt nhiều năm liền.
+[VISUAL DESCRIPTION]: Final wide shot of the phone screen dimming to fully dark on the table, stick figure walking away calmly into soft darkness, the seven calendar tiles fading gently to a quiet glow behind, no dramatic light burst.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #3BA7C9 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
