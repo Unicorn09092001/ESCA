@@ -20,28 +20,40 @@ import re
 import subprocess
 
 
+def normalize_shot(raw):
+    """Chuẩn hoá cỡ cảnh về WIDE SHOT / MEDIUM SHOT / CLOSE-UP (Text card, Direct address → MEDIUM)."""
+    r = (raw or "").upper()
+    if "WIDE" in r:
+        return "WIDE SHOT"
+    if "CLOSE" in r:
+        return "CLOSE-UP"
+    return "MEDIUM SHOT"
+
+
 def parse_frames(tv_path):
+    """Đọc transcript_and_visuals.txt — hỗ trợ cả 2 định dạng:
+    A) "## ESCENA n: ..." + "[FRAME ID]: S01_F001" + mô tả ở dòng sau "[VISUAL DESCRIPTION]:"
+    B) "### ESCENA n: ..." + "[FRAME S01_F001 -> ...]" + mô tả cùng dòng "[VISUAL DESCRIPTION]: ..."."""
     frames, scene = [], ""
     cur = None
     lines = open(tv_path, encoding="utf-8").read().splitlines()
-    i = 0
-    while i < len(lines):
-        ln = lines[i]
-        m = re.match(r"^## ESCENA \d+: (.*)$", ln)
+    for i, ln in enumerate(lines):
+        m = re.match(r"^#{2,3} ESCENA \d+: (.*)$", ln)
         if m:
             scene = m.group(1).strip()
-        m = re.match(r"^\[FRAME ID\]: (\S+)", ln)
+        m = re.match(r"^\[FRAME ID\]: (\S+)", ln) or re.match(r"^\[FRAME (S\d+_F\d+)", ln)
         if m:
             cur = {"id": m.group(1), "scene": scene}
             frames.append(cur)
         if cur is not None:
             if ln.startswith("[SHOT TYPE]:"):
-                cur["shot"] = ln.split(":", 1)[1].strip()
+                cur["shot_raw"] = ln.split(":", 1)[1].strip()
+                cur["shot"] = normalize_shot(cur["shot_raw"])
             elif ln.startswith("[ES]:"):
                 cur["es"] = ln.split(":", 1)[1].strip()
             elif ln.startswith("[VISUAL DESCRIPTION]:"):
-                cur["visual"] = lines[i + 1].strip()
-        i += 1
+                rest = ln.split(":", 1)[1].strip()
+                cur["visual"] = rest or (lines[i + 1].strip() if i + 1 < len(lines) else "")
     return frames
 
 

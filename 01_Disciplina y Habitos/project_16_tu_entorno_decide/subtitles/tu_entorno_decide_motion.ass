@@ -1,0 +1,670 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Karaoke,Anton,82,&H00F0F5F5,&H00F0F5F5,&H00000000,&H96000000,0,0,0,0,100,100,1,0,1,5,2,2,80,80,70,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.24,0:00:00.49,Karaoke,,0,0,0,,{\c&H00365AFF&}Deja{\c&H00F0F5F5&} de intentar tener
+Dialogue: 0,0:00:00.49,0:00:00.61,Karaoke,,0,0,0,,Deja {\c&H00365AFF&}de{\c&H00F0F5F5&} intentar tener
+Dialogue: 0,0:00:00.61,0:00:01.12,Karaoke,,0,0,0,,Deja de {\c&H00365AFF&}intentar{\c&H00F0F5F5&} tener
+Dialogue: 0,0:00:01.12,0:00:01.52,Karaoke,,0,0,0,,Deja de intentar {\c&H00365AFF&}tener{\c&H00F0F5F5&}
+Dialogue: 0,0:00:01.52,0:00:01.70,Karaoke,,0,0,0,,{\c&H00365AFF&}más{\c&H00F0F5F5&} fuerza de voluntad.
+Dialogue: 0,0:00:01.70,0:00:02.08,Karaoke,,0,0,0,,más {\c&H00365AFF&}fuerza{\c&H00F0F5F5&} de voluntad.
+Dialogue: 0,0:00:02.08,0:00:02.20,Karaoke,,0,0,0,,más fuerza {\c&H00365AFF&}de{\c&H00F0F5F5&} voluntad.
+Dialogue: 0,0:00:02.20,0:00:02.80,Karaoke,,0,0,0,,más fuerza de {\c&H00365AFF&}voluntad.{\c&H00F0F5F5&}
+Dialogue: 0,0:00:04.00,0:00:04.24,Karaoke,,0,0,0,,{\c&H00365AFF&}Cada{\c&H00F0F5F5&} vez que fallas
+Dialogue: 0,0:00:04.24,0:00:04.42,Karaoke,,0,0,0,,Cada {\c&H00365AFF&}vez{\c&H00F0F5F5&} que fallas
+Dialogue: 0,0:00:04.42,0:00:04.61,Karaoke,,0,0,0,,Cada vez {\c&H00365AFF&}que{\c&H00F0F5F5&} fallas
+Dialogue: 0,0:00:04.61,0:00:04.97,Karaoke,,0,0,0,,Cada vez que {\c&H00365AFF&}fallas{\c&H00F0F5F5&}
+Dialogue: 0,0:00:04.97,0:00:05.11,Karaoke,,0,0,0,,{\c&H00365AFF&}y{\c&H00F0F5F5&} te repites que
+Dialogue: 0,0:00:05.11,0:00:05.23,Karaoke,,0,0,0,,y {\c&H00365AFF&}te{\c&H00F0F5F5&} repites que
+Dialogue: 0,0:00:05.23,0:00:05.74,Karaoke,,0,0,0,,y te {\c&H00365AFF&}repites{\c&H00F0F5F5&} que
+Dialogue: 0,0:00:05.74,0:00:05.92,Karaoke,,0,0,0,,y te repites {\c&H00365AFF&}que{\c&H00F0F5F5&}
+Dialogue: 0,0:00:05.92,0:00:06.46,Karaoke,,0,0,0,,{\c&H00365AFF&}necesitas{\c&H00F0F5F5&} más disciplina,
+Dialogue: 0,0:00:06.46,0:00:06.64,Karaoke,,0,0,0,,necesitas {\c&H00365AFF&}más{\c&H00F0F5F5&} disciplina,
+Dialogue: 0,0:00:06.64,0:00:07.33,Karaoke,,0,0,0,,necesitas más {\c&H00365AFF&}disciplina,{\c&H00F0F5F5&}
+Dialogue: 0,0:00:07.33,0:00:07.84,Karaoke,,0,0,0,,{\c&H00365AFF&}más{\c&H00F0F5F5&} motivación,
+Dialogue: 0,0:00:07.84,0:00:08.44,Karaoke,,0,0,0,,más {\c&H00365AFF&}motivación,{\c&H00F0F5F5&}
+Dialogue: 0,0:00:08.44,0:00:08.62,Karaoke,,0,0,0,,{\c&H00365AFF&}más{\c&H00F0F5F5&} carácter,
+Dialogue: 0,0:00:08.62,0:00:09.48,Karaoke,,0,0,0,,más {\c&H00365AFF&}carácter,{\c&H00F0F5F5&}
+Dialogue: 0,0:00:09.48,0:00:10.31,Karaoke,,0,0,0,,{\c&H00365AFF&}estás{\c&H00F0F5F5&} atacando el problema equivocado.
+Dialogue: 0,0:00:10.31,0:00:10.80,Karaoke,,0,0,0,,estás {\c&H00365AFF&}atacando{\c&H00F0F5F5&} el problema equivocado.
+Dialogue: 0,0:00:10.80,0:00:10.92,Karaoke,,0,0,0,,estás atacando {\c&H00365AFF&}el{\c&H00F0F5F5&} problema equivocado.
+Dialogue: 0,0:00:10.92,0:00:11.40,Karaoke,,0,0,0,,estás atacando el {\c&H00365AFF&}problema{\c&H00F0F5F5&} equivocado.
+Dialogue: 0,0:00:11.40,0:00:12.11,Karaoke,,0,0,0,,estás atacando el problema {\c&H00365AFF&}equivocado.{\c&H00F0F5F5&}
+Dialogue: 0,0:00:13.38,0:00:13.48,Karaoke,,0,0,0,,{\c&H00365AFF&}No{\c&H00F0F5F5&} es un defecto
+Dialogue: 0,0:00:13.48,0:00:13.59,Karaoke,,0,0,0,,No {\c&H00365AFF&}es{\c&H00F0F5F5&} un defecto
+Dialogue: 0,0:00:13.59,0:00:13.70,Karaoke,,0,0,0,,No es {\c&H00365AFF&}un{\c&H00F0F5F5&} defecto
+Dialogue: 0,0:00:13.70,0:00:14.19,Karaoke,,0,0,0,,No es un {\c&H00365AFF&}defecto{\c&H00F0F5F5&}
+Dialogue: 0,0:00:14.19,0:00:14.30,Karaoke,,0,0,0,,{\c&H00365AFF&}de{\c&H00F0F5F5&} carácter que necesitas corregir —
+Dialogue: 0,0:00:14.30,0:00:14.91,Karaoke,,0,0,0,,de {\c&H00365AFF&}carácter{\c&H00F0F5F5&} que necesitas corregir —
+Dialogue: 0,0:00:14.91,0:00:15.08,Karaoke,,0,0,0,,de carácter {\c&H00365AFF&}que{\c&H00F0F5F5&} necesitas corregir —
+Dialogue: 0,0:00:15.08,0:00:15.56,Karaoke,,0,0,0,,de carácter que {\c&H00365AFF&}necesitas{\c&H00F0F5F5&} corregir —
+Dialogue: 0,0:00:15.56,0:00:16.05,Karaoke,,0,0,0,,de carácter que necesitas {\c&H00365AFF&}corregir —{\c&H00F0F5F5&}
+Dialogue: 0,0:00:16.41,0:00:16.52,Karaoke,,0,0,0,,{\c&H00365AFF&}es{\c&H00F0F5F5&} una estrategia que
+Dialogue: 0,0:00:16.52,0:00:16.69,Karaoke,,0,0,0,,es {\c&H00365AFF&}una{\c&H00F0F5F5&} estrategia que
+Dialogue: 0,0:00:16.69,0:00:17.25,Karaoke,,0,0,0,,es una {\c&H00365AFF&}estrategia{\c&H00F0F5F5&} que
+Dialogue: 0,0:00:17.25,0:00:17.42,Karaoke,,0,0,0,,es una estrategia {\c&H00365AFF&}que{\c&H00F0F5F5&}
+Dialogue: 0,0:00:17.42,0:00:17.70,Karaoke,,0,0,0,,{\c&H00365AFF&}estás{\c&H00F0F5F5&} usando mal,
+Dialogue: 0,0:00:17.70,0:00:18.03,Karaoke,,0,0,0,,estás {\c&H00365AFF&}usando{\c&H00F0F5F5&} mal,
+Dialogue: 0,0:00:18.03,0:00:18.20,Karaoke,,0,0,0,,estás usando {\c&H00365AFF&}mal,{\c&H00F0F5F5&}
+Dialogue: 0,0:00:18.20,0:00:18.89,Karaoke,,0,0,0,,{\c&H00365AFF&}contra{\c&H00F0F5F5&} un enemigo que
+Dialogue: 0,0:00:18.89,0:00:19.00,Karaoke,,0,0,0,,contra {\c&H00365AFF&}un{\c&H00F0F5F5&} enemigo que
+Dialogue: 0,0:00:19.00,0:00:19.39,Karaoke,,0,0,0,,contra un {\c&H00365AFF&}enemigo{\c&H00F0F5F5&} que
+Dialogue: 0,0:00:19.39,0:00:19.63,Karaoke,,0,0,0,,contra un enemigo {\c&H00365AFF&}que{\c&H00F0F5F5&}
+Dialogue: 0,0:00:19.63,0:00:19.74,Karaoke,,0,0,0,,{\c&H00365AFF&}ni{\c&H00F0F5F5&} siquiera es tu
+Dialogue: 0,0:00:19.74,0:00:20.26,Karaoke,,0,0,0,,ni {\c&H00365AFF&}siquiera{\c&H00F0F5F5&} es tu
+Dialogue: 0,0:00:20.26,0:00:20.37,Karaoke,,0,0,0,,ni siquiera {\c&H00365AFF&}es{\c&H00F0F5F5&} tu
+Dialogue: 0,0:00:20.37,0:00:20.48,Karaoke,,0,0,0,,ni siquiera es {\c&H00365AFF&}tu{\c&H00F0F5F5&}
+Dialogue: 0,0:00:20.48,0:00:20.84,Karaoke,,0,0,0,,{\c&H00365AFF&}falta{\c&H00F0F5F5&} de voluntad,
+Dialogue: 0,0:00:20.84,0:00:20.95,Karaoke,,0,0,0,,falta {\c&H00365AFF&}de{\c&H00F0F5F5&} voluntad,
+Dialogue: 0,0:00:20.95,0:00:21.49,Karaoke,,0,0,0,,falta de {\c&H00365AFF&}voluntad,{\c&H00F0F5F5&}
+Dialogue: 0,0:00:21.80,0:00:21.85,Karaoke,,0,0,0,,{\c&H00365AFF&}y{\c&H00F0F5F5&} hoy te explico
+Dialogue: 0,0:00:21.85,0:00:22.02,Karaoke,,0,0,0,,y {\c&H00365AFF&}hoy{\c&H00F0F5F5&} te explico
+Dialogue: 0,0:00:22.02,0:00:22.13,Karaoke,,0,0,0,,y hoy {\c&H00365AFF&}te{\c&H00F0F5F5&} explico
+Dialogue: 0,0:00:22.13,0:00:22.62,Karaoke,,0,0,0,,y hoy te {\c&H00365AFF&}explico{\c&H00F0F5F5&}
+Dialogue: 0,0:00:22.62,0:00:23.34,Karaoke,,0,0,0,,{\c&H00365AFF&}exactamente{\c&H00F0F5F5&} qué hacer en
+Dialogue: 0,0:00:23.34,0:00:23.51,Karaoke,,0,0,0,,exactamente {\c&H00365AFF&}qué{\c&H00F0F5F5&} hacer en
+Dialogue: 0,0:00:23.51,0:00:23.79,Karaoke,,0,0,0,,exactamente qué {\c&H00365AFF&}hacer{\c&H00F0F5F5&} en
+Dialogue: 0,0:00:23.79,0:00:23.90,Karaoke,,0,0,0,,exactamente qué hacer {\c&H00365AFF&}en{\c&H00F0F5F5&}
+Dialogue: 0,0:00:23.90,0:00:24.01,Karaoke,,0,0,0,,{\c&H00365AFF&}su{\c&H00F0F5F5&} lugar.
+Dialogue: 0,0:00:24.01,0:00:24.29,Karaoke,,0,0,0,,su {\c&H00365AFF&}lugar.{\c&H00F0F5F5&}
+Dialogue: 0,0:00:25.55,0:00:25.93,Karaoke,,0,0,0,,{\c&H00365AFF&}Primero,{\c&H00F0F5F5&} lo que pasa
+Dialogue: 0,0:00:25.93,0:00:26.46,Karaoke,,0,0,0,,Primero, {\c&H00365AFF&}lo{\c&H00F0F5F5&} que pasa
+Dialogue: 0,0:00:26.46,0:00:26.62,Karaoke,,0,0,0,,Primero, lo {\c&H00365AFF&}que{\c&H00F0F5F5&} pasa
+Dialogue: 0,0:00:26.62,0:00:26.84,Karaoke,,0,0,0,,Primero, lo que {\c&H00365AFF&}pasa{\c&H00F0F5F5&}
+Dialogue: 0,0:00:26.84,0:00:27.24,Karaoke,,0,0,0,,{\c&H00365AFF&}cuando{\c&H00F0F5F5&} dependes solo de
+Dialogue: 0,0:00:27.24,0:00:27.76,Karaoke,,0,0,0,,cuando {\c&H00365AFF&}dependes{\c&H00F0F5F5&} solo de
+Dialogue: 0,0:00:27.76,0:00:27.98,Karaoke,,0,0,0,,cuando dependes {\c&H00365AFF&}solo{\c&H00F0F5F5&} de
+Dialogue: 0,0:00:27.98,0:00:28.09,Karaoke,,0,0,0,,cuando dependes solo {\c&H00365AFF&}de{\c&H00F0F5F5&}
+Dialogue: 0,0:00:28.09,0:00:28.20,Karaoke,,0,0,0,,{\c&H00365AFF&}la{\c&H00F0F5F5&} voluntad.
+Dialogue: 0,0:00:28.20,0:00:28.73,Karaoke,,0,0,0,,la {\c&H00365AFF&}voluntad.{\c&H00F0F5F5&}
+Dialogue: 0,0:00:29.96,0:00:30.07,Karaoke,,0,0,0,,{\c&H00365AFF&}La{\c&H00F0F5F5&} investigadora Anne Thorndike,
+Dialogue: 0,0:00:30.07,0:00:30.80,Karaoke,,0,0,0,,La {\c&H00365AFF&}investigadora{\c&H00F0F5F5&} Anne Thorndike,
+Dialogue: 0,0:00:30.80,0:00:31.03,Karaoke,,0,0,0,,La investigadora {\c&H00365AFF&}Anne{\c&H00F0F5F5&} Thorndike,
+Dialogue: 0,0:00:31.03,0:00:31.91,Karaoke,,0,0,0,,La investigadora Anne {\c&H00365AFF&}Thorndike,{\c&H00F0F5F5&}
+Dialogue: 0,0:00:31.91,0:00:32.08,Karaoke,,0,0,0,,{\c&H00365AFF&}del{\c&H00F0F5F5&} Massachusetts General Hospital,
+Dialogue: 0,0:00:32.08,0:00:32.81,Karaoke,,0,0,0,,del {\c&H00365AFF&}Massachusetts{\c&H00F0F5F5&} General Hospital,
+Dialogue: 0,0:00:32.81,0:00:33.20,Karaoke,,0,0,0,,del Massachusetts {\c&H00365AFF&}General{\c&H00F0F5F5&} Hospital,
+Dialogue: 0,0:00:33.20,0:00:34.17,Karaoke,,0,0,0,,del Massachusetts General {\c&H00365AFF&}Hospital,{\c&H00F0F5F5&}
+Dialogue: 0,0:00:34.17,0:00:34.40,Karaoke,,0,0,0,,{\c&H00365AFF&}hizo{\c&H00F0F5F5&} un experimento simple
+Dialogue: 0,0:00:34.40,0:00:34.51,Karaoke,,0,0,0,,hizo {\c&H00365AFF&}un{\c&H00F0F5F5&} experimento simple
+Dialogue: 0,0:00:34.51,0:00:35.13,Karaoke,,0,0,0,,hizo un {\c&H00365AFF&}experimento{\c&H00F0F5F5&} simple
+Dialogue: 0,0:00:35.13,0:00:35.47,Karaoke,,0,0,0,,hizo un experimento {\c&H00365AFF&}simple{\c&H00F0F5F5&}
+Dialogue: 0,0:00:35.47,0:00:35.58,Karaoke,,0,0,0,,{\c&H00365AFF&}en{\c&H00F0F5F5&} la cafetería de
+Dialogue: 0,0:00:35.58,0:00:35.69,Karaoke,,0,0,0,,en {\c&H00365AFF&}la{\c&H00F0F5F5&} cafetería de
+Dialogue: 0,0:00:35.69,0:00:36.20,Karaoke,,0,0,0,,en la {\c&H00365AFF&}cafetería{\c&H00F0F5F5&} de
+Dialogue: 0,0:00:36.20,0:00:36.31,Karaoke,,0,0,0,,en la cafetería {\c&H00365AFF&}de{\c&H00F0F5F5&}
+Dialogue: 0,0:00:36.31,0:00:36.42,Karaoke,,0,0,0,,{\c&H00365AFF&}un{\c&H00F0F5F5&} hospital:
+Dialogue: 0,0:00:36.42,0:00:37.05,Karaoke,,0,0,0,,un {\c&H00365AFF&}hospital:{\c&H00F0F5F5&}
+Dialogue: 0,0:00:37.49,0:00:37.67,Karaoke,,0,0,0,,{\c&H00365AFF&}sin{\c&H00F0F5F5&} cambiar ni un
+Dialogue: 0,0:00:37.67,0:00:38.09,Karaoke,,0,0,0,,sin {\c&H00365AFF&}cambiar{\c&H00F0F5F5&} ni un
+Dialogue: 0,0:00:38.09,0:00:38.22,Karaoke,,0,0,0,,sin cambiar {\c&H00365AFF&}ni{\c&H00F0F5F5&} un
+Dialogue: 0,0:00:38.22,0:00:38.34,Karaoke,,0,0,0,,sin cambiar ni {\c&H00365AFF&}un{\c&H00F0F5F5&}
+Dialogue: 0,0:00:38.34,0:00:38.58,Karaoke,,0,0,0,,{\c&H00365AFF&}solo{\c&H00F0F5F5&} precio,
+Dialogue: 0,0:00:38.58,0:00:39.04,Karaoke,,0,0,0,,solo {\c&H00365AFF&}precio,{\c&H00F0F5F5&}
+Dialogue: 0,0:00:39.04,0:00:40.07,Karaoke,,0,0,0,,{\c&H00365AFF&}reorganizó{\c&H00F0F5F5&} dónde estaban colocadas
+Dialogue: 0,0:00:40.07,0:00:40.37,Karaoke,,0,0,0,,reorganizó {\c&H00365AFF&}dónde{\c&H00F0F5F5&} estaban colocadas
+Dialogue: 0,0:00:40.37,0:00:40.80,Karaoke,,0,0,0,,reorganizó dónde {\c&H00365AFF&}estaban{\c&H00F0F5F5&} colocadas
+Dialogue: 0,0:00:40.80,0:00:41.44,Karaoke,,0,0,0,,reorganizó dónde estaban {\c&H00365AFF&}colocadas{\c&H00F0F5F5&}
+Dialogue: 0,0:00:41.44,0:00:41.62,Karaoke,,0,0,0,,{\c&H00365AFF&}las{\c&H00F0F5F5&} bebidas.
+Dialogue: 0,0:00:41.62,0:00:42.12,Karaoke,,0,0,0,,las {\c&H00365AFF&}bebidas.{\c&H00F0F5F5&}
+Dialogue: 0,0:00:43.37,0:00:43.62,Karaoke,,0,0,0,,{\c&H00365AFF&}Puso{\c&H00F0F5F5&} el agua a
+Dialogue: 0,0:00:43.62,0:00:43.75,Karaoke,,0,0,0,,Puso {\c&H00365AFF&}el{\c&H00F0F5F5&} agua a
+Dialogue: 0,0:00:43.75,0:00:44.00,Karaoke,,0,0,0,,Puso el {\c&H00365AFF&}agua{\c&H00F0F5F5&} a
+Dialogue: 0,0:00:44.00,0:00:44.06,Karaoke,,0,0,0,,Puso el agua {\c&H00365AFF&}a{\c&H00F0F5F5&}
+Dialogue: 0,0:00:44.06,0:00:44.19,Karaoke,,0,0,0,,{\c&H00365AFF&}la{\c&H00F0F5F5&} altura de los
+Dialogue: 0,0:00:44.19,0:00:44.65,Karaoke,,0,0,0,,la {\c&H00365AFF&}altura{\c&H00F0F5F5&} de los
+Dialogue: 0,0:00:44.65,0:00:44.78,Karaoke,,0,0,0,,la altura {\c&H00365AFF&}de{\c&H00F0F5F5&} los
+Dialogue: 0,0:00:44.78,0:00:44.97,Karaoke,,0,0,0,,la altura de {\c&H00365AFF&}los{\c&H00F0F5F5&}
+Dialogue: 0,0:00:44.97,0:00:45.22,Karaoke,,0,0,0,,{\c&H00365AFF&}ojos{\c&H00F0F5F5&} y al frente,
+Dialogue: 0,0:00:45.22,0:00:45.28,Karaoke,,0,0,0,,ojos {\c&H00365AFF&}y{\c&H00F0F5F5&} al frente,
+Dialogue: 0,0:00:45.28,0:00:45.41,Karaoke,,0,0,0,,ojos y {\c&H00365AFF&}al{\c&H00F0F5F5&} frente,
+Dialogue: 0,0:00:45.41,0:00:45.86,Karaoke,,0,0,0,,ojos y al {\c&H00365AFF&}frente,{\c&H00F0F5F5&}
+Dialogue: 0,0:00:45.86,0:00:46.32,Karaoke,,0,0,0,,{\c&H00365AFF&}y{\c&H00F0F5F5&} movió las bebidas
+Dialogue: 0,0:00:46.32,0:00:46.63,Karaoke,,0,0,0,,y {\c&H00365AFF&}movió{\c&H00F0F5F5&} las bebidas
+Dialogue: 0,0:00:46.63,0:00:46.82,Karaoke,,0,0,0,,y movió {\c&H00365AFF&}las{\c&H00F0F5F5&} bebidas
+Dialogue: 0,0:00:46.82,0:00:47.26,Karaoke,,0,0,0,,y movió las {\c&H00365AFF&}bebidas{\c&H00F0F5F5&}
+Dialogue: 0,0:00:47.26,0:00:47.89,Karaoke,,0,0,0,,{\c&H00365AFF&}azucaradas{\c&H00F0F5F5&} a un lugar
+Dialogue: 0,0:00:47.89,0:00:47.96,Karaoke,,0,0,0,,azucaradas {\c&H00365AFF&}a{\c&H00F0F5F5&} un lugar
+Dialogue: 0,0:00:47.96,0:00:48.08,Karaoke,,0,0,0,,azucaradas a {\c&H00365AFF&}un{\c&H00F0F5F5&} lugar
+Dialogue: 0,0:00:48.08,0:00:48.40,Karaoke,,0,0,0,,azucaradas a un {\c&H00365AFF&}lugar{\c&H00F0F5F5&}
+Dialogue: 0,0:00:48.40,0:00:48.71,Karaoke,,0,0,0,,{\c&H00365AFF&}menos{\c&H00F0F5F5&} visible.
+Dialogue: 0,0:00:48.71,0:00:49.15,Karaoke,,0,0,0,,menos {\c&H00365AFF&}visible.{\c&H00F0F5F5&}
+Dialogue: 0,0:00:50.43,0:00:50.84,Karaoke,,0,0,0,,{\c&H00365AFF&}Presta{\c&H00F0F5F5&} atención a esto:
+Dialogue: 0,0:00:50.84,0:00:51.37,Karaoke,,0,0,0,,Presta {\c&H00365AFF&}atención{\c&H00F0F5F5&} a esto:
+Dialogue: 0,0:00:51.37,0:00:51.44,Karaoke,,0,0,0,,Presta atención {\c&H00365AFF&}a{\c&H00F0F5F5&} esto:
+Dialogue: 0,0:00:51.44,0:00:51.71,Karaoke,,0,0,0,,Presta atención a {\c&H00365AFF&}esto:{\c&H00F0F5F5&}
+Dialogue: 0,0:00:51.71,0:00:52.32,Karaoke,,0,0,0,,{\c&H00365AFF&}las{\c&H00F0F5F5&} ventas de agua
+Dialogue: 0,0:00:52.32,0:00:52.72,Karaoke,,0,0,0,,las {\c&H00365AFF&}ventas{\c&H00F0F5F5&} de agua
+Dialogue: 0,0:00:52.72,0:00:52.86,Karaoke,,0,0,0,,las ventas {\c&H00365AFF&}de{\c&H00F0F5F5&} agua
+Dialogue: 0,0:00:52.86,0:00:53.12,Karaoke,,0,0,0,,las ventas de {\c&H00365AFF&}agua{\c&H00F0F5F5&}
+Dialogue: 0,0:00:53.12,0:00:53.66,Karaoke,,0,0,0,,{\c&H00365AFF&}subieron{\c&H00F0F5F5&} y las de
+Dialogue: 0,0:00:53.66,0:00:53.73,Karaoke,,0,0,0,,subieron {\c&H00365AFF&}y{\c&H00F0F5F5&} las de
+Dialogue: 0,0:00:53.73,0:00:53.93,Karaoke,,0,0,0,,subieron y {\c&H00365AFF&}las{\c&H00F0F5F5&} de
+Dialogue: 0,0:00:53.93,0:00:54.06,Karaoke,,0,0,0,,subieron y las {\c&H00365AFF&}de{\c&H00F0F5F5&}
+Dialogue: 0,0:00:54.06,0:00:54.67,Karaoke,,0,0,0,,{\c&H00365AFF&}refrescos{\c&H00F0F5F5&} bajaron,
+Dialogue: 0,0:00:54.67,0:00:55.55,Karaoke,,0,0,0,,refrescos {\c&H00365AFF&}bajaron,{\c&H00F0F5F5&}
+Dialogue: 0,0:00:55.55,0:00:56.02,Karaoke,,0,0,0,,{\c&H00365AFF&}durante{\c&H00F0F5F5&} meses,
+Dialogue: 0,0:00:56.02,0:00:56.35,Karaoke,,0,0,0,,durante {\c&H00365AFF&}meses,{\c&H00F0F5F5&}
+Dialogue: 0,0:00:56.72,0:00:56.89,Karaoke,,0,0,0,,{\c&H00365AFF&}sin{\c&H00F0F5F5&} que nadie diera
+Dialogue: 0,0:00:56.89,0:00:57.06,Karaoke,,0,0,0,,sin {\c&H00365AFF&}que{\c&H00F0F5F5&} nadie diera
+Dialogue: 0,0:00:57.06,0:00:57.34,Karaoke,,0,0,0,,sin que {\c&H00365AFF&}nadie{\c&H00F0F5F5&} diera
+Dialogue: 0,0:00:57.34,0:00:57.62,Karaoke,,0,0,0,,sin que nadie {\c&H00365AFF&}diera{\c&H00F0F5F5&}
+Dialogue: 0,0:00:57.62,0:00:57.73,Karaoke,,0,0,0,,{\c&H00365AFF&}un{\c&H00F0F5F5&} solo discurso motivacional
+Dialogue: 0,0:00:57.73,0:00:57.96,Karaoke,,0,0,0,,un {\c&H00365AFF&}solo{\c&H00F0F5F5&} discurso motivacional
+Dialogue: 0,0:00:57.96,0:00:58.41,Karaoke,,0,0,0,,un solo {\c&H00365AFF&}discurso{\c&H00F0F5F5&} motivacional
+Dialogue: 0,0:00:58.41,0:00:59.08,Karaoke,,0,0,0,,un solo discurso {\c&H00365AFF&}motivacional{\c&H00F0F5F5&}
+Dialogue: 0,0:00:59.08,0:00:59.14,Karaoke,,0,0,0,,{\c&H00365AFF&}a{\c&H00F0F5F5&} los empleados sobre
+Dialogue: 0,0:00:59.14,0:00:59.30,Karaoke,,0,0,0,,a {\c&H00365AFF&}los{\c&H00F0F5F5&} empleados sobre
+Dialogue: 0,0:00:59.30,0:00:59.89,Karaoke,,0,0,0,,a los {\c&H00365AFF&}empleados{\c&H00F0F5F5&} sobre
+Dialogue: 0,0:00:59.89,0:01:00.17,Karaoke,,0,0,0,,a los empleados {\c&H00365AFF&}sobre{\c&H00F0F5F5&}
+Dialogue: 0,0:01:00.17,0:01:00.53,Karaoke,,0,0,0,,{\c&H00365AFF&}comer{\c&H00F0F5F5&} mejor.
+Dialogue: 0,0:01:00.53,0:01:00.90,Karaoke,,0,0,0,,comer {\c&H00365AFF&}mejor.{\c&H00F0F5F5&}
+Dialogue: 0,0:01:02.15,0:01:02.46,Karaoke,,0,0,0,,{\c&H00365AFF&}Nadie{\c&H00F0F5F5&} decidió tener más
+Dialogue: 0,0:01:02.46,0:01:02.91,Karaoke,,0,0,0,,Nadie {\c&H00365AFF&}decidió{\c&H00F0F5F5&} tener más
+Dialogue: 0,0:01:02.91,0:01:03.22,Karaoke,,0,0,0,,Nadie decidió {\c&H00365AFF&}tener{\c&H00F0F5F5&} más
+Dialogue: 0,0:01:03.22,0:01:03.41,Karaoke,,0,0,0,,Nadie decidió tener {\c&H00365AFF&}más{\c&H00F0F5F5&}
+Dialogue: 0,0:01:03.41,0:01:04.13,Karaoke,,0,0,0,,{\c&H00365AFF&}disciplina.{\c&H00F0F5F5&} El entorno decidió
+Dialogue: 0,0:01:04.13,0:01:05.48,Karaoke,,0,0,0,,disciplina. {\c&H00365AFF&}El{\c&H00F0F5F5&} entorno decidió
+Dialogue: 0,0:01:05.48,0:01:05.93,Karaoke,,0,0,0,,disciplina. El {\c&H00365AFF&}entorno{\c&H00F0F5F5&} decidió
+Dialogue: 0,0:01:05.93,0:01:06.37,Karaoke,,0,0,0,,disciplina. El entorno {\c&H00365AFF&}decidió{\c&H00F0F5F5&}
+Dialogue: 0,0:01:06.37,0:01:06.56,Karaoke,,0,0,0,,{\c&H00365AFF&}por{\c&H00F0F5F5&} ellos,
+Dialogue: 0,0:01:06.56,0:01:06.87,Karaoke,,0,0,0,,por {\c&H00365AFF&}ellos,{\c&H00F0F5F5&}
+Dialogue: 0,0:01:06.87,0:01:07.00,Karaoke,,0,0,0,,{\c&H00365AFF&}en{\c&H00F0F5F5&} la dirección correcta,
+Dialogue: 0,0:01:07.00,0:01:07.51,Karaoke,,0,0,0,,en {\c&H00365AFF&}la{\c&H00F0F5F5&} dirección correcta,
+Dialogue: 0,0:01:07.51,0:01:08.08,Karaoke,,0,0,0,,en la {\c&H00365AFF&}dirección{\c&H00F0F5F5&} correcta,
+Dialogue: 0,0:01:08.08,0:01:08.58,Karaoke,,0,0,0,,en la dirección {\c&H00365AFF&}correcta,{\c&H00F0F5F5&}
+Dialogue: 0,0:01:08.58,0:01:09.29,Karaoke,,0,0,0,,{\c&H00365AFF&}sin{\c&H00F0F5F5&} que se dieran cuenta.
+Dialogue: 0,0:01:09.29,0:01:09.48,Karaoke,,0,0,0,,sin {\c&H00365AFF&}que{\c&H00F0F5F5&} se dieran cuenta.
+Dialogue: 0,0:01:09.48,0:01:09.60,Karaoke,,0,0,0,,sin que {\c&H00365AFF&}se{\c&H00F0F5F5&} dieran cuenta.
+Dialogue: 0,0:01:09.60,0:01:09.98,Karaoke,,0,0,0,,sin que se {\c&H00365AFF&}dieran{\c&H00F0F5F5&} cuenta.
+Dialogue: 0,0:01:09.98,0:01:10.44,Karaoke,,0,0,0,,sin que se dieran {\c&H00365AFF&}cuenta.{\c&H00F0F5F5&}
+Dialogue: 0,0:01:11.67,0:01:12.10,Karaoke,,0,0,0,,{\c&H00365AFF&}Segundo,{\c&H00F0F5F5&} por qué el
+Dialogue: 0,0:01:12.10,0:01:12.68,Karaoke,,0,0,0,,Segundo, {\c&H00365AFF&}por{\c&H00F0F5F5&} qué el
+Dialogue: 0,0:01:12.68,0:01:12.86,Karaoke,,0,0,0,,Segundo, por {\c&H00365AFF&}qué{\c&H00F0F5F5&} el
+Dialogue: 0,0:01:12.86,0:01:12.98,Karaoke,,0,0,0,,Segundo, por qué {\c&H00365AFF&}el{\c&H00F0F5F5&}
+Dialogue: 0,0:01:12.98,0:01:13.49,Karaoke,,0,0,0,,{\c&H00365AFF&}entorno{\c&H00F0F5F5&} le gana a
+Dialogue: 0,0:01:13.49,0:01:13.61,Karaoke,,0,0,0,,entorno {\c&H00365AFF&}le{\c&H00F0F5F5&} gana a
+Dialogue: 0,0:01:13.61,0:01:13.86,Karaoke,,0,0,0,,entorno le {\c&H00365AFF&}gana{\c&H00F0F5F5&} a
+Dialogue: 0,0:01:13.86,0:01:13.92,Karaoke,,0,0,0,,entorno le gana {\c&H00365AFF&}a{\c&H00F0F5F5&}
+Dialogue: 0,0:01:13.92,0:01:14.04,Karaoke,,0,0,0,,{\c&H00365AFF&}la{\c&H00F0F5F5&} voluntad casi siempre.
+Dialogue: 0,0:01:14.04,0:01:14.64,Karaoke,,0,0,0,,la {\c&H00365AFF&}voluntad{\c&H00F0F5F5&} casi siempre.
+Dialogue: 0,0:01:14.64,0:01:14.88,Karaoke,,0,0,0,,la voluntad {\c&H00365AFF&}casi{\c&H00F0F5F5&} siempre.
+Dialogue: 0,0:01:14.88,0:01:15.30,Karaoke,,0,0,0,,la voluntad casi {\c&H00365AFF&}siempre.{\c&H00F0F5F5&}
+Dialogue: 0,0:01:16.53,0:01:16.66,Karaoke,,0,0,0,,{\c&H00365AFF&}La{\c&H00F0F5F5&} psicóloga Wendy Wood,
+Dialogue: 0,0:01:16.66,0:01:17.26,Karaoke,,0,0,0,,La {\c&H00365AFF&}psicóloga{\c&H00F0F5F5&} Wendy Wood,
+Dialogue: 0,0:01:17.26,0:01:17.59,Karaoke,,0,0,0,,La psicóloga {\c&H00365AFF&}Wendy{\c&H00F0F5F5&} Wood,
+Dialogue: 0,0:01:17.59,0:01:18.28,Karaoke,,0,0,0,,La psicóloga Wendy {\c&H00365AFF&}Wood,{\c&H00F0F5F5&}
+Dialogue: 0,0:01:18.28,0:01:18.42,Karaoke,,0,0,0,,{\c&H00365AFF&}de{\c&H00F0F5F5&} la Universidad del
+Dialogue: 0,0:01:18.42,0:01:18.55,Karaoke,,0,0,0,,de {\c&H00365AFF&}la{\c&H00F0F5F5&} Universidad del
+Dialogue: 0,0:01:18.55,0:01:19.28,Karaoke,,0,0,0,,de la {\c&H00365AFF&}Universidad{\c&H00F0F5F5&} del
+Dialogue: 0,0:01:19.28,0:01:19.48,Karaoke,,0,0,0,,de la Universidad {\c&H00365AFF&}del{\c&H00F0F5F5&}
+Dialogue: 0,0:01:19.48,0:01:19.68,Karaoke,,0,0,0,,{\c&H00365AFF&}Sur{\c&H00F0F5F5&} de California,
+Dialogue: 0,0:01:19.68,0:01:19.82,Karaoke,,0,0,0,,Sur {\c&H00365AFF&}de{\c&H00F0F5F5&} California,
+Dialogue: 0,0:01:19.82,0:01:20.87,Karaoke,,0,0,0,,Sur de {\c&H00365AFF&}California,{\c&H00F0F5F5&}
+Dialogue: 0,0:01:20.87,0:01:21.20,Karaoke,,0,0,0,,{\c&H00365AFF&}junto{\c&H00F0F5F5&} con David Neal,
+Dialogue: 0,0:01:21.20,0:01:21.40,Karaoke,,0,0,0,,junto {\c&H00365AFF&}con{\c&H00F0F5F5&} David Neal,
+Dialogue: 0,0:01:21.40,0:01:21.73,Karaoke,,0,0,0,,junto con {\c&H00365AFF&}David{\c&H00F0F5F5&} Neal,
+Dialogue: 0,0:01:21.73,0:01:22.00,Karaoke,,0,0,0,,junto con David {\c&H00365AFF&}Neal,{\c&H00F0F5F5&}
+Dialogue: 0,0:01:22.30,0:01:22.56,Karaoke,,0,0,0,,{\c&H00365AFF&}hizo{\c&H00F0F5F5&} un estudio donde
+Dialogue: 0,0:01:22.56,0:01:22.68,Karaoke,,0,0,0,,hizo {\c&H00365AFF&}un{\c&H00F0F5F5&} estudio donde
+Dialogue: 0,0:01:22.68,0:01:23.13,Karaoke,,0,0,0,,hizo un {\c&H00365AFF&}estudio{\c&H00F0F5F5&} donde
+Dialogue: 0,0:01:23.13,0:01:23.45,Karaoke,,0,0,0,,hizo un estudio {\c&H00365AFF&}donde{\c&H00F0F5F5&}
+Dialogue: 0,0:01:23.45,0:01:23.58,Karaoke,,0,0,0,,{\c&H00365AFF&}le{\c&H00F0F5F5&} dio a la
+Dialogue: 0,0:01:23.58,0:01:23.77,Karaoke,,0,0,0,,le {\c&H00365AFF&}dio{\c&H00F0F5F5&} a la
+Dialogue: 0,0:01:23.77,0:01:23.83,Karaoke,,0,0,0,,le dio {\c&H00365AFF&}a{\c&H00F0F5F5&} la
+Dialogue: 0,0:01:23.83,0:01:24.10,Karaoke,,0,0,0,,le dio a {\c&H00365AFF&}la{\c&H00F0F5F5&}
+Dialogue: 0,0:01:24.10,0:01:24.42,Karaoke,,0,0,0,,{\c&H00365AFF&}gente{\c&H00F0F5F5&} palomitas de cine —
+Dialogue: 0,0:01:24.42,0:01:25.00,Karaoke,,0,0,0,,gente {\c&H00365AFF&}palomitas{\c&H00F0F5F5&} de cine —
+Dialogue: 0,0:01:25.00,0:01:25.12,Karaoke,,0,0,0,,gente palomitas {\c&H00365AFF&}de{\c&H00F0F5F5&} cine —
+Dialogue: 0,0:01:25.12,0:01:25.80,Karaoke,,0,0,0,,gente palomitas de {\c&H00365AFF&}cine —{\c&H00F0F5F5&}
+Dialogue: 0,0:01:25.80,0:01:26.24,Karaoke,,0,0,0,,{\c&H00365AFF&}algunas{\c&H00F0F5F5&} frescas,
+Dialogue: 0,0:01:26.24,0:01:26.89,Karaoke,,0,0,0,,algunas {\c&H00365AFF&}frescas,{\c&H00F0F5F5&}
+Dialogue: 0,0:01:26.89,0:01:27.21,Karaoke,,0,0,0,,{\c&H00365AFF&}otras{\c&H00F0F5F5&} deliberadamente viejas y
+Dialogue: 0,0:01:27.21,0:01:28.16,Karaoke,,0,0,0,,otras {\c&H00365AFF&}deliberadamente{\c&H00F0F5F5&} viejas y
+Dialogue: 0,0:01:28.16,0:01:28.55,Karaoke,,0,0,0,,otras deliberadamente {\c&H00365AFF&}viejas{\c&H00F0F5F5&} y
+Dialogue: 0,0:01:28.55,0:01:28.61,Karaoke,,0,0,0,,otras deliberadamente viejas {\c&H00365AFF&}y{\c&H00F0F5F5&}
+Dialogue: 0,0:01:28.61,0:01:28.74,Karaoke,,0,0,0,,{\c&H00365AFF&}de{\c&H00F0F5F5&} mal sabor —
+Dialogue: 0,0:01:28.74,0:01:28.93,Karaoke,,0,0,0,,de {\c&H00365AFF&}mal{\c&H00F0F5F5&} sabor —
+Dialogue: 0,0:01:28.93,0:01:29.62,Karaoke,,0,0,0,,de mal {\c&H00365AFF&}sabor —{\c&H00F0F5F5&}
+Dialogue: 0,0:01:29.62,0:01:30.00,Karaoke,,0,0,0,,{\c&H00365AFF&}dentro{\c&H00F0F5F5&} de una sala
+Dialogue: 0,0:01:30.00,0:01:30.13,Karaoke,,0,0,0,,dentro {\c&H00365AFF&}de{\c&H00F0F5F5&} una sala
+Dialogue: 0,0:01:30.13,0:01:30.32,Karaoke,,0,0,0,,dentro de {\c&H00365AFF&}una{\c&H00F0F5F5&} sala
+Dialogue: 0,0:01:30.32,0:01:30.58,Karaoke,,0,0,0,,dentro de una {\c&H00365AFF&}sala{\c&H00F0F5F5&}
+Dialogue: 0,0:01:30.58,0:01:30.70,Karaoke,,0,0,0,,{\c&H00365AFF&}de{\c&H00F0F5F5&} cine.
+Dialogue: 0,0:01:30.70,0:01:30.96,Karaoke,,0,0,0,,de {\c&H00365AFF&}cine.{\c&H00F0F5F5&}
+Dialogue: 0,0:01:32.25,0:01:32.49,Karaoke,,0,0,0,,{\c&H00365AFF&}Aquí{\c&H00F0F5F5&} está la clave:
+Dialogue: 0,0:01:32.49,0:01:32.73,Karaoke,,0,0,0,,Aquí {\c&H00365AFF&}está{\c&H00F0F5F5&} la clave:
+Dialogue: 0,0:01:32.73,0:01:32.84,Karaoke,,0,0,0,,Aquí está {\c&H00365AFF&}la{\c&H00F0F5F5&} clave:
+Dialogue: 0,0:01:32.84,0:01:33.22,Karaoke,,0,0,0,,Aquí está la {\c&H00365AFF&}clave:{\c&H00F0F5F5&}
+Dialogue: 0,0:01:33.22,0:01:33.39,Karaoke,,0,0,0,,{\c&H00365AFF&}las{\c&H00F0F5F5&} personas que tenían
+Dialogue: 0,0:01:33.39,0:01:34.30,Karaoke,,0,0,0,,las {\c&H00365AFF&}personas{\c&H00F0F5F5&} que tenían
+Dialogue: 0,0:01:34.30,0:01:34.48,Karaoke,,0,0,0,,las personas {\c&H00365AFF&}que{\c&H00F0F5F5&} tenían
+Dialogue: 0,0:01:34.48,0:01:34.84,Karaoke,,0,0,0,,las personas que {\c&H00365AFF&}tenían{\c&H00F0F5F5&}
+Dialogue: 0,0:01:34.84,0:01:34.95,Karaoke,,0,0,0,,{\c&H00365AFF&}el{\c&H00F0F5F5&} hábito de comer
+Dialogue: 0,0:01:34.95,0:01:35.31,Karaoke,,0,0,0,,el {\c&H00365AFF&}hábito{\c&H00F0F5F5&} de comer
+Dialogue: 0,0:01:35.31,0:01:35.43,Karaoke,,0,0,0,,el hábito {\c&H00365AFF&}de{\c&H00F0F5F5&} comer
+Dialogue: 0,0:01:35.43,0:01:35.72,Karaoke,,0,0,0,,el hábito de {\c&H00365AFF&}comer{\c&H00F0F5F5&}
+Dialogue: 0,0:01:35.72,0:01:36.43,Karaoke,,0,0,0,,{\c&H00365AFF&}palomitas{\c&H00F0F5F5&} en el cine
+Dialogue: 0,0:01:36.43,0:01:36.55,Karaoke,,0,0,0,,palomitas {\c&H00365AFF&}en{\c&H00F0F5F5&} el cine
+Dialogue: 0,0:01:36.55,0:01:36.67,Karaoke,,0,0,0,,palomitas en {\c&H00365AFF&}el{\c&H00F0F5F5&} cine
+Dialogue: 0,0:01:36.67,0:01:36.91,Karaoke,,0,0,0,,palomitas en el {\c&H00365AFF&}cine{\c&H00F0F5F5&}
+Dialogue: 0,0:01:36.91,0:01:37.02,Karaoke,,0,0,0,,{\c&H00365AFF&}se{\c&H00F0F5F5&} comieron las palomitas
+Dialogue: 0,0:01:37.02,0:01:37.50,Karaoke,,0,0,0,,se {\c&H00365AFF&}comieron{\c&H00F0F5F5&} las palomitas
+Dialogue: 0,0:01:37.50,0:01:37.68,Karaoke,,0,0,0,,se comieron {\c&H00365AFF&}las{\c&H00F0F5F5&} palomitas
+Dialogue: 0,0:01:37.68,0:01:38.36,Karaoke,,0,0,0,,se comieron las {\c&H00365AFF&}palomitas{\c&H00F0F5F5&}
+Dialogue: 0,0:01:38.36,0:01:38.72,Karaoke,,0,0,0,,{\c&H00365AFF&}viejas{\c&H00F0F5F5&} casi con la
+Dialogue: 0,0:01:38.72,0:01:39.12,Karaoke,,0,0,0,,viejas {\c&H00365AFF&}casi{\c&H00F0F5F5&} con la
+Dialogue: 0,0:01:39.12,0:01:39.29,Karaoke,,0,0,0,,viejas casi {\c&H00365AFF&}con{\c&H00F0F5F5&} la
+Dialogue: 0,0:01:39.29,0:01:39.41,Karaoke,,0,0,0,,viejas casi con {\c&H00365AFF&}la{\c&H00F0F5F5&}
+Dialogue: 0,0:01:39.41,0:01:39.71,Karaoke,,0,0,0,,{\c&H00365AFF&}misma{\c&H00F0F5F5&} velocidad que las
+Dialogue: 0,0:01:39.71,0:01:40.36,Karaoke,,0,0,0,,misma {\c&H00365AFF&}velocidad{\c&H00F0F5F5&} que las
+Dialogue: 0,0:01:40.36,0:01:40.54,Karaoke,,0,0,0,,misma velocidad {\c&H00365AFF&}que{\c&H00F0F5F5&} las
+Dialogue: 0,0:01:40.54,0:01:40.72,Karaoke,,0,0,0,,misma velocidad que {\c&H00365AFF&}las{\c&H00F0F5F5&}
+Dialogue: 0,0:01:40.72,0:01:41.57,Karaoke,,0,0,0,,{\c&H00365AFF&}frescas,{\c&H00F0F5F5&} sin notar la diferencia.
+Dialogue: 0,0:01:41.57,0:01:41.75,Karaoke,,0,0,0,,frescas, {\c&H00365AFF&}sin{\c&H00F0F5F5&} notar la diferencia.
+Dialogue: 0,0:01:41.75,0:01:42.12,Karaoke,,0,0,0,,frescas, sin {\c&H00365AFF&}notar{\c&H00F0F5F5&} la diferencia.
+Dialogue: 0,0:01:42.12,0:01:42.24,Karaoke,,0,0,0,,frescas, sin notar {\c&H00365AFF&}la{\c&H00F0F5F5&} diferencia.
+Dialogue: 0,0:01:42.24,0:01:42.84,Karaoke,,0,0,0,,frescas, sin notar la {\c&H00365AFF&}diferencia.{\c&H00F0F5F5&}
+Dialogue: 0,0:01:44.09,0:01:44.21,Karaoke,,0,0,0,,{\c&H00365AFF&}El{\c&H00F0F5F5&} hábito no estaba
+Dialogue: 0,0:01:44.21,0:01:44.55,Karaoke,,0,0,0,,El {\c&H00365AFF&}hábito{\c&H00F0F5F5&} no estaba
+Dialogue: 0,0:01:44.55,0:01:44.66,Karaoke,,0,0,0,,El hábito {\c&H00365AFF&}no{\c&H00F0F5F5&} estaba
+Dialogue: 0,0:01:44.66,0:01:45.00,Karaoke,,0,0,0,,El hábito no {\c&H00365AFF&}estaba{\c&H00F0F5F5&}
+Dialogue: 0,0:01:45.00,0:01:45.64,Karaoke,,0,0,0,,{\c&H00365AFF&}conectado{\c&H00F0F5F5&} a si la
+Dialogue: 0,0:01:45.64,0:01:45.69,Karaoke,,0,0,0,,conectado {\c&H00365AFF&}a{\c&H00F0F5F5&} si la
+Dialogue: 0,0:01:45.69,0:01:45.81,Karaoke,,0,0,0,,conectado a {\c&H00365AFF&}si{\c&H00F0F5F5&} la
+Dialogue: 0,0:01:45.81,0:01:45.99,Karaoke,,0,0,0,,conectado a si {\c&H00365AFF&}la{\c&H00F0F5F5&}
+Dialogue: 0,0:01:45.99,0:01:46.33,Karaoke,,0,0,0,,{\c&H00365AFF&}comida{\c&H00F0F5F5&} sabía bien.
+Dialogue: 0,0:01:46.33,0:01:46.62,Karaoke,,0,0,0,,comida {\c&H00365AFF&}sabía{\c&H00F0F5F5&} bien.
+Dialogue: 0,0:01:46.62,0:01:46.85,Karaoke,,0,0,0,,comida sabía {\c&H00365AFF&}bien.{\c&H00F0F5F5&}
+Dialogue: 0,0:01:48.11,0:01:48.47,Karaoke,,0,0,0,,{\c&H00365AFF&}Estaba{\c&H00F0F5F5&} conectado al lugar,
+Dialogue: 0,0:01:48.47,0:01:49.09,Karaoke,,0,0,0,,Estaba {\c&H00365AFF&}conectado{\c&H00F0F5F5&} al lugar,
+Dialogue: 0,0:01:49.09,0:01:49.21,Karaoke,,0,0,0,,Estaba conectado {\c&H00365AFF&}al{\c&H00F0F5F5&} lugar,
+Dialogue: 0,0:01:49.21,0:01:49.51,Karaoke,,0,0,0,,Estaba conectado al {\c&H00365AFF&}lugar,{\c&H00F0F5F5&}
+Dialogue: 0,0:01:49.51,0:01:50.02,Karaoke,,0,0,0,,{\c&H00365AFF&}la{\c&H00F0F5F5&} sala oscura,
+Dialogue: 0,0:01:50.02,0:01:50.26,Karaoke,,0,0,0,,la {\c&H00365AFF&}sala{\c&H00F0F5F5&} oscura,
+Dialogue: 0,0:01:50.26,0:01:50.62,Karaoke,,0,0,0,,la sala {\c&H00365AFF&}oscura,{\c&H00F0F5F5&}
+Dialogue: 0,0:01:50.62,0:01:50.74,Karaoke,,0,0,0,,{\c&H00365AFF&}el{\c&H00F0F5F5&} sonido de la película —
+Dialogue: 0,0:01:50.74,0:01:51.48,Karaoke,,0,0,0,,el {\c&H00365AFF&}sonido{\c&H00F0F5F5&} de la película —
+Dialogue: 0,0:01:51.48,0:01:51.60,Karaoke,,0,0,0,,el sonido {\c&H00365AFF&}de{\c&H00F0F5F5&} la película —
+Dialogue: 0,0:01:51.60,0:01:51.72,Karaoke,,0,0,0,,el sonido de {\c&H00365AFF&}la{\c&H00F0F5F5&} película —
+Dialogue: 0,0:01:51.72,0:01:52.42,Karaoke,,0,0,0,,el sonido de la {\c&H00365AFF&}película —{\c&H00F0F5F5&}
+Dialogue: 0,0:01:52.84,0:01:52.95,Karaoke,,0,0,0,,{\c&H00365AFF&}la{\c&H00F0F5F5&} señal del entorno
+Dialogue: 0,0:01:52.95,0:01:53.23,Karaoke,,0,0,0,,la {\c&H00365AFF&}señal{\c&H00F0F5F5&} del entorno
+Dialogue: 0,0:01:53.23,0:01:53.40,Karaoke,,0,0,0,,la señal {\c&H00365AFF&}del{\c&H00F0F5F5&} entorno
+Dialogue: 0,0:01:53.40,0:01:53.88,Karaoke,,0,0,0,,la señal del {\c&H00365AFF&}entorno{\c&H00F0F5F5&}
+Dialogue: 0,0:01:53.88,0:01:54.45,Karaoke,,0,0,0,,{\c&H00365AFF&}activaba{\c&H00F0F5F5&} la conducta automáticamente,
+Dialogue: 0,0:01:54.45,0:01:54.56,Karaoke,,0,0,0,,activaba {\c&H00365AFF&}la{\c&H00F0F5F5&} conducta automáticamente,
+Dialogue: 0,0:01:54.56,0:01:55.12,Karaoke,,0,0,0,,activaba la {\c&H00365AFF&}conducta{\c&H00F0F5F5&} automáticamente,
+Dialogue: 0,0:01:55.12,0:01:56.56,Karaoke,,0,0,0,,activaba la conducta {\c&H00365AFF&}automáticamente,{\c&H00F0F5F5&}
+Dialogue: 0,0:01:56.56,0:01:56.73,Karaoke,,0,0,0,,{\c&H00365AFF&}sin{\c&H00F0F5F5&} pasar por una
+Dialogue: 0,0:01:56.73,0:01:57.01,Karaoke,,0,0,0,,sin {\c&H00365AFF&}pasar{\c&H00F0F5F5&} por una
+Dialogue: 0,0:01:57.01,0:01:57.30,Karaoke,,0,0,0,,sin pasar {\c&H00365AFF&}por{\c&H00F0F5F5&} una
+Dialogue: 0,0:01:57.30,0:01:57.47,Karaoke,,0,0,0,,sin pasar por {\c&H00365AFF&}una{\c&H00F0F5F5&}
+Dialogue: 0,0:01:57.47,0:01:58.00,Karaoke,,0,0,0,,{\c&H00365AFF&}decisión{\c&H00F0F5F5&} consciente ni por
+Dialogue: 0,0:01:58.00,0:01:58.56,Karaoke,,0,0,0,,decisión {\c&H00365AFF&}consciente{\c&H00F0F5F5&} ni por
+Dialogue: 0,0:01:58.56,0:01:58.77,Karaoke,,0,0,0,,decisión consciente {\c&H00365AFF&}ni{\c&H00F0F5F5&} por
+Dialogue: 0,0:01:58.77,0:01:58.94,Karaoke,,0,0,0,,decisión consciente ni {\c&H00365AFF&}por{\c&H00F0F5F5&}
+Dialogue: 0,0:01:58.94,0:01:59.05,Karaoke,,0,0,0,,{\c&H00365AFF&}la{\c&H00F0F5F5&} fuerza de voluntad.
+Dialogue: 0,0:01:59.05,0:01:59.38,Karaoke,,0,0,0,,la {\c&H00365AFF&}fuerza{\c&H00F0F5F5&} de voluntad.
+Dialogue: 0,0:01:59.38,0:01:59.50,Karaoke,,0,0,0,,la fuerza {\c&H00365AFF&}de{\c&H00F0F5F5&} voluntad.
+Dialogue: 0,0:01:59.50,0:02:00.04,Karaoke,,0,0,0,,la fuerza de {\c&H00365AFF&}voluntad.{\c&H00F0F5F5&}
+Dialogue: 0,0:02:01.26,0:02:01.64,Karaoke,,0,0,0,,{\c&H00365AFF&}Tercero,{\c&H00F0F5F5&} qué hacer con
+Dialogue: 0,0:02:01.64,0:02:01.80,Karaoke,,0,0,0,,Tercero, {\c&H00365AFF&}qué{\c&H00F0F5F5&} hacer con
+Dialogue: 0,0:02:01.80,0:02:02.42,Karaoke,,0,0,0,,Tercero, qué {\c&H00365AFF&}hacer{\c&H00F0F5F5&} con
+Dialogue: 0,0:02:02.42,0:02:02.65,Karaoke,,0,0,0,,Tercero, qué hacer {\c&H00365AFF&}con{\c&H00F0F5F5&}
+Dialogue: 0,0:02:02.65,0:02:02.86,Karaoke,,0,0,0,,{\c&H00365AFF&}esto{\c&H00F0F5F5&} en la práctica.
+Dialogue: 0,0:02:02.86,0:02:02.97,Karaoke,,0,0,0,,esto {\c&H00365AFF&}en{\c&H00F0F5F5&} la práctica.
+Dialogue: 0,0:02:02.97,0:02:03.08,Karaoke,,0,0,0,,esto en {\c&H00365AFF&}la{\c&H00F0F5F5&} práctica.
+Dialogue: 0,0:02:03.08,0:02:03.77,Karaoke,,0,0,0,,esto en la {\c&H00365AFF&}práctica.{\c&H00F0F5F5&}
+Dialogue: 0,0:02:05.01,0:02:05.13,Karaoke,,0,0,0,,{\c&H00365AFF&}Si{\c&H00F0F5F5&} el entorno controla
+Dialogue: 0,0:02:05.13,0:02:05.24,Karaoke,,0,0,0,,Si {\c&H00365AFF&}el{\c&H00F0F5F5&} entorno controla
+Dialogue: 0,0:02:05.24,0:02:05.66,Karaoke,,0,0,0,,Si el {\c&H00365AFF&}entorno{\c&H00F0F5F5&} controla
+Dialogue: 0,0:02:05.66,0:02:06.12,Karaoke,,0,0,0,,Si el entorno {\c&H00365AFF&}controla{\c&H00F0F5F5&}
+Dialogue: 0,0:02:06.12,0:02:06.51,Karaoke,,0,0,0,,{\c&H00365AFF&}tanto{\c&H00F0F5F5&} de tu conducta,
+Dialogue: 0,0:02:06.51,0:02:06.62,Karaoke,,0,0,0,,tanto {\c&H00365AFF&}de{\c&H00F0F5F5&} tu conducta,
+Dialogue: 0,0:02:06.62,0:02:06.74,Karaoke,,0,0,0,,tanto de {\c&H00365AFF&}tu{\c&H00F0F5F5&} conducta,
+Dialogue: 0,0:02:06.74,0:02:07.21,Karaoke,,0,0,0,,tanto de tu {\c&H00365AFF&}conducta,{\c&H00F0F5F5&}
+Dialogue: 0,0:02:07.21,0:02:07.46,Karaoke,,0,0,0,,{\c&H00365AFF&}la{\c&H00F0F5F5&} solución no es
+Dialogue: 0,0:02:07.46,0:02:08.37,Karaoke,,0,0,0,,la {\c&H00365AFF&}solución{\c&H00F0F5F5&} no es
+Dialogue: 0,0:02:08.37,0:02:08.49,Karaoke,,0,0,0,,la solución {\c&H00365AFF&}no{\c&H00F0F5F5&} es
+Dialogue: 0,0:02:08.49,0:02:08.60,Karaoke,,0,0,0,,la solución no {\c&H00365AFF&}es{\c&H00F0F5F5&}
+Dialogue: 0,0:02:08.60,0:02:09.03,Karaoke,,0,0,0,,{\c&H00365AFF&}pelear{\c&H00F0F5F5&} contra él usando
+Dialogue: 0,0:02:09.03,0:02:09.46,Karaoke,,0,0,0,,pelear {\c&H00365AFF&}contra{\c&H00F0F5F5&} él usando
+Dialogue: 0,0:02:09.46,0:02:09.58,Karaoke,,0,0,0,,pelear contra {\c&H00365AFF&}él{\c&H00F0F5F5&} usando
+Dialogue: 0,0:02:09.58,0:02:09.94,Karaoke,,0,0,0,,pelear contra él {\c&H00365AFF&}usando{\c&H00F0F5F5&}
+Dialogue: 0,0:02:09.94,0:02:10.11,Karaoke,,0,0,0,,{\c&H00365AFF&}más{\c&H00F0F5F5&} disciplina —
+Dialogue: 0,0:02:10.11,0:02:10.84,Karaoke,,0,0,0,,más {\c&H00365AFF&}disciplina —{\c&H00F0F5F5&}
+Dialogue: 0,0:02:11.18,0:02:11.30,Karaoke,,0,0,0,,{\c&H00365AFF&}es{\c&H00F0F5F5&} rediseñarlo antes de
+Dialogue: 0,0:02:11.30,0:02:11.95,Karaoke,,0,0,0,,es {\c&H00365AFF&}rediseñarlo{\c&H00F0F5F5&} antes de
+Dialogue: 0,0:02:11.95,0:02:12.25,Karaoke,,0,0,0,,es rediseñarlo {\c&H00365AFF&}antes{\c&H00F0F5F5&} de
+Dialogue: 0,0:02:12.25,0:02:12.37,Karaoke,,0,0,0,,es rediseñarlo antes {\c&H00365AFF&}de{\c&H00F0F5F5&}
+Dialogue: 0,0:02:12.37,0:02:12.62,Karaoke,,0,0,0,,{\c&H00365AFF&}que{\c&H00F0F5F5&} la tentación aparezca,
+Dialogue: 0,0:02:12.62,0:02:12.74,Karaoke,,0,0,0,,que {\c&H00365AFF&}la{\c&H00F0F5F5&} tentación aparezca,
+Dialogue: 0,0:02:12.74,0:02:13.27,Karaoke,,0,0,0,,que la {\c&H00365AFF&}tentación{\c&H00F0F5F5&} aparezca,
+Dialogue: 0,0:02:13.27,0:02:13.91,Karaoke,,0,0,0,,que la tentación {\c&H00365AFF&}aparezca,{\c&H00F0F5F5&}
+Dialogue: 0,0:02:13.91,0:02:14.40,Karaoke,,0,0,0,,{\c&H00365AFF&}no{\c&H00F0F5F5&} en el momento
+Dialogue: 0,0:02:14.40,0:02:14.52,Karaoke,,0,0,0,,no {\c&H00365AFF&}en{\c&H00F0F5F5&} el momento
+Dialogue: 0,0:02:14.52,0:02:14.64,Karaoke,,0,0,0,,no en {\c&H00365AFF&}el{\c&H00F0F5F5&} momento
+Dialogue: 0,0:02:14.64,0:02:15.05,Karaoke,,0,0,0,,no en el {\c&H00365AFF&}momento{\c&H00F0F5F5&}
+Dialogue: 0,0:02:15.05,0:02:15.41,Karaoke,,0,0,0,,{\c&H00365AFF&}exacto{\c&H00F0F5F5&} en que ya
+Dialogue: 0,0:02:15.41,0:02:15.64,Karaoke,,0,0,0,,exacto {\c&H00365AFF&}en{\c&H00F0F5F5&} que ya
+Dialogue: 0,0:02:15.64,0:02:15.81,Karaoke,,0,0,0,,exacto en {\c&H00365AFF&}que{\c&H00F0F5F5&} ya
+Dialogue: 0,0:02:15.81,0:02:15.93,Karaoke,,0,0,0,,exacto en que {\c&H00365AFF&}ya{\c&H00F0F5F5&}
+Dialogue: 0,0:02:15.93,0:02:16.05,Karaoke,,0,0,0,,{\c&H00365AFF&}la{\c&H00F0F5F5&} tienes enfrente y
+Dialogue: 0,0:02:16.05,0:02:16.48,Karaoke,,0,0,0,,la {\c&H00365AFF&}tienes{\c&H00F0F5F5&} enfrente y
+Dialogue: 0,0:02:16.48,0:02:16.96,Karaoke,,0,0,0,,la tienes {\c&H00365AFF&}enfrente{\c&H00F0F5F5&} y
+Dialogue: 0,0:02:16.96,0:02:17.01,Karaoke,,0,0,0,,la tienes enfrente {\c&H00365AFF&}y{\c&H00F0F5F5&}
+Dialogue: 0,0:02:17.01,0:02:17.13,Karaoke,,0,0,0,,{\c&H00365AFF&}tu{\c&H00F0F5F5&} voluntad está en
+Dialogue: 0,0:02:17.13,0:02:17.68,Karaoke,,0,0,0,,tu {\c&H00365AFF&}voluntad{\c&H00F0F5F5&} está en
+Dialogue: 0,0:02:17.68,0:02:17.92,Karaoke,,0,0,0,,tu voluntad {\c&H00365AFF&}está{\c&H00F0F5F5&} en
+Dialogue: 0,0:02:17.92,0:02:18.03,Karaoke,,0,0,0,,tu voluntad está {\c&H00365AFF&}en{\c&H00F0F5F5&}
+Dialogue: 0,0:02:18.03,0:02:18.15,Karaoke,,0,0,0,,{\c&H00365AFF&}su{\c&H00F0F5F5&} punto más débil.
+Dialogue: 0,0:02:18.15,0:02:18.53,Karaoke,,0,0,0,,su {\c&H00365AFF&}punto{\c&H00F0F5F5&} más débil.
+Dialogue: 0,0:02:18.53,0:02:18.71,Karaoke,,0,0,0,,su punto {\c&H00365AFF&}más{\c&H00F0F5F5&} débil.
+Dialogue: 0,0:02:18.71,0:02:19.00,Karaoke,,0,0,0,,su punto más {\c&H00365AFF&}débil.{\c&H00F0F5F5&}
+Dialogue: 0,0:02:20.25,0:02:20.49,Karaoke,,0,0,0,,{\c&H00365AFF&}Deja{\c&H00F0F5F5&} la fruta a
+Dialogue: 0,0:02:20.49,0:02:20.61,Karaoke,,0,0,0,,Deja {\c&H00365AFF&}la{\c&H00F0F5F5&} fruta a
+Dialogue: 0,0:02:20.61,0:02:20.91,Karaoke,,0,0,0,,Deja la {\c&H00365AFF&}fruta{\c&H00F0F5F5&} a
+Dialogue: 0,0:02:20.91,0:02:20.97,Karaoke,,0,0,0,,Deja la fruta {\c&H00365AFF&}a{\c&H00F0F5F5&}
+Dialogue: 0,0:02:20.97,0:02:21.09,Karaoke,,0,0,0,,{\c&H00365AFF&}la{\c&H00F0F5F5&} vista y esconde
+Dialogue: 0,0:02:21.09,0:02:21.39,Karaoke,,0,0,0,,la {\c&H00365AFF&}vista{\c&H00F0F5F5&} y esconde
+Dialogue: 0,0:02:21.39,0:02:21.45,Karaoke,,0,0,0,,la vista {\c&H00365AFF&}y{\c&H00F0F5F5&} esconde
+Dialogue: 0,0:02:21.45,0:02:21.87,Karaoke,,0,0,0,,la vista y {\c&H00365AFF&}esconde{\c&H00F0F5F5&}
+Dialogue: 0,0:02:21.87,0:02:22.05,Karaoke,,0,0,0,,{\c&H00365AFF&}las{\c&H00F0F5F5&} galletas en un
+Dialogue: 0,0:02:22.05,0:02:22.53,Karaoke,,0,0,0,,las {\c&H00365AFF&}galletas{\c&H00F0F5F5&} en un
+Dialogue: 0,0:02:22.53,0:02:22.65,Karaoke,,0,0,0,,las galletas {\c&H00365AFF&}en{\c&H00F0F5F5&} un
+Dialogue: 0,0:02:22.65,0:02:22.77,Karaoke,,0,0,0,,las galletas en {\c&H00365AFF&}un{\c&H00F0F5F5&}
+Dialogue: 0,0:02:22.77,0:02:23.07,Karaoke,,0,0,0,,{\c&H00365AFF&}lugar{\c&H00F0F5F5&} incómodo de alcanzar,
+Dialogue: 0,0:02:23.07,0:02:23.55,Karaoke,,0,0,0,,lugar {\c&H00365AFF&}incómodo{\c&H00F0F5F5&} de alcanzar,
+Dialogue: 0,0:02:23.55,0:02:23.67,Karaoke,,0,0,0,,lugar incómodo {\c&H00365AFF&}de{\c&H00F0F5F5&} alcanzar,
+Dialogue: 0,0:02:23.67,0:02:24.23,Karaoke,,0,0,0,,lugar incómodo de {\c&H00365AFF&}alcanzar,{\c&H00F0F5F5&}
+Dialogue: 0,0:02:24.23,0:02:24.35,Karaoke,,0,0,0,,{\c&H00365AFF&}en{\c&H00F0F5F5&} un estante alto
+Dialogue: 0,0:02:24.35,0:02:24.47,Karaoke,,0,0,0,,en {\c&H00365AFF&}un{\c&H00F0F5F5&} estante alto
+Dialogue: 0,0:02:24.47,0:02:25.35,Karaoke,,0,0,0,,en un {\c&H00365AFF&}estante{\c&H00F0F5F5&} alto
+Dialogue: 0,0:02:25.35,0:02:25.66,Karaoke,,0,0,0,,en un estante {\c&H00365AFF&}alto{\c&H00F0F5F5&}
+Dialogue: 0,0:02:25.66,0:02:25.72,Karaoke,,0,0,0,,{\c&H00365AFF&}o{\c&H00F0F5F5&} detrás de otros productos.
+Dialogue: 0,0:02:25.72,0:02:26.17,Karaoke,,0,0,0,,o {\c&H00365AFF&}detrás{\c&H00F0F5F5&} de otros productos.
+Dialogue: 0,0:02:26.17,0:02:26.36,Karaoke,,0,0,0,,o detrás {\c&H00365AFF&}de{\c&H00F0F5F5&} otros productos.
+Dialogue: 0,0:02:26.36,0:02:26.66,Karaoke,,0,0,0,,o detrás de {\c&H00365AFF&}otros{\c&H00F0F5F5&} productos.
+Dialogue: 0,0:02:26.66,0:02:27.50,Karaoke,,0,0,0,,o detrás de otros {\c&H00365AFF&}productos.{\c&H00F0F5F5&}
+Dialogue: 0,0:02:28.71,0:02:28.95,Karaoke,,0,0,0,,{\c&H00365AFF&}Deja{\c&H00F0F5F5&} la ropa de
+Dialogue: 0,0:02:28.95,0:02:29.07,Karaoke,,0,0,0,,Deja {\c&H00365AFF&}la{\c&H00F0F5F5&} ropa de
+Dialogue: 0,0:02:29.07,0:02:29.30,Karaoke,,0,0,0,,Deja la {\c&H00365AFF&}ropa{\c&H00F0F5F5&} de
+Dialogue: 0,0:02:29.30,0:02:29.50,Karaoke,,0,0,0,,Deja la ropa {\c&H00365AFF&}de{\c&H00F0F5F5&}
+Dialogue: 0,0:02:29.50,0:02:29.98,Karaoke,,0,0,0,,{\c&H00365AFF&}entrenar{\c&H00F0F5F5&} lista junto a
+Dialogue: 0,0:02:29.98,0:02:30.28,Karaoke,,0,0,0,,entrenar {\c&H00365AFF&}lista{\c&H00F0F5F5&} junto a
+Dialogue: 0,0:02:30.28,0:02:30.57,Karaoke,,0,0,0,,entrenar lista {\c&H00365AFF&}junto{\c&H00F0F5F5&} a
+Dialogue: 0,0:02:30.57,0:02:30.64,Karaoke,,0,0,0,,entrenar lista junto {\c&H00365AFF&}a{\c&H00F0F5F5&}
+Dialogue: 0,0:02:30.64,0:02:30.76,Karaoke,,0,0,0,,{\c&H00365AFF&}la{\c&H00F0F5F5&} cama la noche
+Dialogue: 0,0:02:30.76,0:02:31.07,Karaoke,,0,0,0,,la {\c&H00365AFF&}cama{\c&H00F0F5F5&} la noche
+Dialogue: 0,0:02:31.07,0:02:31.20,Karaoke,,0,0,0,,la cama {\c&H00365AFF&}la{\c&H00F0F5F5&} noche
+Dialogue: 0,0:02:31.20,0:02:31.49,Karaoke,,0,0,0,,la cama la {\c&H00365AFF&}noche{\c&H00F0F5F5&}
+Dialogue: 0,0:02:31.49,0:02:31.97,Karaoke,,0,0,0,,{\c&H00365AFF&}anterior{\c&H00F0F5F5&} y pon el
+Dialogue: 0,0:02:31.97,0:02:32.03,Karaoke,,0,0,0,,anterior {\c&H00365AFF&}y{\c&H00F0F5F5&} pon el
+Dialogue: 0,0:02:32.03,0:02:32.21,Karaoke,,0,0,0,,anterior y {\c&H00365AFF&}pon{\c&H00F0F5F5&} el
+Dialogue: 0,0:02:32.21,0:02:32.42,Karaoke,,0,0,0,,anterior y pon {\c&H00365AFF&}el{\c&H00F0F5F5&}
+Dialogue: 0,0:02:32.42,0:02:32.92,Karaoke,,0,0,0,,{\c&H00365AFF&}control{\c&H00F0F5F5&} remoto dentro de
+Dialogue: 0,0:02:32.92,0:02:33.34,Karaoke,,0,0,0,,control {\c&H00365AFF&}remoto{\c&H00F0F5F5&} dentro de
+Dialogue: 0,0:02:33.34,0:02:33.70,Karaoke,,0,0,0,,control remoto {\c&H00365AFF&}dentro{\c&H00F0F5F5&} de
+Dialogue: 0,0:02:33.70,0:02:33.82,Karaoke,,0,0,0,,control remoto dentro {\c&H00365AFF&}de{\c&H00F0F5F5&}
+Dialogue: 0,0:02:33.82,0:02:34.03,Karaoke,,0,0,0,,{\c&H00365AFF&}un{\c&H00F0F5F5&} cajón cerrado,
+Dialogue: 0,0:02:34.03,0:02:34.33,Karaoke,,0,0,0,,un {\c&H00365AFF&}cajón{\c&H00F0F5F5&} cerrado,
+Dialogue: 0,0:02:34.33,0:02:35.18,Karaoke,,0,0,0,,un cajón {\c&H00365AFF&}cerrado,{\c&H00F0F5F5&}
+Dialogue: 0,0:02:35.18,0:02:35.30,Karaoke,,0,0,0,,{\c&H00365AFF&}no{\c&H00F0F5F5&} sobre la mesa
+Dialogue: 0,0:02:35.30,0:02:35.60,Karaoke,,0,0,0,,no {\c&H00365AFF&}sobre{\c&H00F0F5F5&} la mesa
+Dialogue: 0,0:02:35.60,0:02:35.72,Karaoke,,0,0,0,,no sobre {\c&H00365AFF&}la{\c&H00F0F5F5&} mesa
+Dialogue: 0,0:02:35.72,0:02:35.96,Karaoke,,0,0,0,,no sobre la {\c&H00365AFF&}mesa{\c&H00F0F5F5&}
+Dialogue: 0,0:02:35.96,0:02:36.26,Karaoke,,0,0,0,,{\c&H00365AFF&}donde{\c&H00F0F5F5&} lo ves apenas
+Dialogue: 0,0:02:36.26,0:02:36.38,Karaoke,,0,0,0,,donde {\c&H00365AFF&}lo{\c&H00F0F5F5&} ves apenas
+Dialogue: 0,0:02:36.38,0:02:36.56,Karaoke,,0,0,0,,donde lo {\c&H00365AFF&}ves{\c&H00F0F5F5&} apenas
+Dialogue: 0,0:02:36.56,0:02:37.01,Karaoke,,0,0,0,,donde lo ves {\c&H00365AFF&}apenas{\c&H00F0F5F5&}
+Dialogue: 0,0:02:37.01,0:02:37.13,Karaoke,,0,0,0,,{\c&H00365AFF&}te{\c&H00F0F5F5&} sientas.
+Dialogue: 0,0:02:37.13,0:02:37.73,Karaoke,,0,0,0,,te {\c&H00365AFF&}sientas.{\c&H00F0F5F5&}
+Dialogue: 0,0:02:38.95,0:02:39.19,Karaoke,,0,0,0,,{\c&H00365AFF&}Esto{\c&H00F0F5F5&} es lo que
+Dialogue: 0,0:02:39.19,0:02:39.31,Karaoke,,0,0,0,,Esto {\c&H00365AFF&}es{\c&H00F0F5F5&} lo que
+Dialogue: 0,0:02:39.31,0:02:39.43,Karaoke,,0,0,0,,Esto es {\c&H00365AFF&}lo{\c&H00F0F5F5&} que
+Dialogue: 0,0:02:39.43,0:02:39.60,Karaoke,,0,0,0,,Esto es lo {\c&H00365AFF&}que{\c&H00F0F5F5&}
+Dialogue: 0,0:02:39.60,0:02:39.90,Karaoke,,0,0,0,,{\c&H00365AFF&}nadie{\c&H00F0F5F5&} te dice:
+Dialogue: 0,0:02:39.90,0:02:40.02,Karaoke,,0,0,0,,nadie {\c&H00365AFF&}te{\c&H00F0F5F5&} dice:
+Dialogue: 0,0:02:40.02,0:02:40.26,Karaoke,,0,0,0,,nadie te {\c&H00365AFF&}dice:{\c&H00F0F5F5&}
+Dialogue: 0,0:02:40.26,0:02:40.80,Karaoke,,0,0,0,,{\c&H00365AFF&}no{\c&H00F0F5F5&} se trata de
+Dialogue: 0,0:02:40.80,0:02:40.92,Karaoke,,0,0,0,,no {\c&H00365AFF&}se{\c&H00F0F5F5&} trata de
+Dialogue: 0,0:02:40.92,0:02:41.21,Karaoke,,0,0,0,,no se {\c&H00365AFF&}trata{\c&H00F0F5F5&} de
+Dialogue: 0,0:02:41.21,0:02:41.33,Karaoke,,0,0,0,,no se trata {\c&H00365AFF&}de{\c&H00F0F5F5&}
+Dialogue: 0,0:02:41.33,0:02:41.63,Karaoke,,0,0,0,,{\c&H00365AFF&}tener{\c&H00F0F5F5&} más disciplina que
+Dialogue: 0,0:02:41.63,0:02:41.81,Karaoke,,0,0,0,,tener {\c&H00365AFF&}más{\c&H00F0F5F5&} disciplina que
+Dialogue: 0,0:02:41.81,0:02:42.47,Karaoke,,0,0,0,,tener más {\c&H00365AFF&}disciplina{\c&H00F0F5F5&} que
+Dialogue: 0,0:02:42.47,0:02:42.65,Karaoke,,0,0,0,,tener más disciplina {\c&H00365AFF&}que{\c&H00F0F5F5&}
+Dialogue: 0,0:02:42.65,0:02:42.83,Karaoke,,0,0,0,,{\c&H00365AFF&}las{\c&H00F0F5F5&} personas que fallan.
+Dialogue: 0,0:02:42.83,0:02:43.38,Karaoke,,0,0,0,,las {\c&H00365AFF&}personas{\c&H00F0F5F5&} que fallan.
+Dialogue: 0,0:02:43.38,0:02:43.56,Karaoke,,0,0,0,,las personas {\c&H00365AFF&}que{\c&H00F0F5F5&} fallan.
+Dialogue: 0,0:02:43.56,0:02:43.91,Karaoke,,0,0,0,,las personas que {\c&H00365AFF&}fallan.{\c&H00F0F5F5&}
+Dialogue: 0,0:02:45.13,0:02:45.24,Karaoke,,0,0,0,,{\c&H00365AFF&}Se{\c&H00F0F5F5&} trata de necesitar
+Dialogue: 0,0:02:45.24,0:02:45.53,Karaoke,,0,0,0,,Se {\c&H00365AFF&}trata{\c&H00F0F5F5&} de necesitar
+Dialogue: 0,0:02:45.53,0:02:45.64,Karaoke,,0,0,0,,Se trata {\c&H00365AFF&}de{\c&H00F0F5F5&} necesitar
+Dialogue: 0,0:02:45.64,0:02:46.15,Karaoke,,0,0,0,,Se trata de {\c&H00365AFF&}necesitar{\c&H00F0F5F5&}
+Dialogue: 0,0:02:46.15,0:02:46.43,Karaoke,,0,0,0,,{\c&H00365AFF&}menos{\c&H00F0F5F5&} disciplina,
+Dialogue: 0,0:02:46.43,0:02:47.08,Karaoke,,0,0,0,,menos {\c&H00365AFF&}disciplina,{\c&H00F0F5F5&}
+Dialogue: 0,0:02:47.08,0:02:47.79,Karaoke,,0,0,0,,{\c&H00365AFF&}porque{\c&H00F0F5F5&} ya organizaste el
+Dialogue: 0,0:02:47.79,0:02:47.91,Karaoke,,0,0,0,,porque {\c&H00365AFF&}ya{\c&H00F0F5F5&} organizaste el
+Dialogue: 0,0:02:47.91,0:02:48.53,Karaoke,,0,0,0,,porque ya {\c&H00365AFF&}organizaste{\c&H00F0F5F5&} el
+Dialogue: 0,0:02:48.53,0:02:48.64,Karaoke,,0,0,0,,porque ya organizaste {\c&H00365AFF&}el{\c&H00F0F5F5&}
+Dialogue: 0,0:02:48.64,0:02:49.06,Karaoke,,0,0,0,,{\c&H00365AFF&}camino{\c&H00F0F5F5&} de menor resistencia
+Dialogue: 0,0:02:49.06,0:02:49.17,Karaoke,,0,0,0,,camino {\c&H00365AFF&}de{\c&H00F0F5F5&} menor resistencia
+Dialogue: 0,0:02:49.17,0:02:49.45,Karaoke,,0,0,0,,camino de {\c&H00365AFF&}menor{\c&H00F0F5F5&} resistencia
+Dialogue: 0,0:02:49.45,0:02:50.16,Karaoke,,0,0,0,,camino de menor {\c&H00365AFF&}resistencia{\c&H00F0F5F5&}
+Dialogue: 0,0:02:50.16,0:02:50.44,Karaoke,,0,0,0,,{\c&H00365AFF&}hacia{\c&H00F0F5F5&} lo que sí
+Dialogue: 0,0:02:50.44,0:02:50.55,Karaoke,,0,0,0,,hacia {\c&H00365AFF&}lo{\c&H00F0F5F5&} que sí
+Dialogue: 0,0:02:50.55,0:02:50.72,Karaoke,,0,0,0,,hacia lo {\c&H00365AFF&}que{\c&H00F0F5F5&} sí
+Dialogue: 0,0:02:50.72,0:02:50.91,Karaoke,,0,0,0,,hacia lo que {\c&H00365AFF&}sí{\c&H00F0F5F5&}
+Dialogue: 0,0:02:50.91,0:02:51.38,Karaoke,,0,0,0,,{\c&H00365AFF&}quieres{\c&H00F0F5F5&} hacer,
+Dialogue: 0,0:02:51.38,0:02:51.67,Karaoke,,0,0,0,,quieres {\c&H00365AFF&}hacer,{\c&H00F0F5F5&}
+Dialogue: 0,0:02:51.67,0:02:52.35,Karaoke,,0,0,0,,{\c&H00365AFF&}mucho{\c&H00F0F5F5&} antes de que
+Dialogue: 0,0:02:52.35,0:02:52.63,Karaoke,,0,0,0,,mucho {\c&H00365AFF&}antes{\c&H00F0F5F5&} de que
+Dialogue: 0,0:02:52.63,0:02:52.74,Karaoke,,0,0,0,,mucho antes {\c&H00365AFF&}de{\c&H00F0F5F5&} que
+Dialogue: 0,0:02:52.74,0:02:52.91,Karaoke,,0,0,0,,mucho antes de {\c&H00365AFF&}que{\c&H00F0F5F5&}
+Dialogue: 0,0:02:52.91,0:02:53.10,Karaoke,,0,0,0,,{\c&H00365AFF&}la{\c&H00F0F5F5&} tentación tuviera oportunidad
+Dialogue: 0,0:02:53.10,0:02:53.68,Karaoke,,0,0,0,,la {\c&H00365AFF&}tentación{\c&H00F0F5F5&} tuviera oportunidad
+Dialogue: 0,0:02:53.68,0:02:54.08,Karaoke,,0,0,0,,la tentación {\c&H00365AFF&}tuviera{\c&H00F0F5F5&} oportunidad
+Dialogue: 0,0:02:54.08,0:02:54.87,Karaoke,,0,0,0,,la tentación tuviera {\c&H00365AFF&}oportunidad{\c&H00F0F5F5&}
+Dialogue: 0,0:02:54.87,0:02:54.99,Karaoke,,0,0,0,,{\c&H00365AFF&}de{\c&H00F0F5F5&} aparecer.
+Dialogue: 0,0:02:54.99,0:02:55.52,Karaoke,,0,0,0,,de {\c&H00365AFF&}aparecer.{\c&H00F0F5F5&}
+Dialogue: 0,0:02:56.77,0:02:56.83,Karaoke,,0,0,0,,{\c&H00365AFF&}Y{\c&H00F0F5F5&} cuarto,
+Dialogue: 0,0:02:56.83,0:02:57.78,Karaoke,,0,0,0,,Y {\c&H00365AFF&}cuarto,{\c&H00F0F5F5&}
+Dialogue: 0,0:02:57.78,0:02:57.91,Karaoke,,0,0,0,,{\c&H00365AFF&}la{\c&H00F0F5F5&} trampa de creer
+Dialogue: 0,0:02:57.91,0:02:58.28,Karaoke,,0,0,0,,la {\c&H00365AFF&}trampa{\c&H00F0F5F5&} de creer
+Dialogue: 0,0:02:58.28,0:02:58.40,Karaoke,,0,0,0,,la trampa {\c&H00365AFF&}de{\c&H00F0F5F5&} creer
+Dialogue: 0,0:02:58.40,0:02:58.79,Karaoke,,0,0,0,,la trampa de {\c&H00365AFF&}creer{\c&H00F0F5F5&}
+Dialogue: 0,0:02:58.79,0:02:58.98,Karaoke,,0,0,0,,{\c&H00365AFF&}que{\c&H00F0F5F5&} ya lo resolviste.
+Dialogue: 0,0:02:58.98,0:02:59.10,Karaoke,,0,0,0,,que {\c&H00365AFF&}ya{\c&H00F0F5F5&} lo resolviste.
+Dialogue: 0,0:02:59.10,0:02:59.23,Karaoke,,0,0,0,,que ya {\c&H00365AFF&}lo{\c&H00F0F5F5&} resolviste.
+Dialogue: 0,0:02:59.23,0:02:59.85,Karaoke,,0,0,0,,que ya lo {\c&H00365AFF&}resolviste.{\c&H00F0F5F5&}
+Dialogue: 0,0:03:01.13,0:03:01.65,Karaoke,,0,0,0,,{\c&H00365AFF&}Rediseñar{\c&H00F0F5F5&} tu entorno una
+Dialogue: 0,0:03:01.65,0:03:01.84,Karaoke,,0,0,0,,Rediseñar {\c&H00365AFF&}tu{\c&H00F0F5F5&} entorno una
+Dialogue: 0,0:03:01.84,0:03:02.24,Karaoke,,0,0,0,,Rediseñar tu {\c&H00365AFF&}entorno{\c&H00F0F5F5&} una
+Dialogue: 0,0:03:02.24,0:03:02.42,Karaoke,,0,0,0,,Rediseñar tu entorno {\c&H00365AFF&}una{\c&H00F0F5F5&}
+Dialogue: 0,0:03:02.42,0:03:02.65,Karaoke,,0,0,0,,{\c&H00365AFF&}sola{\c&H00F0F5F5&} vez no es
+Dialogue: 0,0:03:02.65,0:03:02.82,Karaoke,,0,0,0,,sola {\c&H00365AFF&}vez{\c&H00F0F5F5&} no es
+Dialogue: 0,0:03:02.82,0:03:02.94,Karaoke,,0,0,0,,sola vez {\c&H00365AFF&}no{\c&H00F0F5F5&} es
+Dialogue: 0,0:03:02.94,0:03:03.05,Karaoke,,0,0,0,,sola vez no {\c&H00365AFF&}es{\c&H00F0F5F5&}
+Dialogue: 0,0:03:03.05,0:03:03.63,Karaoke,,0,0,0,,{\c&H00365AFF&}suficiente{\c&H00F0F5F5&} si vuelves al
+Dialogue: 0,0:03:03.63,0:03:03.74,Karaoke,,0,0,0,,suficiente {\c&H00365AFF&}si{\c&H00F0F5F5&} vuelves al
+Dialogue: 0,0:03:03.74,0:03:04.15,Karaoke,,0,0,0,,suficiente si {\c&H00365AFF&}vuelves{\c&H00F0F5F5&} al
+Dialogue: 0,0:03:04.15,0:03:04.26,Karaoke,,0,0,0,,suficiente si vuelves {\c&H00365AFF&}al{\c&H00F0F5F5&}
+Dialogue: 0,0:03:04.26,0:03:04.55,Karaoke,,0,0,0,,{\c&H00365AFF&}mismo{\c&H00F0F5F5&} entorno sin cambios
+Dialogue: 0,0:03:04.55,0:03:05.04,Karaoke,,0,0,0,,mismo {\c&H00365AFF&}entorno{\c&H00F0F5F5&} sin cambios
+Dialogue: 0,0:03:05.04,0:03:05.21,Karaoke,,0,0,0,,mismo entorno {\c&H00365AFF&}sin{\c&H00F0F5F5&} cambios
+Dialogue: 0,0:03:05.21,0:03:05.69,Karaoke,,0,0,0,,mismo entorno sin {\c&H00365AFF&}cambios{\c&H00F0F5F5&}
+Dialogue: 0,0:03:05.69,0:03:05.92,Karaoke,,0,0,0,,{\c&H00365AFF&}cada{\c&H00F0F5F5&} semana,
+Dialogue: 0,0:03:05.92,0:03:06.27,Karaoke,,0,0,0,,cada {\c&H00365AFF&}semana,{\c&H00F0F5F5&}
+Dialogue: 0,0:03:06.27,0:03:06.50,Karaoke,,0,0,0,,{\c&H00365AFF&}como{\c&H00F0F5F5&} si el trabajo
+Dialogue: 0,0:03:06.50,0:03:06.95,Karaoke,,0,0,0,,como {\c&H00365AFF&}si{\c&H00F0F5F5&} el trabajo
+Dialogue: 0,0:03:06.95,0:03:07.06,Karaoke,,0,0,0,,como si {\c&H00365AFF&}el{\c&H00F0F5F5&} trabajo
+Dialogue: 0,0:03:07.06,0:03:07.54,Karaoke,,0,0,0,,como si el {\c&H00365AFF&}trabajo{\c&H00F0F5F5&}
+Dialogue: 0,0:03:07.54,0:03:07.65,Karaoke,,0,0,0,,{\c&H00365AFF&}ya{\c&H00F0F5F5&} estuviera terminado para siempre.
+Dialogue: 0,0:03:07.65,0:03:08.17,Karaoke,,0,0,0,,ya {\c&H00365AFF&}estuviera{\c&H00F0F5F5&} terminado para siempre.
+Dialogue: 0,0:03:08.17,0:03:08.79,Karaoke,,0,0,0,,ya estuviera {\c&H00365AFF&}terminado{\c&H00F0F5F5&} para siempre.
+Dialogue: 0,0:03:08.79,0:03:09.12,Karaoke,,0,0,0,,ya estuviera terminado {\c&H00365AFF&}para{\c&H00F0F5F5&} siempre.
+Dialogue: 0,0:03:09.12,0:03:09.53,Karaoke,,0,0,0,,ya estuviera terminado para {\c&H00365AFF&}siempre.{\c&H00F0F5F5&}
+Dialogue: 0,0:03:10.90,0:03:11.14,Karaoke,,0,0,0,,{\c&H00365AFF&}Pero{\c&H00F0F5F5&} espera,
+Dialogue: 0,0:03:11.14,0:03:11.58,Karaoke,,0,0,0,,Pero {\c&H00365AFF&}espera,{\c&H00F0F5F5&}
+Dialogue: 0,0:03:11.58,0:03:12.36,Karaoke,,0,0,0,,{\c&H00365AFF&}todavía{\c&H00F0F5F5&} hay más:
+Dialogue: 0,0:03:12.36,0:03:12.54,Karaoke,,0,0,0,,todavía {\c&H00365AFF&}hay{\c&H00F0F5F5&} más:
+Dialogue: 0,0:03:12.54,0:03:12.72,Karaoke,,0,0,0,,todavía hay {\c&H00365AFF&}más:{\c&H00F0F5F5&}
+Dialogue: 0,0:03:12.72,0:03:13.32,Karaoke,,0,0,0,,{\c&H00365AFF&}los{\c&H00F0F5F5&} entornos se degradan
+Dialogue: 0,0:03:13.32,0:03:13.79,Karaoke,,0,0,0,,los {\c&H00365AFF&}entornos{\c&H00F0F5F5&} se degradan
+Dialogue: 0,0:03:13.79,0:03:13.91,Karaoke,,0,0,0,,los entornos {\c&H00365AFF&}se{\c&H00F0F5F5&} degradan
+Dialogue: 0,0:03:13.91,0:03:14.38,Karaoke,,0,0,0,,los entornos se {\c&H00365AFF&}degradan{\c&H00F0F5F5&}
+Dialogue: 0,0:03:14.38,0:03:14.68,Karaoke,,0,0,0,,{\c&H00365AFF&}solos{\c&H00F0F5F5&} con el tiempo —
+Dialogue: 0,0:03:14.68,0:03:14.86,Karaoke,,0,0,0,,solos {\c&H00365AFF&}con{\c&H00F0F5F5&} el tiempo —
+Dialogue: 0,0:03:14.86,0:03:14.97,Karaoke,,0,0,0,,solos con {\c&H00365AFF&}el{\c&H00F0F5F5&} tiempo —
+Dialogue: 0,0:03:14.97,0:03:15.54,Karaoke,,0,0,0,,solos con el {\c&H00365AFF&}tiempo —{\c&H00F0F5F5&}
+Dialogue: 0,0:03:15.84,0:03:16.25,Karaoke,,0,0,0,,{\c&H00365AFF&}alguien{\c&H00F0F5F5&} deja galletas nuevas
+Dialogue: 0,0:03:16.25,0:03:16.49,Karaoke,,0,0,0,,alguien {\c&H00365AFF&}deja{\c&H00F0F5F5&} galletas nuevas
+Dialogue: 0,0:03:16.49,0:03:16.96,Karaoke,,0,0,0,,alguien deja {\c&H00365AFF&}galletas{\c&H00F0F5F5&} nuevas
+Dialogue: 0,0:03:16.96,0:03:17.32,Karaoke,,0,0,0,,alguien deja galletas {\c&H00365AFF&}nuevas{\c&H00F0F5F5&}
+Dialogue: 0,0:03:17.32,0:03:17.61,Karaoke,,0,0,0,,{\c&H00365AFF&}sobre{\c&H00F0F5F5&} la mesa,
+Dialogue: 0,0:03:17.61,0:03:17.73,Karaoke,,0,0,0,,sobre {\c&H00365AFF&}la{\c&H00F0F5F5&} mesa,
+Dialogue: 0,0:03:17.73,0:03:17.97,Karaoke,,0,0,0,,sobre la {\c&H00365AFF&}mesa,{\c&H00F0F5F5&}
+Dialogue: 0,0:03:17.97,0:03:18.79,Karaoke,,0,0,0,,{\c&H00365AFF&}alguien{\c&H00F0F5F5&} pone el teléfono
+Dialogue: 0,0:03:18.79,0:03:19.02,Karaoke,,0,0,0,,alguien {\c&H00365AFF&}pone{\c&H00F0F5F5&} el teléfono
+Dialogue: 0,0:03:19.02,0:03:19.24,Karaoke,,0,0,0,,alguien pone {\c&H00365AFF&}el{\c&H00F0F5F5&} teléfono
+Dialogue: 0,0:03:19.24,0:03:19.72,Karaoke,,0,0,0,,alguien pone el {\c&H00365AFF&}teléfono{\c&H00F0F5F5&}
+Dialogue: 0,0:03:19.72,0:03:19.83,Karaoke,,0,0,0,,{\c&H00365AFF&}de{\c&H00F0F5F5&} vuelta junto a
+Dialogue: 0,0:03:19.83,0:03:20.27,Karaoke,,0,0,0,,de {\c&H00365AFF&}vuelta{\c&H00F0F5F5&} junto a
+Dialogue: 0,0:03:20.27,0:03:20.64,Karaoke,,0,0,0,,de vuelta {\c&H00365AFF&}junto{\c&H00F0F5F5&} a
+Dialogue: 0,0:03:20.64,0:03:20.70,Karaoke,,0,0,0,,de vuelta junto {\c&H00365AFF&}a{\c&H00F0F5F5&}
+Dialogue: 0,0:03:20.70,0:03:20.82,Karaoke,,0,0,0,,{\c&H00365AFF&}la{\c&H00F0F5F5&} cama,
+Dialogue: 0,0:03:20.82,0:03:21.31,Karaoke,,0,0,0,,la {\c&H00365AFF&}cama,{\c&H00F0F5F5&}
+Dialogue: 0,0:03:21.31,0:03:21.56,Karaoke,,0,0,0,,{\c&H00365AFF&}una{\c&H00F0F5F5&} promoción en el
+Dialogue: 0,0:03:21.56,0:03:22.09,Karaoke,,0,0,0,,una {\c&H00365AFF&}promoción{\c&H00F0F5F5&} en el
+Dialogue: 0,0:03:22.09,0:03:22.21,Karaoke,,0,0,0,,una promoción {\c&H00365AFF&}en{\c&H00F0F5F5&} el
+Dialogue: 0,0:03:22.21,0:03:22.33,Karaoke,,0,0,0,,una promoción en {\c&H00365AFF&}el{\c&H00F0F5F5&}
+Dialogue: 0,0:03:22.33,0:03:23.15,Karaoke,,0,0,0,,{\c&H00365AFF&}supermercado{\c&H00F0F5F5&} llena tu cocina
+Dialogue: 0,0:03:23.15,0:03:23.44,Karaoke,,0,0,0,,supermercado {\c&H00365AFF&}llena{\c&H00F0F5F5&} tu cocina
+Dialogue: 0,0:03:23.44,0:03:23.56,Karaoke,,0,0,0,,supermercado llena {\c&H00365AFF&}tu{\c&H00F0F5F5&} cocina
+Dialogue: 0,0:03:23.56,0:03:23.91,Karaoke,,0,0,0,,supermercado llena tu {\c&H00365AFF&}cocina{\c&H00F0F5F5&}
+Dialogue: 0,0:03:23.91,0:03:24.03,Karaoke,,0,0,0,,{\c&H00365AFF&}de{\c&H00F0F5F5&} tentaciones que no
+Dialogue: 0,0:03:24.03,0:03:24.68,Karaoke,,0,0,0,,de {\c&H00365AFF&}tentaciones{\c&H00F0F5F5&} que no
+Dialogue: 0,0:03:24.68,0:03:24.86,Karaoke,,0,0,0,,de tentaciones {\c&H00365AFF&}que{\c&H00F0F5F5&} no
+Dialogue: 0,0:03:24.86,0:03:24.98,Karaoke,,0,0,0,,de tentaciones que {\c&H00365AFF&}no{\c&H00F0F5F5&}
+Dialogue: 0,0:03:24.98,0:03:25.45,Karaoke,,0,0,0,,{\c&H00365AFF&}elegiste{\c&H00F0F5F5&} tener ahí —
+Dialogue: 0,0:03:25.45,0:03:25.75,Karaoke,,0,0,0,,elegiste {\c&H00365AFF&}tener{\c&H00F0F5F5&} ahí —
+Dialogue: 0,0:03:25.75,0:03:25.98,Karaoke,,0,0,0,,elegiste tener {\c&H00365AFF&}ahí —{\c&H00F0F5F5&}
+Dialogue: 0,0:03:26.22,0:03:26.28,Karaoke,,0,0,0,,{\c&H00365AFF&}y{\c&H00F0F5F5&} sin revisión periódica,
+Dialogue: 0,0:03:26.28,0:03:26.48,Karaoke,,0,0,0,,y {\c&H00365AFF&}sin{\c&H00F0F5F5&} revisión periódica,
+Dialogue: 0,0:03:26.48,0:03:26.99,Karaoke,,0,0,0,,y sin {\c&H00365AFF&}revisión{\c&H00F0F5F5&} periódica,
+Dialogue: 0,0:03:26.99,0:03:27.74,Karaoke,,0,0,0,,y sin revisión {\c&H00365AFF&}periódica,{\c&H00F0F5F5&}
+Dialogue: 0,0:03:27.74,0:03:28.28,Karaoke,,0,0,0,,{\c&H00365AFF&}cada{\c&H00F0F5F5&} pocas semanas,
+Dialogue: 0,0:03:28.28,0:03:28.68,Karaoke,,0,0,0,,cada {\c&H00365AFF&}pocas{\c&H00F0F5F5&} semanas,
+Dialogue: 0,0:03:28.68,0:03:29.13,Karaoke,,0,0,0,,cada pocas {\c&H00365AFF&}semanas,{\c&H00F0F5F5&}
+Dialogue: 0,0:03:29.13,0:03:29.26,Karaoke,,0,0,0,,{\c&H00365AFF&}el{\c&H00F0F5F5&} entorno que diseñaste
+Dialogue: 0,0:03:29.26,0:03:30.10,Karaoke,,0,0,0,,el {\c&H00365AFF&}entorno{\c&H00F0F5F5&} que diseñaste
+Dialogue: 0,0:03:30.10,0:03:30.29,Karaoke,,0,0,0,,el entorno {\c&H00365AFF&}que{\c&H00F0F5F5&} diseñaste
+Dialogue: 0,0:03:30.29,0:03:30.86,Karaoke,,0,0,0,,el entorno que {\c&H00365AFF&}diseñaste{\c&H00F0F5F5&}
+Dialogue: 0,0:03:30.86,0:03:31.06,Karaoke,,0,0,0,,{\c&H00365AFF&}con{\c&H00F0F5F5&} cuidado termina pareciéndose
+Dialogue: 0,0:03:31.06,0:03:31.50,Karaoke,,0,0,0,,con {\c&H00365AFF&}cuidado{\c&H00F0F5F5&} termina pareciéndose
+Dialogue: 0,0:03:31.50,0:03:31.95,Karaoke,,0,0,0,,con cuidado {\c&H00365AFF&}termina{\c&H00F0F5F5&} pareciéndose
+Dialogue: 0,0:03:31.95,0:03:32.72,Karaoke,,0,0,0,,con cuidado termina {\c&H00365AFF&}pareciéndose{\c&H00F0F5F5&}
+Dialogue: 0,0:03:32.72,0:03:32.98,Karaoke,,0,0,0,,{\c&H00365AFF&}otra{\c&H00F0F5F5&} vez,
+Dialogue: 0,0:03:32.98,0:03:33.17,Karaoke,,0,0,0,,otra {\c&H00365AFF&}vez,{\c&H00F0F5F5&}
+Dialogue: 0,0:03:33.17,0:03:33.78,Karaoke,,0,0,0,,{\c&H00365AFF&}poco{\c&H00F0F5F5&} a poco y
+Dialogue: 0,0:03:33.78,0:03:33.84,Karaoke,,0,0,0,,poco {\c&H00365AFF&}a{\c&H00F0F5F5&} poco y
+Dialogue: 0,0:03:33.84,0:03:34.26,Karaoke,,0,0,0,,poco a {\c&H00365AFF&}poco{\c&H00F0F5F5&} y
+Dialogue: 0,0:03:34.26,0:03:34.32,Karaoke,,0,0,0,,poco a poco {\c&H00365AFF&}y{\c&H00F0F5F5&}
+Dialogue: 0,0:03:34.32,0:03:34.52,Karaoke,,0,0,0,,{\c&H00365AFF&}sin{\c&H00F0F5F5&} que lo notes,
+Dialogue: 0,0:03:34.52,0:03:34.71,Karaoke,,0,0,0,,sin {\c&H00365AFF&}que{\c&H00F0F5F5&} lo notes,
+Dialogue: 0,0:03:34.71,0:03:34.84,Karaoke,,0,0,0,,sin que {\c&H00365AFF&}lo{\c&H00F0F5F5&} notes,
+Dialogue: 0,0:03:34.84,0:03:35.24,Karaoke,,0,0,0,,sin que lo {\c&H00365AFF&}notes,{\c&H00F0F5F5&}
+Dialogue: 0,0:03:35.24,0:03:35.82,Karaoke,,0,0,0,,{\c&H00365AFF&}al{\c&H00F0F5F5&} que tenías antes
+Dialogue: 0,0:03:35.82,0:03:36.01,Karaoke,,0,0,0,,al {\c&H00365AFF&}que{\c&H00F0F5F5&} tenías antes
+Dialogue: 0,0:03:36.01,0:03:36.40,Karaoke,,0,0,0,,al que {\c&H00365AFF&}tenías{\c&H00F0F5F5&} antes
+Dialogue: 0,0:03:36.40,0:03:36.72,Karaoke,,0,0,0,,al que tenías {\c&H00365AFF&}antes{\c&H00F0F5F5&}
+Dialogue: 0,0:03:36.72,0:03:36.85,Karaoke,,0,0,0,,{\c&H00365AFF&}de{\c&H00F0F5F5&} empezar.
+Dialogue: 0,0:03:36.85,0:03:37.30,Karaoke,,0,0,0,,de {\c&H00365AFF&}empezar.{\c&H00F0F5F5&}
+Dialogue: 0,0:03:38.55,0:03:38.68,Karaoke,,0,0,0,,{\c&H00365AFF&}No{\c&H00F0F5F5&} necesitas más fuerza
+Dialogue: 0,0:03:38.68,0:03:39.25,Karaoke,,0,0,0,,No {\c&H00365AFF&}necesitas{\c&H00F0F5F5&} más fuerza
+Dialogue: 0,0:03:39.25,0:03:39.44,Karaoke,,0,0,0,,No necesitas {\c&H00365AFF&}más{\c&H00F0F5F5&} fuerza
+Dialogue: 0,0:03:39.44,0:03:39.82,Karaoke,,0,0,0,,No necesitas más {\c&H00365AFF&}fuerza{\c&H00F0F5F5&}
+Dialogue: 0,0:03:39.82,0:03:39.95,Karaoke,,0,0,0,,{\c&H00365AFF&}de{\c&H00F0F5F5&} voluntad.
+Dialogue: 0,0:03:39.95,0:03:41.78,Karaoke,,0,0,0,,de {\c&H00365AFF&}voluntad.{\c&H00F0F5F5&}
+Dialogue: 0,0:03:41.78,0:03:42.36,Karaoke,,0,0,0,,{\c&H00365AFF&}Necesitas{\c&H00F0F5F5&} menos ocasiones en
+Dialogue: 0,0:03:42.36,0:03:42.68,Karaoke,,0,0,0,,Necesitas {\c&H00365AFF&}menos{\c&H00F0F5F5&} ocasiones en
+Dialogue: 0,0:03:42.68,0:03:43.25,Karaoke,,0,0,0,,Necesitas menos {\c&H00365AFF&}ocasiones{\c&H00F0F5F5&} en
+Dialogue: 0,0:03:43.25,0:03:43.38,Karaoke,,0,0,0,,Necesitas menos ocasiones {\c&H00365AFF&}en{\c&H00F0F5F5&}
+Dialogue: 0,0:03:43.38,0:03:43.57,Karaoke,,0,0,0,,{\c&H00365AFF&}las{\c&H00F0F5F5&} que tengas que usarla.
+Dialogue: 0,0:03:43.57,0:03:43.76,Karaoke,,0,0,0,,las {\c&H00365AFF&}que{\c&H00F0F5F5&} tengas que usarla.
+Dialogue: 0,0:03:43.76,0:03:44.14,Karaoke,,0,0,0,,las que {\c&H00365AFF&}tengas{\c&H00F0F5F5&} que usarla.
+Dialogue: 0,0:03:44.14,0:03:44.34,Karaoke,,0,0,0,,las que tengas {\c&H00365AFF&}que{\c&H00F0F5F5&} usarla.
+Dialogue: 0,0:03:44.34,0:03:44.72,Karaoke,,0,0,0,,las que tengas que {\c&H00365AFF&}usarla.{\c&H00F0F5F5&}
+Dialogue: 0,0:03:45.94,0:03:46.35,Karaoke,,0,0,0,,{\c&H00365AFF&}Escribe{\c&H00F0F5F5&} en los comentarios
+Dialogue: 0,0:03:46.35,0:03:46.46,Karaoke,,0,0,0,,Escribe {\c&H00365AFF&}en{\c&H00F0F5F5&} los comentarios
+Dialogue: 0,0:03:46.46,0:03:46.64,Karaoke,,0,0,0,,Escribe en {\c&H00365AFF&}los{\c&H00F0F5F5&} comentarios
+Dialogue: 0,0:03:46.64,0:03:47.28,Karaoke,,0,0,0,,Escribe en los {\c&H00365AFF&}comentarios{\c&H00F0F5F5&}
+Dialogue: 0,0:03:47.28,0:03:47.45,Karaoke,,0,0,0,,{\c&H00365AFF&}qué{\c&H00F0F5F5&} cambio en tu
+Dialogue: 0,0:03:47.45,0:03:47.80,Karaoke,,0,0,0,,qué {\c&H00365AFF&}cambio{\c&H00F0F5F5&} en tu
+Dialogue: 0,0:03:47.80,0:03:47.92,Karaoke,,0,0,0,,qué cambio {\c&H00365AFF&}en{\c&H00F0F5F5&} tu
+Dialogue: 0,0:03:47.92,0:03:48.04,Karaoke,,0,0,0,,qué cambio en {\c&H00365AFF&}tu{\c&H00F0F5F5&}
+Dialogue: 0,0:03:48.04,0:03:48.52,Karaoke,,0,0,0,,{\c&H00365AFF&}entorno{\c&H00F0F5F5&} vas a hacer
+Dialogue: 0,0:03:48.52,0:03:48.69,Karaoke,,0,0,0,,entorno {\c&H00365AFF&}vas{\c&H00F0F5F5&} a hacer
+Dialogue: 0,0:03:48.69,0:03:48.75,Karaoke,,0,0,0,,entorno vas {\c&H00365AFF&}a{\c&H00F0F5F5&} hacer
+Dialogue: 0,0:03:48.75,0:03:49.04,Karaoke,,0,0,0,,entorno vas a {\c&H00365AFF&}hacer{\c&H00F0F5F5&}
+Dialogue: 0,0:03:49.04,0:03:49.22,Karaoke,,0,0,0,,{\c&H00365AFF&}hoy{\c&H00F0F5F5&} mismo,
+Dialogue: 0,0:03:49.22,0:03:49.51,Karaoke,,0,0,0,,hoy {\c&H00365AFF&}mismo,{\c&H00F0F5F5&}
+Dialogue: 0,0:03:49.87,0:03:49.93,Karaoke,,0,0,0,,{\c&H00365AFF&}y{\c&H00F0F5F5&} cuál es la
+Dialogue: 0,0:03:49.93,0:03:50.23,Karaoke,,0,0,0,,y {\c&H00365AFF&}cuál{\c&H00F0F5F5&} es la
+Dialogue: 0,0:03:50.23,0:03:50.34,Karaoke,,0,0,0,,y cuál {\c&H00365AFF&}es{\c&H00F0F5F5&} la
+Dialogue: 0,0:03:50.34,0:03:50.46,Karaoke,,0,0,0,,y cuál es {\c&H00365AFF&}la{\c&H00F0F5F5&}
+Dialogue: 0,0:03:50.46,0:03:50.97,Karaoke,,0,0,0,,{\c&H00365AFF&}tentación{\c&H00F0F5F5&} más obvia que
+Dialogue: 0,0:03:50.97,0:03:51.14,Karaoke,,0,0,0,,tentación {\c&H00365AFF&}más{\c&H00F0F5F5&} obvia que
+Dialogue: 0,0:03:51.14,0:03:51.43,Karaoke,,0,0,0,,tentación más {\c&H00365AFF&}obvia{\c&H00F0F5F5&} que
+Dialogue: 0,0:03:51.43,0:03:51.60,Karaoke,,0,0,0,,tentación más obvia {\c&H00365AFF&}que{\c&H00F0F5F5&}
+Dialogue: 0,0:03:51.60,0:03:51.88,Karaoke,,0,0,0,,{\c&H00365AFF&}sigue{\c&H00F0F5F5&} a la vista
+Dialogue: 0,0:03:51.88,0:03:51.94,Karaoke,,0,0,0,,sigue {\c&H00365AFF&}a{\c&H00F0F5F5&} la vista
+Dialogue: 0,0:03:51.94,0:03:52.06,Karaoke,,0,0,0,,sigue a {\c&H00365AFF&}la{\c&H00F0F5F5&} vista
+Dialogue: 0,0:03:52.06,0:03:52.34,Karaoke,,0,0,0,,sigue a la {\c&H00365AFF&}vista{\c&H00F0F5F5&}
+Dialogue: 0,0:03:52.34,0:03:52.45,Karaoke,,0,0,0,,{\c&H00365AFF&}en{\c&H00F0F5F5&} tu casa ahora
+Dialogue: 0,0:03:52.45,0:03:52.57,Karaoke,,0,0,0,,en {\c&H00365AFF&}tu{\c&H00F0F5F5&} casa ahora
+Dialogue: 0,0:03:52.57,0:03:52.88,Karaoke,,0,0,0,,en tu {\c&H00365AFF&}casa{\c&H00F0F5F5&} ahora
+Dialogue: 0,0:03:52.88,0:03:53.16,Karaoke,,0,0,0,,en tu casa {\c&H00365AFF&}ahora{\c&H00F0F5F5&}
+Dialogue: 0,0:03:53.16,0:03:53.45,Karaoke,,0,0,0,,{\c&H00365AFF&}mismo,{\c&H00F0F5F5&} esperando una decisión
+Dialogue: 0,0:03:53.45,0:03:54.42,Karaoke,,0,0,0,,mismo, {\c&H00365AFF&}esperando{\c&H00F0F5F5&} una decisión
+Dialogue: 0,0:03:54.42,0:03:54.60,Karaoke,,0,0,0,,mismo, esperando {\c&H00365AFF&}una{\c&H00F0F5F5&} decisión
+Dialogue: 0,0:03:54.60,0:03:55.05,Karaoke,,0,0,0,,mismo, esperando una {\c&H00365AFF&}decisión{\c&H00F0F5F5&}
+Dialogue: 0,0:03:55.05,0:03:55.22,Karaoke,,0,0,0,,{\c&H00365AFF&}que{\c&H00F0F5F5&} no debería depender
+Dialogue: 0,0:03:55.22,0:03:55.34,Karaoke,,0,0,0,,que {\c&H00365AFF&}no{\c&H00F0F5F5&} debería depender
+Dialogue: 0,0:03:55.34,0:03:55.74,Karaoke,,0,0,0,,que no {\c&H00365AFF&}debería{\c&H00F0F5F5&} depender
+Dialogue: 0,0:03:55.74,0:03:56.28,Karaoke,,0,0,0,,que no debería {\c&H00365AFF&}depender{\c&H00F0F5F5&}
+Dialogue: 0,0:03:56.28,0:03:56.49,Karaoke,,0,0,0,,{\c&H00365AFF&}de{\c&H00F0F5F5&} ti.
+Dialogue: 0,0:03:56.49,0:03:56.60,Karaoke,,0,0,0,,de {\c&H00365AFF&}ti.{\c&H00F0F5F5&}
+Dialogue: 0,0:03:57.82,0:03:57.95,Karaoke,,0,0,0,,{\c&H00365AFF&}Si{\c&H00F0F5F5&} este video te
+Dialogue: 0,0:03:57.95,0:03:58.20,Karaoke,,0,0,0,,Si {\c&H00365AFF&}este{\c&H00F0F5F5&} video te
+Dialogue: 0,0:03:58.20,0:03:58.52,Karaoke,,0,0,0,,Si este {\c&H00365AFF&}video{\c&H00F0F5F5&} te
+Dialogue: 0,0:03:58.52,0:03:58.64,Karaoke,,0,0,0,,Si este video {\c&H00365AFF&}te{\c&H00F0F5F5&}
+Dialogue: 0,0:03:58.64,0:03:59.02,Karaoke,,0,0,0,,{\c&H00365AFF&}sirvió,{\c&H00F0F5F5&} dale like y
+Dialogue: 0,0:03:59.02,0:03:59.28,Karaoke,,0,0,0,,sirvió, {\c&H00365AFF&}dale{\c&H00F0F5F5&} like y
+Dialogue: 0,0:03:59.28,0:03:59.90,Karaoke,,0,0,0,,sirvió, dale {\c&H00365AFF&}like{\c&H00F0F5F5&} y
+Dialogue: 0,0:03:59.90,0:03:59.96,Karaoke,,0,0,0,,sirvió, dale like {\c&H00365AFF&}y{\c&H00F0F5F5&}
+Dialogue: 0,0:03:59.96,0:04:00.80,Karaoke,,0,0,0,,{\c&H00365AFF&}suscríbete —{\c&H00F0F5F5&} la disciplina no
+Dialogue: 0,0:04:00.80,0:04:00.93,Karaoke,,0,0,0,,suscríbete — {\c&H00365AFF&}la{\c&H00F0F5F5&} disciplina no
+Dialogue: 0,0:04:00.93,0:04:02.15,Karaoke,,0,0,0,,suscríbete — la {\c&H00365AFF&}disciplina{\c&H00F0F5F5&} no
+Dialogue: 0,0:04:02.15,0:04:02.28,Karaoke,,0,0,0,,suscríbete — la disciplina {\c&H00365AFF&}no{\c&H00F0F5F5&}
+Dialogue: 0,0:04:02.28,0:04:02.53,Karaoke,,0,0,0,,{\c&H00365AFF&}hace{\c&H00F0F5F5&} ruido,
+Dialogue: 0,0:04:02.53,0:04:02.85,Karaoke,,0,0,0,,hace {\c&H00365AFF&}ruido,{\c&H00F0F5F5&}
+Dialogue: 0,0:04:02.85,0:04:03.10,Karaoke,,0,0,0,,{\c&H00365AFF&}pero{\c&H00F0F5F5&} el entorno correcto
+Dialogue: 0,0:04:03.10,0:04:03.62,Karaoke,,0,0,0,,pero {\c&H00365AFF&}el{\c&H00F0F5F5&} entorno correcto
+Dialogue: 0,0:04:03.62,0:04:04.06,Karaoke,,0,0,0,,pero el {\c&H00365AFF&}entorno{\c&H00F0F5F5&} correcto
+Dialogue: 0,0:04:04.06,0:04:04.57,Karaoke,,0,0,0,,pero el entorno {\c&H00365AFF&}correcto{\c&H00F0F5F5&}
+Dialogue: 0,0:04:04.57,0:04:04.80,Karaoke,,0,0,0,,{\c&H00365AFF&}la{\c&H00F0F5F5&} hace casi innecesaria.
+Dialogue: 0,0:04:04.80,0:04:05.05,Karaoke,,0,0,0,,la {\c&H00365AFF&}hace{\c&H00F0F5F5&} casi innecesaria.
+Dialogue: 0,0:04:05.05,0:04:05.30,Karaoke,,0,0,0,,la hace {\c&H00365AFF&}casi{\c&H00F0F5F5&} innecesaria.
+Dialogue: 0,0:04:05.30,0:04:06.00,Karaoke,,0,0,0,,la hace casi {\c&H00365AFF&}innecesaria.{\c&H00F0F5F5&}

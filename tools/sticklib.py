@@ -417,8 +417,9 @@ def icon(name, color=INK, w=7, **kw):
     if name == "moon":
         return f'<path d="M10,-40 Q-30,-34 -30,0 Q-30,36 10,40 Q-12,22 -12,0 Q-12,-22 10,-40 Z" {s}/>'
     if name == "battery":
+        lvl = kw.get("level", 14 / 58)  # mặc định giữ đúng hình cũ (vạch pin 14px)
         return (f'<rect x="-40" y="-20" width="74" height="40" rx="6" {s}/><rect x="36" y="-8" width="8" height="16" fill="{color}"/>'
-                f'<rect x="-32" y="-12" width="14" height="24" fill="{color}"/>')
+                f'<rect x="-32" y="-12" width="{max(4, 58 * lvl):.0f}" height="24" fill="{kw.get("fill", color)}"/>')
     if name == "blank":
         return f'<rect x="-30" y="-40" width="60" height="80" rx="4" {s}/>'
     if name == "boulder":
@@ -564,6 +565,66 @@ def icon(name, color=INK, w=7, **kw):
         return (f'<circle cx="0" cy="0" r="42" {s}/><circle cx="0" cy="0" r="26" {_c(color, 5)}/><circle cx="0" cy="0" r="9" fill="{color}"/>')
     if name == "check":
         return f'<path d="M-30,2 L-8,24 L32,-22" {_c(color, 10)}/>'
+    if name == "hospital":
+        return (f'<rect x="-44" y="-30" width="88" height="74" {s}/><rect x="-16" y="-50" width="32" height="20" {_c(color, 5)}/>'
+                f'<path d="M0,-12 L0,16 M-14,2 L14,2" {_c(color, 8)}/><rect x="-10" y="26" width="20" height="18" {_c(color, 4)}/>')
+    if name == "tray":
+        return (f'<path d="M-50,10 L50,10 L42,26 L-42,26 Z" {s}/><ellipse cx="-16" cy="0" rx="18" ry="8" {_c(color, 5)}/>'
+                f'<rect x="12" y="-24" width="16" height="30" rx="3" {_c(color, 5)}/>')
+    if name == "drop":
+        return f'<path d="M0,-46 Q30,-6 30,16 Q30,44 0,44 Q-30,44 -30,16 Q-30,-6 0,-46 Z" {s}/><path d="M-14,14 Q-14,28 -2,32" {_c(color, 4)}/>'
+    if name == "soda":
+        return (f'<path d="M-24,-40 L24,-40 L28,-30 L28,38 Q28,46 20,46 L-20,46 Q-28,46 -28,38 L-28,-30 Z" {s}/>'
+                f'<line x1="-28" y1="-20" x2="28" y2="-20" {_c(color, 4)}/><line x1="-28" y1="28" x2="28" y2="28" {_c(color, 4)}/>'
+                f'<path d="M-8,-4 Q8,-2 0,8 Q-8,16 8,16" {_c(color, 4)}/>')
+    if name == "bars":
+        vals = kw.get("vals", (.3, .5, .7, .9))
+        out = [f'<line x1="-48" y1="44" x2="48" y2="44" {_c(color, 5)}/>']
+        bw = 80 / len(vals)
+        for i, v in enumerate(vals):
+            h = 84 * v
+            out.append(f'<g data-dot="{i}"><rect x="{-42 + i * bw:.1f}" y="{44 - h:.1f}" width="{bw * .7:.1f}" height="{h:.1f}" rx="3" fill="{color}"/></g>')
+        return "".join(out)
+    if name == "megaphone":
+        return (f'<path d="M-40,-12 L-10,-12 L34,-38 L34,38 L-10,12 L-40,12 Z" {s}/><path d="M-30,12 L-22,40 L-8,40 L-12,12" {_c(color, 5)}/>')
+    if name == "theater":
+        out = [f'<rect x="-48" y="-46" width="96" height="46" rx="4" {s}/>']
+        for r in range(2):
+            for c in range(5):
+                out.append(f'<path d="M{-40 + c * 20},{18 + r * 18} q6,-10 12,0" {_c(color, 4)}/>')
+        return "".join(out)
+    if name == "popcorn":
+        return (f'<path d="M-30,-6 L30,-6 L22,46 L-22,46 Z" {s}/><path d="M-12,-6 L-8,46 M12,-6 L8,46" {_c(color, 4)}/>'
+                + "".join(f'<circle cx="{x}" cy="{y}" r="10" {_c(color, 5)}/>' for x, y in ((-22, -14), (-6, -22), (10, -18), (24, -12), (2, -34), (-14, -32))))
+    if name == "utensils":
+        return (f'<path d="M-20,-46 L-20,-14 Q-20,-4 -12,-4 L-12,46 M-28,-46 L-28,-14 Q-28,-4 -20,-4 M-4,-46 L-4,-14 Q-4,-4 -12,-4" {_c(color, 5)}/>'
+                f'<path d="M20,46 L20,-4 Q34,-14 30,-34 Q26,-48 20,-46 Q12,-30 14,-4" {_c(color, 5)}/>')
+    if name == "wave":
+        return "".join(f'<line x1="{x}" y1="{-h}" x2="{x}" y2="{h}" {_c(color, 7)}/>' for x, h in ((-40, 8), (-24, 22), (-8, 38), (8, 26), (24, 40), (40, 14)))
+    if name == "campus":
+        return (f'<rect x="-46" y="0" width="92" height="44" {s}/><rect x="-14" y="-40" width="28" height="40" {s}/>'
+                f'<path d="M-14,-40 L0,-54 L14,-40" {s}/><circle cx="0" cy="-22" r="7" {_c(color, 4)}/>'
+                + "".join(f'<rect x="{x}" y="14" width="12" height="16" {_c(color, 3)}/>' for x in (-38, -20, 8, 26)))
+    if name == "cookie":
+        return (f'<circle cx="0" cy="0" r="40" {s}/>' + "".join(f'<circle cx="{x}" cy="{y}" r="5" fill="{color}"/>'
+                                                         for x, y in ((-16, -14), (12, -20), (18, 8), (-6, 16), (-22, 8), (4, -2))))
+    if name == "tshirt":
+        return f'<path d="M-16,-40 Q0,-28 16,-40 L46,-24 L36,-2 L24,-8 L24,42 L-24,42 L-24,-8 L-36,-2 L-46,-24 Z" {s}/>'
+    if name == "drawer":
+        return (f'<rect x="-48" y="-34" width="96" height="68" rx="4" {s}/><line x1="-48" y1="0" x2="48" y2="0" {_c(color, 5)}/>'
+                f'<line x1="-12" y1="-17" x2="12" y2="-17" {_c(color, 6)}/><line x1="-12" y1="17" x2="12" y2="17" {_c(color, 6)}/>')
+    if name == "remote":
+        return (f'<rect x="-16" y="-46" width="32" height="92" rx="8" {s}/><circle cx="0" cy="-30" r="5" fill="{color}"/>'
+                + "".join(f'<circle cx="{x}" cy="{y}" r="3.5" fill="{color}"/>' for y in (-10, 4, 18) for x in (-7, 7)))
+    if name == "warning":
+        return (f'<path d="M0,-44 L46,38 L-46,38 Z" {s}/><line x1="0" y1="-12" x2="0" y2="14" {_c(color, 8)}/>'
+                f'<circle cx="0" cy="26" r="4.5" fill="{color}"/>')
+    if name == "discount":
+        return (icon("tag", color, w)[:0] + f'<path d="M-45,-22 L22,-22 L45,0 L22,22 L-45,22 Z" {s}/>'
+                f'<line x1="-26" y1="12" x2="2" y2="-12" {_c(color, 5)}/><circle cx="-24" cy="-8" r="5" {_c(color, 4)}/>'
+                f'<circle cx="0" cy="8" r="5" {_c(color, 4)}/>')
+    if name == "calcheck":
+        return icon("calendar", color, w) + f'<path d="M-18,10 L-4,24 L22,-4" {_c(color, 9)}/>'
     raise KeyError(name)
 
 
