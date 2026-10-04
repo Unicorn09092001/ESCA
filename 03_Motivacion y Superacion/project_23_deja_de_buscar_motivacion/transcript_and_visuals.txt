@@ -1,0 +1,499 @@
+================================================================================
+PROJECT 23 — ¿Buscas Motivación? Deja De Buscarla y Haz Esto
+Playlist: 03_Motivacion y Superacion
+ACCENT = #FF3B78
+================================================================================
+
+
+### ESCENA 1: EL GANCHO
+
+[FRAME S01_F001 -> images/img_001.png]
+[SHOT TYPE]: Wide shot
+[ES]: ¿Sigues esperando sentirte motivado para empezar?
+[VI]: Bạn vẫn đang chờ cảm thấy có động lực để bắt đầu à?
+[VISUAL DESCRIPTION]: Wide shot of a stick figure sitting still, staring at a distant unlit spark icon that never ignites, passive posture.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF3B78 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S01_F002 -> images/img_002.png]
+[SHOT TYPE]: Medium shot
+[ES]: Puedes seguir esperando semanas, meses, incluso años, porque la motivación no funciona como crees.
+[VI]: Bạn có thể tiếp tục chờ hàng tuần, hàng tháng, thậm chí hàng năm, vì động lực không hoạt động như bạn nghĩ.
+[VISUAL DESCRIPTION]: Medium shot of a calendar strip advancing rapidly through weeks, months, years, the stick figure still seated in the same passive position throughout.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF3B78 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S01_F003 -> images/img_003.png]
+[SHOT TYPE]: Close-up
+[ES]: No es una chispa que aparece de la nada un día cualquiera y te empuja a actuar —
+[VI]: Nó không phải là tia lửa tự nhiên xuất hiện một ngày nào đó và thúc đẩy bạn hành động
+[VISUAL DESCRIPTION]: Close-up of the unlit spark icon shown completely dark and inert, no glow, floating passively in front of the stick figure.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF3B78 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S01_F004 -> images/img_004.png]
+[SHOT TYPE]: Wide shot
+[ES]: y mientras sigas esperando esa chispa, vas a seguir posponiendo exactamente lo que dices que quieres hacer.
+[VI]: và khi bạn còn chờ tia lửa đó, bạn sẽ tiếp tục trì hoãn đúng điều mà bạn nói mình muốn làm.
+[VISUAL DESCRIPTION]: Wide shot of a glowing goal-icon sitting untouched in the distance, #FF3B78 outline around it, the stick figure not moving toward it at all.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF3B78 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S01_F005 -> images/img_005.png]
+[SHOT TYPE]: Direct address
+[ES]: Hoy te explico por qué buscarla es lo que te está frenando, y qué hacer en su lugar.
+[VI]: Hôm nay mình sẽ giải thích vì sao việc tìm kiếm nó lại chính là thứ đang cản trở bạn, và nên làm gì thay vào đó.
+[VISUAL DESCRIPTION]: Direct-address medium shot of the stick figure turning toward the viewer, posture shifting slightly from passive to attentive.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF3B78 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+
+### ESCENA 2: MODULO 1 - El Orden al Reves (Jeff Haden)
+
+[FRAME S02_F006 -> images/img_006.png]
+[SHOT TYPE]: Text card / title
+[ES]: Primero, el orden que casi todos tienen al revés.
+[VI]: Đầu tiên, thứ tự mà hầu như ai cũng làm ngược.
+[VISUAL DESCRIPTION]: Minimal title card, two simple icons — a spark and a footprint — shown in reversed order with a small #FF3B78 arrow indicating the wrong sequence.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF3B78 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S02_F007 -> images/img_007.png]
+[SHOT TYPE]: Medium shot
+[ES]: El escritor Jeff Haden, autor de "El Mito de la Motivación", entrevistó a decenas de personas de alto rendimiento
+[VI]: Nhà văn Jeff Haden, tác giả "Huyền Thoại Về Động Lực", đã phỏng vấn hàng chục người có thành tích cao
+[VISUAL DESCRIPTION]: Stick figure standing beside a glowing book icon with a simple flame-crossed-out motif on its cover, distinct from other book icons used in prior videos.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF3B78 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S02_F008 -> images/img_008.png]
+[SHOT TYPE]: Wide shot
+[ES]: y encontró el mismo patrón una y otra vez: ninguna de ellas sintió motivación antes de empezar algo difícil.
+[VI]: và phát hiện cùng một khuôn mẫu lặp lại: không ai trong số họ cảm thấy có động lực trước khi bắt đầu điều gì khó khăn.
+[VISUAL DESCRIPTION]: Wide shot of several small stick-figure silhouettes each standing beside an unlit spark icon at the moment before starting a difficult task, all consistent across the row.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF3B78 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S02_F009 -> images/img_009.png]
+[SHOT TYPE]: Medium shot
+[ES]: Sintieron motivación después de dar el primer paso, por pequeño que fuera, y ver que ese paso funcionaba.
+[VI]: Họ cảm thấy có động lực sau khi thực hiện bước đầu tiên, dù nhỏ đến đâu, và thấy bước đó có hiệu quả.
+[VISUAL DESCRIPTION]: Medium shot of a small glowing footprint appearing first, then the spark icon lighting up in #FF3B78 immediately after it, clear cause-and-effect sequence.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF3B78 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S02_F010 -> images/img_010.png]
+[SHOT TYPE]: Wide shot
+[ES]: Presta atención a esto: no esperaron a sentirse listas. Actuaron sin sentirse listas,
+[VI]: Chú ý điều này: họ không chờ đến khi cảm thấy sẵn sàng. Họ hành động mà không cảm thấy sẵn sàng,
+[VISUAL DESCRIPTION]: Wide shot of a stick figure stepping forward despite a faint 'not ready' thought-bubble still lingering above their head, moving anyway.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF3B78 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S02_F011 -> images/img_011.png]
+[SHOT TYPE]: Wide shot
+[ES]: y la motivación llegó como consecuencia de la acción, no como su causa.
+[VI]: và động lực đến như hệ quả của hành động, không phải nguyên nhân của nó.
+[VISUAL DESCRIPTION]: Wide shot of the footprint-then-spark sequence shown clearly one more time, labeled implicitly by order: footprint first, spark glowing after.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF3B78 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+
+### ESCENA 3: MODULO 2 - El Progreso Pequeno (Teresa Amabile)
+
+[FRAME S03_F012 -> images/img_012.png]
+[SHOT TYPE]: Text card / title
+[ES]: Segundo, por qué el progreso pequeño genera más motivación que cualquier discurso.
+[VI]: Thứ hai, vì sao tiến độ nhỏ tạo động lực nhiều hơn bất kỳ bài diễn văn nào.
+[VISUAL DESCRIPTION]: Minimal title card, a small glowing checkmark icon beside a crossed-out megaphone icon, #FF3B78 highlight on the checkmark.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF3B78 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S03_F013 -> images/img_013.png]
+[SHOT TYPE]: Medium shot
+[ES]: La investigadora Teresa Amabile, de Harvard Business School, analizó miles de diarios de trabajo de empleados de distintas industrias durante años
+[VI]: Nhà nghiên cứu Teresa Amabile, Harvard Business School, đã phân tích hàng nghìn nhật ký công việc của nhân viên nhiều ngành trong nhiều năm
+[VISUAL DESCRIPTION]: Stick figure standing beside a distinct academic-building icon and a stack of small glowing notebook/diary icons, different silhouette from icons used for other universities.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF3B78 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S03_F014 -> images/img_014.png]
+[SHOT TYPE]: Wide shot
+[ES]: y descubrió algo contraintuitivo: el factor individual más poderoso para sentirse motivado en un día cualquiera no era el reconocimiento, ni el dinero, ni las palabras de ánimo de un jefe.
+[VI]: và phát hiện ra điều nghịch lý: yếu tố cá nhân mạnh nhất để cảm thấy có động lực trong một ngày bất kỳ không phải là sự công nhận, tiền bạc, hay lời động viên từ sếp.
+[VISUAL DESCRIPTION]: Wide shot of three glowing icons (a trophy, a coin, a speech-bubble) each fading out one by one, shown as ruled-out factors.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF3B78 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S03_F015 -> images/img_015.png]
+[SHOT TYPE]: Medium shot
+[ES]: Era el progreso visible, aunque fuera diminuto, en un trabajo que a la persona le importaba de verdad.
+[VI]: Đó là tiến độ nhìn thấy được, dù rất nhỏ, trong một công việc mà người đó thật sự quan tâm.
+[VISUAL DESCRIPTION]: Medium shot of a tiny glowing checkmark appearing on a short task-list, #FF3B78 highlight on it, remaining bright while the three ruled-out icons stay dim in the background.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF3B78 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S03_F016 -> images/img_016.png]
+[SHOT TYPE]: Wide shot
+[ES]: Aquí está la clave: un paso pequeño que puedas ver terminado, marcado, tachado de una lista,
+[VI]: Đây là điểm mấu chốt: một bước nhỏ mà bạn có thể thấy đã hoàn thành, đánh dấu, gạch bỏ khỏi danh sách,
+[VISUAL DESCRIPTION]: Wide shot of a stick figure crossing out a small item on a short glowing list with visible satisfaction, the crossed-out mark clean and clear.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF3B78 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S03_F017 -> images/img_017.png]
+[SHOT TYPE]: Medium shot
+[ES]: genera más motivación real y duradera que cualquier charla inspiradora que escuches y olvides antes de que termine el día.
+[VI]: tạo ra động lực thật và bền vững hơn bất kỳ bài nói chuyện truyền cảm hứng nào mà bạn nghe rồi quên trước khi ngày kết thúc.
+[VISUAL DESCRIPTION]: Medium shot comparing the steady glowing checkmark icon against a fading speech-bubble icon that dims out completely by the end of a small daylight-to-dusk visual cue.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF3B78 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+
+### ESCENA 4: MODULO 3 - Que Hacer en la Practica
+
+[FRAME S04_F018 -> images/img_018.png]
+[SHOT TYPE]: Text card / title
+[ES]: Tercero, qué hacer con esto en la práctica, hoy mismo.
+[VI]: Thứ ba, phải làm gì với điều này trong thực tế, ngay hôm nay.
+[VISUAL DESCRIPTION]: Minimal title card, a small glowing ten-minute timer icon in #FF3B78, centered in dark frame.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF3B78 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S04_F019 -> images/img_019.png]
+[SHOT TYPE]: Medium shot
+[ES]: Deja de preguntarte "¿tengo ganas de hacer esto?" y empieza a preguntarte "¿cuál es la versión más pequeña posible de esto que puedo terminar en los próximos diez minutos?".
+[VI]: Đừng tự hỏi "mình có muốn làm điều này không?" mà hãy tự hỏi "phiên bản nhỏ nhất có thể của việc này mà mình có thể hoàn thành trong mười phút tới là gì?".
+[VISUAL DESCRIPTION]: Medium shot of a large question-mark icon labeled by a mood-face shrinking down and being replaced by a small glowing ten-minute timer icon instead.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF3B78 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S04_F020 -> images/img_020.png]
+[SHOT TYPE]: Wide shot
+[ES]: Si quieres escribir, no te preguntes si tienes ganas de escribir un capítulo entero — pregúntate si puedes escribir un párrafo.
+[VI]: Nếu bạn muốn viết, đừng hỏi mình có muốn viết cả một chương không — hãy hỏi liệu mình có thể viết một đoạn văn không.
+[VISUAL DESCRIPTION]: Wide shot of a large glowing book-chapter icon shrinking down into a single small glowing paragraph icon, same shape family, smaller scale.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF3B78 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S04_F021 -> images/img_021.png]
+[SHOT TYPE]: Wide shot
+[ES]: Si quieres entrenar, no te preguntes si tienes ganas de una rutina completa — pregúntate si puedes ponerte la ropa deportiva.
+[VI]: Nếu bạn muốn tập luyện, đừng hỏi mình có muốn cả một buổi tập hoàn chỉnh không — hãy hỏi liệu mình có thể mặc đồ thể thao vào không.
+[VISUAL DESCRIPTION]: Wide shot of a full workout-routine icon shrinking down into a single small glowing gym-clothes icon, same visual logic as the previous frame.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF3B78 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S04_F022 -> images/img_022.png]
+[SHOT TYPE]: Medium shot
+[ES]: No se trata de completar el proyecto completo de una sola vez. Se trata de crear un progreso visible, por mínimo que sea,
+[VI]: Không phải là hoàn thành cả dự án cùng một lúc. Mà là tạo ra tiến độ nhìn thấy được, dù nhỏ đến đâu,
+[VISUAL DESCRIPTION]: Medium shot of the small paragraph/gym-clothes icons from before now marked with a glowing checkmark in #FF3B78, small but complete and visible.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF3B78 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S04_F023 -> images/img_023.png]
+[SHOT TYPE]: Wide shot
+[ES]: para que tu cerebro reciba la señal de que algo ya se está moviendo.
+[VI]: để não bạn nhận được tín hiệu rằng điều gì đó đã bắt đầu chuyển động.
+[VISUAL DESCRIPTION]: Wide shot of the simplified brain icon receiving a small glowing pulse signal from the checkmark, lighting up gently in response.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF3B78 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S04_F024 -> images/img_024.png]
+[SHOT TYPE]: Wide shot
+[ES]: Esto es lo que nadie te dice: la motivación no es un interruptor que se enciende antes de trabajar. Es un efecto secundario del trabajo mismo, una vez que ya empezó, no una condición previa para poder empezar.
+[VI]: Đây là điều không ai nói với bạn: động lực không phải là công tắc bật lên trước khi làm việc. Nó là hiệu ứng phụ của chính công việc, một khi đã bắt đầu, không phải điều kiện tiên quyết để có thể bắt đầu.
+[VISUAL DESCRIPTION]: Wide shot of a switch/interrupter icon shown crossed out entirely, replaced by the footprint-then-spark sequence from Módulo 1 reappearing clearly.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF3B78 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+
+### ESCENA 5: MODULO 4 - La Trampa de Buscar Motivacion
+
+[FRAME S05_F025 -> images/img_025.png]
+[SHOT TYPE]: Text card / title
+[ES]: Y cuarto, la razón por la que "buscar motivación" te mantiene atascado.
+[VI]: Và thứ tư, lý do vì sao "tìm kiếm động lực" khiến bạn bị mắc kẹt.
+[VISUAL DESCRIPTION]: Minimal title card, a phone icon glowing with a looping video-reel motif, stuck in a repeating circular motion.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF3B78 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S05_F026 -> images/img_026.png]
+[SHOT TYPE]: Medium shot
+[ES]: Cada vez que pasas tiempo buscando un video, una frase o una historia que te haga sentir motivado antes de actuar,
+[VI]: Mỗi lần bạn dành thời gian tìm một video, một câu nói hay một câu chuyện khiến mình cảm thấy có động lực trước khi hành động,
+[VISUAL DESCRIPTION]: Medium shot of the stick figure scrolling through a phone showing a looping feed of small glowing quote/video icons, none of them leading anywhere.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF3B78 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S05_F027 -> images/img_027.png]
+[SHOT TYPE]: Wide shot
+[ES]: estás posponiendo el único paso que realmente genera esa motivación: empezar.
+[VI]: bạn đang trì hoãn bước duy nhất thực sự tạo ra động lực đó: bắt đầu.
+[VISUAL DESCRIPTION]: Wide shot of the unlit spark icon from the Gancho reappearing, still dark, the stick figure's attention fixed on the phone instead of the footprint path beside them.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF3B78 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S05_F028 -> images/img_028.png]
+[SHOT TYPE]: Medium shot
+[ES]: Y esa búsqueda se siente productiva — como si estuvieras avanzando — aunque en realidad solo estés retrasando el momento en que tendrías que enfrentar la incomodidad de dar el primer paso sin sentirte listo.
+[VI]: Và việc tìm kiếm đó cảm thấy như đang hiệu quả — như thể bạn đang tiến bộ — dù thực ra bạn chỉ đang trì hoãn khoảnh khắc phải đối mặt với sự khó chịu của bước đầu tiên khi chưa cảm thấy sẵn sàng.
+[VISUAL DESCRIPTION]: Medium shot of a false progress-bar icon filling up in #FF3B78 while the phone-scrolling continues, but the actual footprint path beside it stays completely unmarked and untouched.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF3B78 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S05_F029 -> images/img_029.png]
+[SHOT TYPE]: Wide shot
+[ES]: Pero espera, todavía hay más: cuanto más tiempo pasas buscando el sentimiento correcto para empezar, más refuerzas la idea de que necesitas ese sentimiento para poder hacerlo —
+[VI]: Nhưng khoan đã, còn nữa: càng dành nhiều thời gian tìm đúng cảm giác để bắt đầu, bạn càng củng cố ý nghĩ rằng mình cần cảm giác đó mới có thể làm được
+[VISUAL DESCRIPTION]: Wide shot of a growing belief-icon (a thought-bubble with the unlit spark inside it) getting larger and heavier each time the phone-scrolling loop repeats.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF3B78 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S05_F030 -> images/img_030.png]
+[SHOT TYPE]: Wide shot
+[ES]: y esa idea es exactamente la que te mantiene esperando indefinidamente, un video motivacional tras otro, sin que nada cambie en tu vida real.
+[VI]: và chính ý nghĩ đó là thứ khiến bạn cứ chờ đợi mãi, hết video động lực này đến video khác, mà chẳng có gì thay đổi trong cuộc sống thật.
+[VISUAL DESCRIPTION]: Wide shot pulling back to reveal a long unchanged timeline of the stick figure still seated passively, the phone-scrolling loop repeating endlessly beside an untouched goal-icon far in the distance.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF3B78 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+
+### ESCENA 6: EL CIERRE
+
+[FRAME S06_F031 -> images/img_031.png]
+[SHOT TYPE]: Wide shot
+[ES]: Deja de buscar motivación. Elige la tarea más pequeña relacionada con lo que quieres lograr, ponle un temporizador de diez minutos,
+[VI]: Đừng tìm kiếm động lực nữa. Hãy chọn nhiệm vụ nhỏ nhất liên quan đến điều bạn muốn đạt được, đặt hẹn giờ mười phút,
+[VISUAL DESCRIPTION]: Wide shot of the stick figure putting the phone down and picking up the small ten-minute timer icon instead, #FF3B78 highlight on the timer.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF3B78 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S06_F032 -> images/img_032.png]
+[SHOT TYPE]: Medium shot
+[ES]: y empieza ahora mismo, sin sentirte listo — la sensación de estar listo, si llega, va a llegar después, como consecuencia de haber empezado, no como requisito para hacerlo.
+[VI]: và bắt đầu ngay bây giờ, mà không cần cảm thấy sẵn sàng — cảm giác sẵn sàng, nếu có, sẽ đến sau, như hệ quả của việc đã bắt đầu, không phải điều kiện để làm điều đó.
+[VISUAL DESCRIPTION]: Medium shot of the stick figure taking the first footprint step, the spark icon beginning to glow immediately after, echoing the Módulo 1 sequence one final time.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF3B78 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S06_F033 -> images/img_033.png]
+[SHOT TYPE]: Direct address
+[ES]: Escribe en los comentarios cuál es esa tarea pequeña que vas a hacer en los próximos diez minutos, apenas termines de ver este video.
+[VI]: Hãy viết ở phần bình luận nhiệm vụ nhỏ đó là gì mà bạn sẽ làm trong mười phút tới, ngay khi xem xong video này.
+[VISUAL DESCRIPTION]: Direct-address medium shot of the stick figure gesturing toward the viewer, a small glowing comment-bubble icon appearing beside the ten-minute timer.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF3B78 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S06_F034 -> images/img_034.png]
+[SHOT TYPE]: Wide shot
+[ES]: Si este video te sirvió, dale like y suscríbete — la disciplina no hace ruido, pero tampoco espera a sentir ganas para moverse.
+[VI]: Nếu video này hữu ích, hãy nhấn thích và đăng ký — kỷ luật không ồn ào, nhưng cũng không chờ có hứng mới hành động.
+[VISUAL DESCRIPTION]: Final wide shot of the stick figure walking forward with steady motion, the spark icon glowing brightly and consistently behind them, small subscribe-bell and thumbs-up icons glowing gently in #FF3B78 in the corner.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF3B78 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.

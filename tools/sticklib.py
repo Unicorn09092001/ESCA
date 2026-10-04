@@ -796,6 +796,25 @@ def icon(name, color=INK, w=7, **kw):
                 f'<path d="M-24,-10 Q-16,-18 -8,-10 M8,-10 Q16,-18 24,-10" {_c(color, 4)}/><path d="M-18,12 Q0,28 18,12" {_c(color, 5)}/>')
     if name == "plate":
         return f'<ellipse cx="0" cy="0" rx="50" ry="22" {s}/><ellipse cx="0" cy="-2" rx="32" ry="12" {_c(color, 3)}/>'
+    if name == "footprint":
+        return (f'<path d="M-4,46 Q-22,44 -22,22 Q-24,-6 -12,-18 Q4,-26 10,-8 Q14,10 8,26 Q6,44 -4,46 Z" fill="{color}"/>'
+                + "".join(f'<circle cx="{x}" cy="{y}" r="{r}" fill="{color}"/>' for x, y, r in ((-16, -32, 6), (-4, -38, 6), (8, -36, 5.5), (17, -30, 5), (23, -21, 4.5))))
+    if name == "todo":
+        n, done = kw.get("rows", 3), kw.get("done", 1)
+        out = [f'<rect x="-40" y="-46" width="80" height="92" rx="7" {s}/>']
+        for i in range(n):
+            y = -24 + i * 24
+            out.append(f'<rect x="-28" y="{y - 7}" width="14" height="14" rx="3" {_c(color, 3)}/><line x1="-6" y1="{y}" x2="28" y2="{y}" {_c(color, 4)}/>')
+            if i < done:
+                out.append(f'<line x1="-10" y1="{y}" x2="32" y2="{y}" {_c(kw.get("mark", color), 5)}/>'
+                           f'<path d="M-27,{y} L-22,{y + 5} L-13,{y - 7}" {_c(kw.get("mark", color), 4)}/>')
+        return "".join(out)
+    if name == "reel":
+        return (f'<rect x="-40" y="-30" width="80" height="60" rx="10" {s}/><path d="M-10,-14 L16,0 L-10,14 Z" fill="{color}"/>'
+                f'<path d="M-30,44 A46,20 0 0 0 30,44" {_c(color, 4)}/><path d="M22,38 L31,45 L22,52" {_c(color, 4)}/>')
+    if name == "nomotiv_book":
+        return (icon("book", color, w, progress=0) + f'<g transform="translate(-23,-6) scale(.32)">{icon("flame", color, w * 2)}</g>'
+                f'<line x1="-38" y1="-20" x2="-8" y2="10" {_c(color, 4)}/>')
     raise KeyError(name)
 
 
