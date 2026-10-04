@@ -8,6 +8,7 @@ import importlib.util
 import os
 import re
 import sys
+import unicodedata
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import sticklib  # noqa: E402
@@ -23,7 +24,9 @@ def read_meta(project):
     m = re.search(r'Headline dùng chung:\s*"([^"]+)"(?:[^"]*"([^"]+)")?', txt)
     headline = m.group(1) if m else ""
     accent_word = m.group(2) if m and m.group(2) else (headline.split()[-1] if headline else "")
-    return {"accent": accent, "headline": headline, "accent_word": accent_word}
+    # Quy tắc ký tự an toàn 1.3: headline thumbnail bỏ dấu (PERFECCIÓN → PERFECCION)
+    strip = lambda t: "".join(c for c in unicodedata.normalize("NFD", t) if unicodedata.category(c) != "Mn")  # noqa: E731
+    return {"accent": accent, "headline": strip(headline), "accent_word": strip(accent_word)}
 
 
 def load_scenes(project):

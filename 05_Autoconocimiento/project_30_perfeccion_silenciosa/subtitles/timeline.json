@@ -1,0 +1,3958 @@
+[
+ {
+  "id": "S01_F001",
+  "scene": "EL GANCHO",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "¿Por qué, sin importar cuánto logres, sientes que todavía no es suficiente?",
+  "visual": "Figure stands beside a glowing completed achievement icon, but their gaze is already fixed on a faint further point beyond it.",
+  "start": 0.0,
+  "end": 5.402,
+  "words": [
+   {
+    "word": "¿Por",
+    "start": 0.25,
+    "end": 0.43
+   },
+   {
+    "word": "qué,",
+    "start": 0.43,
+    "end": 0.611
+   },
+   {
+    "word": "sin",
+    "start": 0.611,
+    "end": 1.151
+   },
+   {
+    "word": "importar",
+    "start": 1.151,
+    "end": 1.633
+   },
+   {
+    "word": "cuánto",
+    "start": 1.633,
+    "end": 2.074
+   },
+   {
+    "word": "logres,",
+    "start": 2.074,
+    "end": 2.435
+   },
+   {
+    "word": "sientes",
+    "start": 2.435,
+    "end": 3.255
+   },
+   {
+    "word": "que",
+    "start": 3.255,
+    "end": 3.436
+   },
+   {
+    "word": "todavía",
+    "start": 3.436,
+    "end": 3.857
+   },
+   {
+    "word": "no",
+    "start": 3.857,
+    "end": 3.978
+   },
+   {
+    "word": "es",
+    "start": 3.978,
+    "end": 4.098
+   },
+   {
+    "word": "suficiente?",
+    "start": 4.098,
+    "end": 4.785
+   }
+  ]
+ },
+ {
+  "id": "S01_F002",
+  "scene": "EL GANCHO",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "No es que seas desagradecido, ni que te falte ambición.",
+  "visual": "Two faint dismissive icons (an ingratitude symbol, a low-ambition symbol) are gently crossed out beside the figure.",
+  "start": 5.402,
+  "end": 9.863,
+  "words": [
+   {
+    "word": "No",
+    "start": 6.02,
+    "end": 6.142
+   },
+   {
+    "word": "es",
+    "start": 6.142,
+    "end": 6.265
+   },
+   {
+    "word": "que",
+    "start": 6.265,
+    "end": 6.449
+   },
+   {
+    "word": "seas",
+    "start": 6.449,
+    "end": 6.695
+   },
+   {
+    "word": "desagradecido,",
+    "start": 6.695,
+    "end": 7.492
+   },
+   {
+    "word": "ni",
+    "start": 7.492,
+    "end": 8.081
+   },
+   {
+    "word": "que",
+    "start": 8.081,
+    "end": 8.265
+   },
+   {
+    "word": "te",
+    "start": 8.265,
+    "end": 8.388
+   },
+   {
+    "word": "falte",
+    "start": 8.388,
+    "end": 8.767
+   },
+   {
+    "word": "ambición.",
+    "start": 8.767,
+    "end": 9.258
+   }
+  ]
+ },
+ {
+  "id": "S01_F003",
+  "scene": "EL GANCHO",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Podría ser perfeccionismo silencioso — el tipo que no se ve por fuera,",
+  "visual": "Close-up, calm neutral outward expression, but a faint glowing tense knot visible only just beneath the surface of the chest.",
+  "start": 9.863,
+  "end": 14.825,
+  "words": [
+   {
+    "word": "Podría",
+    "start": 10.468,
+    "end": 10.844
+   },
+   {
+    "word": "ser",
+    "start": 10.844,
+    "end": 11.118
+   },
+   {
+    "word": "perfeccionismo",
+    "start": 11.118,
+    "end": 11.995
+   },
+   {
+    "word": "silencioso",
+    "start": 11.995,
+    "end": 12.622
+   },
+   {
+    "word": "—",
+    "start": 12.622,
+    "end": 13.021
+   },
+   {
+    "word": "el",
+    "start": 13.021,
+    "end": 13.147
+   },
+   {
+    "word": "tipo",
+    "start": 13.147,
+    "end": 13.473
+   },
+   {
+    "word": "que",
+    "start": 13.473,
+    "end": 13.661
+   },
+   {
+    "word": "no",
+    "start": 13.661,
+    "end": 13.787
+   },
+   {
+    "word": "se",
+    "start": 13.787,
+    "end": 13.912
+   },
+   {
+    "word": "ve",
+    "start": 13.912,
+    "end": 14.122
+   },
+   {
+    "word": "por",
+    "start": 14.122,
+    "end": 14.31
+   },
+   {
+    "word": "fuera,",
+    "start": 14.31,
+    "end": 14.623
+   }
+  ]
+ },
+ {
+  "id": "S01_F004",
+  "scene": "EL GANCHO",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "porque tu escritorio no está impecable ni entregas todo antes de tiempo, pero que igual te consume por dentro, todos los días.",
+  "visual": "A normal, slightly messy desk is shown outwardly, while the faint glowing tense knot inside the figure's chest persists quietly, unnoticed by anyone else.",
+  "start": 14.825,
+  "end": 22.612,
+  "words": [
+   {
+    "word": "porque",
+    "start": 15.028,
+    "end": 15.37
+   },
+   {
+    "word": "tu",
+    "start": 15.37,
+    "end": 15.485
+   },
+   {
+    "word": "escritorio",
+    "start": 15.485,
+    "end": 16.056
+   },
+   {
+    "word": "no",
+    "start": 16.056,
+    "end": 16.17
+   },
+   {
+    "word": "está",
+    "start": 16.17,
+    "end": 16.474
+   },
+   {
+    "word": "impecable",
+    "start": 16.474,
+    "end": 16.988
+   },
+   {
+    "word": "ni",
+    "start": 16.988,
+    "end": 17.103
+   },
+   {
+    "word": "entregas",
+    "start": 17.103,
+    "end": 17.559
+   },
+   {
+    "word": "todo",
+    "start": 17.559,
+    "end": 17.788
+   },
+   {
+    "word": "antes",
+    "start": 17.788,
+    "end": 18.073
+   },
+   {
+    "word": "de",
+    "start": 18.073,
+    "end": 18.269
+   },
+   {
+    "word": "tiempo,",
+    "start": 18.269,
+    "end": 19.071
+   },
+   {
+    "word": "pero",
+    "start": 19.071,
+    "end": 19.3
+   },
+   {
+    "word": "que",
+    "start": 19.3,
+    "end": 19.471
+   },
+   {
+    "word": "igual",
+    "start": 19.471,
+    "end": 19.838
+   },
+   {
+    "word": "te",
+    "start": 19.838,
+    "end": 19.952
+   },
+   {
+    "word": "consume",
+    "start": 19.952,
+    "end": 20.431
+   },
+   {
+    "word": "por",
+    "start": 20.431,
+    "end": 20.602
+   },
+   {
+    "word": "dentro,",
+    "start": 20.602,
+    "end": 21.323
+   },
+   {
+    "word": "todos",
+    "start": 21.323,
+    "end": 21.608
+   },
+   {
+    "word": "los",
+    "start": 21.608,
+    "end": 21.78
+   },
+   {
+    "word": "días.",
+    "start": 21.78,
+    "end": 22.008
+   }
+  ]
+ },
+ {
+  "id": "S02_F005",
+  "scene": "LA PROMESA",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Hoy te muestro 5 señales de este perfeccionismo silencioso.",
+  "visual": "Five small glowing dots arrange themselves in a steady arc beside the figure, calm explanatory posture.",
+  "start": 22.612,
+  "end": 27.282,
+  "words": [
+   {
+    "word": "Hoy",
+    "start": 23.215,
+    "end": 23.422
+   },
+   {
+    "word": "te",
+    "start": 23.422,
+    "end": 23.559
+   },
+   {
+    "word": "muestro",
+    "start": 23.559,
+    "end": 24.041
+   },
+   {
+    "word": "5",
+    "start": 24.041,
+    "end": 24.11
+   },
+   {
+    "word": "señales",
+    "start": 24.11,
+    "end": 24.591
+   },
+   {
+    "word": "de",
+    "start": 24.591,
+    "end": 24.729
+   },
+   {
+    "word": "este",
+    "start": 24.729,
+    "end": 25.004
+   },
+   {
+    "word": "perfeccionismo",
+    "start": 25.004,
+    "end": 25.967
+   },
+   {
+    "word": "silencioso.",
+    "start": 25.967,
+    "end": 26.655
+   }
+  ]
+ },
+ {
+  "id": "S02_F006",
+  "scene": "LA PROMESA",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "No es el perfeccionismo de película, el que se nota a simple vista.",
+  "visual": "A faint exaggerated, obviously-perfectionist ghost-outline figure (rigid posture, obsessively neat) fades away, dismissed.",
+  "start": 27.282,
+  "end": 32.345,
+  "words": [
+   {
+    "word": "No",
+    "start": 27.91,
+    "end": 28.025
+   },
+   {
+    "word": "es",
+    "start": 28.025,
+    "end": 28.14
+   },
+   {
+    "word": "el",
+    "start": 28.14,
+    "end": 28.255
+   },
+   {
+    "word": "perfeccionismo",
+    "start": 28.255,
+    "end": 29.144
+   },
+   {
+    "word": "de",
+    "start": 29.144,
+    "end": 29.331
+   },
+   {
+    "word": "película,",
+    "start": 29.331,
+    "end": 30.262
+   },
+   {
+    "word": "el",
+    "start": 30.262,
+    "end": 30.453
+   },
+   {
+    "word": "que",
+    "start": 30.453,
+    "end": 30.625
+   },
+   {
+    "word": "se",
+    "start": 30.625,
+    "end": 30.741
+   },
+   {
+    "word": "nota",
+    "start": 30.741,
+    "end": 30.971
+   },
+   {
+    "word": "a",
+    "start": 30.971,
+    "end": 31.028
+   },
+   {
+    "word": "simple",
+    "start": 31.028,
+    "end": 31.445
+   },
+   {
+    "word": "vista.",
+    "start": 31.445,
+    "end": 31.733
+   }
+  ]
+ },
+ {
+  "id": "S02_F007",
+  "scene": "LA PROMESA",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Es el que se esconde detrás de alguien que, desde afuera, parece simplemente \"exigente consigo mismo\".",
+  "visual": "Figure stands looking perfectly ordinary and relaxed outwardly, the faint glowing tense knot from before still quietly present beneath.",
+  "start": 32.345,
+  "end": 39.891,
+  "words": [
+   {
+    "word": "Es",
+    "start": 32.956,
+    "end": 33.083
+   },
+   {
+    "word": "el",
+    "start": 33.083,
+    "end": 33.21
+   },
+   {
+    "word": "que",
+    "start": 33.21,
+    "end": 33.475
+   },
+   {
+    "word": "se",
+    "start": 33.475,
+    "end": 33.602
+   },
+   {
+    "word": "esconde",
+    "start": 33.602,
+    "end": 34.045
+   },
+   {
+    "word": "detrás",
+    "start": 34.045,
+    "end": 34.424
+   },
+   {
+    "word": "de",
+    "start": 34.424,
+    "end": 34.551
+   },
+   {
+    "word": "alguien",
+    "start": 34.551,
+    "end": 34.994
+   },
+   {
+    "word": "que,",
+    "start": 34.994,
+    "end": 35.572
+   },
+   {
+    "word": "desde",
+    "start": 35.572,
+    "end": 35.889
+   },
+   {
+    "word": "afuera,",
+    "start": 35.889,
+    "end": 36.651
+   },
+   {
+    "word": "parece",
+    "start": 36.651,
+    "end": 37.031
+   },
+   {
+    "word": "simplemente",
+    "start": 37.031,
+    "end": 38.0
+   },
+   {
+    "word": "\"exigente",
+    "start": 38.0,
+    "end": 38.506
+   },
+   {
+    "word": "consigo",
+    "start": 38.506,
+    "end": 38.949
+   },
+   {
+    "word": "mismo\".",
+    "start": 38.949,
+    "end": 39.266
+   }
+  ]
+ },
+ {
+  "id": "S03_F008",
+  "scene": "SEÑAL 1 — Nunca Es Suficiente",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Señal uno: nunca sientes que un logro es suficiente.",
+  "visual": "Figure stands beside a glowing completed achievement icon, already turning away from it toward something else.",
+  "start": 39.891,
+  "end": 44.449,
+  "words": [
+   {
+    "word": "Señal",
+    "start": 40.517,
+    "end": 40.855
+   },
+   {
+    "word": "uno:",
+    "start": 40.855,
+    "end": 41.059
+   },
+   {
+    "word": "nunca",
+    "start": 41.059,
+    "end": 41.795
+   },
+   {
+    "word": "sientes",
+    "start": 41.795,
+    "end": 42.27
+   },
+   {
+    "word": "que",
+    "start": 42.27,
+    "end": 42.473
+   },
+   {
+    "word": "un",
+    "start": 42.473,
+    "end": 42.609
+   },
+   {
+    "word": "logro",
+    "start": 42.609,
+    "end": 42.947
+   },
+   {
+    "word": "es",
+    "start": 42.947,
+    "end": 43.083
+   },
+   {
+    "word": "suficiente.",
+    "start": 43.083,
+    "end": 43.843
+   }
+  ]
+ },
+ {
+  "id": "S03_F009",
+  "scene": "SEÑAL 1 — Nunca Es Suficiente",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Terminas un proyecto grande, lo entregas, y en menos de un día ya estás pensando en lo próximo,",
+  "visual": "The completed achievement icon dims and shrinks quickly as a new, unfinished project-icon rises brighter beside the figure.",
+  "start": 44.449,
+  "end": 50.918,
+  "words": [
+   {
+    "word": "Terminas",
+    "start": 45.056,
+    "end": 45.556
+   },
+   {
+    "word": "un",
+    "start": 45.556,
+    "end": 45.681
+   },
+   {
+    "word": "proyecto",
+    "start": 45.681,
+    "end": 46.288
+   },
+   {
+    "word": "grande,",
+    "start": 46.288,
+    "end": 46.663
+   },
+   {
+    "word": "lo",
+    "start": 46.663,
+    "end": 47.195
+   },
+   {
+    "word": "entregas,",
+    "start": 47.195,
+    "end": 47.695
+   },
+   {
+    "word": "y",
+    "start": 47.695,
+    "end": 47.758
+   },
+   {
+    "word": "en",
+    "start": 47.758,
+    "end": 48.173
+   },
+   {
+    "word": "menos",
+    "start": 48.173,
+    "end": 48.485
+   },
+   {
+    "word": "de",
+    "start": 48.485,
+    "end": 48.61
+   },
+   {
+    "word": "un",
+    "start": 48.61,
+    "end": 48.735
+   },
+   {
+    "word": "día",
+    "start": 48.735,
+    "end": 48.923
+   },
+   {
+    "word": "ya",
+    "start": 48.923,
+    "end": 49.048
+   },
+   {
+    "word": "estás",
+    "start": 49.048,
+    "end": 49.361
+   },
+   {
+    "word": "pensando",
+    "start": 49.361,
+    "end": 49.939
+   },
+   {
+    "word": "en",
+    "start": 49.939,
+    "end": 50.064
+   },
+   {
+    "word": "lo",
+    "start": 50.064,
+    "end": 50.272
+   },
+   {
+    "word": "próximo,",
+    "start": 50.272,
+    "end": 50.71
+   }
+  ]
+ },
+ {
+  "id": "S03_F010",
+  "scene": "SEÑAL 1 — Nunca Es Suficiente",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "sin haber sentido realmente la satisfacción de lo que acabas de lograr.",
+  "visual": "Close-up, a faint warm satisfaction-glow tries to form around the figure but fades away too quickly, ungrasped.",
+  "start": 50.918,
+  "end": 55.299,
+  "words": [
+   {
+    "word": "sin",
+    "start": 51.127,
+    "end": 51.303
+   },
+   {
+    "word": "haber",
+    "start": 51.303,
+    "end": 51.597
+   },
+   {
+    "word": "sentido",
+    "start": 51.597,
+    "end": 52.009
+   },
+   {
+    "word": "realmente",
+    "start": 52.009,
+    "end": 52.539
+   },
+   {
+    "word": "la",
+    "start": 52.539,
+    "end": 52.656
+   },
+   {
+    "word": "satisfacción",
+    "start": 52.656,
+    "end": 53.362
+   },
+   {
+    "word": "de",
+    "start": 53.362,
+    "end": 53.48
+   },
+   {
+    "word": "lo",
+    "start": 53.48,
+    "end": 53.598
+   },
+   {
+    "word": "que",
+    "start": 53.598,
+    "end": 53.774
+   },
+   {
+    "word": "acabas",
+    "start": 53.774,
+    "end": 54.204
+   },
+   {
+    "word": "de",
+    "start": 54.204,
+    "end": 54.322
+   },
+   {
+    "word": "lograr.",
+    "start": 54.322,
+    "end": 54.675
+   }
+  ]
+ },
+ {
+  "id": "S03_F011",
+  "scene": "SEÑAL 1 — Nunca Es Suficiente",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "El investigador Thomas Curran documentó, junto con Andrew Hill, un aumento significativo del perfeccionismo en las últimas décadas —",
+  "visual": "Thoughtful narrating expression, a faint glowing rising-trend-line icon climbs steadily across a stretch of decades beside the figure.",
+  "start": 55.299,
+  "end": 63.817,
+  "words": [
+   {
+    "word": "El",
+    "start": 55.924,
+    "end": 56.041
+   },
+   {
+    "word": "investigador",
+    "start": 56.041,
+    "end": 56.747
+   },
+   {
+    "word": "Thomas",
+    "start": 56.747,
+    "end": 57.184
+   },
+   {
+    "word": "Curran",
+    "start": 57.184,
+    "end": 57.537
+   },
+   {
+    "word": "documentó,",
+    "start": 57.537,
+    "end": 58.565
+   },
+   {
+    "word": "junto",
+    "start": 58.565,
+    "end": 58.858
+   },
+   {
+    "word": "con",
+    "start": 58.858,
+    "end": 59.035
+   },
+   {
+    "word": "Andrew",
+    "start": 59.035,
+    "end": 59.387
+   },
+   {
+    "word": "Hill,",
+    "start": 59.387,
+    "end": 59.971
+   },
+   {
+    "word": "un",
+    "start": 59.971,
+    "end": 60.088
+   },
+   {
+    "word": "aumento",
+    "start": 60.088,
+    "end": 60.5
+   },
+   {
+    "word": "significativo",
+    "start": 60.5,
+    "end": 61.264
+   },
+   {
+    "word": "del",
+    "start": 61.264,
+    "end": 61.44
+   },
+   {
+    "word": "perfeccionismo",
+    "start": 61.44,
+    "end": 62.344
+   },
+   {
+    "word": "en",
+    "start": 62.344,
+    "end": 62.461
+   },
+   {
+    "word": "las",
+    "start": 62.461,
+    "end": 62.638
+   },
+   {
+    "word": "últimas",
+    "start": 62.638,
+    "end": 63.123
+   },
+   {
+    "word": "décadas",
+    "start": 63.123,
+    "end": 63.611
+   },
+   {
+    "word": "—",
+    "start": 63.611,
+    "end": 63.67
+   }
+  ]
+ },
+ {
+  "id": "S03_F012",
+  "scene": "SEÑAL 1 — Nunca Es Suficiente",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "sobre todo del tipo \"socialmente prescrito\": la sensación de que otros esperan que seas perfecto, aunque nadie te lo haya dicho directamente.",
+  "visual": "Faint ghost-outline silhouettes of other people surround the figure, each silently projecting an invisible expectation-icon without speaking.",
+  "start": 63.817,
+  "end": 72.882,
+  "words": [
+   {
+    "word": "sobre",
+    "start": 63.963,
+    "end": 64.327
+   },
+   {
+    "word": "todo",
+    "start": 64.327,
+    "end": 64.546
+   },
+   {
+    "word": "del",
+    "start": 64.546,
+    "end": 64.91
+   },
+   {
+    "word": "tipo",
+    "start": 64.91,
+    "end": 65.319
+   },
+   {
+    "word": "\"socialmente",
+    "start": 65.319,
+    "end": 65.922
+   },
+   {
+    "word": "prescrito\":",
+    "start": 65.922,
+    "end": 67.0
+   },
+   {
+    "word": "la",
+    "start": 67.0,
+    "end": 67.109
+   },
+   {
+    "word": "sensación",
+    "start": 67.109,
+    "end": 67.602
+   },
+   {
+    "word": "de",
+    "start": 67.602,
+    "end": 67.712
+   },
+   {
+    "word": "que",
+    "start": 67.712,
+    "end": 67.876
+   },
+   {
+    "word": "otros",
+    "start": 67.876,
+    "end": 68.15
+   },
+   {
+    "word": "esperan",
+    "start": 68.15,
+    "end": 68.616
+   },
+   {
+    "word": "que",
+    "start": 68.616,
+    "end": 68.78
+   },
+   {
+    "word": "seas",
+    "start": 68.78,
+    "end": 68.999
+   },
+   {
+    "word": "perfecto,",
+    "start": 68.999,
+    "end": 69.693
+   },
+   {
+    "word": "aunque",
+    "start": 69.693,
+    "end": 70.39
+   },
+   {
+    "word": "nadie",
+    "start": 70.39,
+    "end": 70.664
+   },
+   {
+    "word": "te",
+    "start": 70.664,
+    "end": 70.774
+   },
+   {
+    "word": "lo",
+    "start": 70.774,
+    "end": 70.883
+   },
+   {
+    "word": "haya",
+    "start": 70.883,
+    "end": 71.103
+   },
+   {
+    "word": "dicho",
+    "start": 71.103,
+    "end": 71.376
+   },
+   {
+    "word": "directamente.",
+    "start": 71.376,
+    "end": 72.278
+   }
+  ]
+ },
+ {
+  "id": "S03_F013",
+  "scene": "SEÑAL 1 — Nunca Es Suficiente",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Presta atención a esto: cuando ese estándar viene de una expectativa imaginada,",
+  "visual": "Close-up, figure looks toward the silent expectation-icons, realizing their vague and undefined nature.",
+  "start": 72.882,
+  "end": 78.072,
+  "words": [
+   {
+    "word": "Presta",
+    "start": 73.486,
+    "end": 73.835
+   },
+   {
+    "word": "atención",
+    "start": 73.835,
+    "end": 74.3
+   },
+   {
+    "word": "a",
+    "start": 74.3,
+    "end": 74.358
+   },
+   {
+    "word": "esto:",
+    "start": 74.358,
+    "end": 74.591
+   },
+   {
+    "word": "cuando",
+    "start": 74.591,
+    "end": 75.302
+   },
+   {
+    "word": "ese",
+    "start": 75.302,
+    "end": 75.476
+   },
+   {
+    "word": "estándar",
+    "start": 75.476,
+    "end": 75.942
+   },
+   {
+    "word": "viene",
+    "start": 75.942,
+    "end": 76.233
+   },
+   {
+    "word": "de",
+    "start": 76.233,
+    "end": 76.349
+   },
+   {
+    "word": "una",
+    "start": 76.349,
+    "end": 76.524
+   },
+   {
+    "word": "expectativa",
+    "start": 76.524,
+    "end": 77.337
+   },
+   {
+    "word": "imaginada,",
+    "start": 77.337,
+    "end": 77.86
+   }
+  ]
+ },
+ {
+  "id": "S03_F014",
+  "scene": "SEÑAL 1 — Nunca Es Suficiente",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "ningún logro real puede satisfacerlo, porque el objetivo nunca estuvo fijo en un punto alcanzable.",
+  "visual": "The completed achievement icon from the first frame sits glowing, yet a faint goal-marker keeps drifting further away, never fixed in place.",
+  "start": 78.072,
+  "end": 84.443,
+  "words": [
+   {
+    "word": "ningún",
+    "start": 78.283,
+    "end": 78.626
+   },
+   {
+    "word": "logro",
+    "start": 78.626,
+    "end": 78.912
+   },
+   {
+    "word": "real",
+    "start": 78.912,
+    "end": 79.141
+   },
+   {
+    "word": "puede",
+    "start": 79.141,
+    "end": 79.527
+   },
+   {
+    "word": "satisfacerlo,",
+    "start": 79.527,
+    "end": 80.214
+   },
+   {
+    "word": "porque",
+    "start": 80.214,
+    "end": 81.012
+   },
+   {
+    "word": "el",
+    "start": 81.012,
+    "end": 81.126
+   },
+   {
+    "word": "objetivo",
+    "start": 81.126,
+    "end": 81.765
+   },
+   {
+    "word": "nunca",
+    "start": 81.765,
+    "end": 82.051
+   },
+   {
+    "word": "estuvo",
+    "start": 82.051,
+    "end": 82.395
+   },
+   {
+    "word": "fijo",
+    "start": 82.395,
+    "end": 82.624
+   },
+   {
+    "word": "en",
+    "start": 82.624,
+    "end": 82.738
+   },
+   {
+    "word": "un",
+    "start": 82.738,
+    "end": 82.966
+   },
+   {
+    "word": "punto",
+    "start": 82.966,
+    "end": 83.252
+   },
+   {
+    "word": "alcanzable.",
+    "start": 83.252,
+    "end": 83.825
+   }
+  ]
+ },
+ {
+  "id": "S04_F015",
+  "scene": "SEÑAL 2 — No Puedes Empezar Sin Que Sea Perfecto",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Señal dos: te cuesta empezar algo si no puedes hacerlo bien desde el principio.",
+  "visual": "Figure hesitates before a faint glowing blank page, hand hovering without committing to the first mark.",
+  "start": 84.443,
+  "end": 90.322,
+  "words": [
+   {
+    "word": "Señal",
+    "start": 85.062,
+    "end": 85.369
+   },
+   {
+    "word": "dos:",
+    "start": 85.369,
+    "end": 85.553
+   },
+   {
+    "word": "te",
+    "start": 85.553,
+    "end": 85.676
+   },
+   {
+    "word": "cuesta",
+    "start": 85.676,
+    "end": 86.484
+   },
+   {
+    "word": "empezar",
+    "start": 86.484,
+    "end": 86.914
+   },
+   {
+    "word": "algo",
+    "start": 86.914,
+    "end": 87.159
+   },
+   {
+    "word": "si",
+    "start": 87.159,
+    "end": 87.282
+   },
+   {
+    "word": "no",
+    "start": 87.282,
+    "end": 87.405
+   },
+   {
+    "word": "puedes",
+    "start": 87.405,
+    "end": 87.773
+   },
+   {
+    "word": "hacerlo",
+    "start": 87.773,
+    "end": 88.311
+   },
+   {
+    "word": "bien",
+    "start": 88.311,
+    "end": 88.557
+   },
+   {
+    "word": "desde",
+    "start": 88.557,
+    "end": 88.864
+   },
+   {
+    "word": "el",
+    "start": 88.864,
+    "end": 88.987
+   },
+   {
+    "word": "principio.",
+    "start": 88.987,
+    "end": 89.707
+   }
+  ]
+ },
+ {
+  "id": "S04_F016",
+  "scene": "SEÑAL 2 — No Puedes Empezar Sin Que Sea Perfecto",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "No es procrastinación por pereza.",
+  "visual": "A faint laziness-icon is gently crossed out beside the figure, dismissing the common misconception.",
+  "start": 90.322,
+  "end": 93.471,
+  "words": [
+   {
+    "word": "No",
+    "start": 90.938,
+    "end": 91.061
+   },
+   {
+    "word": "es",
+    "start": 91.061,
+    "end": 91.185
+   },
+   {
+    "word": "procrastinación",
+    "start": 91.185,
+    "end": 92.111
+   },
+   {
+    "word": "por",
+    "start": 92.111,
+    "end": 92.485
+   },
+   {
+    "word": "pereza.",
+    "start": 92.485,
+    "end": 92.856
+   }
+  ]
+ },
+ {
+  "id": "S04_F017",
+  "scene": "SEÑAL 2 — No Puedes Empezar Sin Que Sea Perfecto",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Es evitar el primer intento imperfecto, porque una parte de ti trata ese borrador inicial como si fuera el resultado final.",
+  "visual": "Close-up, a faint rough draft-icon and a polished final-icon are shown overlapping as if identical, causing visible hesitation.",
+  "start": 93.471,
+  "end": 101.463,
+  "words": [
+   {
+    "word": "Es",
+    "start": 94.085,
+    "end": 94.2
+   },
+   {
+    "word": "evitar",
+    "start": 94.2,
+    "end": 94.543
+   },
+   {
+    "word": "el",
+    "start": 94.543,
+    "end": 94.658
+   },
+   {
+    "word": "primer",
+    "start": 94.658,
+    "end": 95.001
+   },
+   {
+    "word": "intento",
+    "start": 95.001,
+    "end": 95.402
+   },
+   {
+    "word": "imperfecto,",
+    "start": 95.402,
+    "end": 96.13
+   },
+   {
+    "word": "porque",
+    "start": 96.13,
+    "end": 96.891
+   },
+   {
+    "word": "una",
+    "start": 96.891,
+    "end": 97.135
+   },
+   {
+    "word": "parte",
+    "start": 97.135,
+    "end": 97.499
+   },
+   {
+    "word": "de",
+    "start": 97.499,
+    "end": 97.613
+   },
+   {
+    "word": "ti",
+    "start": 97.613,
+    "end": 97.728
+   },
+   {
+    "word": "trata",
+    "start": 97.728,
+    "end": 98.09
+   },
+   {
+    "word": "ese",
+    "start": 98.09,
+    "end": 98.262
+   },
+   {
+    "word": "borrador",
+    "start": 98.262,
+    "end": 98.72
+   },
+   {
+    "word": "inicial",
+    "start": 98.72,
+    "end": 99.121
+   },
+   {
+    "word": "como",
+    "start": 99.121,
+    "end": 99.427
+   },
+   {
+    "word": "si",
+    "start": 99.427,
+    "end": 99.542
+   },
+   {
+    "word": "fuera",
+    "start": 99.542,
+    "end": 99.828
+   },
+   {
+    "word": "el",
+    "start": 99.828,
+    "end": 99.943
+   },
+   {
+    "word": "resultado",
+    "start": 99.943,
+    "end": 100.557
+   },
+   {
+    "word": "final.",
+    "start": 100.557,
+    "end": 100.843
+   }
+  ]
+ },
+ {
+  "id": "S04_F018",
+  "scene": "SEÑAL 2 — No Puedes Empezar Sin Que Sea Perfecto",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Los psicólogos Gordon Flett y Paul Hewitt, que llevan décadas estudiando el perfeccionismo,",
+  "visual": "Thoughtful narrating expression, a faint glowing research-icon (a scale/measurement symbol) appears briefly beside the figure.",
+  "start": 101.463,
+  "end": 107.503,
+  "words": [
+   {
+    "word": "Los",
+    "start": 102.082,
+    "end": 102.253
+   },
+   {
+    "word": "psicólogos",
+    "start": 102.253,
+    "end": 102.825
+   },
+   {
+    "word": "Gordon",
+    "start": 102.825,
+    "end": 103.168
+   },
+   {
+    "word": "Flett",
+    "start": 103.168,
+    "end": 103.454
+   },
+   {
+    "word": "y",
+    "start": 103.454,
+    "end": 103.511
+   },
+   {
+    "word": "Paul",
+    "start": 103.511,
+    "end": 103.911
+   },
+   {
+    "word": "Hewitt,",
+    "start": 103.911,
+    "end": 104.253
+   },
+   {
+    "word": "que",
+    "start": 104.253,
+    "end": 104.934
+   },
+   {
+    "word": "llevan",
+    "start": 104.934,
+    "end": 105.277
+   },
+   {
+    "word": "décadas",
+    "start": 105.277,
+    "end": 105.75
+   },
+   {
+    "word": "estudiando",
+    "start": 105.75,
+    "end": 106.408
+   },
+   {
+    "word": "el",
+    "start": 106.408,
+    "end": 106.522
+   },
+   {
+    "word": "perfeccionismo,",
+    "start": 106.522,
+    "end": 107.322
+   }
+  ]
+ },
+ {
+  "id": "S04_F019",
+  "scene": "SEÑAL 2 — No Puedes Empezar Sin Que Sea Perfecto",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "lo llaman \"perfeccionismo autoorientado\": estándares imposiblemente altos que te impones a ti mismo,",
+  "visual": "A faint glowing bar reaching impossibly high above the figure's own head, self-imposed and unreachable.",
+  "start": 107.503,
+  "end": 113.867,
+  "words": [
+   {
+    "word": "lo",
+    "start": 107.684,
+    "end": 107.801
+   },
+   {
+    "word": "llaman",
+    "start": 107.801,
+    "end": 108.43
+   },
+   {
+    "word": "\"perfeccionismo",
+    "start": 108.43,
+    "end": 109.246
+   },
+   {
+    "word": "autoorientado\":",
+    "start": 109.246,
+    "end": 110.586
+   },
+   {
+    "word": "estándares",
+    "start": 110.586,
+    "end": 111.169
+   },
+   {
+    "word": "imposiblemente",
+    "start": 111.169,
+    "end": 111.985
+   },
+   {
+    "word": "altos",
+    "start": 111.985,
+    "end": 112.357
+   },
+   {
+    "word": "que",
+    "start": 112.357,
+    "end": 112.532
+   },
+   {
+    "word": "te",
+    "start": 112.532,
+    "end": 112.649
+   },
+   {
+    "word": "impones",
+    "start": 112.649,
+    "end": 113.211
+   },
+   {
+    "word": "a",
+    "start": 113.211,
+    "end": 113.269
+   },
+   {
+    "word": "ti",
+    "start": 113.269,
+    "end": 113.386
+   },
+   {
+    "word": "mismo,",
+    "start": 113.386,
+    "end": 113.677
+   }
+  ]
+ },
+ {
+  "id": "S04_F020",
+  "scene": "SEÑAL 2 — No Puedes Empezar Sin Que Sea Perfecto",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "junto con una autocrítica dura cuando no los cumples.",
+  "visual": "Close-up, a faint harsh inner-critic shadow looms briefly over the figure each time the impossibly high bar is not reached.",
+  "start": 113.867,
+  "end": 117.471,
+  "words": [
+   {
+    "word": "junto",
+    "start": 114.057,
+    "end": 114.34
+   },
+   {
+    "word": "con",
+    "start": 114.34,
+    "end": 114.51
+   },
+   {
+    "word": "una",
+    "start": 114.51,
+    "end": 114.68
+   },
+   {
+    "word": "autocrítica",
+    "start": 114.68,
+    "end": 115.381
+   },
+   {
+    "word": "dura",
+    "start": 115.381,
+    "end": 115.608
+   },
+   {
+    "word": "cuando",
+    "start": 115.608,
+    "end": 116.039
+   },
+   {
+    "word": "no",
+    "start": 116.039,
+    "end": 116.153
+   },
+   {
+    "word": "los",
+    "start": 116.153,
+    "end": 116.323
+   },
+   {
+    "word": "cumples.",
+    "start": 116.323,
+    "end": 116.861
+   }
+  ]
+ },
+ {
+  "id": "S04_F021",
+  "scene": "SEÑAL 2 — No Puedes Empezar Sin Que Sea Perfecto",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Aquí está la clave: si el primer borrador tuviera que ser perfecto, nadie terminaría nunca nada.",
+  "visual": "Figure gently picks up a rough, imperfect draft-icon anyway and moves forward with it, small courageous step.",
+  "start": 117.471,
+  "end": 124.512,
+  "words": [
+   {
+    "word": "Aquí",
+    "start": 118.081,
+    "end": 118.314
+   },
+   {
+    "word": "está",
+    "start": 118.314,
+    "end": 118.546
+   },
+   {
+    "word": "la",
+    "start": 118.546,
+    "end": 118.662
+   },
+   {
+    "word": "clave:",
+    "start": 118.662,
+    "end": 118.953
+   },
+   {
+    "word": "si",
+    "start": 118.953,
+    "end": 119.069
+   },
+   {
+    "word": "el",
+    "start": 119.069,
+    "end": 119.185
+   },
+   {
+    "word": "primer",
+    "start": 119.185,
+    "end": 120.019
+   },
+   {
+    "word": "borrador",
+    "start": 120.019,
+    "end": 120.484
+   },
+   {
+    "word": "tuviera",
+    "start": 120.484,
+    "end": 120.966
+   },
+   {
+    "word": "que",
+    "start": 120.966,
+    "end": 121.141
+   },
+   {
+    "word": "ser",
+    "start": 121.141,
+    "end": 121.411
+   },
+   {
+    "word": "perfecto,",
+    "start": 121.411,
+    "end": 122.429
+   },
+   {
+    "word": "nadie",
+    "start": 122.429,
+    "end": 122.72
+   },
+   {
+    "word": "terminaría",
+    "start": 122.72,
+    "end": 123.301
+   },
+   {
+    "word": "nunca",
+    "start": 123.301,
+    "end": 123.662
+   },
+   {
+    "word": "nada.",
+    "start": 123.662,
+    "end": 123.895
+   }
+  ]
+ },
+ {
+  "id": "S05_F022",
+  "scene": "SEÑAL 3 — Revisas Sin Parar",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Señal tres: revisas algo mucho después de que ya está bien,",
+  "visual": "Figure sits at a desk with a glowing completed document icon, hand still hovering to make one more small change.",
+  "start": 124.512,
+  "end": 128.93,
+  "words": [
+   {
+    "word": "Señal",
+    "start": 125.13,
+    "end": 125.451
+   },
+   {
+    "word": "tres:",
+    "start": 125.451,
+    "end": 125.81
+   },
+   {
+    "word": "revisas",
+    "start": 125.81,
+    "end": 126.716
+   },
+   {
+    "word": "algo",
+    "start": 126.716,
+    "end": 126.973
+   },
+   {
+    "word": "mucho",
+    "start": 126.973,
+    "end": 127.294
+   },
+   {
+    "word": "después",
+    "start": 127.294,
+    "end": 127.836
+   },
+   {
+    "word": "de",
+    "start": 127.836,
+    "end": 127.964
+   },
+   {
+    "word": "que",
+    "start": 127.964,
+    "end": 128.157
+   },
+   {
+    "word": "ya",
+    "start": 128.157,
+    "end": 128.285
+   },
+   {
+    "word": "está",
+    "start": 128.285,
+    "end": 128.541
+   },
+   {
+    "word": "bien,",
+    "start": 128.541,
+    "end": 128.798
+   }
+  ]
+ },
+ {
+  "id": "S05_F023",
+  "scene": "SEÑAL 3 — Revisas Sin Parar",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "buscando un error que probablemente nadie más notaría.",
+  "visual": "A faint magnifying-glass icon scans intensely over the already-complete document, finding only tiny, unnoticeable details.",
+  "start": 128.93,
+  "end": 132.39,
+  "words": [
+   {
+    "word": "buscando",
+    "start": 129.063,
+    "end": 129.492
+   },
+   {
+    "word": "un",
+    "start": 129.492,
+    "end": 129.599
+   },
+   {
+    "word": "error",
+    "start": 129.599,
+    "end": 129.939
+   },
+   {
+    "word": "que",
+    "start": 129.939,
+    "end": 130.18
+   },
+   {
+    "word": "probablemente",
+    "start": 130.18,
+    "end": 130.877
+   },
+   {
+    "word": "nadie",
+    "start": 130.877,
+    "end": 131.145
+   },
+   {
+    "word": "más",
+    "start": 131.145,
+    "end": 131.306
+   },
+   {
+    "word": "notaría.",
+    "start": 131.306,
+    "end": 131.754
+   }
+  ]
+ },
+ {
+  "id": "S05_F024",
+  "scene": "SEÑAL 3 — Revisas Sin Parar",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Relees el mismo correo cinco veces antes de enviarlo.",
+  "visual": "Close-up, figure's eyes move back and forth across the same glowing email-icon repeatedly, five small pass-marks accumulating.",
+  "start": 132.39,
+  "end": 136.462,
+  "words": [
+   {
+    "word": "Relees",
+    "start": 133.027,
+    "end": 133.393
+   },
+   {
+    "word": "el",
+    "start": 133.393,
+    "end": 133.515
+   },
+   {
+    "word": "mismo",
+    "start": 133.515,
+    "end": 133.82
+   },
+   {
+    "word": "correo",
+    "start": 133.82,
+    "end": 134.258
+   },
+   {
+    "word": "cinco",
+    "start": 134.258,
+    "end": 134.564
+   },
+   {
+    "word": "veces",
+    "start": 134.564,
+    "end": 134.869
+   },
+   {
+    "word": "antes",
+    "start": 134.869,
+    "end": 135.174
+   },
+   {
+    "word": "de",
+    "start": 135.174,
+    "end": 135.296
+   },
+   {
+    "word": "enviarlo.",
+    "start": 135.296,
+    "end": 135.784
+   }
+  ]
+ },
+ {
+  "id": "S05_F025",
+  "scene": "SEÑAL 3 — Revisas Sin Parar",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Reorganizas una diapositiva que ya se veía clara, cambias una palabra por otra casi idéntica,",
+  "visual": "A faint slide-icon has one small word swapped for an almost identical one, visually indistinguishable difference.",
+  "start": 136.462,
+  "end": 142.863,
+  "words": [
+   {
+    "word": "Reorganizas",
+    "start": 137.14,
+    "end": 137.824
+   },
+   {
+    "word": "una",
+    "start": 137.824,
+    "end": 138.01
+   },
+   {
+    "word": "diapositiva",
+    "start": 138.01,
+    "end": 138.777
+   },
+   {
+    "word": "que",
+    "start": 138.777,
+    "end": 138.963
+   },
+   {
+    "word": "ya",
+    "start": 138.963,
+    "end": 139.088
+   },
+   {
+    "word": "se",
+    "start": 139.088,
+    "end": 139.212
+   },
+   {
+    "word": "veía",
+    "start": 139.212,
+    "end": 139.461
+   },
+   {
+    "word": "clara,",
+    "start": 139.461,
+    "end": 139.868
+   },
+   {
+    "word": "cambias",
+    "start": 139.868,
+    "end": 140.697
+   },
+   {
+    "word": "una",
+    "start": 140.697,
+    "end": 140.884
+   },
+   {
+    "word": "palabra",
+    "start": 140.884,
+    "end": 141.407
+   },
+   {
+    "word": "por",
+    "start": 141.407,
+    "end": 141.594
+   },
+   {
+    "word": "otra",
+    "start": 141.594,
+    "end": 141.842
+   },
+   {
+    "word": "casi",
+    "start": 141.842,
+    "end": 142.091
+   },
+   {
+    "word": "idéntica,",
+    "start": 142.091,
+    "end": 142.675
+   }
+  ]
+ },
+ {
+  "id": "S05_F026",
+  "scene": "SEÑAL 3 — Revisas Sin Parar",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "y vuelves a cambiarla de nuevo diez minutos después.",
+  "visual": "The same small word on the slide-icon flips back and forth between two nearly identical versions, a small clock ticking nearby.",
+  "start": 142.863,
+  "end": 146.367,
+  "words": [
+   {
+    "word": "y",
+    "start": 143.052,
+    "end": 143.111
+   },
+   {
+    "word": "vuelves",
+    "start": 143.111,
+    "end": 143.522
+   },
+   {
+    "word": "a",
+    "start": 143.522,
+    "end": 143.58
+   },
+   {
+    "word": "cambiarla",
+    "start": 143.58,
+    "end": 144.109
+   },
+   {
+    "word": "de",
+    "start": 144.109,
+    "end": 144.226
+   },
+   {
+    "word": "nuevo",
+    "start": 144.226,
+    "end": 144.519
+   },
+   {
+    "word": "diez",
+    "start": 144.519,
+    "end": 144.754
+   },
+   {
+    "word": "minutos",
+    "start": 144.754,
+    "end": 145.165
+   },
+   {
+    "word": "después.",
+    "start": 145.165,
+    "end": 145.761
+   }
+  ]
+ },
+ {
+  "id": "S05_F027",
+  "scene": "SEÑAL 3 — Revisas Sin Parar",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Esto es lo que nadie te dice: ese impulso no es atención al detalle en su forma más sana.",
+  "visual": "Close-up, a faint healthy attention-to-detail icon is shown clearly separate from the figure's current restless, repetitive motion.",
+  "start": 146.367,
+  "end": 152.466,
+  "words": [
+   {
+    "word": "Esto",
+    "start": 146.972,
+    "end": 147.223
+   },
+   {
+    "word": "es",
+    "start": 147.223,
+    "end": 147.349
+   },
+   {
+    "word": "lo",
+    "start": 147.349,
+    "end": 147.474
+   },
+   {
+    "word": "que",
+    "start": 147.474,
+    "end": 147.662
+   },
+   {
+    "word": "nadie",
+    "start": 147.662,
+    "end": 147.976
+   },
+   {
+    "word": "te",
+    "start": 147.976,
+    "end": 148.102
+   },
+   {
+    "word": "dice:",
+    "start": 148.102,
+    "end": 148.353
+   },
+   {
+    "word": "ese",
+    "start": 148.353,
+    "end": 148.944
+   },
+   {
+    "word": "impulso",
+    "start": 148.944,
+    "end": 149.461
+   },
+   {
+    "word": "no",
+    "start": 149.461,
+    "end": 149.587
+   },
+   {
+    "word": "es",
+    "start": 149.587,
+    "end": 149.712
+   },
+   {
+    "word": "atención",
+    "start": 149.712,
+    "end": 150.214
+   },
+   {
+    "word": "al",
+    "start": 150.214,
+    "end": 150.34
+   },
+   {
+    "word": "detalle",
+    "start": 150.34,
+    "end": 150.853
+   },
+   {
+    "word": "en",
+    "start": 150.853,
+    "end": 150.978
+   },
+   {
+    "word": "su",
+    "start": 150.978,
+    "end": 151.104
+   },
+   {
+    "word": "forma",
+    "start": 151.104,
+    "end": 151.418
+   },
+   {
+    "word": "más",
+    "start": 151.418,
+    "end": 151.606
+   },
+   {
+    "word": "sana.",
+    "start": 151.606,
+    "end": 151.857
+   }
+  ]
+ },
+ {
+  "id": "S05_F028",
+  "scene": "SEÑAL 3 — Revisas Sin Parar",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Es la incomodidad de soltar algo que técnicamente ya cumplió su propósito, solo porque \"podría estar un poco mejor\" —",
+  "visual": "The completed document icon glows steadily fine and ready, yet the figure's hand still resists letting go of it.",
+  "start": 152.466,
+  "end": 159.969,
+  "words": [
+   {
+    "word": "Es",
+    "start": 153.076,
+    "end": 153.193
+   },
+   {
+    "word": "la",
+    "start": 153.193,
+    "end": 153.309
+   },
+   {
+    "word": "incomodidad",
+    "start": 153.309,
+    "end": 153.95
+   },
+   {
+    "word": "de",
+    "start": 153.95,
+    "end": 154.066
+   },
+   {
+    "word": "soltar",
+    "start": 154.066,
+    "end": 154.507
+   },
+   {
+    "word": "algo",
+    "start": 154.507,
+    "end": 154.74
+   },
+   {
+    "word": "que",
+    "start": 154.74,
+    "end": 154.915
+   },
+   {
+    "word": "técnicamente",
+    "start": 154.915,
+    "end": 155.685
+   },
+   {
+    "word": "ya",
+    "start": 155.685,
+    "end": 155.802
+   },
+   {
+    "word": "cumplió",
+    "start": 155.802,
+    "end": 156.282
+   },
+   {
+    "word": "su",
+    "start": 156.282,
+    "end": 156.399
+   },
+   {
+    "word": "propósito,",
+    "start": 156.399,
+    "end": 157.032
+   },
+   {
+    "word": "solo",
+    "start": 157.032,
+    "end": 157.736
+   },
+   {
+    "word": "porque",
+    "start": 157.736,
+    "end": 158.16
+   },
+   {
+    "word": "\"podría",
+    "start": 158.16,
+    "end": 158.728
+   },
+   {
+    "word": "estar",
+    "start": 158.728,
+    "end": 159.019
+   },
+   {
+    "word": "un",
+    "start": 159.019,
+    "end": 159.216
+   },
+   {
+    "word": "poco",
+    "start": 159.216,
+    "end": 159.449
+   },
+   {
+    "word": "mejor\"",
+    "start": 159.449,
+    "end": 159.741
+   },
+   {
+    "word": "—",
+    "start": 159.741,
+    "end": 159.799
+   }
+  ]
+ },
+ {
+  "id": "S05_F029",
+  "scene": "SEÑAL 3 — Revisas Sin Parar",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "una frase que, para este tipo de perfeccionismo, nunca deja de ser cierta, sin importar cuántas veces la repitas.",
+  "visual": "Close-up, the small phrase-icon \"podría estar mejor\" glows perpetually and endlessly, never resolving, quiet weary expression.",
+  "start": 159.969,
+  "end": 168.047,
+  "words": [
+   {
+    "word": "una",
+    "start": 160.139,
+    "end": 160.322
+   },
+   {
+    "word": "frase",
+    "start": 160.322,
+    "end": 160.627
+   },
+   {
+    "word": "que,",
+    "start": 160.627,
+    "end": 160.882
+   },
+   {
+    "word": "para",
+    "start": 160.882,
+    "end": 161.524
+   },
+   {
+    "word": "este",
+    "start": 161.524,
+    "end": 161.768
+   },
+   {
+    "word": "tipo",
+    "start": 161.768,
+    "end": 162.083
+   },
+   {
+    "word": "de",
+    "start": 162.083,
+    "end": 162.277
+   },
+   {
+    "word": "perfeccionismo,",
+    "start": 162.277,
+    "end": 163.131
+   },
+   {
+    "word": "nunca",
+    "start": 163.131,
+    "end": 163.701
+   },
+   {
+    "word": "deja",
+    "start": 163.701,
+    "end": 163.945
+   },
+   {
+    "word": "de",
+    "start": 163.945,
+    "end": 164.067
+   },
+   {
+    "word": "ser",
+    "start": 164.067,
+    "end": 164.25
+   },
+   {
+    "word": "cierta,",
+    "start": 164.25,
+    "end": 164.716
+   },
+   {
+    "word": "sin",
+    "start": 164.716,
+    "end": 165.295
+   },
+   {
+    "word": "importar",
+    "start": 165.295,
+    "end": 165.868
+   },
+   {
+    "word": "cuántas",
+    "start": 165.868,
+    "end": 166.393
+   },
+   {
+    "word": "veces",
+    "start": 166.393,
+    "end": 166.698
+   },
+   {
+    "word": "la",
+    "start": 166.698,
+    "end": 166.82
+   },
+   {
+    "word": "repitas.",
+    "start": 166.82,
+    "end": 167.44
+   }
+  ]
+ },
+ {
+  "id": "S06_F030",
+  "scene": "SEÑAL 4 — Te Cuesta Recibir Comentarios",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Señal cuatro: te cuesta recibir comentarios, incluso los constructivos, sin sentir que fallaste en algo.",
+  "visual": "Figure stands before a faint ghost-outline second figure offering feedback, visibly bracing before anything is even said.",
+  "start": 168.047,
+  "end": 176.224,
+  "words": [
+   {
+    "word": "Señal",
+    "start": 168.654,
+    "end": 168.965
+   },
+   {
+    "word": "cuatro:",
+    "start": 168.965,
+    "end": 169.421
+   },
+   {
+    "word": "te",
+    "start": 169.421,
+    "end": 169.99
+   },
+   {
+    "word": "cuesta",
+    "start": 169.99,
+    "end": 170.363
+   },
+   {
+    "word": "recibir",
+    "start": 170.363,
+    "end": 170.798
+   },
+   {
+    "word": "comentarios,",
+    "start": 170.798,
+    "end": 171.646
+   },
+   {
+    "word": "incluso",
+    "start": 171.646,
+    "end": 172.438
+   },
+   {
+    "word": "los",
+    "start": 172.438,
+    "end": 172.625
+   },
+   {
+    "word": "constructivos,",
+    "start": 172.625,
+    "end": 173.572
+   },
+   {
+    "word": "sin",
+    "start": 173.572,
+    "end": 174.103
+   },
+   {
+    "word": "sentir",
+    "start": 174.103,
+    "end": 174.476
+   },
+   {
+    "word": "que",
+    "start": 174.476,
+    "end": 174.739
+   },
+   {
+    "word": "fallaste",
+    "start": 174.739,
+    "end": 175.237
+   },
+   {
+    "word": "en",
+    "start": 175.237,
+    "end": 175.361
+   },
+   {
+    "word": "algo.",
+    "start": 175.361,
+    "end": 175.61
+   }
+  ]
+ },
+ {
+  "id": "S06_F031",
+  "scene": "SEÑAL 4 — Te Cuesta Recibir Comentarios",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Un jefe, un cliente o un amigo señala un solo punto a mejorar de diez,",
+  "visual": "Ten small glowing praise-icons surround the figure, while one small dim critique-icon sits among them, barely different in size.",
+  "start": 176.224,
+  "end": 181.284,
+  "words": [
+   {
+    "word": "Un",
+    "start": 176.838,
+    "end": 176.978
+   },
+   {
+    "word": "jefe,",
+    "start": 176.978,
+    "end": 177.259
+   },
+   {
+    "word": "un",
+    "start": 177.259,
+    "end": 177.72
+   },
+   {
+    "word": "cliente",
+    "start": 177.72,
+    "end": 178.282
+   },
+   {
+    "word": "o",
+    "start": 178.282,
+    "end": 178.352
+   },
+   {
+    "word": "un",
+    "start": 178.352,
+    "end": 178.492
+   },
+   {
+    "word": "amigo",
+    "start": 178.492,
+    "end": 178.844
+   },
+   {
+    "word": "señala",
+    "start": 178.844,
+    "end": 179.265
+   },
+   {
+    "word": "un",
+    "start": 179.265,
+    "end": 179.405
+   },
+   {
+    "word": "solo",
+    "start": 179.405,
+    "end": 179.686
+   },
+   {
+    "word": "punto",
+    "start": 179.686,
+    "end": 180.124
+   },
+   {
+    "word": "a",
+    "start": 180.124,
+    "end": 180.194
+   },
+   {
+    "word": "mejorar",
+    "start": 180.194,
+    "end": 180.686
+   },
+   {
+    "word": "de",
+    "start": 180.686,
+    "end": 180.826
+   },
+   {
+    "word": "diez,",
+    "start": 180.826,
+    "end": 181.107
+   }
+  ]
+ },
+ {
+  "id": "S06_F032",
+  "scene": "SEÑAL 4 — Te Cuesta Recibir Comentarios",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "y ese único punto es lo único que recuerdas después —",
+  "visual": "Close-up, the nine praise-icons fade quietly away while the single dim critique-icon grows disproportionately large and vivid.",
+  "start": 181.284,
+  "end": 184.451,
+  "words": [
+   {
+    "word": "y",
+    "start": 181.462,
+    "end": 181.522
+   },
+   {
+    "word": "ese",
+    "start": 181.522,
+    "end": 181.703
+   },
+   {
+    "word": "único",
+    "start": 181.703,
+    "end": 182.004
+   },
+   {
+    "word": "punto",
+    "start": 182.004,
+    "end": 182.385
+   },
+   {
+    "word": "es",
+    "start": 182.385,
+    "end": 182.505
+   },
+   {
+    "word": "lo",
+    "start": 182.505,
+    "end": 182.625
+   },
+   {
+    "word": "único",
+    "start": 182.625,
+    "end": 182.926
+   },
+   {
+    "word": "que",
+    "start": 182.926,
+    "end": 183.107
+   },
+   {
+    "word": "recuerdas",
+    "start": 183.107,
+    "end": 183.649
+   },
+   {
+    "word": "después",
+    "start": 183.649,
+    "end": 184.174
+   },
+   {
+    "word": "—",
+    "start": 184.174,
+    "end": 184.234
+   }
+  ]
+ },
+ {
+  "id": "S06_F033",
+  "scene": "SEÑAL 4 — Te Cuesta Recibir Comentarios",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "los otros nueve elogios se te olvidan casi de inmediato, como si no contaran.",
+  "visual": "The nine faded praise-icons disappear completely, leaving only the single large critique-icon dominating the figure's attention.",
+  "start": 184.451,
+  "end": 189.477,
+  "words": [
+   {
+    "word": "los",
+    "start": 184.667,
+    "end": 184.845
+   },
+   {
+    "word": "otros",
+    "start": 184.845,
+    "end": 185.141
+   },
+   {
+    "word": "nueve",
+    "start": 185.141,
+    "end": 185.437
+   },
+   {
+    "word": "elogios",
+    "start": 185.437,
+    "end": 185.852
+   },
+   {
+    "word": "se",
+    "start": 185.852,
+    "end": 185.97
+   },
+   {
+    "word": "te",
+    "start": 185.97,
+    "end": 186.088
+   },
+   {
+    "word": "olvidan",
+    "start": 186.088,
+    "end": 186.503
+   },
+   {
+    "word": "casi",
+    "start": 186.503,
+    "end": 186.74
+   },
+   {
+    "word": "de",
+    "start": 186.74,
+    "end": 186.858
+   },
+   {
+    "word": "inmediato,",
+    "start": 186.858,
+    "end": 187.493
+   },
+   {
+    "word": "como",
+    "start": 187.493,
+    "end": 188.083
+   },
+   {
+    "word": "si",
+    "start": 188.083,
+    "end": 188.202
+   },
+   {
+    "word": "no",
+    "start": 188.202,
+    "end": 188.32
+   },
+   {
+    "word": "contaran.",
+    "start": 188.32,
+    "end": 188.869
+   }
+  ]
+ },
+ {
+  "id": "S06_F034",
+  "scene": "SEÑAL 4 — Te Cuesta Recibir Comentarios",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Pero espera, todavía hay más: el problema no es la retroalimentación en sí.",
+  "visual": "Figure gestures thoughtfully, the large critique-icon set aside for a moment as a different explanation is considered.",
+  "start": 189.477,
+  "end": 195.383,
+  "words": [
+   {
+    "word": "Pero",
+    "start": 190.085,
+    "end": 190.346
+   },
+   {
+    "word": "espera,",
+    "start": 190.346,
+    "end": 191.216
+   },
+   {
+    "word": "todavía",
+    "start": 191.216,
+    "end": 191.674
+   },
+   {
+    "word": "hay",
+    "start": 191.674,
+    "end": 191.87
+   },
+   {
+    "word": "más:",
+    "start": 191.87,
+    "end": 192.066
+   },
+   {
+    "word": "el",
+    "start": 192.066,
+    "end": 192.484
+   },
+   {
+    "word": "problema",
+    "start": 192.484,
+    "end": 193.007
+   },
+   {
+    "word": "no",
+    "start": 193.007,
+    "end": 193.138
+   },
+   {
+    "word": "es",
+    "start": 193.138,
+    "end": 193.268
+   },
+   {
+    "word": "la",
+    "start": 193.268,
+    "end": 193.399
+   },
+   {
+    "word": "retroalimentación",
+    "start": 193.399,
+    "end": 194.51
+   },
+   {
+    "word": "en",
+    "start": 194.51,
+    "end": 194.64
+   },
+   {
+    "word": "sí.",
+    "start": 194.64,
+    "end": 194.771
+   }
+  ]
+ },
+ {
+  "id": "S06_F035",
+  "scene": "SEÑAL 4 — Te Cuesta Recibir Comentarios",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Es que tu estándar interno ya había decidido, antes de escuchar nada,",
+  "visual": "Close-up, a faint internal-standard icon glows firmly, already fixed in place before the feedback conversation even begins.",
+  "start": 195.383,
+  "end": 199.894,
+  "words": [
+   {
+    "word": "Es",
+    "start": 195.995,
+    "end": 196.114
+   },
+   {
+    "word": "que",
+    "start": 196.114,
+    "end": 196.292
+   },
+   {
+    "word": "tu",
+    "start": 196.292,
+    "end": 196.411
+   },
+   {
+    "word": "estándar",
+    "start": 196.411,
+    "end": 196.886
+   },
+   {
+    "word": "interno",
+    "start": 196.886,
+    "end": 197.302
+   },
+   {
+    "word": "ya",
+    "start": 197.302,
+    "end": 197.42
+   },
+   {
+    "word": "había",
+    "start": 197.42,
+    "end": 197.717
+   },
+   {
+    "word": "decidido,",
+    "start": 197.717,
+    "end": 198.597
+   },
+   {
+    "word": "antes",
+    "start": 198.597,
+    "end": 198.893
+   },
+   {
+    "word": "de",
+    "start": 198.893,
+    "end": 199.012
+   },
+   {
+    "word": "escuchar",
+    "start": 199.012,
+    "end": 199.487
+   },
+   {
+    "word": "nada,",
+    "start": 199.487,
+    "end": 199.725
+   }
+  ]
+ },
+ {
+  "id": "S06_F036",
+  "scene": "SEÑAL 4 — Te Cuesta Recibir Comentarios",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "que cualquier comentario confirmaría que no diste lo suficiente, así que lo único que hace la crítica real es darle una prueba concreta a algo que ya creías de antemano.",
+  "visual": "The large critique-icon connects directly to the pre-existing internal-standard icon, confirming a belief that was already firmly in place.",
+  "start": 199.894,
+  "end": 209.974,
+  "words": [
+   {
+    "word": "que",
+    "start": 200.062,
+    "end": 200.235
+   },
+   {
+    "word": "cualquier",
+    "start": 200.235,
+    "end": 200.829
+   },
+   {
+    "word": "comentario",
+    "start": 200.829,
+    "end": 201.405
+   },
+   {
+    "word": "confirmaría",
+    "start": 201.405,
+    "end": 202.112
+   },
+   {
+    "word": "que",
+    "start": 202.112,
+    "end": 202.285
+   },
+   {
+    "word": "no",
+    "start": 202.285,
+    "end": 202.401
+   },
+   {
+    "word": "diste",
+    "start": 202.401,
+    "end": 202.689
+   },
+   {
+    "word": "lo",
+    "start": 202.689,
+    "end": 202.804
+   },
+   {
+    "word": "suficiente,",
+    "start": 202.804,
+    "end": 203.97
+   },
+   {
+    "word": "así",
+    "start": 203.97,
+    "end": 204.214
+   },
+   {
+    "word": "que",
+    "start": 204.214,
+    "end": 204.387
+   },
+   {
+    "word": "lo",
+    "start": 204.387,
+    "end": 204.503
+   },
+   {
+    "word": "único",
+    "start": 204.503,
+    "end": 204.791
+   },
+   {
+    "word": "que",
+    "start": 204.791,
+    "end": 204.964
+   },
+   {
+    "word": "hace",
+    "start": 204.964,
+    "end": 205.272
+   },
+   {
+    "word": "la",
+    "start": 205.272,
+    "end": 205.388
+   },
+   {
+    "word": "crítica",
+    "start": 205.388,
+    "end": 205.863
+   },
+   {
+    "word": "real",
+    "start": 205.863,
+    "end": 206.094
+   },
+   {
+    "word": "es",
+    "start": 206.094,
+    "end": 206.209
+   },
+   {
+    "word": "darle",
+    "start": 206.209,
+    "end": 206.497
+   },
+   {
+    "word": "una",
+    "start": 206.497,
+    "end": 206.744
+   },
+   {
+    "word": "prueba",
+    "start": 206.744,
+    "end": 207.161
+   },
+   {
+    "word": "concreta",
+    "start": 207.161,
+    "end": 207.704
+   },
+   {
+    "word": "a",
+    "start": 207.704,
+    "end": 207.762
+   },
+   {
+    "word": "algo",
+    "start": 207.762,
+    "end": 207.992
+   },
+   {
+    "word": "que",
+    "start": 207.992,
+    "end": 208.165
+   },
+   {
+    "word": "ya",
+    "start": 208.165,
+    "end": 208.281
+   },
+   {
+    "word": "creías",
+    "start": 208.281,
+    "end": 208.71
+   },
+   {
+    "word": "de",
+    "start": 208.71,
+    "end": 208.825
+   },
+   {
+    "word": "antemano.",
+    "start": 208.825,
+    "end": 209.36
+   }
+  ]
+ },
+ {
+  "id": "S07_F037",
+  "scene": "SEÑAL 5 — Te Comparas Con un Ideal Que No Existe",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Y señal cinco — quizás la más silenciosa de todas: te comparas con una versión idealizada de ti mismo que nunca existió,",
+  "visual": "Figure stands beside a faint glowing idealized version of themselves, slightly ahead and slightly brighter, always just out of reach.",
+  "start": 209.974,
+  "end": 218.043,
+  "words": [
+   {
+    "word": "Y",
+    "start": 210.587,
+    "end": 210.651
+   },
+   {
+    "word": "señal",
+    "start": 210.651,
+    "end": 210.969
+   },
+   {
+    "word": "cinco",
+    "start": 210.969,
+    "end": 211.287
+   },
+   {
+    "word": "—",
+    "start": 211.287,
+    "end": 211.43
+   },
+   {
+    "word": "quizás",
+    "start": 211.43,
+    "end": 212.149
+   },
+   {
+    "word": "la",
+    "start": 212.149,
+    "end": 212.276
+   },
+   {
+    "word": "más",
+    "start": 212.276,
+    "end": 212.467
+   },
+   {
+    "word": "silenciosa",
+    "start": 212.467,
+    "end": 213.103
+   },
+   {
+    "word": "de",
+    "start": 213.103,
+    "end": 213.231
+   },
+   {
+    "word": "todas:",
+    "start": 213.231,
+    "end": 213.638
+   },
+   {
+    "word": "te",
+    "start": 213.638,
+    "end": 214.162
+   },
+   {
+    "word": "comparas",
+    "start": 214.162,
+    "end": 214.747
+   },
+   {
+    "word": "con",
+    "start": 214.747,
+    "end": 214.938
+   },
+   {
+    "word": "una",
+    "start": 214.938,
+    "end": 215.129
+   },
+   {
+    "word": "versión",
+    "start": 215.129,
+    "end": 215.575
+   },
+   {
+    "word": "idealizada",
+    "start": 215.575,
+    "end": 216.211
+   },
+   {
+    "word": "de",
+    "start": 216.211,
+    "end": 216.409
+   },
+   {
+    "word": "ti",
+    "start": 216.409,
+    "end": 216.536
+   },
+   {
+    "word": "mismo",
+    "start": 216.536,
+    "end": 216.854
+   },
+   {
+    "word": "que",
+    "start": 216.854,
+    "end": 217.045
+   },
+   {
+    "word": "nunca",
+    "start": 217.045,
+    "end": 217.363
+   },
+   {
+    "word": "existió,",
+    "start": 217.363,
+    "end": 217.809
+   }
+  ]
+ },
+ {
+  "id": "S07_F038",
+  "scene": "SEÑAL 5 — Te Comparas Con un Ideal Que No Existe",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "en lugar de compararte con quien eras antes.",
+  "visual": "A faint ghost-outline of the figure's real past self stands quietly nearby, overlooked in favor of the idealized version instead.",
+  "start": 218.043,
+  "end": 221.183,
+  "words": [
+   {
+    "word": "en",
+    "start": 218.278,
+    "end": 218.395
+   },
+   {
+    "word": "lugar",
+    "start": 218.395,
+    "end": 218.688
+   },
+   {
+    "word": "de",
+    "start": 218.688,
+    "end": 218.805
+   },
+   {
+    "word": "compararte",
+    "start": 218.805,
+    "end": 219.486
+   },
+   {
+    "word": "con",
+    "start": 219.486,
+    "end": 219.662
+   },
+   {
+    "word": "quien",
+    "start": 219.662,
+    "end": 219.954
+   },
+   {
+    "word": "eras",
+    "start": 219.954,
+    "end": 220.188
+   },
+   {
+    "word": "antes.",
+    "start": 220.188,
+    "end": 220.587
+   }
+  ]
+ },
+ {
+  "id": "S07_F039",
+  "scene": "SEÑAL 5 — Te Comparas Con un Ideal Que No Existe",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "No mides tu progreso real.",
+  "visual": "Close-up, the real past-self silhouette dims from lack of attention, unmeasured and unacknowledged.",
+  "start": 221.183,
+  "end": 223.833,
+  "words": [
+   {
+    "word": "No",
+    "start": 221.78,
+    "end": 221.914
+   },
+   {
+    "word": "mides",
+    "start": 221.914,
+    "end": 222.251
+   },
+   {
+    "word": "tu",
+    "start": 222.251,
+    "end": 222.385
+   },
+   {
+    "word": "progreso",
+    "start": 222.385,
+    "end": 222.923
+   },
+   {
+    "word": "real.",
+    "start": 222.923,
+    "end": 223.192
+   }
+  ]
+ },
+ {
+  "id": "S07_F040",
+  "scene": "SEÑAL 5 — Te Comparas Con un Ideal Que No Existe",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Mides la distancia hacia una imagen perfecta que armaste en tu cabeza,",
+  "visual": "The figure focuses entirely on the gap between themselves and the glowing idealized version, measuring that distance instead.",
+  "start": 223.833,
+  "end": 228.336,
+  "words": [
+   {
+    "word": "Mides",
+    "start": 224.474,
+    "end": 224.768
+   },
+   {
+    "word": "la",
+    "start": 224.768,
+    "end": 224.886
+   },
+   {
+    "word": "distancia",
+    "start": 224.886,
+    "end": 225.415
+   },
+   {
+    "word": "hacia",
+    "start": 225.415,
+    "end": 225.709
+   },
+   {
+    "word": "una",
+    "start": 225.709,
+    "end": 225.886
+   },
+   {
+    "word": "imagen",
+    "start": 225.886,
+    "end": 226.314
+   },
+   {
+    "word": "perfecta",
+    "start": 226.314,
+    "end": 226.9
+   },
+   {
+    "word": "que",
+    "start": 226.9,
+    "end": 227.077
+   },
+   {
+    "word": "armaste",
+    "start": 227.077,
+    "end": 227.489
+   },
+   {
+    "word": "en",
+    "start": 227.489,
+    "end": 227.688
+   },
+   {
+    "word": "tu",
+    "start": 227.688,
+    "end": 227.806
+   },
+   {
+    "word": "cabeza,",
+    "start": 227.806,
+    "end": 228.159
+   }
+  ]
+ },
+ {
+  "id": "S07_F041",
+  "scene": "SEÑAL 5 — Te Comparas Con un Ideal Que No Existe",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "y esa imagen, convenientemente, siempre se mueve un poco más lejos cada vez que te acercas.",
+  "visual": "Close-up, each time the figure steps closer to the idealized version, it quietly shifts a bit further away, never quite reached.",
+  "start": 228.336,
+  "end": 234.606,
+  "words": [
+   {
+    "word": "y",
+    "start": 228.513,
+    "end": 228.574
+   },
+   {
+    "word": "esa",
+    "start": 228.574,
+    "end": 228.757
+   },
+   {
+    "word": "imagen,",
+    "start": 228.757,
+    "end": 229.122
+   },
+   {
+    "word": "convenientemente,",
+    "start": 229.122,
+    "end": 230.622
+   },
+   {
+    "word": "siempre",
+    "start": 230.622,
+    "end": 231.404
+   },
+   {
+    "word": "se",
+    "start": 231.404,
+    "end": 231.526
+   },
+   {
+    "word": "mueve",
+    "start": 231.526,
+    "end": 231.83
+   },
+   {
+    "word": "un",
+    "start": 231.83,
+    "end": 232.027
+   },
+   {
+    "word": "poco",
+    "start": 232.027,
+    "end": 232.271
+   },
+   {
+    "word": "más",
+    "start": 232.271,
+    "end": 232.453
+   },
+   {
+    "word": "lejos",
+    "start": 232.453,
+    "end": 232.758
+   },
+   {
+    "word": "cada",
+    "start": 232.758,
+    "end": 233.001
+   },
+   {
+    "word": "vez",
+    "start": 233.001,
+    "end": 233.184
+   },
+   {
+    "word": "que",
+    "start": 233.184,
+    "end": 233.367
+   },
+   {
+    "word": "te",
+    "start": 233.367,
+    "end": 233.489
+   },
+   {
+    "word": "acercas.",
+    "start": 233.489,
+    "end": 234.007
+   }
+  ]
+ },
+ {
+  "id": "S08_F042",
+  "scene": "EL CIERRE",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Ninguna de estas 5 señales significa que algo está roto en ti.",
+  "visual": "Figure stands calm and upright, the five glowing dots from the opening now arranged gently in an even, non-judgmental arc.",
+  "start": 234.606,
+  "end": 239.117,
+  "words": [
+   {
+    "word": "Ninguna",
+    "start": 235.206,
+    "end": 235.639
+   },
+   {
+    "word": "de",
+    "start": 235.639,
+    "end": 235.762
+   },
+   {
+    "word": "estas",
+    "start": 235.762,
+    "end": 236.071
+   },
+   {
+    "word": "5",
+    "start": 236.071,
+    "end": 236.133
+   },
+   {
+    "word": "señales",
+    "start": 236.133,
+    "end": 236.566
+   },
+   {
+    "word": "significa",
+    "start": 236.566,
+    "end": 237.122
+   },
+   {
+    "word": "que",
+    "start": 237.122,
+    "end": 237.308
+   },
+   {
+    "word": "algo",
+    "start": 237.308,
+    "end": 237.625
+   },
+   {
+    "word": "está",
+    "start": 237.625,
+    "end": 237.872
+   },
+   {
+    "word": "roto",
+    "start": 237.872,
+    "end": 238.204
+   },
+   {
+    "word": "en",
+    "start": 238.204,
+    "end": 238.41
+   },
+   {
+    "word": "ti.",
+    "start": 238.41,
+    "end": 238.534
+   }
+  ]
+ },
+ {
+  "id": "S08_F043",
+  "scene": "EL CIERRE",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Significa que en algún momento aprendiste a medir tu valor con una regla que nunca tuvo un final posible.",
+  "visual": "The faint infinite measuring-tape/ruler icon from the thumbnail motif reappears, quietly extending without end.",
+  "start": 239.117,
+  "end": 245.538,
+  "words": [
+   {
+    "word": "Significa",
+    "start": 239.7,
+    "end": 240.206
+   },
+   {
+    "word": "que",
+    "start": 240.206,
+    "end": 240.375
+   },
+   {
+    "word": "en",
+    "start": 240.375,
+    "end": 240.487
+   },
+   {
+    "word": "algún",
+    "start": 240.487,
+    "end": 240.768
+   },
+   {
+    "word": "momento",
+    "start": 240.768,
+    "end": 241.162
+   },
+   {
+    "word": "aprendiste",
+    "start": 241.162,
+    "end": 241.724
+   },
+   {
+    "word": "a",
+    "start": 241.724,
+    "end": 241.78
+   },
+   {
+    "word": "medir",
+    "start": 241.78,
+    "end": 242.139
+   },
+   {
+    "word": "tu",
+    "start": 242.139,
+    "end": 242.252
+   },
+   {
+    "word": "valor",
+    "start": 242.252,
+    "end": 242.611
+   },
+   {
+    "word": "con",
+    "start": 242.611,
+    "end": 242.779
+   },
+   {
+    "word": "una",
+    "start": 242.779,
+    "end": 242.948
+   },
+   {
+    "word": "regla",
+    "start": 242.948,
+    "end": 243.229
+   },
+   {
+    "word": "que",
+    "start": 243.229,
+    "end": 243.398
+   },
+   {
+    "word": "nunca",
+    "start": 243.398,
+    "end": 243.679
+   },
+   {
+    "word": "tuvo",
+    "start": 243.679,
+    "end": 243.983
+   },
+   {
+    "word": "un",
+    "start": 243.983,
+    "end": 244.095
+   },
+   {
+    "word": "final",
+    "start": 244.095,
+    "end": 244.376
+   },
+   {
+    "word": "posible.",
+    "start": 244.376,
+    "end": 244.891
+   }
+  ]
+ },
+ {
+  "id": "S08_F044",
+  "scene": "EL CIERRE",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Notarlo no te va a bajar los estándares que de verdad te importan —",
+  "visual": "Close-up, calm reassuring expression, a faint meaningful-standard icon remains intact and respected, untouched.",
+  "start": 245.538,
+  "end": 249.556,
+  "words": [
+   {
+    "word": "Notarlo",
+    "start": 246.185,
+    "end": 246.566
+   },
+   {
+    "word": "no",
+    "start": 246.566,
+    "end": 246.675
+   },
+   {
+    "word": "te",
+    "start": 246.675,
+    "end": 246.784
+   },
+   {
+    "word": "va",
+    "start": 246.784,
+    "end": 246.893
+   },
+   {
+    "word": "a",
+    "start": 246.893,
+    "end": 246.947
+   },
+   {
+    "word": "bajar",
+    "start": 246.947,
+    "end": 247.219
+   },
+   {
+    "word": "los",
+    "start": 247.219,
+    "end": 247.383
+   },
+   {
+    "word": "estándares",
+    "start": 247.383,
+    "end": 247.927
+   },
+   {
+    "word": "que",
+    "start": 247.927,
+    "end": 248.091
+   },
+   {
+    "word": "de",
+    "start": 248.091,
+    "end": 248.199
+   },
+   {
+    "word": "verdad",
+    "start": 248.199,
+    "end": 248.526
+   },
+   {
+    "word": "te",
+    "start": 248.526,
+    "end": 248.635
+   },
+   {
+    "word": "importan",
+    "start": 248.635,
+    "end": 249.345
+   },
+   {
+    "word": "—",
+    "start": 249.345,
+    "end": 249.399
+   }
+  ]
+ },
+ {
+  "id": "S08_F045",
+  "scene": "EL CIERRE",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "solo te va a permitir, por fin, sentir que algo bueno es exactamente eso: bueno, suficiente, terminado.",
+  "visual": "The infinite measuring-tape gently gains a clear, visible end point at last, and the figure looks at it with quiet relief.",
+  "start": 249.556,
+  "end": 257.591,
+  "words": [
+   {
+    "word": "solo",
+    "start": 249.714,
+    "end": 249.956
+   },
+   {
+    "word": "te",
+    "start": 249.956,
+    "end": 250.077
+   },
+   {
+    "word": "va",
+    "start": 250.077,
+    "end": 250.198
+   },
+   {
+    "word": "a",
+    "start": 250.198,
+    "end": 250.337
+   },
+   {
+    "word": "permitir,",
+    "start": 250.337,
+    "end": 251.33
+   },
+   {
+    "word": "por",
+    "start": 251.33,
+    "end": 251.512
+   },
+   {
+    "word": "fin,",
+    "start": 251.512,
+    "end": 252.077
+   },
+   {
+    "word": "sentir",
+    "start": 252.077,
+    "end": 252.441
+   },
+   {
+    "word": "que",
+    "start": 252.441,
+    "end": 252.709
+   },
+   {
+    "word": "algo",
+    "start": 252.709,
+    "end": 252.952
+   },
+   {
+    "word": "bueno",
+    "start": 252.952,
+    "end": 253.254
+   },
+   {
+    "word": "es",
+    "start": 253.254,
+    "end": 253.375
+   },
+   {
+    "word": "exactamente",
+    "start": 253.375,
+    "end": 254.224
+   },
+   {
+    "word": "eso:",
+    "start": 254.224,
+    "end": 254.709
+   },
+   {
+    "word": "bueno,",
+    "start": 254.709,
+    "end": 255.32
+   },
+   {
+    "word": "suficiente,",
+    "start": 255.32,
+    "end": 256.006
+   },
+   {
+    "word": "terminado.",
+    "start": 256.006,
+    "end": 256.976
+   }
+  ]
+ },
+ {
+  "id": "S08_F046",
+  "scene": "EL CIERRE",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Escribe en los comentarios cuántas de las 5 reconociste en ti mismo.",
+  "visual": "Figure points directly toward the camera/viewer, warm inviting expression, a faint speech-bubble icon glowing softly in accent color.",
+  "start": 257.591,
+  "end": 262.621,
+  "words": [
+   {
+    "word": "Escribe",
+    "start": 258.206,
+    "end": 258.66
+   },
+   {
+    "word": "en",
+    "start": 258.66,
+    "end": 258.79
+   },
+   {
+    "word": "los",
+    "start": 258.79,
+    "end": 258.984
+   },
+   {
+    "word": "comentarios",
+    "start": 258.984,
+    "end": 259.771
+   },
+   {
+    "word": "cuántas",
+    "start": 259.771,
+    "end": 260.225
+   },
+   {
+    "word": "de",
+    "start": 260.225,
+    "end": 260.354
+   },
+   {
+    "word": "las",
+    "start": 260.354,
+    "end": 260.549
+   },
+   {
+    "word": "5",
+    "start": 260.549,
+    "end": 260.614
+   },
+   {
+    "word": "reconociste",
+    "start": 260.614,
+    "end": 261.327
+   },
+   {
+    "word": "en",
+    "start": 261.327,
+    "end": 261.457
+   },
+   {
+    "word": "ti",
+    "start": 261.457,
+    "end": 261.663
+   },
+   {
+    "word": "mismo.",
+    "start": 261.663,
+    "end": 261.987
+   }
+  ]
+ },
+ {
+  "id": "S08_F047",
+  "scene": "EL CIERRE",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Si te sirvió, dale like y suscríbete —",
+  "visual": "Figure gives a genuine thumbs-up gesture with a warm smile, a faint bell icon glows softly beside them.",
+  "start": 262.621,
+  "end": 266.25,
+  "words": [
+   {
+    "word": "Si",
+    "start": 263.256,
+    "end": 263.406
+   },
+   {
+    "word": "te",
+    "start": 263.406,
+    "end": 263.556
+   },
+   {
+    "word": "sirvió,",
+    "start": 263.556,
+    "end": 264.007
+   },
+   {
+    "word": "dale",
+    "start": 264.007,
+    "end": 264.695
+   },
+   {
+    "word": "like",
+    "start": 264.695,
+    "end": 264.995
+   },
+   {
+    "word": "y",
+    "start": 264.995,
+    "end": 265.152
+   },
+   {
+    "word": "suscríbete",
+    "start": 265.152,
+    "end": 265.984
+   },
+   {
+    "word": "—",
+    "start": 265.984,
+    "end": 266.059
+   }
+  ]
+ },
+ {
+  "id": "S08_F048",
+  "scene": "EL CIERRE",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "la disciplina no hace ruido, ni siquiera cuando por fin decide que algo ya está bien como está.",
+  "visual": "Figure stands calm and still in the quiet dark space, faint warm rim light outlining their silhouette, serene composed expression.",
+  "start": 266.25,
+  "end": 272.52,
+  "words": [
+   {
+    "word": "la",
+    "start": 266.442,
+    "end": 266.556
+   },
+   {
+    "word": "disciplina",
+    "start": 266.556,
+    "end": 267.218
+   },
+   {
+    "word": "no",
+    "start": 267.218,
+    "end": 267.333
+   },
+   {
+    "word": "hace",
+    "start": 267.333,
+    "end": 267.561
+   },
+   {
+    "word": "ruido,",
+    "start": 267.561,
+    "end": 267.847
+   },
+   {
+    "word": "ni",
+    "start": 267.847,
+    "end": 268.349
+   },
+   {
+    "word": "siquiera",
+    "start": 268.349,
+    "end": 268.806
+   },
+   {
+    "word": "cuando",
+    "start": 268.806,
+    "end": 269.235
+   },
+   {
+    "word": "por",
+    "start": 269.235,
+    "end": 269.407
+   },
+   {
+    "word": "fin",
+    "start": 269.407,
+    "end": 269.578
+   },
+   {
+    "word": "decide",
+    "start": 269.578,
+    "end": 269.995
+   },
+   {
+    "word": "que",
+    "start": 269.995,
+    "end": 270.167
+   },
+   {
+    "word": "algo",
+    "start": 270.167,
+    "end": 270.396
+   },
+   {
+    "word": "ya",
+    "start": 270.396,
+    "end": 270.51
+   },
+   {
+    "word": "está",
+    "start": 270.51,
+    "end": 270.739
+   },
+   {
+    "word": "bien",
+    "start": 270.739,
+    "end": 270.968
+   },
+   {
+    "word": "como",
+    "start": 270.968,
+    "end": 271.196
+   },
+   {
+    "word": "está.",
+    "start": 271.196,
+    "end": 271.425
+   }
+  ]
+ }
+]
