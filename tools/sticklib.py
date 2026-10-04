@@ -832,6 +832,9 @@ def icon(name, color=INK, w=7, **kw):
     if name == "pause":
         return (f'<rect x="-40" y="-40" width="80" height="80" rx="16" {s}/>'
                 f'<rect x="-18" y="-20" width="12" height="40" rx="3" fill="{color}"/><rect x="6" y="-20" width="12" height="40" rx="3" fill="{color}"/>')
+    if name == "sprout":
+        return (f'<path d="M0,46 L0,-6" {s}/><path d="M0,10 Q-36,8 -40,-26 Q-6,-26 0,10 Z" {_c(color, 5)}/>'
+                f'<path d="M0,-6 Q30,-12 36,-44 Q4,-44 0,-6 Z" {_c(color, 5)}/><path d="M-26,46 L26,46" {_c(color, 5)}/>')
     if name == "nomotiv_book":
         return (icon("book", color, w, progress=0) + f'<g transform="translate(-23,-6) scale(.32)">{icon("flame", color, w * 2)}</g>'
                 f'<line x1="-38" y1="-20" x2="-8" y2="10" {_c(color, 4)}/>')

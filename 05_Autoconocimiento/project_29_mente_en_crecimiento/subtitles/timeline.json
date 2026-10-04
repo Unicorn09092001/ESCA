@@ -1,0 +1,3709 @@
+[
+ {
+  "id": "S01_F001",
+  "scene": "EL GANCHO",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "La mentalidad de crecimiento no se trata de repetirte frases positivas frente al espejo cada mañana.",
+  "visual": "Wide shot of a stick figure standing in front of a simple mirror icon, a faint speech-bubble with a crossed-out positive-quote icon fading away.",
+  "start": 0.0,
+  "end": 6.334,
+  "words": [
+   {
+    "word": "La",
+    "start": 0.257,
+    "end": 0.377
+   },
+   {
+    "word": "mentalidad",
+    "start": 0.377,
+    "end": 0.976
+   },
+   {
+    "word": "de",
+    "start": 0.976,
+    "end": 1.096
+   },
+   {
+    "word": "crecimiento",
+    "start": 1.096,
+    "end": 1.755
+   },
+   {
+    "word": "no",
+    "start": 1.755,
+    "end": 1.875
+   },
+   {
+    "word": "se",
+    "start": 1.875,
+    "end": 1.994
+   },
+   {
+    "word": "trata",
+    "start": 1.994,
+    "end": 2.294
+   },
+   {
+    "word": "de",
+    "start": 2.294,
+    "end": 2.414
+   },
+   {
+    "word": "repetirte",
+    "start": 2.414,
+    "end": 3.102
+   },
+   {
+    "word": "frases",
+    "start": 3.102,
+    "end": 3.461
+   },
+   {
+    "word": "positivas",
+    "start": 3.461,
+    "end": 4.084
+   },
+   {
+    "word": "frente",
+    "start": 4.084,
+    "end": 4.443
+   },
+   {
+    "word": "al",
+    "start": 4.443,
+    "end": 4.563
+   },
+   {
+    "word": "espejo",
+    "start": 4.563,
+    "end": 5.013
+   },
+   {
+    "word": "cada",
+    "start": 5.013,
+    "end": 5.33
+   },
+   {
+    "word": "mañana.",
+    "start": 5.33,
+    "end": 5.689
+   }
+  ]
+ },
+ {
+  "id": "S01_F002",
+  "scene": "EL GANCHO",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "Es un patrón de reacciones automáticas, tan sutil que la mayoría de las personas que la tienen ni siquiera saben que la tienen.",
+  "visual": "Medium shot of a small glowing sprout-and-brain icon quietly present beside the stick figure, #8B6CFF glow subtle and easy to miss.",
+  "start": 6.334,
+  "end": 14.489,
+  "words": [
+   {
+    "word": "Es",
+    "start": 6.979,
+    "end": 7.095
+   },
+   {
+    "word": "un",
+    "start": 7.095,
+    "end": 7.211
+   },
+   {
+    "word": "patrón",
+    "start": 7.211,
+    "end": 7.559
+   },
+   {
+    "word": "de",
+    "start": 7.559,
+    "end": 7.675
+   },
+   {
+    "word": "reacciones",
+    "start": 7.675,
+    "end": 8.256
+   },
+   {
+    "word": "automáticas,",
+    "start": 8.256,
+    "end": 8.894
+   },
+   {
+    "word": "tan",
+    "start": 8.894,
+    "end": 9.14
+   },
+   {
+    "word": "sutil",
+    "start": 9.14,
+    "end": 9.875
+   },
+   {
+    "word": "que",
+    "start": 9.875,
+    "end": 10.049
+   },
+   {
+    "word": "la",
+    "start": 10.049,
+    "end": 10.251
+   },
+   {
+    "word": "mayoría",
+    "start": 10.251,
+    "end": 10.734
+   },
+   {
+    "word": "de",
+    "start": 10.734,
+    "end": 10.85
+   },
+   {
+    "word": "las",
+    "start": 10.85,
+    "end": 11.025
+   },
+   {
+    "word": "personas",
+    "start": 11.025,
+    "end": 11.565
+   },
+   {
+    "word": "que",
+    "start": 11.565,
+    "end": 11.739
+   },
+   {
+    "word": "la",
+    "start": 11.739,
+    "end": 11.855
+   },
+   {
+    "word": "tienen",
+    "start": 11.855,
+    "end": 12.279
+   },
+   {
+    "word": "ni",
+    "start": 12.279,
+    "end": 12.395
+   },
+   {
+    "word": "siquiera",
+    "start": 12.395,
+    "end": 12.859
+   },
+   {
+    "word": "saben",
+    "start": 12.859,
+    "end": 13.149
+   },
+   {
+    "word": "que",
+    "start": 13.149,
+    "end": 13.324
+   },
+   {
+    "word": "la",
+    "start": 13.324,
+    "end": 13.44
+   },
+   {
+    "word": "tienen.",
+    "start": 13.44,
+    "end": 13.876
+   }
+  ]
+ },
+ {
+  "id": "S01_F003",
+  "scene": "EL GANCHO",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Hoy te muestro 6 señales concretas, respaldadas por investigación real.",
+  "visual": "Wide shot of six small dim number-tiles (1-6) arranged in an arc, a small research-paper icon glowing faintly nearby.",
+  "start": 14.489,
+  "end": 20.266,
+  "words": [
+   {
+    "word": "Hoy",
+    "start": 15.103,
+    "end": 15.3
+   },
+   {
+    "word": "te",
+    "start": 15.3,
+    "end": 15.432
+   },
+   {
+    "word": "muestro",
+    "start": 15.432,
+    "end": 15.893
+   },
+   {
+    "word": "6",
+    "start": 15.893,
+    "end": 15.959
+   },
+   {
+    "word": "señales",
+    "start": 15.959,
+    "end": 16.42
+   },
+   {
+    "word": "concretas,",
+    "start": 16.42,
+    "end": 17.094
+   },
+   {
+    "word": "respaldadas",
+    "start": 17.094,
+    "end": 18.223
+   },
+   {
+    "word": "por",
+    "start": 18.223,
+    "end": 18.515
+   },
+   {
+    "word": "investigación",
+    "start": 18.515,
+    "end": 19.372
+   },
+   {
+    "word": "real.",
+    "start": 19.372,
+    "end": 19.635
+   }
+  ]
+ },
+ {
+  "id": "S01_F004",
+  "scene": "EL GANCHO",
+  "shot_raw": "Direct address",
+  "shot": "MEDIUM SHOT",
+  "es": "Cuenta cuántas reconoces en ti mismo antes de sacar ninguna conclusión apresurada.",
+  "visual": "Direct-address medium shot of the stick figure gesturing toward the viewer, the six number-tiles now glowing steadily.",
+  "start": 20.266,
+  "end": 26.038,
+  "words": [
+   {
+    "word": "Cuenta",
+    "start": 20.897,
+    "end": 21.354
+   },
+   {
+    "word": "cuántas",
+    "start": 21.354,
+    "end": 21.791
+   },
+   {
+    "word": "reconoces",
+    "start": 21.791,
+    "end": 22.354
+   },
+   {
+    "word": "en",
+    "start": 22.354,
+    "end": 22.479
+   },
+   {
+    "word": "ti",
+    "start": 22.479,
+    "end": 22.604
+   },
+   {
+    "word": "mismo",
+    "start": 22.604,
+    "end": 22.916
+   },
+   {
+    "word": "antes",
+    "start": 22.916,
+    "end": 23.229
+   },
+   {
+    "word": "de",
+    "start": 23.229,
+    "end": 23.354
+   },
+   {
+    "word": "sacar",
+    "start": 23.354,
+    "end": 23.666
+   },
+   {
+    "word": "ninguna",
+    "start": 23.666,
+    "end": 24.104
+   },
+   {
+    "word": "conclusión",
+    "start": 24.104,
+    "end": 24.8
+   },
+   {
+    "word": "apresurada.",
+    "start": 24.8,
+    "end": 25.425
+   }
+  ]
+ },
+ {
+  "id": "S02_F005",
+  "scene": "SENAL 1 - Los Errores Te Interesan (Jason Moser)",
+  "shot_raw": "Text card / title",
+  "shot": "MEDIUM SHOT",
+  "es": "Uno: te interesan más tus errores que evitar cometerlos.",
+  "visual": "Minimal title card, number tile '1' glowing #8B6CFF, a small glowing error-mark icon beside it being examined rather than hidden.",
+  "start": 26.038,
+  "end": 30.609,
+  "words": [
+   {
+    "word": "Uno:",
+    "start": 26.65,
+    "end": 26.833
+   },
+   {
+    "word": "te",
+    "start": 26.833,
+    "end": 27.336
+   },
+   {
+    "word": "interesan",
+    "start": 27.336,
+    "end": 27.885
+   },
+   {
+    "word": "más",
+    "start": 27.885,
+    "end": 28.068
+   },
+   {
+    "word": "tus",
+    "start": 28.068,
+    "end": 28.25
+   },
+   {
+    "word": "errores",
+    "start": 28.25,
+    "end": 28.677
+   },
+   {
+    "word": "que",
+    "start": 28.677,
+    "end": 28.86
+   },
+   {
+    "word": "evitar",
+    "start": 28.86,
+    "end": 29.309
+   },
+   {
+    "word": "cometerlos.",
+    "start": 29.309,
+    "end": 29.994
+   }
+  ]
+ },
+ {
+  "id": "S02_F006",
+  "scene": "SENAL 1 - Los Errores Te Interesan (Jason Moser)",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "El psicólogo Jason Moser, de Michigan State University, midió la actividad cerebral de personas justo después de cometer un error",
+  "visual": "Stick figure standing beside a distinct academic-building icon and a small EEG/brain-wave icon, different silhouette from other university icons used in prior videos.",
+  "start": 30.609,
+  "end": 40.716,
+  "words": [
+   {
+    "word": "El",
+    "start": 31.224,
+    "end": 31.371
+   },
+   {
+    "word": "psicólogo",
+    "start": 31.371,
+    "end": 32.109
+   },
+   {
+    "word": "Jason",
+    "start": 32.109,
+    "end": 32.479
+   },
+   {
+    "word": "Moser,",
+    "start": 32.479,
+    "end": 33.235
+   },
+   {
+    "word": "de",
+    "start": 33.235,
+    "end": 33.383
+   },
+   {
+    "word": "Michigan",
+    "start": 33.383,
+    "end": 33.975
+   },
+   {
+    "word": "State",
+    "start": 33.975,
+    "end": 34.344
+   },
+   {
+    "word": "University,",
+    "start": 34.344,
+    "end": 35.576
+   },
+   {
+    "word": "midió",
+    "start": 35.576,
+    "end": 36.061
+   },
+   {
+    "word": "la",
+    "start": 36.061,
+    "end": 36.209
+   },
+   {
+    "word": "actividad",
+    "start": 36.209,
+    "end": 36.945
+   },
+   {
+    "word": "cerebral",
+    "start": 36.945,
+    "end": 37.537
+   },
+   {
+    "word": "de",
+    "start": 37.537,
+    "end": 37.684
+   },
+   {
+    "word": "personas",
+    "start": 37.684,
+    "end": 38.371
+   },
+   {
+    "word": "justo",
+    "start": 38.371,
+    "end": 38.811
+   },
+   {
+    "word": "después",
+    "start": 38.811,
+    "end": 39.329
+   },
+   {
+    "word": "de",
+    "start": 39.329,
+    "end": 39.477
+   },
+   {
+    "word": "cometer",
+    "start": 39.477,
+    "end": 39.994
+   },
+   {
+    "word": "un",
+    "start": 39.994,
+    "end": 40.142
+   },
+   {
+    "word": "error",
+    "start": 40.142,
+    "end": 40.512
+   }
+  ]
+ },
+ {
+  "id": "S02_F007",
+  "scene": "SENAL 1 - Los Errores Te Interesan (Jason Moser)",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "y encontró algo revelador: quienes tenían mentalidad de crecimiento mostraban una respuesta cerebral más fuerte e inmediata ante el error,",
+  "visual": "Wide shot of two simplified brain icons side by side reacting to the same error-mark, one showing a small faint pulse, the other showing a large bright pulse in #8B6CFF.",
+  "start": 40.716,
+  "end": 46.982,
+  "words": [
+   {
+    "word": "y",
+    "start": 40.921,
+    "end": 40.968
+   },
+   {
+    "word": "encontró",
+    "start": 40.968,
+    "end": 41.342
+   },
+   {
+    "word": "algo",
+    "start": 41.342,
+    "end": 41.529
+   },
+   {
+    "word": "revelador:",
+    "start": 41.529,
+    "end": 41.95
+   },
+   {
+    "word": "quienes",
+    "start": 41.95,
+    "end": 42.277
+   },
+   {
+    "word": "tenían",
+    "start": 42.277,
+    "end": 42.558
+   },
+   {
+    "word": "mentalidad",
+    "start": 42.558,
+    "end": 43.102
+   },
+   {
+    "word": "de",
+    "start": 43.102,
+    "end": 43.196
+   },
+   {
+    "word": "crecimiento",
+    "start": 43.196,
+    "end": 43.71
+   },
+   {
+    "word": "mostraban",
+    "start": 43.71,
+    "end": 44.221
+   },
+   {
+    "word": "una",
+    "start": 44.221,
+    "end": 44.361
+   },
+   {
+    "word": "respuesta",
+    "start": 44.361,
+    "end": 44.782
+   },
+   {
+    "word": "cerebral",
+    "start": 44.782,
+    "end": 45.156
+   },
+   {
+    "word": "más",
+    "start": 45.156,
+    "end": 45.387
+   },
+   {
+    "word": "fuerte",
+    "start": 45.387,
+    "end": 45.668
+   },
+   {
+    "word": "e",
+    "start": 45.668,
+    "end": 45.714
+   },
+   {
+    "word": "inmediata",
+    "start": 45.714,
+    "end": 46.287
+   },
+   {
+    "word": "ante",
+    "start": 46.287,
+    "end": 46.474
+   },
+   {
+    "word": "el",
+    "start": 46.474,
+    "end": 46.568
+   },
+   {
+    "word": "error,",
+    "start": 46.568,
+    "end": 46.802
+   }
+  ]
+ },
+ {
+  "id": "S02_F008",
+  "scene": "SENAL 1 - Los Errores Te Interesan (Jason Moser)",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "como si el cerebro le prestara más atención a \"qué salió mal\" para corregirlo.",
+  "visual": "Medium shot of the brightly-pulsing brain icon zooming its attention onto the error-mark, a small magnifying-glass icon appearing over it.",
+  "start": 46.982,
+  "end": 52.246,
+  "words": [
+   {
+    "word": "como",
+    "start": 47.163,
+    "end": 47.407
+   },
+   {
+    "word": "si",
+    "start": 47.407,
+    "end": 47.529
+   },
+   {
+    "word": "el",
+    "start": 47.529,
+    "end": 47.651
+   },
+   {
+    "word": "cerebro",
+    "start": 47.651,
+    "end": 48.078
+   },
+   {
+    "word": "le",
+    "start": 48.078,
+    "end": 48.271
+   },
+   {
+    "word": "prestara",
+    "start": 48.271,
+    "end": 48.76
+   },
+   {
+    "word": "más",
+    "start": 48.76,
+    "end": 48.943
+   },
+   {
+    "word": "atención",
+    "start": 48.943,
+    "end": 49.431
+   },
+   {
+    "word": "a",
+    "start": 49.431,
+    "end": 49.492
+   },
+   {
+    "word": "\"qué",
+    "start": 49.492,
+    "end": 50.011
+   },
+   {
+    "word": "salió",
+    "start": 50.011,
+    "end": 50.316
+   },
+   {
+    "word": "mal\"",
+    "start": 50.316,
+    "end": 50.499
+   },
+   {
+    "word": "para",
+    "start": 50.499,
+    "end": 51.023
+   },
+   {
+    "word": "corregirlo.",
+    "start": 51.023,
+    "end": 51.634
+   }
+  ]
+ },
+ {
+  "id": "S02_F009",
+  "scene": "SENAL 1 - Los Errores Te Interesan (Jason Moser)",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Presta atención a esto: no es que te guste fallar.",
+  "visual": "Wide shot of the stick figure with a calm, non-distressed expression beside the error-mark, clearly not enjoying it but not fearing it either.",
+  "start": 52.246,
+  "end": 56.365,
+  "words": [
+   {
+    "word": "Presta",
+    "start": 52.858,
+    "end": 53.235
+   },
+   {
+    "word": "atención",
+    "start": 53.235,
+    "end": 53.737
+   },
+   {
+    "word": "a",
+    "start": 53.737,
+    "end": 53.8
+   },
+   {
+    "word": "esto:",
+    "start": 53.8,
+    "end": 54.051
+   },
+   {
+    "word": "no",
+    "start": 54.051,
+    "end": 54.601
+   },
+   {
+    "word": "es",
+    "start": 54.601,
+    "end": 54.727
+   },
+   {
+    "word": "que",
+    "start": 54.727,
+    "end": 54.915
+   },
+   {
+    "word": "te",
+    "start": 54.915,
+    "end": 55.041
+   },
+   {
+    "word": "guste",
+    "start": 55.041,
+    "end": 55.355
+   },
+   {
+    "word": "fallar.",
+    "start": 55.355,
+    "end": 55.732
+   }
+  ]
+ },
+ {
+  "id": "S02_F010",
+  "scene": "SENAL 1 - Los Errores Te Interesan (Jason Moser)",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Es que tu cerebro trata el error como información útil, no como una amenaza que hay que esconder rápido.",
+  "visual": "Wide shot of the error-mark icon transforming into a small glowing information/note icon instead of being hidden or buried.",
+  "start": 56.365,
+  "end": 63.097,
+  "words": [
+   {
+    "word": "Es",
+    "start": 56.999,
+    "end": 57.11
+   },
+   {
+    "word": "que",
+    "start": 57.11,
+    "end": 57.277
+   },
+   {
+    "word": "tu",
+    "start": 57.277,
+    "end": 57.389
+   },
+   {
+    "word": "cerebro",
+    "start": 57.389,
+    "end": 57.779
+   },
+   {
+    "word": "trata",
+    "start": 57.779,
+    "end": 58.058
+   },
+   {
+    "word": "el",
+    "start": 58.058,
+    "end": 58.169
+   },
+   {
+    "word": "error",
+    "start": 58.169,
+    "end": 58.448
+   },
+   {
+    "word": "como",
+    "start": 58.448,
+    "end": 58.747
+   },
+   {
+    "word": "información",
+    "start": 58.747,
+    "end": 59.36
+   },
+   {
+    "word": "útil,",
+    "start": 59.36,
+    "end": 59.583
+   },
+   {
+    "word": "no",
+    "start": 59.583,
+    "end": 59.773
+   },
+   {
+    "word": "como",
+    "start": 59.773,
+    "end": 60.441
+   },
+   {
+    "word": "una",
+    "start": 60.441,
+    "end": 60.609
+   },
+   {
+    "word": "amenaza",
+    "start": 60.609,
+    "end": 60.999
+   },
+   {
+    "word": "que",
+    "start": 60.999,
+    "end": 61.166
+   },
+   {
+    "word": "hay",
+    "start": 61.166,
+    "end": 61.333
+   },
+   {
+    "word": "que",
+    "start": 61.333,
+    "end": 61.584
+   },
+   {
+    "word": "esconder",
+    "start": 61.584,
+    "end": 62.03
+   },
+   {
+    "word": "rápido.",
+    "start": 62.03,
+    "end": 62.461
+   }
+  ]
+ },
+ {
+  "id": "S03_F011",
+  "scene": "SENAL 2 - Prefieres Feedback Honesto (Mueller y Dweck)",
+  "shot_raw": "Text card / title",
+  "shot": "MEDIUM SHOT",
+  "es": "Dos: prefieres feedback honesto sobre tu trabajo, aunque duela, en vez de un cumplido vacío.",
+  "visual": "Minimal title card, number tile '2' glowing #8B6CFF, a small honest-note icon beside a crossed-out empty-compliment bubble icon.",
+  "start": 63.097,
+  "end": 70.103,
+  "words": [
+   {
+    "word": "Dos:",
+    "start": 63.732,
+    "end": 63.918
+   },
+   {
+    "word": "prefieres",
+    "start": 63.918,
+    "end": 64.862
+   },
+   {
+    "word": "feedback",
+    "start": 64.862,
+    "end": 65.432
+   },
+   {
+    "word": "honesto",
+    "start": 65.432,
+    "end": 65.867
+   },
+   {
+    "word": "sobre",
+    "start": 65.867,
+    "end": 66.177
+   },
+   {
+    "word": "tu",
+    "start": 66.177,
+    "end": 66.302
+   },
+   {
+    "word": "trabajo,",
+    "start": 66.302,
+    "end": 67.051
+   },
+   {
+    "word": "aunque",
+    "start": 67.051,
+    "end": 67.424
+   },
+   {
+    "word": "duela,",
+    "start": 67.424,
+    "end": 68.112
+   },
+   {
+    "word": "en",
+    "start": 68.112,
+    "end": 68.237
+   },
+   {
+    "word": "vez",
+    "start": 68.237,
+    "end": 68.423
+   },
+   {
+    "word": "de",
+    "start": 68.423,
+    "end": 68.547
+   },
+   {
+    "word": "un",
+    "start": 68.547,
+    "end": 68.671
+   },
+   {
+    "word": "cumplido",
+    "start": 68.671,
+    "end": 69.168
+   },
+   {
+    "word": "vacío.",
+    "start": 69.168,
+    "end": 69.479
+   }
+  ]
+ },
+ {
+  "id": "S03_F012",
+  "scene": "SENAL 2 - Prefieres Feedback Honesto (Mueller y Dweck)",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "Las psicólogas Claudia Mueller y Carol Dweck, en un estudio con niños de la Universidad de Columbia,",
+  "visual": "Stick figure standing beside a distinct academic-building icon (visually different from Michigan State icon) and small child-silhouette icons.",
+  "start": 70.103,
+  "end": 76.589,
+  "words": [
+   {
+    "word": "Las",
+    "start": 70.726,
+    "end": 70.908
+   },
+   {
+    "word": "psicólogas",
+    "start": 70.908,
+    "end": 71.598
+   },
+   {
+    "word": "Claudia",
+    "start": 71.598,
+    "end": 72.023
+   },
+   {
+    "word": "Mueller",
+    "start": 72.023,
+    "end": 72.534
+   },
+   {
+    "word": "y",
+    "start": 72.534,
+    "end": 72.595
+   },
+   {
+    "word": "Carol",
+    "start": 72.595,
+    "end": 72.898
+   },
+   {
+    "word": "Dweck,",
+    "start": 72.898,
+    "end": 73.702
+   },
+   {
+    "word": "en",
+    "start": 73.702,
+    "end": 73.823
+   },
+   {
+    "word": "un",
+    "start": 73.823,
+    "end": 73.945
+   },
+   {
+    "word": "estudio",
+    "start": 73.945,
+    "end": 74.369
+   },
+   {
+    "word": "con",
+    "start": 74.369,
+    "end": 74.551
+   },
+   {
+    "word": "niños",
+    "start": 74.551,
+    "end": 74.855
+   },
+   {
+    "word": "de",
+    "start": 74.855,
+    "end": 74.976
+   },
+   {
+    "word": "la",
+    "start": 74.976,
+    "end": 75.097
+   },
+   {
+    "word": "Universidad",
+    "start": 75.097,
+    "end": 75.765
+   },
+   {
+    "word": "de",
+    "start": 75.765,
+    "end": 75.886
+   },
+   {
+    "word": "Columbia,",
+    "start": 75.886,
+    "end": 76.371
+   }
+  ]
+ },
+ {
+  "id": "S03_F013",
+  "scene": "SENAL 2 - Prefieres Feedback Honesto (Mueller y Dweck)",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "descubrieron que elogiar la inteligencia de alguien (\"eres muy inteligente\") los hacía evitar después los desafíos difíciles,",
+  "visual": "Wide shot of a small child-silhouette receiving a glowing 'inteligente' compliment-bubble, then turning away from a difficult-task icon nearby.",
+  "start": 76.589,
+  "end": 84.401,
+  "words": [
+   {
+    "word": "descubrieron",
+    "start": 76.806,
+    "end": 77.546
+   },
+   {
+    "word": "que",
+    "start": 77.546,
+    "end": 77.73
+   },
+   {
+    "word": "elogiar",
+    "start": 77.73,
+    "end": 78.162
+   },
+   {
+    "word": "la",
+    "start": 78.162,
+    "end": 78.285
+   },
+   {
+    "word": "inteligencia",
+    "start": 78.285,
+    "end": 79.024
+   },
+   {
+    "word": "de",
+    "start": 79.024,
+    "end": 79.147
+   },
+   {
+    "word": "alguien",
+    "start": 79.147,
+    "end": 79.92
+   },
+   {
+    "word": "(\"eres",
+    "start": 79.92,
+    "end": 80.167
+   },
+   {
+    "word": "muy",
+    "start": 80.167,
+    "end": 80.352
+   },
+   {
+    "word": "inteligente\")",
+    "start": 80.352,
+    "end": 81.518
+   },
+   {
+    "word": "los",
+    "start": 81.518,
+    "end": 81.702
+   },
+   {
+    "word": "hacía",
+    "start": 81.702,
+    "end": 82.01
+   },
+   {
+    "word": "evitar",
+    "start": 82.01,
+    "end": 82.455
+   },
+   {
+    "word": "después",
+    "start": 82.455,
+    "end": 82.972
+   },
+   {
+    "word": "los",
+    "start": 82.972,
+    "end": 83.157
+   },
+   {
+    "word": "desafíos",
+    "start": 83.157,
+    "end": 83.65
+   },
+   {
+    "word": "difíciles,",
+    "start": 83.65,
+    "end": 84.204
+   }
+  ]
+ },
+ {
+  "id": "S03_F014",
+  "scene": "SENAL 2 - Prefieres Feedback Honesto (Mueller y Dweck)",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "mientras que elogiar el esfuerzo específico los hacía buscar tareas más exigentes.",
+  "visual": "Medium shot of a different child-silhouette receiving a glowing 'esfuerzo' compliment-bubble, then moving toward the difficult-task icon in #8B6CFF.",
+  "start": 84.401,
+  "end": 89.805,
+  "words": [
+   {
+    "word": "mientras",
+    "start": 84.598,
+    "end": 85.086
+   },
+   {
+    "word": "que",
+    "start": 85.086,
+    "end": 85.269
+   },
+   {
+    "word": "elogiar",
+    "start": 85.269,
+    "end": 85.697
+   },
+   {
+    "word": "el",
+    "start": 85.697,
+    "end": 85.819
+   },
+   {
+    "word": "esfuerzo",
+    "start": 85.819,
+    "end": 86.392
+   },
+   {
+    "word": "específico",
+    "start": 86.392,
+    "end": 87.088
+   },
+   {
+    "word": "los",
+    "start": 87.088,
+    "end": 87.271
+   },
+   {
+    "word": "hacía",
+    "start": 87.271,
+    "end": 87.576
+   },
+   {
+    "word": "buscar",
+    "start": 87.576,
+    "end": 88.027
+   },
+   {
+    "word": "tareas",
+    "start": 88.027,
+    "end": 88.393
+   },
+   {
+    "word": "más",
+    "start": 88.393,
+    "end": 88.576
+   },
+   {
+    "word": "exigentes.",
+    "start": 88.576,
+    "end": 89.203
+   }
+  ]
+ },
+ {
+  "id": "S03_F015",
+  "scene": "SENAL 2 - Prefieres Feedback Honesto (Mueller y Dweck)",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Aquí está la clave: si prefieres que te digan exactamente qué mejorar en lugar de que te digan lo talentoso que eres,",
+  "visual": "Wide shot of the stick figure choosing a specific improvement-note icon over a generic talent-compliment icon, deliberate selection shown clearly.",
+  "start": 89.805,
+  "end": 97.019,
+  "words": [
+   {
+    "word": "Aquí",
+    "start": 90.408,
+    "end": 90.649
+   },
+   {
+    "word": "está",
+    "start": 90.649,
+    "end": 90.891
+   },
+   {
+    "word": "la",
+    "start": 90.891,
+    "end": 91.011
+   },
+   {
+    "word": "clave:",
+    "start": 91.011,
+    "end": 91.385
+   },
+   {
+    "word": "si",
+    "start": 91.385,
+    "end": 91.894
+   },
+   {
+    "word": "prefieres",
+    "start": 91.894,
+    "end": 92.437
+   },
+   {
+    "word": "que",
+    "start": 92.437,
+    "end": 92.618
+   },
+   {
+    "word": "te",
+    "start": 92.618,
+    "end": 92.739
+   },
+   {
+    "word": "digan",
+    "start": 92.739,
+    "end": 93.04
+   },
+   {
+    "word": "exactamente",
+    "start": 93.04,
+    "end": 93.807
+   },
+   {
+    "word": "qué",
+    "start": 93.807,
+    "end": 93.988
+   },
+   {
+    "word": "mejorar",
+    "start": 93.988,
+    "end": 94.41
+   },
+   {
+    "word": "en",
+    "start": 94.41,
+    "end": 94.531
+   },
+   {
+    "word": "lugar",
+    "start": 94.531,
+    "end": 94.833
+   },
+   {
+    "word": "de",
+    "start": 94.833,
+    "end": 94.953
+   },
+   {
+    "word": "que",
+    "start": 94.953,
+    "end": 95.134
+   },
+   {
+    "word": "te",
+    "start": 95.134,
+    "end": 95.255
+   },
+   {
+    "word": "digan",
+    "start": 95.255,
+    "end": 95.557
+   },
+   {
+    "word": "lo",
+    "start": 95.557,
+    "end": 95.677
+   },
+   {
+    "word": "talentoso",
+    "start": 95.677,
+    "end": 96.396
+   },
+   {
+    "word": "que",
+    "start": 96.396,
+    "end": 96.577
+   },
+   {
+    "word": "eres,",
+    "start": 96.577,
+    "end": 96.818
+   }
+  ]
+ },
+ {
+  "id": "S03_F016",
+  "scene": "SENAL 2 - Prefieres Feedback Honesto (Mueller y Dweck)",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "tu cerebro ya está calibrado para el crecimiento, no para proteger una imagen.",
+  "visual": "Wide shot of the simplified brain icon glowing steadily, a small fragile-image/mask icon nearby shown dim and untouched, not being protected.",
+  "start": 97.019,
+  "end": 102.299,
+  "words": [
+   {
+    "word": "tu",
+    "start": 97.22,
+    "end": 97.328
+   },
+   {
+    "word": "cerebro",
+    "start": 97.328,
+    "end": 97.706
+   },
+   {
+    "word": "ya",
+    "start": 97.706,
+    "end": 97.814
+   },
+   {
+    "word": "está",
+    "start": 97.814,
+    "end": 98.03
+   },
+   {
+    "word": "calibrado",
+    "start": 98.03,
+    "end": 98.588
+   },
+   {
+    "word": "para",
+    "start": 98.588,
+    "end": 98.897
+   },
+   {
+    "word": "el",
+    "start": 98.897,
+    "end": 99.103
+   },
+   {
+    "word": "crecimiento,",
+    "start": 99.103,
+    "end": 99.78
+   },
+   {
+    "word": "no",
+    "start": 99.78,
+    "end": 100.285
+   },
+   {
+    "word": "para",
+    "start": 100.285,
+    "end": 100.596
+   },
+   {
+    "word": "proteger",
+    "start": 100.596,
+    "end": 101.19
+   },
+   {
+    "word": "una",
+    "start": 101.19,
+    "end": 101.352
+   },
+   {
+    "word": "imagen.",
+    "start": 101.352,
+    "end": 101.676
+   }
+  ]
+ },
+ {
+  "id": "S04_F017",
+  "scene": "SENAL 3 - Te Atrae lo Dificil",
+  "shot_raw": "Text card / title",
+  "shot": "MEDIUM SHOT",
+  "es": "Tres: te sientes atraído por tareas que no dominas todavía, no solo por las que ya sabes hacer bien.",
+  "visual": "Minimal title card, number tile '3' glowing #8B6CFF, a small glowing unfamiliar-task icon beside a dimmer familiar-task icon.",
+  "start": 102.299,
+  "end": 109.57,
+  "words": [
+   {
+    "word": "Tres:",
+    "start": 102.921,
+    "end": 103.172
+   },
+   {
+    "word": "te",
+    "start": 103.172,
+    "end": 103.762
+   },
+   {
+    "word": "sientes",
+    "start": 103.762,
+    "end": 104.202
+   },
+   {
+    "word": "atraído",
+    "start": 104.202,
+    "end": 104.641
+   },
+   {
+    "word": "por",
+    "start": 104.641,
+    "end": 104.904
+   },
+   {
+    "word": "tareas",
+    "start": 104.904,
+    "end": 105.374
+   },
+   {
+    "word": "que",
+    "start": 105.374,
+    "end": 105.562
+   },
+   {
+    "word": "no",
+    "start": 105.562,
+    "end": 105.687
+   },
+   {
+    "word": "dominas",
+    "start": 105.687,
+    "end": 106.127
+   },
+   {
+    "word": "todavía,",
+    "start": 106.127,
+    "end": 106.566
+   },
+   {
+    "word": "no",
+    "start": 106.566,
+    "end": 107.053
+   },
+   {
+    "word": "solo",
+    "start": 107.053,
+    "end": 107.304
+   },
+   {
+    "word": "por",
+    "start": 107.304,
+    "end": 107.572
+   },
+   {
+    "word": "las",
+    "start": 107.572,
+    "end": 107.76
+   },
+   {
+    "word": "que",
+    "start": 107.76,
+    "end": 107.948
+   },
+   {
+    "word": "ya",
+    "start": 107.948,
+    "end": 108.074
+   },
+   {
+    "word": "sabes",
+    "start": 108.074,
+    "end": 108.387
+   },
+   {
+    "word": "hacer",
+    "start": 108.387,
+    "end": 108.701
+   },
+   {
+    "word": "bien.",
+    "start": 108.701,
+    "end": 108.952
+   }
+  ]
+ },
+ {
+  "id": "S04_F018",
+  "scene": "SENAL 3 - Te Atrae lo Dificil",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "La comodidad de lo conocido es agradable, y es completamente normal disfrutar hacer bien lo que ya dominas.",
+  "visual": "Medium shot of the stick figure comfortably engaged with a familiar-task icon, calm and at ease, no judgment implied.",
+  "start": 109.57,
+  "end": 116.614,
+  "words": [
+   {
+    "word": "La",
+    "start": 110.188,
+    "end": 110.307
+   },
+   {
+    "word": "comodidad",
+    "start": 110.307,
+    "end": 110.841
+   },
+   {
+    "word": "de",
+    "start": 110.841,
+    "end": 110.96
+   },
+   {
+    "word": "lo",
+    "start": 110.96,
+    "end": 111.079
+   },
+   {
+    "word": "conocido",
+    "start": 111.079,
+    "end": 111.554
+   },
+   {
+    "word": "es",
+    "start": 111.554,
+    "end": 111.672
+   },
+   {
+    "word": "agradable,",
+    "start": 111.672,
+    "end": 112.207
+   },
+   {
+    "word": "y",
+    "start": 112.207,
+    "end": 112.666
+   },
+   {
+    "word": "es",
+    "start": 112.666,
+    "end": 112.785
+   },
+   {
+    "word": "completamente",
+    "start": 112.785,
+    "end": 113.557
+   },
+   {
+    "word": "normal",
+    "start": 113.557,
+    "end": 113.913
+   },
+   {
+    "word": "disfrutar",
+    "start": 113.913,
+    "end": 114.52
+   },
+   {
+    "word": "hacer",
+    "start": 114.52,
+    "end": 114.817
+   },
+   {
+    "word": "bien",
+    "start": 114.817,
+    "end": 115.055
+   },
+   {
+    "word": "lo",
+    "start": 115.055,
+    "end": 115.173
+   },
+   {
+    "word": "que",
+    "start": 115.173,
+    "end": 115.352
+   },
+   {
+    "word": "ya",
+    "start": 115.352,
+    "end": 115.47
+   },
+   {
+    "word": "dominas.",
+    "start": 115.47,
+    "end": 115.886
+   }
+  ]
+ },
+ {
+  "id": "S04_F019",
+  "scene": "SENAL 3 - Te Atrae lo Dificil",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Pero si notas una curiosidad genuina — no solo tolerancia forzada, sino curiosidad real — hacia algo en lo que eres principiante,",
+  "visual": "Wide shot of the stick figure's gaze turning toward the unfamiliar-task icon with a small glowing curiosity-spark in #8B6CFF, genuine rather than reluctant.",
+  "start": 116.614,
+  "end": 125.258,
+  "words": [
+   {
+    "word": "Pero",
+    "start": 117.226,
+    "end": 117.472
+   },
+   {
+    "word": "si",
+    "start": 117.472,
+    "end": 117.595
+   },
+   {
+    "word": "notas",
+    "start": 117.595,
+    "end": 117.902
+   },
+   {
+    "word": "una",
+    "start": 117.902,
+    "end": 118.086
+   },
+   {
+    "word": "curiosidad",
+    "start": 118.086,
+    "end": 118.7
+   },
+   {
+    "word": "genuina",
+    "start": 118.7,
+    "end": 119.13
+   },
+   {
+    "word": "—",
+    "start": 119.13,
+    "end": 119.192
+   },
+   {
+    "word": "no",
+    "start": 119.192,
+    "end": 119.315
+   },
+   {
+    "word": "solo",
+    "start": 119.315,
+    "end": 119.829
+   },
+   {
+    "word": "tolerancia",
+    "start": 119.829,
+    "end": 120.444
+   },
+   {
+    "word": "forzada,",
+    "start": 120.444,
+    "end": 120.874
+   },
+   {
+    "word": "sino",
+    "start": 120.874,
+    "end": 121.12
+   },
+   {
+    "word": "curiosidad",
+    "start": 121.12,
+    "end": 122.149
+   },
+   {
+    "word": "real",
+    "start": 122.149,
+    "end": 122.395
+   },
+   {
+    "word": "—",
+    "start": 122.395,
+    "end": 122.456
+   },
+   {
+    "word": "hacia",
+    "start": 122.456,
+    "end": 122.763
+   },
+   {
+    "word": "algo",
+    "start": 122.763,
+    "end": 123.338
+   },
+   {
+    "word": "en",
+    "start": 123.338,
+    "end": 123.461
+   },
+   {
+    "word": "lo",
+    "start": 123.461,
+    "end": 123.584
+   },
+   {
+    "word": "que",
+    "start": 123.584,
+    "end": 123.768
+   },
+   {
+    "word": "eres",
+    "start": 123.768,
+    "end": 124.087
+   },
+   {
+    "word": "principiante,",
+    "start": 124.087,
+    "end": 125.059
+   }
+  ]
+ },
+ {
+  "id": "S04_F020",
+  "scene": "SENAL 3 - Te Atrae lo Dificil",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "algo en lo que probablemente te vas a ver torpe frente a otros durante un tiempo, esa atracción específica hacia lo difícil es una señal, no una casualidad ni una excentricidad tuya.",
+  "visual": "Wide shot of the stick figure stepping toward the unfamiliar-task icon despite small faint 'looking clumsy' onlooker-silhouettes nearby, undeterred.",
+  "start": 125.258,
+  "end": 136.155,
+  "words": [
+   {
+    "word": "algo",
+    "start": 125.458,
+    "end": 125.694
+   },
+   {
+    "word": "en",
+    "start": 125.694,
+    "end": 125.812
+   },
+   {
+    "word": "lo",
+    "start": 125.812,
+    "end": 125.93
+   },
+   {
+    "word": "que",
+    "start": 125.93,
+    "end": 126.107
+   },
+   {
+    "word": "probablemente",
+    "start": 126.107,
+    "end": 126.875
+   },
+   {
+    "word": "te",
+    "start": 126.875,
+    "end": 126.993
+   },
+   {
+    "word": "vas",
+    "start": 126.993,
+    "end": 127.17
+   },
+   {
+    "word": "a",
+    "start": 127.17,
+    "end": 127.229
+   },
+   {
+    "word": "ver",
+    "start": 127.229,
+    "end": 127.51
+   },
+   {
+    "word": "torpe",
+    "start": 127.51,
+    "end": 127.885
+   },
+   {
+    "word": "frente",
+    "start": 127.885,
+    "end": 128.239
+   },
+   {
+    "word": "a",
+    "start": 128.239,
+    "end": 128.298
+   },
+   {
+    "word": "otros",
+    "start": 128.298,
+    "end": 128.593
+   },
+   {
+    "word": "durante",
+    "start": 128.593,
+    "end": 129.007
+   },
+   {
+    "word": "un",
+    "start": 129.007,
+    "end": 129.125
+   },
+   {
+    "word": "tiempo,",
+    "start": 129.125,
+    "end": 129.935
+   },
+   {
+    "word": "esa",
+    "start": 129.935,
+    "end": 130.112
+   },
+   {
+    "word": "atracción",
+    "start": 130.112,
+    "end": 130.714
+   },
+   {
+    "word": "específica",
+    "start": 130.714,
+    "end": 131.38
+   },
+   {
+    "word": "hacia",
+    "start": 131.38,
+    "end": 131.675
+   },
+   {
+    "word": "lo",
+    "start": 131.675,
+    "end": 131.794
+   },
+   {
+    "word": "difícil",
+    "start": 131.794,
+    "end": 132.207
+   },
+   {
+    "word": "es",
+    "start": 132.207,
+    "end": 132.325
+   },
+   {
+    "word": "una",
+    "start": 132.325,
+    "end": 132.502
+   },
+   {
+    "word": "señal,",
+    "start": 132.502,
+    "end": 132.797
+   },
+   {
+    "word": "no",
+    "start": 132.797,
+    "end": 133.359
+   },
+   {
+    "word": "una",
+    "start": 133.359,
+    "end": 133.536
+   },
+   {
+    "word": "casualidad",
+    "start": 133.536,
+    "end": 134.126
+   },
+   {
+    "word": "ni",
+    "start": 134.126,
+    "end": 134.244
+   },
+   {
+    "word": "una",
+    "start": 134.244,
+    "end": 134.422
+   },
+   {
+    "word": "excentricidad",
+    "start": 134.422,
+    "end": 135.303
+   },
+   {
+    "word": "tuya.",
+    "start": 135.303,
+    "end": 135.539
+   }
+  ]
+ },
+ {
+  "id": "S05_F021",
+  "scene": "SENAL 4 - La Palabra Todavia",
+  "shot_raw": "Text card / title",
+  "shot": "MEDIUM SHOT",
+  "es": "Cuatro: usas la palabra \"todavía\" cuando algo no te sale.",
+  "visual": "Minimal title card, number tile '4' glowing #8B6CFF, a small speech-bubble containing a single glowing word-shape.",
+  "start": 136.155,
+  "end": 140.673,
+  "words": [
+   {
+    "word": "Cuatro:",
+    "start": 136.772,
+    "end": 137.127
+   },
+   {
+    "word": "usas",
+    "start": 137.127,
+    "end": 137.586
+   },
+   {
+    "word": "la",
+    "start": 137.586,
+    "end": 137.704
+   },
+   {
+    "word": "palabra",
+    "start": 137.704,
+    "end": 138.19
+   },
+   {
+    "word": "\"todavía\"",
+    "start": 138.19,
+    "end": 138.79
+   },
+   {
+    "word": "cuando",
+    "start": 138.79,
+    "end": 139.346
+   },
+   {
+    "word": "algo",
+    "start": 139.346,
+    "end": 139.582
+   },
+   {
+    "word": "no",
+    "start": 139.582,
+    "end": 139.7
+   },
+   {
+    "word": "te",
+    "start": 139.7,
+    "end": 139.819
+   },
+   {
+    "word": "sale.",
+    "start": 139.819,
+    "end": 140.055
+   }
+  ]
+ },
+ {
+  "id": "S05_F022",
+  "scene": "SENAL 4 - La Palabra Todavia",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "\"No sé hacer esto\" y \"no sé hacer esto todavía\" no son la misma frase, aunque se parezcan casi idénticas en el resto de la oración.",
+  "visual": "Medium shot of two nearly identical speech-bubbles side by side, one ending in a closed/dead-end mark, the other ending in a small glowing open-arrow mark.",
+  "start": 140.673,
+  "end": 149.222,
+  "words": [
+   {
+    "word": "\"No",
+    "start": 141.29,
+    "end": 141.419
+   },
+   {
+    "word": "sé",
+    "start": 141.419,
+    "end": 141.548
+   },
+   {
+    "word": "hacer",
+    "start": 141.548,
+    "end": 141.871
+   },
+   {
+    "word": "esto\"",
+    "start": 141.871,
+    "end": 142.129
+   },
+   {
+    "word": "y",
+    "start": 142.129,
+    "end": 142.193
+   },
+   {
+    "word": "\"no",
+    "start": 142.193,
+    "end": 142.439
+   },
+   {
+    "word": "sé",
+    "start": 142.439,
+    "end": 142.568
+   },
+   {
+    "word": "hacer",
+    "start": 142.568,
+    "end": 142.891
+   },
+   {
+    "word": "esto",
+    "start": 142.891,
+    "end": 143.149
+   },
+   {
+    "word": "todavía\"",
+    "start": 143.149,
+    "end": 143.678
+   },
+   {
+    "word": "no",
+    "start": 143.678,
+    "end": 143.807
+   },
+   {
+    "word": "son",
+    "start": 143.807,
+    "end": 144.184
+   },
+   {
+    "word": "la",
+    "start": 144.184,
+    "end": 144.313
+   },
+   {
+    "word": "misma",
+    "start": 144.313,
+    "end": 144.636
+   },
+   {
+    "word": "frase,",
+    "start": 144.636,
+    "end": 144.959
+   },
+   {
+    "word": "aunque",
+    "start": 144.959,
+    "end": 145.745
+   },
+   {
+    "word": "se",
+    "start": 145.745,
+    "end": 145.874
+   },
+   {
+    "word": "parezcan",
+    "start": 145.874,
+    "end": 146.39
+   },
+   {
+    "word": "casi",
+    "start": 146.39,
+    "end": 146.648
+   },
+   {
+    "word": "idénticas",
+    "start": 146.648,
+    "end": 147.306
+   },
+   {
+    "word": "en",
+    "start": 147.306,
+    "end": 147.435
+   },
+   {
+    "word": "el",
+    "start": 147.435,
+    "end": 147.564
+   },
+   {
+    "word": "resto",
+    "start": 147.564,
+    "end": 147.886
+   },
+   {
+    "word": "de",
+    "start": 147.886,
+    "end": 148.015
+   },
+   {
+    "word": "la",
+    "start": 148.015,
+    "end": 148.144
+   },
+   {
+    "word": "oración.",
+    "start": 148.144,
+    "end": 148.596
+   }
+  ]
+ },
+ {
+  "id": "S05_F023",
+  "scene": "SENAL 4 - La Palabra Todavia",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Esto es lo que nadie te dice: esa palabra pequeña, casi invisible cuando la dices en voz alta,",
+  "visual": "Wide shot of the small glowing word-shape from the title card, easy to overlook, highlighted subtly against the rest of the sentence.",
+  "start": 149.222,
+  "end": 155.824,
+  "words": [
+   {
+    "word": "Esto",
+    "start": 149.849,
+    "end": 150.103
+   },
+   {
+    "word": "es",
+    "start": 150.103,
+    "end": 150.23
+   },
+   {
+    "word": "lo",
+    "start": 150.23,
+    "end": 150.356
+   },
+   {
+    "word": "que",
+    "start": 150.356,
+    "end": 150.547
+   },
+   {
+    "word": "nadie",
+    "start": 150.547,
+    "end": 150.864
+   },
+   {
+    "word": "te",
+    "start": 150.864,
+    "end": 150.991
+   },
+   {
+    "word": "dice:",
+    "start": 150.991,
+    "end": 151.245
+   },
+   {
+    "word": "esa",
+    "start": 151.245,
+    "end": 151.827
+   },
+   {
+    "word": "palabra",
+    "start": 151.827,
+    "end": 152.425
+   },
+   {
+    "word": "pequeña,",
+    "start": 152.425,
+    "end": 152.956
+   },
+   {
+    "word": "casi",
+    "start": 152.956,
+    "end": 153.563
+   },
+   {
+    "word": "invisible",
+    "start": 153.563,
+    "end": 154.133
+   },
+   {
+    "word": "cuando",
+    "start": 154.133,
+    "end": 154.514
+   },
+   {
+    "word": "la",
+    "start": 154.514,
+    "end": 154.641
+   },
+   {
+    "word": "dices",
+    "start": 154.641,
+    "end": 154.958
+   },
+   {
+    "word": "en",
+    "start": 154.958,
+    "end": 155.085
+   },
+   {
+    "word": "voz",
+    "start": 155.085,
+    "end": 155.275
+   },
+   {
+    "word": "alta,",
+    "start": 155.275,
+    "end": 155.633
+   }
+  ]
+ },
+ {
+  "id": "S05_F024",
+  "scene": "SENAL 4 - La Palabra Todavia",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "cambia por completo si tu cerebro interpreta la dificultad actual como un estado permanente y fijo, o como un punto cualquiera en un proceso que sigue en marcha y que todavía no ha terminado.",
+  "visual": "Wide shot split into two paths: one ending abruptly at a closed-door icon (permanente), one continuing forward along a glowing dotted path in #8B6CFF (proceso en marcha).",
+  "start": 155.824,
+  "end": 166.238,
+  "words": [
+   {
+    "word": "cambia",
+    "start": 156.015,
+    "end": 156.398
+   },
+   {
+    "word": "por",
+    "start": 156.398,
+    "end": 156.551
+   },
+   {
+    "word": "completo",
+    "start": 156.551,
+    "end": 156.96
+   },
+   {
+    "word": "si",
+    "start": 156.96,
+    "end": 157.063
+   },
+   {
+    "word": "tu",
+    "start": 157.063,
+    "end": 157.165
+   },
+   {
+    "word": "cerebro",
+    "start": 157.165,
+    "end": 157.523
+   },
+   {
+    "word": "interpreta",
+    "start": 157.523,
+    "end": 158.211
+   },
+   {
+    "word": "la",
+    "start": 158.211,
+    "end": 158.313
+   },
+   {
+    "word": "dificultad",
+    "start": 158.313,
+    "end": 159.134
+   },
+   {
+    "word": "actual",
+    "start": 159.134,
+    "end": 159.525
+   },
+   {
+    "word": "como",
+    "start": 159.525,
+    "end": 159.729
+   },
+   {
+    "word": "un",
+    "start": 159.729,
+    "end": 159.831
+   },
+   {
+    "word": "estado",
+    "start": 159.831,
+    "end": 160.225
+   },
+   {
+    "word": "permanente",
+    "start": 160.225,
+    "end": 160.808
+   },
+   {
+    "word": "y",
+    "start": 160.808,
+    "end": 160.859
+   },
+   {
+    "word": "fijo,",
+    "start": 160.859,
+    "end": 161.486
+   },
+   {
+    "word": "o",
+    "start": 161.486,
+    "end": 161.537
+   },
+   {
+    "word": "como",
+    "start": 161.537,
+    "end": 161.742
+   },
+   {
+    "word": "un",
+    "start": 161.742,
+    "end": 161.95
+   },
+   {
+    "word": "punto",
+    "start": 161.95,
+    "end": 162.206
+   },
+   {
+    "word": "cualquiera",
+    "start": 162.206,
+    "end": 162.793
+   },
+   {
+    "word": "en",
+    "start": 162.793,
+    "end": 162.895
+   },
+   {
+    "word": "un",
+    "start": 162.895,
+    "end": 162.998
+   },
+   {
+    "word": "proceso",
+    "start": 162.998,
+    "end": 163.356
+   },
+   {
+    "word": "que",
+    "start": 163.356,
+    "end": 163.509
+   },
+   {
+    "word": "sigue",
+    "start": 163.509,
+    "end": 163.765
+   },
+   {
+    "word": "en",
+    "start": 163.765,
+    "end": 163.867
+   },
+   {
+    "word": "marcha",
+    "start": 163.867,
+    "end": 164.265
+   },
+   {
+    "word": "y",
+    "start": 164.265,
+    "end": 164.316
+   },
+   {
+    "word": "que",
+    "start": 164.316,
+    "end": 164.551
+   },
+   {
+    "word": "todavía",
+    "start": 164.551,
+    "end": 164.909
+   },
+   {
+    "word": "no",
+    "start": 164.909,
+    "end": 165.012
+   },
+   {
+    "word": "ha",
+    "start": 165.012,
+    "end": 165.114
+   },
+   {
+    "word": "terminado.",
+    "start": 165.114,
+    "end": 165.654
+   }
+  ]
+ },
+ {
+  "id": "S06_F025",
+  "scene": "SENAL 5 - El Exito Ajeno No Amenaza",
+  "shot_raw": "Text card / title",
+  "shot": "MEDIUM SHOT",
+  "es": "Cinco: el éxito ajeno no te amenaza, te da información.",
+  "visual": "Minimal title card, number tile '5' glowing #8B6CFF, a small glowing achievement-star icon beside an information/note icon rather than a threat icon.",
+  "start": 166.238,
+  "end": 171.346,
+  "words": [
+   {
+    "word": "Cinco:",
+    "start": 166.823,
+    "end": 167.246
+   },
+   {
+    "word": "el",
+    "start": 167.246,
+    "end": 167.786
+   },
+   {
+    "word": "éxito",
+    "start": 167.786,
+    "end": 168.133
+   },
+   {
+    "word": "ajeno",
+    "start": 168.133,
+    "end": 168.48
+   },
+   {
+    "word": "no",
+    "start": 168.48,
+    "end": 168.619
+   },
+   {
+    "word": "te",
+    "start": 168.619,
+    "end": 168.832
+   },
+   {
+    "word": "amenaza,",
+    "start": 168.832,
+    "end": 169.318
+   },
+   {
+    "word": "te",
+    "start": 169.318,
+    "end": 169.834
+   },
+   {
+    "word": "da",
+    "start": 169.834,
+    "end": 169.972
+   },
+   {
+    "word": "información.",
+    "start": 169.972,
+    "end": 170.736
+   }
+  ]
+ },
+ {
+  "id": "S06_F026",
+  "scene": "SENAL 5 - El Exito Ajeno No Amenaza",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "Cuando alguien logra algo que tú también quieres — un ascenso, un proyecto terminado, un cuerpo más fuerte —,",
+  "visual": "Medium shot of a second small stick-figure silhouette holding a glowing achievement-star (a promotion icon, a finished-project icon, a fitness icon shown in quick succession).",
+  "start": 171.346,
+  "end": 178.231,
+  "words": [
+   {
+    "word": "Cuando",
+    "start": 171.957,
+    "end": 172.294
+   },
+   {
+    "word": "alguien",
+    "start": 172.294,
+    "end": 172.688
+   },
+   {
+    "word": "logra",
+    "start": 172.688,
+    "end": 172.968
+   },
+   {
+    "word": "algo",
+    "start": 172.968,
+    "end": 173.193
+   },
+   {
+    "word": "que",
+    "start": 173.193,
+    "end": 173.362
+   },
+   {
+    "word": "tú",
+    "start": 173.362,
+    "end": 173.474
+   },
+   {
+    "word": "también",
+    "start": 173.474,
+    "end": 173.868
+   },
+   {
+    "word": "quieres",
+    "start": 173.868,
+    "end": 174.499
+   },
+   {
+    "word": "—",
+    "start": 174.499,
+    "end": 174.555
+   },
+   {
+    "word": "un",
+    "start": 174.555,
+    "end": 174.667
+   },
+   {
+    "word": "ascenso,",
+    "start": 174.667,
+    "end": 175.061
+   },
+   {
+    "word": "un",
+    "start": 175.061,
+    "end": 175.512
+   },
+   {
+    "word": "proyecto",
+    "start": 175.512,
+    "end": 176.048
+   },
+   {
+    "word": "terminado,",
+    "start": 176.048,
+    "end": 176.554
+   },
+   {
+    "word": "un",
+    "start": 176.554,
+    "end": 176.989
+   },
+   {
+    "word": "cuerpo",
+    "start": 176.989,
+    "end": 177.405
+   },
+   {
+    "word": "más",
+    "start": 177.405,
+    "end": 177.574
+   },
+   {
+    "word": "fuerte",
+    "start": 177.574,
+    "end": 177.999
+   },
+   {
+    "word": "—,",
+    "start": 177.999,
+    "end": 178.055
+   }
+  ]
+ },
+ {
+  "id": "S06_F027",
+  "scene": "SENAL 5 - El Exito Ajeno No Amenaza",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "tu primera reacción interna, la genuina, antes de cualquier reacción social educada que muestres hacia afuera,",
+  "visual": "Wide shot of the stick figure's outer polite-smile expression shown as a thin mask layer, with a genuine inner reaction visible just beneath it.",
+  "start": 178.231,
+  "end": 184.957,
+  "words": [
+   {
+    "word": "tu",
+    "start": 178.406,
+    "end": 178.521
+   },
+   {
+    "word": "primera",
+    "start": 178.521,
+    "end": 178.925
+   },
+   {
+    "word": "reacción",
+    "start": 178.925,
+    "end": 179.386
+   },
+   {
+    "word": "interna,",
+    "start": 179.386,
+    "end": 179.86
+   },
+   {
+    "word": "la",
+    "start": 179.86,
+    "end": 180.401
+   },
+   {
+    "word": "genuina,",
+    "start": 180.401,
+    "end": 180.805
+   },
+   {
+    "word": "antes",
+    "start": 180.805,
+    "end": 181.482
+   },
+   {
+    "word": "de",
+    "start": 181.482,
+    "end": 181.597
+   },
+   {
+    "word": "cualquier",
+    "start": 181.597,
+    "end": 182.187
+   },
+   {
+    "word": "reacción",
+    "start": 182.187,
+    "end": 182.648
+   },
+   {
+    "word": "social",
+    "start": 182.648,
+    "end": 182.994
+   },
+   {
+    "word": "educada",
+    "start": 182.994,
+    "end": 183.484
+   },
+   {
+    "word": "que",
+    "start": 183.484,
+    "end": 183.657
+   },
+   {
+    "word": "muestres",
+    "start": 183.657,
+    "end": 184.118
+   },
+   {
+    "word": "hacia",
+    "start": 184.118,
+    "end": 184.406
+   },
+   {
+    "word": "afuera,",
+    "start": 184.406,
+    "end": 184.752
+   }
+  ]
+ },
+ {
+  "id": "S06_F028",
+  "scene": "SENAL 5 - El Exito Ajeno No Amenaza",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "es más cercana a \"¿cómo lo hizo, qué hizo distinto?\" que a \"eso a mí no me va a pasar nunca, esa persona tuvo suerte\".",
+  "visual": "Wide shot of two small thought-bubble options above the stick figure — a glowing question-mark bubble in #8B6CFF (cómo lo hizo) and a dim crossed-out luck-icon bubble (tuvo suerte) — the question-mark bubble clearly the active one.",
+  "start": 184.957,
+  "end": 192.978,
+  "words": [
+   {
+    "word": "es",
+    "start": 185.162,
+    "end": 185.284
+   },
+   {
+    "word": "más",
+    "start": 185.284,
+    "end": 185.467
+   },
+   {
+    "word": "cercana",
+    "start": 185.467,
+    "end": 185.977
+   },
+   {
+    "word": "a",
+    "start": 185.977,
+    "end": 186.038
+   },
+   {
+    "word": "\"¿cómo",
+    "start": 186.038,
+    "end": 186.538
+   },
+   {
+    "word": "lo",
+    "start": 186.538,
+    "end": 186.66
+   },
+   {
+    "word": "hizo,",
+    "start": 186.66,
+    "end": 186.904
+   },
+   {
+    "word": "qué",
+    "start": 186.904,
+    "end": 187.477
+   },
+   {
+    "word": "hizo",
+    "start": 187.477,
+    "end": 187.721
+   },
+   {
+    "word": "distinto?\"",
+    "start": 187.721,
+    "end": 188.282
+   },
+   {
+    "word": "que",
+    "start": 188.282,
+    "end": 188.801
+   },
+   {
+    "word": "a",
+    "start": 188.801,
+    "end": 189.041
+   },
+   {
+    "word": "\"eso",
+    "start": 189.041,
+    "end": 189.223
+   },
+   {
+    "word": "a",
+    "start": 189.223,
+    "end": 189.284
+   },
+   {
+    "word": "mí",
+    "start": 189.284,
+    "end": 189.406
+   },
+   {
+    "word": "no",
+    "start": 189.406,
+    "end": 189.528
+   },
+   {
+    "word": "me",
+    "start": 189.528,
+    "end": 189.65
+   },
+   {
+    "word": "va",
+    "start": 189.65,
+    "end": 189.772
+   },
+   {
+    "word": "a",
+    "start": 189.772,
+    "end": 189.833
+   },
+   {
+    "word": "pasar",
+    "start": 189.833,
+    "end": 190.138
+   },
+   {
+    "word": "nunca,",
+    "start": 190.138,
+    "end": 190.53
+   },
+   {
+    "word": "esa",
+    "start": 190.53,
+    "end": 191.078
+   },
+   {
+    "word": "persona",
+    "start": 191.078,
+    "end": 191.667
+   },
+   {
+    "word": "tuvo",
+    "start": 191.667,
+    "end": 191.911
+   },
+   {
+    "word": "suerte\".",
+    "start": 191.911,
+    "end": 192.382
+   }
+  ]
+ },
+ {
+  "id": "S07_F029",
+  "scene": "SENAL 6 - Ya No Necesitas Ser el Mejor",
+  "shot_raw": "Text card / title",
+  "shot": "MEDIUM SHOT",
+  "es": "Y seis: dejaste de necesitar ser \"el mejor\" en algo para seguir intentándolo.",
+  "visual": "Minimal title card, number tile '6' glowing brightest of all, a small trophy icon shown fading gently, replaced by a simple ongoing-practice icon.",
+  "start": 192.978,
+  "end": 199.662,
+  "words": [
+   {
+    "word": "Y",
+    "start": 193.573,
+    "end": 193.645
+   },
+   {
+    "word": "seis:",
+    "start": 193.645,
+    "end": 193.932
+   },
+   {
+    "word": "dejaste",
+    "start": 193.932,
+    "end": 194.774
+   },
+   {
+    "word": "de",
+    "start": 194.774,
+    "end": 194.917
+   },
+   {
+    "word": "necesitar",
+    "start": 194.917,
+    "end": 195.563
+   },
+   {
+    "word": "ser",
+    "start": 195.563,
+    "end": 195.778
+   },
+   {
+    "word": "\"el",
+    "start": 195.778,
+    "end": 195.922
+   },
+   {
+    "word": "mejor\"",
+    "start": 195.922,
+    "end": 196.573
+   },
+   {
+    "word": "en",
+    "start": 196.573,
+    "end": 196.717
+   },
+   {
+    "word": "algo",
+    "start": 196.717,
+    "end": 197.312
+   },
+   {
+    "word": "para",
+    "start": 197.312,
+    "end": 197.675
+   },
+   {
+    "word": "seguir",
+    "start": 197.675,
+    "end": 198.105
+   },
+   {
+    "word": "intentándolo.",
+    "start": 198.105,
+    "end": 199.042
+   }
+  ]
+ },
+ {
+  "id": "S07_F030",
+  "scene": "SENAL 6 - Ya No Necesitas Ser el Mejor",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "Pero espera, todavía hay más: esta es la señal más difícil de notar en uno mismo, porque no se siente como un logro, sino como ausencia de un impulso que antes sí tenías.",
+  "visual": "Medium shot of a faint outline where a competitive-drive icon used to be, now simply empty space, no dramatic marker indicating its absence.",
+  "start": 199.662,
+  "end": 210.727,
+  "words": [
+   {
+    "word": "Pero",
+    "start": 200.283,
+    "end": 200.525
+   },
+   {
+    "word": "espera,",
+    "start": 200.525,
+    "end": 200.972
+   },
+   {
+    "word": "todavía",
+    "start": 200.972,
+    "end": 201.783
+   },
+   {
+    "word": "hay",
+    "start": 201.783,
+    "end": 201.964
+   },
+   {
+    "word": "más:",
+    "start": 201.964,
+    "end": 202.146
+   },
+   {
+    "word": "esta",
+    "start": 202.146,
+    "end": 202.734
+   },
+   {
+    "word": "es",
+    "start": 202.734,
+    "end": 202.855
+   },
+   {
+    "word": "la",
+    "start": 202.855,
+    "end": 202.976
+   },
+   {
+    "word": "señal",
+    "start": 202.976,
+    "end": 203.278
+   },
+   {
+    "word": "más",
+    "start": 203.278,
+    "end": 203.46
+   },
+   {
+    "word": "difícil",
+    "start": 203.46,
+    "end": 203.884
+   },
+   {
+    "word": "de",
+    "start": 203.884,
+    "end": 204.005
+   },
+   {
+    "word": "notar",
+    "start": 204.005,
+    "end": 204.385
+   },
+   {
+    "word": "en",
+    "start": 204.385,
+    "end": 204.506
+   },
+   {
+    "word": "uno",
+    "start": 204.506,
+    "end": 204.688
+   },
+   {
+    "word": "mismo,",
+    "start": 204.688,
+    "end": 204.99
+   },
+   {
+    "word": "porque",
+    "start": 204.99,
+    "end": 205.723
+   },
+   {
+    "word": "no",
+    "start": 205.723,
+    "end": 205.844
+   },
+   {
+    "word": "se",
+    "start": 205.844,
+    "end": 205.965
+   },
+   {
+    "word": "siente",
+    "start": 205.965,
+    "end": 206.328
+   },
+   {
+    "word": "como",
+    "start": 206.328,
+    "end": 206.57
+   },
+   {
+    "word": "un",
+    "start": 206.57,
+    "end": 206.691
+   },
+   {
+    "word": "logro,",
+    "start": 206.691,
+    "end": 206.994
+   },
+   {
+    "word": "sino",
+    "start": 206.994,
+    "end": 207.593
+   },
+   {
+    "word": "como",
+    "start": 207.593,
+    "end": 207.916
+   },
+   {
+    "word": "ausencia",
+    "start": 207.916,
+    "end": 208.4
+   },
+   {
+    "word": "de",
+    "start": 208.4,
+    "end": 208.521
+   },
+   {
+    "word": "un",
+    "start": 208.521,
+    "end": 208.642
+   },
+   {
+    "word": "impulso",
+    "start": 208.642,
+    "end": 209.151
+   },
+   {
+    "word": "que",
+    "start": 209.151,
+    "end": 209.332
+   },
+   {
+    "word": "antes",
+    "start": 209.332,
+    "end": 209.635
+   },
+   {
+    "word": "sí",
+    "start": 209.635,
+    "end": 209.756
+   },
+   {
+    "word": "tenías.",
+    "start": 209.756,
+    "end": 210.119
+   }
+  ]
+ },
+ {
+  "id": "S07_F031",
+  "scene": "SENAL 6 - Ya No Necesitas Ser el Mejor",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Si puedes disfrutar mejorar en algo sin la necesidad constante de compararte y ganar, sin que eso apague tu motivación para seguir practicando,",
+  "visual": "Wide shot of the stick figure practicing a skill calmly, a small steady glowing progress-icon in #8B6CFF beside them, no scoreboard or comparison icon present anywhere in frame.",
+  "start": 210.727,
+  "end": 219.496,
+  "words": [
+   {
+    "word": "Si",
+    "start": 211.335,
+    "end": 211.45
+   },
+   {
+    "word": "puedes",
+    "start": 211.45,
+    "end": 211.794
+   },
+   {
+    "word": "disfrutar",
+    "start": 211.794,
+    "end": 212.311
+   },
+   {
+    "word": "mejorar",
+    "start": 212.311,
+    "end": 212.713
+   },
+   {
+    "word": "en",
+    "start": 212.713,
+    "end": 212.827
+   },
+   {
+    "word": "algo",
+    "start": 212.827,
+    "end": 213.057
+   },
+   {
+    "word": "sin",
+    "start": 213.057,
+    "end": 213.229
+   },
+   {
+    "word": "la",
+    "start": 213.229,
+    "end": 213.344
+   },
+   {
+    "word": "necesidad",
+    "start": 213.344,
+    "end": 213.861
+   },
+   {
+    "word": "constante",
+    "start": 213.861,
+    "end": 214.472
+   },
+   {
+    "word": "de",
+    "start": 214.472,
+    "end": 214.587
+   },
+   {
+    "word": "compararte",
+    "start": 214.587,
+    "end": 215.161
+   },
+   {
+    "word": "y",
+    "start": 215.161,
+    "end": 215.219
+   },
+   {
+    "word": "ganar,",
+    "start": 215.219,
+    "end": 215.61
+   },
+   {
+    "word": "sin",
+    "start": 215.61,
+    "end": 215.782
+   },
+   {
+    "word": "que",
+    "start": 215.782,
+    "end": 216.394
+   },
+   {
+    "word": "eso",
+    "start": 216.394,
+    "end": 216.566
+   },
+   {
+    "word": "apague",
+    "start": 216.566,
+    "end": 216.995
+   },
+   {
+    "word": "tu",
+    "start": 216.995,
+    "end": 217.109
+   },
+   {
+    "word": "motivación",
+    "start": 217.109,
+    "end": 217.684
+   },
+   {
+    "word": "para",
+    "start": 217.684,
+    "end": 217.993
+   },
+   {
+    "word": "seguir",
+    "start": 217.993,
+    "end": 218.338
+   },
+   {
+    "word": "practicando,",
+    "start": 218.338,
+    "end": 219.289
+   }
+  ]
+ },
+ {
+  "id": "S07_F032",
+  "scene": "SENAL 6 - Ya No Necesitas Ser el Mejor",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "esa ausencia específica es en sí misma la señal.",
+  "visual": "Wide shot pulling back to show the calm practice scene as a complete, quiet picture — the absence itself framed as the meaningful detail.",
+  "start": 219.496,
+  "end": 222.937,
+  "words": [
+   {
+    "word": "esa",
+    "start": 219.703,
+    "end": 219.898
+   },
+   {
+    "word": "ausencia",
+    "start": 219.898,
+    "end": 220.418
+   },
+   {
+    "word": "específica",
+    "start": 220.418,
+    "end": 221.147
+   },
+   {
+    "word": "es",
+    "start": 221.147,
+    "end": 221.277
+   },
+   {
+    "word": "en",
+    "start": 221.277,
+    "end": 221.407
+   },
+   {
+    "word": "sí",
+    "start": 221.407,
+    "end": 221.537
+   },
+   {
+    "word": "misma",
+    "start": 221.537,
+    "end": 221.862
+   },
+   {
+    "word": "la",
+    "start": 221.862,
+    "end": 221.992
+   },
+   {
+    "word": "señal.",
+    "start": 221.992,
+    "end": 222.317
+   }
+  ]
+ },
+ {
+  "id": "S08_F033",
+  "scene": "EL CIERRE",
+  "shot_raw": "Direct address",
+  "shot": "MEDIUM SHOT",
+  "es": "¿Cuántas de estas seis reconociste en ti mismo?",
+  "visual": "Direct-address medium shot of the stick figure gesturing toward the viewer, all six number-tiles now glowing steadily in an arc behind them.",
+  "start": 222.937,
+  "end": 226.42,
+  "words": [
+   {
+    "word": "¿Cuántas",
+    "start": 223.557,
+    "end": 223.972
+   },
+   {
+    "word": "de",
+    "start": 223.972,
+    "end": 224.09
+   },
+   {
+    "word": "estas",
+    "start": 224.09,
+    "end": 224.387
+   },
+   {
+    "word": "seis",
+    "start": 224.387,
+    "end": 224.624
+   },
+   {
+    "word": "reconociste",
+    "start": 224.624,
+    "end": 225.276
+   },
+   {
+    "word": "en",
+    "start": 225.276,
+    "end": 225.394
+   },
+   {
+    "word": "ti",
+    "start": 225.394,
+    "end": 225.513
+   },
+   {
+    "word": "mismo?",
+    "start": 225.513,
+    "end": 225.809
+   }
+  ]
+ },
+ {
+  "id": "S08_F034",
+  "scene": "EL CIERRE",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "Escribe el número exacto en los comentarios, y cuál de las seis te costó más admitir.",
+  "visual": "Medium shot of a small glowing comment-bubble icon appearing beside the stick figure, one of the six tiles shown slightly dimmer, harder to fully admit.",
+  "start": 226.42,
+  "end": 232.5,
+  "words": [
+   {
+    "word": "Escribe",
+    "start": 227.031,
+    "end": 227.454
+   },
+   {
+    "word": "el",
+    "start": 227.454,
+    "end": 227.575
+   },
+   {
+    "word": "número",
+    "start": 227.575,
+    "end": 227.937
+   },
+   {
+    "word": "exacto",
+    "start": 227.937,
+    "end": 228.412
+   },
+   {
+    "word": "en",
+    "start": 228.412,
+    "end": 228.533
+   },
+   {
+    "word": "los",
+    "start": 228.533,
+    "end": 228.714
+   },
+   {
+    "word": "comentarios,",
+    "start": 228.714,
+    "end": 229.817
+   },
+   {
+    "word": "y",
+    "start": 229.817,
+    "end": 229.962
+   },
+   {
+    "word": "cuál",
+    "start": 229.962,
+    "end": 230.204
+   },
+   {
+    "word": "de",
+    "start": 230.204,
+    "end": 230.325
+   },
+   {
+    "word": "las",
+    "start": 230.325,
+    "end": 230.506
+   },
+   {
+    "word": "seis",
+    "start": 230.506,
+    "end": 230.748
+   },
+   {
+    "word": "te",
+    "start": 230.748,
+    "end": 230.869
+   },
+   {
+    "word": "costó",
+    "start": 230.869,
+    "end": 231.171
+   },
+   {
+    "word": "más",
+    "start": 231.171,
+    "end": 231.352
+   },
+   {
+    "word": "admitir.",
+    "start": 231.352,
+    "end": 231.881
+   }
+  ]
+ },
+ {
+  "id": "S08_F035",
+  "scene": "EL CIERRE",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Ninguna de estas señales aparece de un día para otro — se construyen con la repetición, señal por señal, exactamente igual que cualquier otro hábito real.",
+  "visual": "Wide shot of the six number-tiles settling into a calm, steady glow, #8B6CFF highlight showing them built gradually rather than appearing all at once.",
+  "start": 232.5,
+  "end": 242.917,
+  "words": [
+   {
+    "word": "Ninguna",
+    "start": 233.12,
+    "end": 233.527
+   },
+   {
+    "word": "de",
+    "start": 233.527,
+    "end": 233.643
+   },
+   {
+    "word": "estas",
+    "start": 233.643,
+    "end": 233.933
+   },
+   {
+    "word": "señales",
+    "start": 233.933,
+    "end": 234.34
+   },
+   {
+    "word": "aparece",
+    "start": 234.34,
+    "end": 234.746
+   },
+   {
+    "word": "de",
+    "start": 234.746,
+    "end": 234.863
+   },
+   {
+    "word": "un",
+    "start": 234.863,
+    "end": 234.979
+   },
+   {
+    "word": "día",
+    "start": 234.979,
+    "end": 235.153
+   },
+   {
+    "word": "para",
+    "start": 235.153,
+    "end": 235.462
+   },
+   {
+    "word": "otro",
+    "start": 235.462,
+    "end": 235.768
+   },
+   {
+    "word": "—",
+    "start": 235.768,
+    "end": 235.826
+   },
+   {
+    "word": "se",
+    "start": 235.826,
+    "end": 236.294
+   },
+   {
+    "word": "construyen",
+    "start": 236.294,
+    "end": 236.875
+   },
+   {
+    "word": "con",
+    "start": 236.875,
+    "end": 237.049
+   },
+   {
+    "word": "la",
+    "start": 237.049,
+    "end": 237.165
+   },
+   {
+    "word": "repetición,",
+    "start": 237.165,
+    "end": 237.746
+   },
+   {
+    "word": "señal",
+    "start": 237.746,
+    "end": 238.037
+   },
+   {
+    "word": "por",
+    "start": 238.037,
+    "end": 238.64
+   },
+   {
+    "word": "señal,",
+    "start": 238.64,
+    "end": 239.027
+   },
+   {
+    "word": "exactamente",
+    "start": 239.027,
+    "end": 240.053
+   },
+   {
+    "word": "igual",
+    "start": 240.053,
+    "end": 240.465
+   },
+   {
+    "word": "que",
+    "start": 240.465,
+    "end": 240.639
+   },
+   {
+    "word": "cualquier",
+    "start": 240.639,
+    "end": 241.393
+   },
+   {
+    "word": "otro",
+    "start": 241.393,
+    "end": 241.625
+   },
+   {
+    "word": "hábito",
+    "start": 241.625,
+    "end": 242.051
+   },
+   {
+    "word": "real.",
+    "start": 242.051,
+    "end": 242.283
+   }
+  ]
+ },
+ {
+  "id": "S08_F036",
+  "scene": "EL CIERRE",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Si este video te sirvió, dale like y suscríbete — la disciplina no hace ruido, ni siquiera cuando reconstruye la forma en que tu mente entiende sus propios límites.",
+  "visual": "Final wide shot of the stick figure standing calm in soft dim light, small subscribe-bell and thumbs-up icons glowing gently in #8B6CFF in the corner, the sprout-and-brain icon from the Gancho glowing softly and completely behind them.",
+  "start": 242.917,
+  "end": 254.57,
+  "words": [
+   {
+    "word": "Si",
+    "start": 243.552,
+    "end": 243.675
+   },
+   {
+    "word": "este",
+    "start": 243.675,
+    "end": 243.922
+   },
+   {
+    "word": "video",
+    "start": 243.922,
+    "end": 244.231
+   },
+   {
+    "word": "te",
+    "start": 244.231,
+    "end": 244.354
+   },
+   {
+    "word": "sirvió,",
+    "start": 244.354,
+    "end": 244.725
+   },
+   {
+    "word": "dale",
+    "start": 244.725,
+    "end": 244.972
+   },
+   {
+    "word": "like",
+    "start": 244.972,
+    "end": 245.587
+   },
+   {
+    "word": "y",
+    "start": 245.587,
+    "end": 245.648
+   },
+   {
+    "word": "suscríbete",
+    "start": 245.648,
+    "end": 246.347
+   },
+   {
+    "word": "—",
+    "start": 246.347,
+    "end": 246.408
+   },
+   {
+    "word": "la",
+    "start": 246.408,
+    "end": 246.603
+   },
+   {
+    "word": "disciplina",
+    "start": 246.603,
+    "end": 247.696
+   },
+   {
+    "word": "no",
+    "start": 247.696,
+    "end": 247.896
+   },
+   {
+    "word": "hace",
+    "start": 247.896,
+    "end": 248.143
+   },
+   {
+    "word": "ruido,",
+    "start": 248.143,
+    "end": 248.451
+   },
+   {
+    "word": "ni",
+    "start": 248.451,
+    "end": 248.575
+   },
+   {
+    "word": "siquiera",
+    "start": 248.575,
+    "end": 249.458
+   },
+   {
+    "word": "cuando",
+    "start": 249.458,
+    "end": 249.828
+   },
+   {
+    "word": "reconstruye",
+    "start": 249.828,
+    "end": 250.507
+   },
+   {
+    "word": "la",
+    "start": 250.507,
+    "end": 250.63
+   },
+   {
+    "word": "forma",
+    "start": 250.63,
+    "end": 250.939
+   },
+   {
+    "word": "en",
+    "start": 250.939,
+    "end": 251.062
+   },
+   {
+    "word": "que",
+    "start": 251.062,
+    "end": 251.248
+   },
+   {
+    "word": "tu",
+    "start": 251.248,
+    "end": 251.371
+   },
+   {
+    "word": "mente",
+    "start": 251.371,
+    "end": 251.68
+   },
+   {
+    "word": "entiende",
+    "start": 251.68,
+    "end": 252.174
+   },
+   {
+    "word": "sus",
+    "start": 252.174,
+    "end": 252.359
+   },
+   {
+    "word": "propios",
+    "start": 252.359,
+    "end": 252.972
+   },
+   {
+    "word": "límites.",
+    "start": 252.972,
+    "end": 253.499
+   }
+  ]
+ }
+]
