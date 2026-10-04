@@ -1,0 +1,3813 @@
+[
+ {
+  "id": "S01_F001",
+  "scene": "EL GANCHO",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Crees que hacer varias cosas a la vez te hace más productivo.",
+  "visual": "Figure sits surrounded by several small glowing task-icons (a message, a document, a phone), confident busy posture.",
+  "start": 0.0,
+  "end": 3.817,
+  "words": [
+   {
+    "word": "Crees",
+    "start": 0.246,
+    "end": 0.531
+   },
+   {
+    "word": "que",
+    "start": 0.531,
+    "end": 0.702
+   },
+   {
+    "word": "hacer",
+    "start": 0.702,
+    "end": 0.987
+   },
+   {
+    "word": "varias",
+    "start": 0.987,
+    "end": 1.329
+   },
+   {
+    "word": "cosas",
+    "start": 1.329,
+    "end": 1.614
+   },
+   {
+    "word": "a",
+    "start": 1.614,
+    "end": 1.671
+   },
+   {
+    "word": "la",
+    "start": 1.671,
+    "end": 1.785
+   },
+   {
+    "word": "vez",
+    "start": 1.785,
+    "end": 1.956
+   },
+   {
+    "word": "te",
+    "start": 1.956,
+    "end": 2.07
+   },
+   {
+    "word": "hace",
+    "start": 2.07,
+    "end": 2.298
+   },
+   {
+    "word": "más",
+    "start": 2.298,
+    "end": 2.469
+   },
+   {
+    "word": "productivo.",
+    "start": 2.469,
+    "end": 3.184
+   }
+  ]
+ },
+ {
+  "id": "S01_F002",
+  "scene": "EL GANCHO",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Responder un mensaje mientras terminas un informe, revisar una notificación mientras estudias,",
+  "visual": "The figure's attention visibly darts rapidly between the message-icon and a document-icon, quick back-and-forth motion.",
+  "start": 3.817,
+  "end": 10.215,
+  "words": [
+   {
+    "word": "Responder",
+    "start": 4.45,
+    "end": 5.021
+   },
+   {
+    "word": "un",
+    "start": 5.021,
+    "end": 5.148
+   },
+   {
+    "word": "mensaje",
+    "start": 5.148,
+    "end": 5.592
+   },
+   {
+    "word": "mientras",
+    "start": 5.592,
+    "end": 6.099
+   },
+   {
+    "word": "terminas",
+    "start": 6.099,
+    "end": 6.606
+   },
+   {
+    "word": "un",
+    "start": 6.606,
+    "end": 6.733
+   },
+   {
+    "word": "informe,",
+    "start": 6.733,
+    "end": 7.59
+   },
+   {
+    "word": "revisar",
+    "start": 7.59,
+    "end": 8.034
+   },
+   {
+    "word": "una",
+    "start": 8.034,
+    "end": 8.224
+   },
+   {
+    "word": "notificación",
+    "start": 8.224,
+    "end": 8.985
+   },
+   {
+    "word": "mientras",
+    "start": 8.985,
+    "end": 9.492
+   },
+   {
+    "word": "estudias,",
+    "start": 9.492,
+    "end": 10.0
+   }
+  ]
+ },
+ {
+  "id": "S01_F003",
+  "scene": "EL GANCHO",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "tener tres pestañas activas al mismo tiempo, todas compitiendo por tu atención.",
+  "visual": "Close-up, three small glowing browser-tab icons all pulse and compete for attention simultaneously around the figure's head.",
+  "start": 10.215,
+  "end": 15.798,
+  "words": [
+   {
+    "word": "tener",
+    "start": 10.431,
+    "end": 10.795
+   },
+   {
+    "word": "tres",
+    "start": 10.795,
+    "end": 11.1
+   },
+   {
+    "word": "pestañas",
+    "start": 11.1,
+    "end": 11.556
+   },
+   {
+    "word": "activas",
+    "start": 11.556,
+    "end": 12.078
+   },
+   {
+    "word": "al",
+    "start": 12.078,
+    "end": 12.192
+   },
+   {
+    "word": "mismo",
+    "start": 12.192,
+    "end": 12.477
+   },
+   {
+    "word": "tiempo,",
+    "start": 12.477,
+    "end": 13.379
+   },
+   {
+    "word": "todas",
+    "start": 13.379,
+    "end": 13.664
+   },
+   {
+    "word": "compitiendo",
+    "start": 13.664,
+    "end": 14.291
+   },
+   {
+    "word": "por",
+    "start": 14.291,
+    "end": 14.535
+   },
+   {
+    "word": "tu",
+    "start": 14.535,
+    "end": 14.649
+   },
+   {
+    "word": "atención.",
+    "start": 14.649,
+    "end": 15.194
+   }
+  ]
+ },
+ {
+  "id": "S01_F004",
+  "scene": "EL GANCHO",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Se siente eficiente, incluso impresionante.",
+  "visual": "Figure looks momentarily pleased and impressive, surrounded by the busy glowing icons, self-satisfied expression.",
+  "start": 15.798,
+  "end": 19.934,
+  "words": [
+   {
+    "word": "Se",
+    "start": 16.403,
+    "end": 16.535
+   },
+   {
+    "word": "siente",
+    "start": 16.535,
+    "end": 16.933
+   },
+   {
+    "word": "eficiente,",
+    "start": 16.933,
+    "end": 17.53
+   },
+   {
+    "word": "incluso",
+    "start": 17.53,
+    "end": 18.376
+   },
+   {
+    "word": "impresionante.",
+    "start": 18.376,
+    "end": 19.32
+   }
+  ]
+ },
+ {
+  "id": "S01_F005",
+  "scene": "EL GANCHO",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Pero lo que en realidad está pasando dentro de tu cerebro, en ese mismo instante, es exactamente lo contrario de lo que crees.",
+  "visual": "Close-up, a faint glowing brain icon appears beneath the busy surface, visibly straining and flickering under the rapid demands.",
+  "start": 19.934,
+  "end": 28.308,
+  "words": [
+   {
+    "word": "Pero",
+    "start": 20.548,
+    "end": 20.78
+   },
+   {
+    "word": "lo",
+    "start": 20.78,
+    "end": 20.897
+   },
+   {
+    "word": "que",
+    "start": 20.897,
+    "end": 21.071
+   },
+   {
+    "word": "en",
+    "start": 21.071,
+    "end": 21.187
+   },
+   {
+    "word": "realidad",
+    "start": 21.187,
+    "end": 21.652
+   },
+   {
+    "word": "está",
+    "start": 21.652,
+    "end": 21.885
+   },
+   {
+    "word": "pasando",
+    "start": 21.885,
+    "end": 22.292
+   },
+   {
+    "word": "dentro",
+    "start": 22.292,
+    "end": 22.718
+   },
+   {
+    "word": "de",
+    "start": 22.718,
+    "end": 22.835
+   },
+   {
+    "word": "tu",
+    "start": 22.835,
+    "end": 22.951
+   },
+   {
+    "word": "cerebro,",
+    "start": 22.951,
+    "end": 23.786
+   },
+   {
+    "word": "en",
+    "start": 23.786,
+    "end": 23.902
+   },
+   {
+    "word": "ese",
+    "start": 23.902,
+    "end": 24.077
+   },
+   {
+    "word": "mismo",
+    "start": 24.077,
+    "end": 24.367
+   },
+   {
+    "word": "instante,",
+    "start": 24.367,
+    "end": 24.921
+   },
+   {
+    "word": "es",
+    "start": 24.921,
+    "end": 25.458
+   },
+   {
+    "word": "exactamente",
+    "start": 25.458,
+    "end": 26.206
+   },
+   {
+    "word": "lo",
+    "start": 26.206,
+    "end": 26.322
+   },
+   {
+    "word": "contrario",
+    "start": 26.322,
+    "end": 26.845
+   },
+   {
+    "word": "de",
+    "start": 26.845,
+    "end": 26.961
+   },
+   {
+    "word": "lo",
+    "start": 26.961,
+    "end": 27.077
+   },
+   {
+    "word": "que",
+    "start": 27.077,
+    "end": 27.334
+   },
+   {
+    "word": "crees.",
+    "start": 27.334,
+    "end": 27.702
+   }
+  ]
+ },
+ {
+  "id": "S02_F006",
+  "scene": "LA PROMESA",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Hoy te explico por qué el multitasking no existe como crees que existe,",
+  "visual": "Figure gestures explanatory, the flickering brain icon from before settling into calmer attentive focus.",
+  "start": 28.308,
+  "end": 32.668,
+  "words": [
+   {
+    "word": "Hoy",
+    "start": 28.915,
+    "end": 29.095
+   },
+   {
+    "word": "te",
+    "start": 29.095,
+    "end": 29.215
+   },
+   {
+    "word": "explico",
+    "start": 29.215,
+    "end": 29.635
+   },
+   {
+    "word": "por",
+    "start": 29.635,
+    "end": 29.891
+   },
+   {
+    "word": "qué",
+    "start": 29.891,
+    "end": 30.071
+   },
+   {
+    "word": "el",
+    "start": 30.071,
+    "end": 30.191
+   },
+   {
+    "word": "multitasking",
+    "start": 30.191,
+    "end": 30.911
+   },
+   {
+    "word": "no",
+    "start": 30.911,
+    "end": 31.031
+   },
+   {
+    "word": "existe",
+    "start": 31.031,
+    "end": 31.392
+   },
+   {
+    "word": "como",
+    "start": 31.392,
+    "end": 31.632
+   },
+   {
+    "word": "crees",
+    "start": 31.632,
+    "end": 31.932
+   },
+   {
+    "word": "que",
+    "start": 31.932,
+    "end": 32.112
+   },
+   {
+    "word": "existe,",
+    "start": 32.112,
+    "end": 32.472
+   }
+  ]
+ },
+ {
+  "id": "S02_F007",
+  "scene": "LA PROMESA",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "cuánto tiempo real te está costando cada día sin que lo notes,",
+  "visual": "A faint glowing hourglass icon quietly leaks small amounts of sand unnoticed, hidden cost accumulating silently.",
+  "start": 32.668,
+  "end": 36.372,
+  "words": [
+   {
+    "word": "cuánto",
+    "start": 32.864,
+    "end": 33.237
+   },
+   {
+    "word": "tiempo",
+    "start": 33.237,
+    "end": 33.609
+   },
+   {
+    "word": "real",
+    "start": 33.609,
+    "end": 33.945
+   },
+   {
+    "word": "te",
+    "start": 33.945,
+    "end": 34.069
+   },
+   {
+    "word": "está",
+    "start": 34.069,
+    "end": 34.318
+   },
+   {
+    "word": "costando",
+    "start": 34.318,
+    "end": 34.889
+   },
+   {
+    "word": "cada",
+    "start": 34.889,
+    "end": 35.137
+   },
+   {
+    "word": "día",
+    "start": 35.137,
+    "end": 35.323
+   },
+   {
+    "word": "sin",
+    "start": 35.323,
+    "end": 35.509
+   },
+   {
+    "word": "que",
+    "start": 35.509,
+    "end": 35.695
+   },
+   {
+    "word": "lo",
+    "start": 35.695,
+    "end": 35.82
+   },
+   {
+    "word": "notes,",
+    "start": 35.82,
+    "end": 36.212
+   }
+  ]
+ },
+ {
+  "id": "S02_F008",
+  "scene": "LA PROMESA",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "y qué hacer en su lugar sin sentir que estás siendo menos productivo o que te estás quedando atrás de los demás.",
+  "visual": "Close-up, calm reassuring expression, a faint competitive comparison-icon (other figures racing ahead) gently dissolves.",
+  "start": 36.372,
+  "end": 42.568,
+  "words": [
+   {
+    "word": "y",
+    "start": 36.532,
+    "end": 36.586
+   },
+   {
+    "word": "qué",
+    "start": 36.586,
+    "end": 36.749
+   },
+   {
+    "word": "hacer",
+    "start": 36.749,
+    "end": 37.021
+   },
+   {
+    "word": "en",
+    "start": 37.021,
+    "end": 37.13
+   },
+   {
+    "word": "su",
+    "start": 37.13,
+    "end": 37.239
+   },
+   {
+    "word": "lugar",
+    "start": 37.239,
+    "end": 37.511
+   },
+   {
+    "word": "sin",
+    "start": 37.511,
+    "end": 37.674
+   },
+   {
+    "word": "sentir",
+    "start": 37.674,
+    "end": 38.0
+   },
+   {
+    "word": "que",
+    "start": 38.0,
+    "end": 38.164
+   },
+   {
+    "word": "estás",
+    "start": 38.164,
+    "end": 38.517
+   },
+   {
+    "word": "siendo",
+    "start": 38.517,
+    "end": 38.843
+   },
+   {
+    "word": "menos",
+    "start": 38.843,
+    "end": 39.115
+   },
+   {
+    "word": "productivo",
+    "start": 39.115,
+    "end": 39.904
+   },
+   {
+    "word": "o",
+    "start": 39.904,
+    "end": 40.034
+   },
+   {
+    "word": "que",
+    "start": 40.034,
+    "end": 40.198
+   },
+   {
+    "word": "te",
+    "start": 40.198,
+    "end": 40.307
+   },
+   {
+    "word": "estás",
+    "start": 40.307,
+    "end": 40.66
+   },
+   {
+    "word": "quedando",
+    "start": 40.66,
+    "end": 41.17
+   },
+   {
+    "word": "atrás",
+    "start": 41.17,
+    "end": 41.442
+   },
+   {
+    "word": "de",
+    "start": 41.442,
+    "end": 41.551
+   },
+   {
+    "word": "los",
+    "start": 41.551,
+    "end": 41.714
+   },
+   {
+    "word": "demás.",
+    "start": 41.714,
+    "end": 41.986
+   }
+  ]
+ },
+ {
+  "id": "S03_F009",
+  "scene": "MÓDULO 1 — El Mito (Earl Miller)",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Primero, el mito.",
+  "visual": "Figure stands beside a large numbered marker \"1\", attentive explanatory posture.",
+  "start": 42.568,
+  "end": 45.09,
+  "words": [
+   {
+    "word": "Primero,",
+    "start": 43.15,
+    "end": 43.987
+   },
+   {
+    "word": "el",
+    "start": 43.987,
+    "end": 44.12
+   },
+   {
+    "word": "mito.",
+    "start": 44.12,
+    "end": 44.464
+   }
+  ]
+ },
+ {
+  "id": "S03_F010",
+  "scene": "MÓDULO 1 — El Mito (Earl Miller)",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "El neurocientífico Earl Miller, del MIT, ha explicado durante años algo incómodo:",
+  "visual": "Thoughtful narrating expression, a faint glowing university-building silhouette icon appears briefly beside the figure.",
+  "start": 45.09,
+  "end": 51.056,
+  "words": [
+   {
+    "word": "El",
+    "start": 45.717,
+    "end": 45.847
+   },
+   {
+    "word": "neurocientífico",
+    "start": 45.847,
+    "end": 46.819
+   },
+   {
+    "word": "Earl",
+    "start": 46.819,
+    "end": 47.079
+   },
+   {
+    "word": "Miller,",
+    "start": 47.079,
+    "end": 47.468
+   },
+   {
+    "word": "del",
+    "start": 47.468,
+    "end": 47.944
+   },
+   {
+    "word": "MIT,",
+    "start": 47.944,
+    "end": 48.138
+   },
+   {
+    "word": "ha",
+    "start": 48.138,
+    "end": 48.703
+   },
+   {
+    "word": "explicado",
+    "start": 48.703,
+    "end": 49.287
+   },
+   {
+    "word": "durante",
+    "start": 49.287,
+    "end": 49.741
+   },
+   {
+    "word": "años",
+    "start": 49.741,
+    "end": 50.0
+   },
+   {
+    "word": "algo",
+    "start": 50.0,
+    "end": 50.26
+   },
+   {
+    "word": "incómodo:",
+    "start": 50.26,
+    "end": 50.851
+   }
+  ]
+ },
+ {
+  "id": "S03_F011",
+  "scene": "MÓDULO 1 — El Mito (Earl Miller)",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "el cerebro humano no está diseñado para procesar dos tareas complejas al mismo tiempo.",
+  "visual": "Close-up, a faint glowing brain icon shows two task-icons trying to enter it simultaneously, visibly unable to hold both at once.",
+  "start": 51.056,
+  "end": 56.397,
+  "words": [
+   {
+    "word": "el",
+    "start": 51.262,
+    "end": 51.376
+   },
+   {
+    "word": "cerebro",
+    "start": 51.376,
+    "end": 51.773
+   },
+   {
+    "word": "humano",
+    "start": 51.773,
+    "end": 52.114
+   },
+   {
+    "word": "no",
+    "start": 52.114,
+    "end": 52.228
+   },
+   {
+    "word": "está",
+    "start": 52.228,
+    "end": 52.455
+   },
+   {
+    "word": "diseñado",
+    "start": 52.455,
+    "end": 52.91
+   },
+   {
+    "word": "para",
+    "start": 52.91,
+    "end": 53.317
+   },
+   {
+    "word": "procesar",
+    "start": 53.317,
+    "end": 53.772
+   },
+   {
+    "word": "dos",
+    "start": 53.772,
+    "end": 53.942
+   },
+   {
+    "word": "tareas",
+    "start": 53.942,
+    "end": 54.283
+   },
+   {
+    "word": "complejas",
+    "start": 54.283,
+    "end": 54.874
+   },
+   {
+    "word": "al",
+    "start": 54.874,
+    "end": 54.988
+   },
+   {
+    "word": "mismo",
+    "start": 54.988,
+    "end": 55.272
+   },
+   {
+    "word": "tiempo.",
+    "start": 55.272,
+    "end": 55.698
+   }
+  ]
+ },
+ {
+  "id": "S03_F012",
+  "scene": "MÓDULO 1 — El Mito (Earl Miller)",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Presta atención a esto: lo que llamamos \"multitasking\" no es tu cerebro haciendo dos cosas a la vez.",
+  "visual": "A faint dual-processing icon (two arrows running in parallel) is gently crossed out, dismissing the common misconception.",
+  "start": 56.397,
+  "end": 63.715,
+  "words": [
+   {
+    "word": "Presta",
+    "start": 57.097,
+    "end": 57.491
+   },
+   {
+    "word": "atención",
+    "start": 57.491,
+    "end": 58.017
+   },
+   {
+    "word": "a",
+    "start": 58.017,
+    "end": 58.082
+   },
+   {
+    "word": "esto:",
+    "start": 58.082,
+    "end": 58.345
+   },
+   {
+    "word": "lo",
+    "start": 58.345,
+    "end": 58.974
+   },
+   {
+    "word": "que",
+    "start": 58.974,
+    "end": 59.172
+   },
+   {
+    "word": "llamamos",
+    "start": 59.172,
+    "end": 59.697
+   },
+   {
+    "word": "\"multitasking\"",
+    "start": 59.697,
+    "end": 60.657
+   },
+   {
+    "word": "no",
+    "start": 60.657,
+    "end": 60.788
+   },
+   {
+    "word": "es",
+    "start": 60.788,
+    "end": 61.072
+   },
+   {
+    "word": "tu",
+    "start": 61.072,
+    "end": 61.204
+   },
+   {
+    "word": "cerebro",
+    "start": 61.204,
+    "end": 61.663
+   },
+   {
+    "word": "haciendo",
+    "start": 61.663,
+    "end": 62.189
+   },
+   {
+    "word": "dos",
+    "start": 62.189,
+    "end": 62.386
+   },
+   {
+    "word": "cosas",
+    "start": 62.386,
+    "end": 62.714
+   },
+   {
+    "word": "a",
+    "start": 62.714,
+    "end": 62.78
+   },
+   {
+    "word": "la",
+    "start": 62.78,
+    "end": 62.911
+   },
+   {
+    "word": "vez.",
+    "start": 62.911,
+    "end": 63.108
+   }
+  ]
+ },
+ {
+  "id": "S03_F013",
+  "scene": "MÓDULO 1 — El Mito (Earl Miller)",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Es tu cerebro saltando rápidamente de una tarea a otra, deteniéndose y reiniciándose cada vez,",
+  "visual": "A single glowing arrow rapidly jumps back and forth between the two task-icons instead, stopping and restarting each time.",
+  "start": 63.715,
+  "end": 70.099,
+  "words": [
+   {
+    "word": "Es",
+    "start": 64.322,
+    "end": 64.448
+   },
+   {
+    "word": "tu",
+    "start": 64.448,
+    "end": 64.574
+   },
+   {
+    "word": "cerebro",
+    "start": 64.574,
+    "end": 65.016
+   },
+   {
+    "word": "saltando",
+    "start": 65.016,
+    "end": 65.599
+   },
+   {
+    "word": "rápidamente",
+    "start": 65.599,
+    "end": 66.292
+   },
+   {
+    "word": "de",
+    "start": 66.292,
+    "end": 66.419
+   },
+   {
+    "word": "una",
+    "start": 66.419,
+    "end": 66.608
+   },
+   {
+    "word": "tarea",
+    "start": 66.608,
+    "end": 66.995
+   },
+   {
+    "word": "a",
+    "start": 66.995,
+    "end": 67.058
+   },
+   {
+    "word": "otra,",
+    "start": 67.058,
+    "end": 67.385
+   },
+   {
+    "word": "deteniéndose",
+    "start": 67.385,
+    "end": 68.508
+   },
+   {
+    "word": "y",
+    "start": 68.508,
+    "end": 68.571
+   },
+   {
+    "word": "reiniciándose",
+    "start": 68.571,
+    "end": 69.468
+   },
+   {
+    "word": "cada",
+    "start": 69.468,
+    "end": 69.72
+   },
+   {
+    "word": "vez,",
+    "start": 69.72,
+    "end": 69.909
+   }
+  ]
+ },
+ {
+  "id": "S03_F014",
+  "scene": "MÓDULO 1 — El Mito (Earl Miller)",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "como un interruptor que se apaga y se enciende sin parar.",
+  "visual": "Close-up, a simple glowing toggle-switch icon flips rapidly on and off, matching the figure's darting attention.",
+  "start": 70.099,
+  "end": 73.661,
+  "words": [
+   {
+    "word": "como",
+    "start": 70.289,
+    "end": 70.502
+   },
+   {
+    "word": "un",
+    "start": 70.502,
+    "end": 70.609
+   },
+   {
+    "word": "interruptor",
+    "start": 70.609,
+    "end": 71.382
+   },
+   {
+    "word": "que",
+    "start": 71.382,
+    "end": 71.637
+   },
+   {
+    "word": "se",
+    "start": 71.637,
+    "end": 71.743
+   },
+   {
+    "word": "apaga",
+    "start": 71.743,
+    "end": 72.01
+   },
+   {
+    "word": "y",
+    "start": 72.01,
+    "end": 72.063
+   },
+   {
+    "word": "se",
+    "start": 72.063,
+    "end": 72.17
+   },
+   {
+    "word": "enciende",
+    "start": 72.17,
+    "end": 72.596
+   },
+   {
+    "word": "sin",
+    "start": 72.596,
+    "end": 72.756
+   },
+   {
+    "word": "parar.",
+    "start": 72.756,
+    "end": 73.023
+   }
+  ]
+ },
+ {
+  "id": "S03_F015",
+  "scene": "MÓDULO 1 — El Mito (Earl Miller)",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Se siente simultáneo porque el salto ocurre en fracciones de segundo, pero cada salto tiene un costo real, y ese costo se acumula.",
+  "visual": "The rapidly toggling switch icon leaves a small glowing residue mark with every flip, these marks slowly accumulating into a visible pile.",
+  "start": 73.661,
+  "end": 82.511,
+  "words": [
+   {
+    "word": "Se",
+    "start": 74.298,
+    "end": 74.42
+   },
+   {
+    "word": "siente",
+    "start": 74.42,
+    "end": 74.784
+   },
+   {
+    "word": "simultáneo",
+    "start": 74.784,
+    "end": 75.475
+   },
+   {
+    "word": "porque",
+    "start": 75.475,
+    "end": 75.993
+   },
+   {
+    "word": "el",
+    "start": 75.993,
+    "end": 76.115
+   },
+   {
+    "word": "salto",
+    "start": 76.115,
+    "end": 76.577
+   },
+   {
+    "word": "ocurre",
+    "start": 76.577,
+    "end": 76.941
+   },
+   {
+    "word": "en",
+    "start": 76.941,
+    "end": 77.063
+   },
+   {
+    "word": "fracciones",
+    "start": 77.063,
+    "end": 77.67
+   },
+   {
+    "word": "de",
+    "start": 77.67,
+    "end": 77.791
+   },
+   {
+    "word": "segundo,",
+    "start": 77.791,
+    "end": 78.646
+   },
+   {
+    "word": "pero",
+    "start": 78.646,
+    "end": 78.889
+   },
+   {
+    "word": "cada",
+    "start": 78.889,
+    "end": 79.132
+   },
+   {
+    "word": "salto",
+    "start": 79.132,
+    "end": 79.436
+   },
+   {
+    "word": "tiene",
+    "start": 79.436,
+    "end": 79.74
+   },
+   {
+    "word": "un",
+    "start": 79.74,
+    "end": 79.861
+   },
+   {
+    "word": "costo",
+    "start": 79.861,
+    "end": 80.165
+   },
+   {
+    "word": "real,",
+    "start": 80.165,
+    "end": 80.734
+   },
+   {
+    "word": "y",
+    "start": 80.734,
+    "end": 80.795
+   },
+   {
+    "word": "ese",
+    "start": 80.795,
+    "end": 80.977
+   },
+   {
+    "word": "costo",
+    "start": 80.977,
+    "end": 81.281
+   },
+   {
+    "word": "se",
+    "start": 81.281,
+    "end": 81.402
+   },
+   {
+    "word": "acumula.",
+    "start": 81.402,
+    "end": 81.913
+   }
+  ]
+ },
+ {
+  "id": "S04_F016",
+  "scene": "MÓDULO 2 — El Costo Real (David Meyer)",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Segundo, el costo real.",
+  "visual": "Figure stands beside a large numbered marker \"2\", the accumulated pile of small glowing residue marks visible beside them.",
+  "start": 82.511,
+  "end": 85.54,
+  "words": [
+   {
+    "word": "Segundo,",
+    "start": 83.109,
+    "end": 83.627
+   },
+   {
+    "word": "el",
+    "start": 83.627,
+    "end": 84.16
+   },
+   {
+    "word": "costo",
+    "start": 84.16,
+    "end": 84.604
+   },
+   {
+    "word": "real.",
+    "start": 84.604,
+    "end": 84.9
+   }
+  ]
+ },
+ {
+  "id": "S04_F017",
+  "scene": "MÓDULO 2 — El Costo Real (David Meyer)",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "El psicólogo David Meyer, de la Universidad de Michigan, documentó lo que se conoce como el \"costo de cambio\":",
+  "visual": "Thoughtful narrating expression, a faint glowing research-document icon appears briefly beside the figure.",
+  "start": 85.54,
+  "end": 92.932,
+  "words": [
+   {
+    "word": "El",
+    "start": 86.18,
+    "end": 86.312
+   },
+   {
+    "word": "psicólogo",
+    "start": 86.312,
+    "end": 86.907
+   },
+   {
+    "word": "David",
+    "start": 86.907,
+    "end": 87.238
+   },
+   {
+    "word": "Meyer,",
+    "start": 87.238,
+    "end": 87.569
+   },
+   {
+    "word": "de",
+    "start": 87.569,
+    "end": 88.04
+   },
+   {
+    "word": "la",
+    "start": 88.04,
+    "end": 88.172
+   },
+   {
+    "word": "Universidad",
+    "start": 88.172,
+    "end": 88.899
+   },
+   {
+    "word": "de",
+    "start": 88.899,
+    "end": 89.032
+   },
+   {
+    "word": "Michigan,",
+    "start": 89.032,
+    "end": 89.561
+   },
+   {
+    "word": "documentó",
+    "start": 89.561,
+    "end": 90.443
+   },
+   {
+    "word": "lo",
+    "start": 90.443,
+    "end": 90.575
+   },
+   {
+    "word": "que",
+    "start": 90.575,
+    "end": 90.773
+   },
+   {
+    "word": "se",
+    "start": 90.773,
+    "end": 90.905
+   },
+   {
+    "word": "conoce",
+    "start": 90.905,
+    "end": 91.302
+   },
+   {
+    "word": "como",
+    "start": 91.302,
+    "end": 91.567
+   },
+   {
+    "word": "el",
+    "start": 91.567,
+    "end": 91.897
+   },
+   {
+    "word": "\"costo",
+    "start": 91.897,
+    "end": 92.228
+   },
+   {
+    "word": "de",
+    "start": 92.228,
+    "end": 92.36
+   },
+   {
+    "word": "cambio\":",
+    "start": 92.36,
+    "end": 92.757
+   }
+  ]
+ },
+ {
+  "id": "S04_F018",
+  "scene": "MÓDULO 2 — El Costo Real (David Meyer)",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "el tiempo y la precisión que pierdes cada vez que cambias de una tarea a otra, incluso entre tareas simples.",
+  "visual": "Close-up, a small glowing accuracy-meter dips slightly with each switch of the toggle-icon, even for simple tasks.",
+  "start": 92.932,
+  "end": 99.672,
+  "words": [
+   {
+    "word": "el",
+    "start": 93.107,
+    "end": 93.225
+   },
+   {
+    "word": "tiempo",
+    "start": 93.225,
+    "end": 93.731
+   },
+   {
+    "word": "y",
+    "start": 93.731,
+    "end": 93.79
+   },
+   {
+    "word": "la",
+    "start": 93.79,
+    "end": 93.908
+   },
+   {
+    "word": "precisión",
+    "start": 93.908,
+    "end": 94.438
+   },
+   {
+    "word": "que",
+    "start": 94.438,
+    "end": 94.699
+   },
+   {
+    "word": "pierdes",
+    "start": 94.699,
+    "end": 95.111
+   },
+   {
+    "word": "cada",
+    "start": 95.111,
+    "end": 95.347
+   },
+   {
+    "word": "vez",
+    "start": 95.347,
+    "end": 95.524
+   },
+   {
+    "word": "que",
+    "start": 95.524,
+    "end": 95.772
+   },
+   {
+    "word": "cambias",
+    "start": 95.772,
+    "end": 96.184
+   },
+   {
+    "word": "de",
+    "start": 96.184,
+    "end": 96.302
+   },
+   {
+    "word": "una",
+    "start": 96.302,
+    "end": 96.478
+   },
+   {
+    "word": "tarea",
+    "start": 96.478,
+    "end": 96.773
+   },
+   {
+    "word": "a",
+    "start": 96.773,
+    "end": 96.832
+   },
+   {
+    "word": "otra,",
+    "start": 96.832,
+    "end": 97.441
+   },
+   {
+    "word": "incluso",
+    "start": 97.441,
+    "end": 97.854
+   },
+   {
+    "word": "entre",
+    "start": 97.854,
+    "end": 98.225
+   },
+   {
+    "word": "tareas",
+    "start": 98.225,
+    "end": 98.579
+   },
+   {
+    "word": "simples.",
+    "start": 98.579,
+    "end": 99.062
+   }
+  ]
+ },
+ {
+  "id": "S04_F019",
+  "scene": "MÓDULO 2 — El Costo Real (David Meyer)",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "En sus estudios, cambiar constantemente de tarea podía reducir la productividad efectiva hasta en un 40%",
+  "visual": "A faint glowing productivity-bar visibly shrinks down to sixty percent of its original height, a clear measurable loss.",
+  "start": 99.672,
+  "end": 106.418,
+  "words": [
+   {
+    "word": "En",
+    "start": 100.282,
+    "end": 100.401
+   },
+   {
+    "word": "sus",
+    "start": 100.401,
+    "end": 100.58
+   },
+   {
+    "word": "estudios,",
+    "start": 100.58,
+    "end": 101.058
+   },
+   {
+    "word": "cambiar",
+    "start": 101.058,
+    "end": 101.875
+   },
+   {
+    "word": "constantemente",
+    "start": 101.875,
+    "end": 102.785
+   },
+   {
+    "word": "de",
+    "start": 102.785,
+    "end": 102.904
+   },
+   {
+    "word": "tarea",
+    "start": 102.904,
+    "end": 103.202
+   },
+   {
+    "word": "podía",
+    "start": 103.202,
+    "end": 103.591
+   },
+   {
+    "word": "reducir",
+    "start": 103.591,
+    "end": 104.008
+   },
+   {
+    "word": "la",
+    "start": 104.008,
+    "end": 104.128
+   },
+   {
+    "word": "productividad",
+    "start": 104.128,
+    "end": 105.105
+   },
+   {
+    "word": "efectiva",
+    "start": 105.105,
+    "end": 105.72
+   },
+   {
+    "word": "hasta",
+    "start": 105.72,
+    "end": 106.018
+   },
+   {
+    "word": "en",
+    "start": 106.018,
+    "end": 106.137
+   },
+   {
+    "word": "un",
+    "start": 106.137,
+    "end": 106.257
+   },
+   {
+    "word": "40%",
+    "start": 106.257,
+    "end": 106.376
+   }
+  ]
+ },
+ {
+  "id": "S04_F020",
+  "scene": "MÓDULO 2 — El Costo Real (David Meyer)",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "comparado con hacer las mismas tareas una por una.",
+  "visual": "Beside the shrunken bar, a second full-height productivity-bar shows the same tasks done one at a time instead, clearly taller.",
+  "start": 106.418,
+  "end": 110.178,
+  "words": [
+   {
+    "word": "comparado",
+    "start": 106.459,
+    "end": 107.079
+   },
+   {
+    "word": "con",
+    "start": 107.079,
+    "end": 107.357
+   },
+   {
+    "word": "hacer",
+    "start": 107.357,
+    "end": 107.776
+   },
+   {
+    "word": "las",
+    "start": 107.776,
+    "end": 107.982
+   },
+   {
+    "word": "mismas",
+    "start": 107.982,
+    "end": 108.395
+   },
+   {
+    "word": "tareas",
+    "start": 108.395,
+    "end": 108.808
+   },
+   {
+    "word": "una",
+    "start": 108.808,
+    "end": 109.015
+   },
+   {
+    "word": "por",
+    "start": 109.015,
+    "end": 109.343
+   },
+   {
+    "word": "una.",
+    "start": 109.343,
+    "end": 109.55
+   }
+  ]
+ },
+ {
+  "id": "S04_F021",
+  "scene": "MÓDULO 2 — El Costo Real (David Meyer)",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Esto es lo que nadie te dice: ese 40% no desaparece porque te sientas ocupado.",
+  "visual": "Close-up, figure looks at the missing 40% portion of the bar, gently dismissing the excuse of feeling busy.",
+  "start": 110.178,
+  "end": 116.644,
+  "words": [
+   {
+    "word": "Esto",
+    "start": 110.805,
+    "end": 111.083
+   },
+   {
+    "word": "es",
+    "start": 111.083,
+    "end": 111.221
+   },
+   {
+    "word": "lo",
+    "start": 111.221,
+    "end": 111.36
+   },
+   {
+    "word": "que",
+    "start": 111.36,
+    "end": 111.568
+   },
+   {
+    "word": "nadie",
+    "start": 111.568,
+    "end": 111.993
+   },
+   {
+    "word": "te",
+    "start": 111.993,
+    "end": 112.132
+   },
+   {
+    "word": "dice:",
+    "start": 112.132,
+    "end": 112.803
+   },
+   {
+    "word": "ese",
+    "start": 112.803,
+    "end": 113.011
+   },
+   {
+    "word": "40%",
+    "start": 113.011,
+    "end": 113.15
+   },
+   {
+    "word": "no",
+    "start": 113.15,
+    "end": 113.288
+   },
+   {
+    "word": "desaparece",
+    "start": 113.288,
+    "end": 114.055
+   },
+   {
+    "word": "porque",
+    "start": 114.055,
+    "end": 114.556
+   },
+   {
+    "word": "te",
+    "start": 114.556,
+    "end": 114.849
+   },
+   {
+    "word": "sientas",
+    "start": 114.849,
+    "end": 115.335
+   },
+   {
+    "word": "ocupado.",
+    "start": 115.335,
+    "end": 116.006
+   }
+  ]
+ },
+ {
+  "id": "S04_F022",
+  "scene": "MÓDULO 2 — El Costo Real (David Meyer)",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Se pierde exactamente en los milisegundos de reinicio mental que ocurren entre salto y salto, cientos de veces al día, sin que los notes.",
+  "visual": "Countless tiny glowing residue marks accumulate silently and invisibly across an entire day on the timeline, unnoticed but very real.",
+  "start": 116.644,
+  "end": 126.239,
+  "words": [
+   {
+    "word": "Se",
+    "start": 117.281,
+    "end": 117.404
+   },
+   {
+    "word": "pierde",
+    "start": 117.404,
+    "end": 117.849
+   },
+   {
+    "word": "exactamente",
+    "start": 117.849,
+    "end": 118.625
+   },
+   {
+    "word": "en",
+    "start": 118.625,
+    "end": 118.747
+   },
+   {
+    "word": "los",
+    "start": 118.747,
+    "end": 118.932
+   },
+   {
+    "word": "milisegundos",
+    "start": 118.932,
+    "end": 119.669
+   },
+   {
+    "word": "de",
+    "start": 119.669,
+    "end": 119.792
+   },
+   {
+    "word": "reinicio",
+    "start": 119.792,
+    "end": 120.284
+   },
+   {
+    "word": "mental",
+    "start": 120.284,
+    "end": 120.915
+   },
+   {
+    "word": "que",
+    "start": 120.915,
+    "end": 121.1
+   },
+   {
+    "word": "ocurren",
+    "start": 121.1,
+    "end": 121.53
+   },
+   {
+    "word": "entre",
+    "start": 121.53,
+    "end": 121.925
+   },
+   {
+    "word": "salto",
+    "start": 121.925,
+    "end": 122.232
+   },
+   {
+    "word": "y",
+    "start": 122.232,
+    "end": 122.294
+   },
+   {
+    "word": "salto,",
+    "start": 122.294,
+    "end": 123.116
+   },
+   {
+    "word": "cientos",
+    "start": 123.116,
+    "end": 123.546
+   },
+   {
+    "word": "de",
+    "start": 123.546,
+    "end": 123.669
+   },
+   {
+    "word": "veces",
+    "start": 123.669,
+    "end": 123.976
+   },
+   {
+    "word": "al",
+    "start": 123.976,
+    "end": 124.099
+   },
+   {
+    "word": "día,",
+    "start": 124.099,
+    "end": 124.685
+   },
+   {
+    "word": "sin",
+    "start": 124.685,
+    "end": 124.869
+   },
+   {
+    "word": "que",
+    "start": 124.869,
+    "end": 125.053
+   },
+   {
+    "word": "los",
+    "start": 125.053,
+    "end": 125.238
+   },
+   {
+    "word": "notes.",
+    "start": 125.238,
+    "end": 125.632
+   }
+  ]
+ },
+ {
+  "id": "S05_F023",
+  "scene": "MÓDULO 3 — Por Qué Se Siente Productivo",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Tercero, por qué se siente productivo aunque no lo sea.",
+  "visual": "Figure stands beside a large numbered marker \"3\", surrounded by several small glowing \"done\" checkmarks despite the earlier losses.",
+  "start": 126.239,
+  "end": 130.46,
+  "words": [
+   {
+    "word": "Tercero,",
+    "start": 126.846,
+    "end": 127.244
+   },
+   {
+    "word": "por",
+    "start": 127.244,
+    "end": 127.808
+   },
+   {
+    "word": "qué",
+    "start": 127.808,
+    "end": 127.978
+   },
+   {
+    "word": "se",
+    "start": 127.978,
+    "end": 128.092
+   },
+   {
+    "word": "siente",
+    "start": 128.092,
+    "end": 128.433
+   },
+   {
+    "word": "productivo",
+    "start": 128.433,
+    "end": 129.122
+   },
+   {
+    "word": "aunque",
+    "start": 129.122,
+    "end": 129.463
+   },
+   {
+    "word": "no",
+    "start": 129.463,
+    "end": 129.577
+   },
+   {
+    "word": "lo",
+    "start": 129.577,
+    "end": 129.69
+   },
+   {
+    "word": "sea.",
+    "start": 129.69,
+    "end": 129.861
+   }
+  ]
+ },
+ {
+  "id": "S05_F024",
+  "scene": "MÓDULO 3 — Por Qué Se Siente Productivo",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Cada cambio de tarea te da una pequeña sensación de novedad y avance —",
+  "visual": "A small glowing spark of satisfaction appears briefly each time the toggle-switch flips, quick rewarding feeling.",
+  "start": 130.46,
+  "end": 135.036,
+  "words": [
+   {
+    "word": "Cada",
+    "start": 131.059,
+    "end": 131.296
+   },
+   {
+    "word": "cambio",
+    "start": 131.296,
+    "end": 131.727
+   },
+   {
+    "word": "de",
+    "start": 131.727,
+    "end": 131.846
+   },
+   {
+    "word": "tarea",
+    "start": 131.846,
+    "end": 132.215
+   },
+   {
+    "word": "te",
+    "start": 132.215,
+    "end": 132.333
+   },
+   {
+    "word": "da",
+    "start": 132.333,
+    "end": 132.524
+   },
+   {
+    "word": "una",
+    "start": 132.524,
+    "end": 132.784
+   },
+   {
+    "word": "pequeña",
+    "start": 132.784,
+    "end": 133.199
+   },
+   {
+    "word": "sensación",
+    "start": 133.199,
+    "end": 133.732
+   },
+   {
+    "word": "de",
+    "start": 133.732,
+    "end": 133.851
+   },
+   {
+    "word": "novedad",
+    "start": 133.851,
+    "end": 134.358
+   },
+   {
+    "word": "y",
+    "start": 134.358,
+    "end": 134.417
+   },
+   {
+    "word": "avance",
+    "start": 134.417,
+    "end": 134.773
+   },
+   {
+    "word": "—",
+    "start": 134.773,
+    "end": 134.832
+   }
+  ]
+ },
+ {
+  "id": "S05_F025",
+  "scene": "MÓDULO 3 — Por Qué Se Siente Productivo",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "respondiste un mensaje, revisaste algo, marcaste una notificación como leída, cerraste una pestaña más de la lista.",
+  "visual": "Close-up, four small glowing checkmarks appear one after another in quick succession, each one small but satisfying.",
+  "start": 135.036,
+  "end": 143.475,
+  "words": [
+   {
+    "word": "respondiste",
+    "start": 135.241,
+    "end": 135.969
+   },
+   {
+    "word": "un",
+    "start": 135.969,
+    "end": 136.101
+   },
+   {
+    "word": "mensaje,",
+    "start": 136.101,
+    "end": 137.011
+   },
+   {
+    "word": "revisaste",
+    "start": 137.011,
+    "end": 137.606
+   },
+   {
+    "word": "algo,",
+    "start": 137.606,
+    "end": 137.871
+   },
+   {
+    "word": "marcaste",
+    "start": 137.871,
+    "end": 138.85
+   },
+   {
+    "word": "una",
+    "start": 138.85,
+    "end": 139.048
+   },
+   {
+    "word": "notificación",
+    "start": 139.048,
+    "end": 139.918
+   },
+   {
+    "word": "como",
+    "start": 139.918,
+    "end": 140.182
+   },
+   {
+    "word": "leída,",
+    "start": 140.182,
+    "end": 140.811
+   },
+   {
+    "word": "cerraste",
+    "start": 140.811,
+    "end": 141.341
+   },
+   {
+    "word": "una",
+    "start": 141.341,
+    "end": 141.613
+   },
+   {
+    "word": "pestaña",
+    "start": 141.613,
+    "end": 142.077
+   },
+   {
+    "word": "más",
+    "start": 142.077,
+    "end": 142.275
+   },
+   {
+    "word": "de",
+    "start": 142.275,
+    "end": 142.408
+   },
+   {
+    "word": "la",
+    "start": 142.408,
+    "end": 142.54
+   },
+   {
+    "word": "lista.",
+    "start": 142.54,
+    "end": 142.871
+   }
+  ]
+ },
+ {
+  "id": "S05_F026",
+  "scene": "MÓDULO 3 — Por Qué Se Siente Productivo",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Aquí está la clave: esa sensación es real, pero mide actividad, no progreso,",
+  "visual": "A faint \"activity\" gauge glows brightly and fully, while a separate \"real progress\" gauge nearby stays noticeably low.",
+  "start": 143.475,
+  "end": 148.618,
+  "words": [
+   {
+    "word": "Aquí",
+    "start": 144.078,
+    "end": 144.294
+   },
+   {
+    "word": "está",
+    "start": 144.294,
+    "end": 144.511
+   },
+   {
+    "word": "la",
+    "start": 144.511,
+    "end": 144.619
+   },
+   {
+    "word": "clave:",
+    "start": 144.619,
+    "end": 144.962
+   },
+   {
+    "word": "esa",
+    "start": 144.962,
+    "end": 145.124
+   },
+   {
+    "word": "sensación",
+    "start": 145.124,
+    "end": 146.008
+   },
+   {
+    "word": "es",
+    "start": 146.008,
+    "end": 146.116
+   },
+   {
+    "word": "real,",
+    "start": 146.116,
+    "end": 146.332
+   },
+   {
+    "word": "pero",
+    "start": 146.332,
+    "end": 146.549
+   },
+   {
+    "word": "mide",
+    "start": 146.549,
+    "end": 146.765
+   },
+   {
+    "word": "actividad,",
+    "start": 146.765,
+    "end": 147.706
+   },
+   {
+    "word": "no",
+    "start": 147.706,
+    "end": 147.814
+   },
+   {
+    "word": "progreso,",
+    "start": 147.814,
+    "end": 148.39
+   }
+  ]
+ },
+ {
+  "id": "S05_F027",
+  "scene": "MÓDULO 3 — Por Qué Se Siente Productivo",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "y tu cerebro no distingue fácilmente entre las dos cuando está decidiendo si te sientes productivo.",
+  "visual": "The brain icon looks back and forth between the two gauges, visibly confusing the bright activity gauge for real progress.",
+  "start": 148.618,
+  "end": 155.474,
+  "words": [
+   {
+    "word": "y",
+    "start": 148.845,
+    "end": 148.912
+   },
+   {
+    "word": "tu",
+    "start": 148.912,
+    "end": 149.047
+   },
+   {
+    "word": "cerebro",
+    "start": 149.047,
+    "end": 149.517
+   },
+   {
+    "word": "no",
+    "start": 149.517,
+    "end": 149.906
+   },
+   {
+    "word": "distingue",
+    "start": 149.906,
+    "end": 150.511
+   },
+   {
+    "word": "fácilmente",
+    "start": 150.511,
+    "end": 151.183
+   },
+   {
+    "word": "entre",
+    "start": 151.183,
+    "end": 151.519
+   },
+   {
+    "word": "las",
+    "start": 151.519,
+    "end": 151.721
+   },
+   {
+    "word": "dos",
+    "start": 151.721,
+    "end": 151.923
+   },
+   {
+    "word": "cuando",
+    "start": 151.923,
+    "end": 152.326
+   },
+   {
+    "word": "está",
+    "start": 152.326,
+    "end": 152.595
+   },
+   {
+    "word": "decidiendo",
+    "start": 152.595,
+    "end": 153.267
+   },
+   {
+    "word": "si",
+    "start": 153.267,
+    "end": 153.402
+   },
+   {
+    "word": "te",
+    "start": 153.402,
+    "end": 153.536
+   },
+   {
+    "word": "sientes",
+    "start": 153.536,
+    "end": 154.007
+   },
+   {
+    "word": "productivo.",
+    "start": 154.007,
+    "end": 154.825
+   }
+  ]
+ },
+ {
+  "id": "S05_F028",
+  "scene": "MÓDULO 3 — Por Qué Se Siente Productivo",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Puedes terminar un día entero sintiéndote agotado y ocupado, con quince tareas tocadas superficialmente, y ninguna terminada de verdad,",
+  "visual": "Close-up, figure sits exhausted at the end of the day, surrounded by many small half-finished task-icons, none fully completed.",
+  "start": 155.474,
+  "end": 164.167,
+  "words": [
+   {
+    "word": "Puedes",
+    "start": 156.123,
+    "end": 156.488
+   },
+   {
+    "word": "terminar",
+    "start": 156.488,
+    "end": 156.975
+   },
+   {
+    "word": "un",
+    "start": 156.975,
+    "end": 157.096
+   },
+   {
+    "word": "día",
+    "start": 157.096,
+    "end": 157.279
+   },
+   {
+    "word": "entero",
+    "start": 157.279,
+    "end": 157.644
+   },
+   {
+    "word": "sintiéndote",
+    "start": 157.644,
+    "end": 158.313
+   },
+   {
+    "word": "agotado",
+    "start": 158.313,
+    "end": 158.84
+   },
+   {
+    "word": "y",
+    "start": 158.84,
+    "end": 158.901
+   },
+   {
+    "word": "ocupado,",
+    "start": 158.901,
+    "end": 159.738
+   },
+   {
+    "word": "con",
+    "start": 159.738,
+    "end": 159.921
+   },
+   {
+    "word": "quince",
+    "start": 159.921,
+    "end": 160.286
+   },
+   {
+    "word": "tareas",
+    "start": 160.286,
+    "end": 160.651
+   },
+   {
+    "word": "tocadas",
+    "start": 160.651,
+    "end": 161.077
+   },
+   {
+    "word": "superficialmente,",
+    "start": 161.077,
+    "end": 162.132
+   },
+   {
+    "word": "y",
+    "start": 162.132,
+    "end": 162.526
+   },
+   {
+    "word": "ninguna",
+    "start": 162.526,
+    "end": 162.952
+   },
+   {
+    "word": "terminada",
+    "start": 162.952,
+    "end": 163.499
+   },
+   {
+    "word": "de",
+    "start": 163.499,
+    "end": 163.621
+   },
+   {
+    "word": "verdad,",
+    "start": 163.621,
+    "end": 163.986
+   }
+  ]
+ },
+ {
+  "id": "S05_F029",
+  "scene": "MÓDULO 3 — Por Qué Se Siente Productivo",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "porque cada una perdió parte de tu atención en el momento exacto en que más la necesitaba, y esa pérdida nunca se recupera después, por mucho que sigas trabajando.",
+  "visual": "The many half-finished task-icons remain permanently incomplete no matter how much more time passes on the timeline, unrecoverable loss.",
+  "start": 164.167,
+  "end": 174.26,
+  "words": [
+   {
+    "word": "porque",
+    "start": 164.348,
+    "end": 164.769
+   },
+   {
+    "word": "cada",
+    "start": 164.769,
+    "end": 165.002
+   },
+   {
+    "word": "una",
+    "start": 165.002,
+    "end": 165.249
+   },
+   {
+    "word": "perdió",
+    "start": 165.249,
+    "end": 165.765
+   },
+   {
+    "word": "parte",
+    "start": 165.765,
+    "end": 166.13
+   },
+   {
+    "word": "de",
+    "start": 166.13,
+    "end": 166.247
+   },
+   {
+    "word": "tu",
+    "start": 166.247,
+    "end": 166.364
+   },
+   {
+    "word": "atención",
+    "start": 166.364,
+    "end": 166.83
+   },
+   {
+    "word": "en",
+    "start": 166.83,
+    "end": 166.947
+   },
+   {
+    "word": "el",
+    "start": 166.947,
+    "end": 167.064
+   },
+   {
+    "word": "momento",
+    "start": 167.064,
+    "end": 167.472
+   },
+   {
+    "word": "exacto",
+    "start": 167.472,
+    "end": 167.954
+   },
+   {
+    "word": "en",
+    "start": 167.954,
+    "end": 168.071
+   },
+   {
+    "word": "que",
+    "start": 168.071,
+    "end": 168.246
+   },
+   {
+    "word": "más",
+    "start": 168.246,
+    "end": 168.421
+   },
+   {
+    "word": "la",
+    "start": 168.421,
+    "end": 168.537
+   },
+   {
+    "word": "necesitaba,",
+    "start": 168.537,
+    "end": 169.517
+   },
+   {
+    "word": "y",
+    "start": 169.517,
+    "end": 169.575
+   },
+   {
+    "word": "esa",
+    "start": 169.575,
+    "end": 169.838
+   },
+   {
+    "word": "pérdida",
+    "start": 169.838,
+    "end": 170.247
+   },
+   {
+    "word": "nunca",
+    "start": 170.247,
+    "end": 170.538
+   },
+   {
+    "word": "se",
+    "start": 170.538,
+    "end": 170.655
+   },
+   {
+    "word": "recupera",
+    "start": 170.655,
+    "end": 171.272
+   },
+   {
+    "word": "después,",
+    "start": 171.272,
+    "end": 172.115
+   },
+   {
+    "word": "por",
+    "start": 172.115,
+    "end": 172.29
+   },
+   {
+    "word": "mucho",
+    "start": 172.29,
+    "end": 172.582
+   },
+   {
+    "word": "que",
+    "start": 172.582,
+    "end": 172.757
+   },
+   {
+    "word": "sigas",
+    "start": 172.757,
+    "end": 173.049
+   },
+   {
+    "word": "trabajando.",
+    "start": 173.049,
+    "end": 173.632
+   }
+  ]
+ },
+ {
+  "id": "S06_F030",
+  "scene": "MÓDULO 4 — Qué Hacer en Su Lugar",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Y cuarto, qué hacer en su lugar.",
+  "visual": "Figure stands beside a large numbered marker \"4\", the earlier scattered half-finished icons beginning to organize themselves.",
+  "start": 174.26,
+  "end": 177.457,
+  "words": [
+   {
+    "word": "Y",
+    "start": 174.888,
+    "end": 174.947
+   },
+   {
+    "word": "cuarto,",
+    "start": 174.947,
+    "end": 175.468
+   },
+   {
+    "word": "qué",
+    "start": 175.468,
+    "end": 176.011
+   },
+   {
+    "word": "hacer",
+    "start": 176.011,
+    "end": 176.304
+   },
+   {
+    "word": "en",
+    "start": 176.304,
+    "end": 176.422
+   },
+   {
+    "word": "su",
+    "start": 176.422,
+    "end": 176.539
+   },
+   {
+    "word": "lugar.",
+    "start": 176.539,
+    "end": 176.833
+   }
+  ]
+ },
+ {
+  "id": "S06_F031",
+  "scene": "MÓDULO 4 — Qué Hacer en Su Lugar",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "No se trata de fuerza de voluntad sobrehumana ni de encerrarte sin ningún contacto con el mundo.",
+  "visual": "A faint extreme isolation-icon is gently crossed out, not the point being made.",
+  "start": 177.457,
+  "end": 183.761,
+  "words": [
+   {
+    "word": "No",
+    "start": 178.08,
+    "end": 178.198
+   },
+   {
+    "word": "se",
+    "start": 178.198,
+    "end": 178.315
+   },
+   {
+    "word": "trata",
+    "start": 178.315,
+    "end": 178.61
+   },
+   {
+    "word": "de",
+    "start": 178.61,
+    "end": 178.727
+   },
+   {
+    "word": "fuerza",
+    "start": 178.727,
+    "end": 179.08
+   },
+   {
+    "word": "de",
+    "start": 179.08,
+    "end": 179.198
+   },
+   {
+    "word": "voluntad",
+    "start": 179.198,
+    "end": 179.669
+   },
+   {
+    "word": "sobrehumana",
+    "start": 179.669,
+    "end": 180.316
+   },
+   {
+    "word": "ni",
+    "start": 180.316,
+    "end": 180.434
+   },
+   {
+    "word": "de",
+    "start": 180.434,
+    "end": 180.552
+   },
+   {
+    "word": "encerrarte",
+    "start": 180.552,
+    "end": 181.246
+   },
+   {
+    "word": "sin",
+    "start": 181.246,
+    "end": 181.423
+   },
+   {
+    "word": "ningún",
+    "start": 181.423,
+    "end": 181.776
+   },
+   {
+    "word": "contacto",
+    "start": 181.776,
+    "end": 182.54
+   },
+   {
+    "word": "con",
+    "start": 182.54,
+    "end": 182.716
+   },
+   {
+    "word": "el",
+    "start": 182.716,
+    "end": 182.834
+   },
+   {
+    "word": "mundo.",
+    "start": 182.834,
+    "end": 183.128
+   }
+  ]
+ },
+ {
+  "id": "S06_F032",
+  "scene": "MÓDULO 4 — Qué Hacer en Su Lugar",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Se trata de agrupar tareas similares en bloques —",
+  "visual": "Close-up, similar small task-icons (several message-bubbles together, several document-icons together) cluster into clean, organized groups.",
+  "start": 183.761,
+  "end": 187.258,
+  "words": [
+   {
+    "word": "Se",
+    "start": 184.394,
+    "end": 184.512
+   },
+   {
+    "word": "trata",
+    "start": 184.512,
+    "end": 184.807
+   },
+   {
+    "word": "de",
+    "start": 184.807,
+    "end": 184.925
+   },
+   {
+    "word": "agrupar",
+    "start": 184.925,
+    "end": 185.497
+   },
+   {
+    "word": "tareas",
+    "start": 185.497,
+    "end": 185.851
+   },
+   {
+    "word": "similares",
+    "start": 185.851,
+    "end": 186.383
+   },
+   {
+    "word": "en",
+    "start": 186.383,
+    "end": 186.501
+   },
+   {
+    "word": "bloques",
+    "start": 186.501,
+    "end": 186.99
+   },
+   {
+    "word": "—",
+    "start": 186.99,
+    "end": 187.049
+   }
+  ]
+ },
+ {
+  "id": "S06_F033",
+  "scene": "MÓDULO 4 — Qué Hacer en Su Lugar",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "todos los correos juntos, todas las llamadas juntas, un solo proyecto a la vez dentro de un bloque de tiempo protegido —",
+  "visual": "Three clearly separated glowing blocks appear on the timeline, each one holding only one type of grouped task, calm and orderly.",
+  "start": 187.258,
+  "end": 194.279,
+  "words": [
+   {
+    "word": "todos",
+    "start": 187.468,
+    "end": 187.746
+   },
+   {
+    "word": "los",
+    "start": 187.746,
+    "end": 187.912
+   },
+   {
+    "word": "correos",
+    "start": 187.912,
+    "end": 188.381
+   },
+   {
+    "word": "juntos,",
+    "start": 188.381,
+    "end": 189.196
+   },
+   {
+    "word": "todas",
+    "start": 189.196,
+    "end": 189.473
+   },
+   {
+    "word": "las",
+    "start": 189.473,
+    "end": 189.64
+   },
+   {
+    "word": "llamadas",
+    "start": 189.64,
+    "end": 190.084
+   },
+   {
+    "word": "juntas,",
+    "start": 190.084,
+    "end": 190.497
+   },
+   {
+    "word": "un",
+    "start": 190.497,
+    "end": 190.995
+   },
+   {
+    "word": "solo",
+    "start": 190.995,
+    "end": 191.217
+   },
+   {
+    "word": "proyecto",
+    "start": 191.217,
+    "end": 191.775
+   },
+   {
+    "word": "a",
+    "start": 191.775,
+    "end": 191.83
+   },
+   {
+    "word": "la",
+    "start": 191.83,
+    "end": 191.941
+   },
+   {
+    "word": "vez",
+    "start": 191.941,
+    "end": 192.108
+   },
+   {
+    "word": "dentro",
+    "start": 192.108,
+    "end": 192.441
+   },
+   {
+    "word": "de",
+    "start": 192.441,
+    "end": 192.552
+   },
+   {
+    "word": "un",
+    "start": 192.552,
+    "end": 192.663
+   },
+   {
+    "word": "bloque",
+    "start": 192.663,
+    "end": 192.996
+   },
+   {
+    "word": "de",
+    "start": 192.996,
+    "end": 193.205
+   },
+   {
+    "word": "tiempo",
+    "start": 193.205,
+    "end": 193.538
+   },
+   {
+    "word": "protegido",
+    "start": 193.538,
+    "end": 194.037
+   },
+   {
+    "word": "—",
+    "start": 194.037,
+    "end": 194.093
+   }
+  ]
+ },
+ {
+  "id": "S06_F034",
+  "scene": "MÓDULO 4 — Qué Hacer en Su Lugar",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "en lugar de saltar entre categorías distintas de trabajo cada pocos minutos.",
+  "visual": "The earlier rapid toggle-switch icon slows down dramatically, no longer flipping erratically between unrelated categories.",
+  "start": 194.279,
+  "end": 199.341,
+  "words": [
+   {
+    "word": "en",
+    "start": 194.464,
+    "end": 194.583
+   },
+   {
+    "word": "lugar",
+    "start": 194.583,
+    "end": 194.881
+   },
+   {
+    "word": "de",
+    "start": 194.881,
+    "end": 195.001
+   },
+   {
+    "word": "saltar",
+    "start": 195.001,
+    "end": 195.455
+   },
+   {
+    "word": "entre",
+    "start": 195.455,
+    "end": 195.753
+   },
+   {
+    "word": "categorías",
+    "start": 195.753,
+    "end": 196.425
+   },
+   {
+    "word": "distintas",
+    "start": 196.425,
+    "end": 196.962
+   },
+   {
+    "word": "de",
+    "start": 196.962,
+    "end": 197.081
+   },
+   {
+    "word": "trabajo",
+    "start": 197.081,
+    "end": 197.499
+   },
+   {
+    "word": "cada",
+    "start": 197.499,
+    "end": 197.929
+   },
+   {
+    "word": "pocos",
+    "start": 197.929,
+    "end": 198.228
+   },
+   {
+    "word": "minutos.",
+    "start": 198.228,
+    "end": 198.733
+   }
+  ]
+ },
+ {
+  "id": "S06_F035",
+  "scene": "MÓDULO 4 — Qué Hacer en Su Lugar",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Pero espera, todavía hay más: cuando terminas de verdad una sola cosa antes de empezar la siguiente,",
+  "visual": "Close-up, a single task-icon glows fully complete and solid, clearly finished before the next one begins.",
+  "start": 199.341,
+  "end": 205.774,
+  "words": [
+   {
+    "word": "Pero",
+    "start": 199.95,
+    "end": 200.188
+   },
+   {
+    "word": "espera,",
+    "start": 200.188,
+    "end": 200.627
+   },
+   {
+    "word": "todavía",
+    "start": 200.627,
+    "end": 201.418
+   },
+   {
+    "word": "hay",
+    "start": 201.418,
+    "end": 201.596
+   },
+   {
+    "word": "más:",
+    "start": 201.596,
+    "end": 201.775
+   },
+   {
+    "word": "cuando",
+    "start": 201.775,
+    "end": 202.397
+   },
+   {
+    "word": "terminas",
+    "start": 202.397,
+    "end": 202.873
+   },
+   {
+    "word": "de",
+    "start": 202.873,
+    "end": 202.992
+   },
+   {
+    "word": "verdad",
+    "start": 202.992,
+    "end": 203.349
+   },
+   {
+    "word": "una",
+    "start": 203.349,
+    "end": 203.527
+   },
+   {
+    "word": "sola",
+    "start": 203.527,
+    "end": 203.765
+   },
+   {
+    "word": "cosa",
+    "start": 203.765,
+    "end": 204.003
+   },
+   {
+    "word": "antes",
+    "start": 204.003,
+    "end": 204.3
+   },
+   {
+    "word": "de",
+    "start": 204.3,
+    "end": 204.419
+   },
+   {
+    "word": "empezar",
+    "start": 204.419,
+    "end": 204.835
+   },
+   {
+    "word": "la",
+    "start": 204.835,
+    "end": 204.954
+   },
+   {
+    "word": "siguiente,",
+    "start": 204.954,
+    "end": 205.57
+   }
+  ]
+ },
+ {
+  "id": "S06_F036",
+  "scene": "MÓDULO 4 — Qué Hacer en Su Lugar",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "ya no necesitas cargar mentalmente con esa tarea a medio hacer mientras intentas concentrarte en otra.",
+  "visual": "A faint mental-burden icon (a small weight) that used to follow the figure between tasks now disappears completely, freed.",
+  "start": 205.774,
+  "end": 212.081,
+  "words": [
+   {
+    "word": "ya",
+    "start": 205.977,
+    "end": 206.097
+   },
+   {
+    "word": "no",
+    "start": 206.097,
+    "end": 206.218
+   },
+   {
+    "word": "necesitas",
+    "start": 206.218,
+    "end": 206.759
+   },
+   {
+    "word": "cargar",
+    "start": 206.759,
+    "end": 207.119
+   },
+   {
+    "word": "mentalmente",
+    "start": 207.119,
+    "end": 207.781
+   },
+   {
+    "word": "con",
+    "start": 207.781,
+    "end": 207.961
+   },
+   {
+    "word": "esa",
+    "start": 207.961,
+    "end": 208.142
+   },
+   {
+    "word": "tarea",
+    "start": 208.142,
+    "end": 208.52
+   },
+   {
+    "word": "a",
+    "start": 208.52,
+    "end": 208.58
+   },
+   {
+    "word": "medio",
+    "start": 208.58,
+    "end": 208.881
+   },
+   {
+    "word": "hacer",
+    "start": 208.881,
+    "end": 209.182
+   },
+   {
+    "word": "mientras",
+    "start": 209.182,
+    "end": 209.663
+   },
+   {
+    "word": "intentas",
+    "start": 209.663,
+    "end": 210.219
+   },
+   {
+    "word": "concentrarte",
+    "start": 210.219,
+    "end": 211.024
+   },
+   {
+    "word": "en",
+    "start": 211.024,
+    "end": 211.144
+   },
+   {
+    "word": "otra.",
+    "start": 211.144,
+    "end": 211.466
+   }
+  ]
+ },
+ {
+  "id": "S06_F037",
+  "scene": "MÓDULO 4 — Qué Hacer en Su Lugar",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Eso, por sí solo, libera una cantidad sorprendente de espacio mental que no sabías que estabas gastando.",
+  "visual": "Close-up, the glowing brain icon from Módulo 1 now sits calm, spacious, and clear, no longer straining under competing demands.",
+  "start": 212.081,
+  "end": 219.392,
+  "words": [
+   {
+    "word": "Eso,",
+    "start": 212.696,
+    "end": 212.874
+   },
+   {
+    "word": "por",
+    "start": 212.874,
+    "end": 213.053
+   },
+   {
+    "word": "sí",
+    "start": 213.053,
+    "end": 213.502
+   },
+   {
+    "word": "solo,",
+    "start": 213.502,
+    "end": 213.74
+   },
+   {
+    "word": "libera",
+    "start": 213.74,
+    "end": 214.489
+   },
+   {
+    "word": "una",
+    "start": 214.489,
+    "end": 214.668
+   },
+   {
+    "word": "cantidad",
+    "start": 214.668,
+    "end": 215.144
+   },
+   {
+    "word": "sorprendente",
+    "start": 215.144,
+    "end": 215.93
+   },
+   {
+    "word": "de",
+    "start": 215.93,
+    "end": 216.049
+   },
+   {
+    "word": "espacio",
+    "start": 216.049,
+    "end": 216.537
+   },
+   {
+    "word": "mental",
+    "start": 216.537,
+    "end": 216.966
+   },
+   {
+    "word": "que",
+    "start": 216.966,
+    "end": 217.223
+   },
+   {
+    "word": "no",
+    "start": 217.223,
+    "end": 217.342
+   },
+   {
+    "word": "sabías",
+    "start": 217.342,
+    "end": 217.699
+   },
+   {
+    "word": "que",
+    "start": 217.699,
+    "end": 217.877
+   },
+   {
+    "word": "estabas",
+    "start": 217.877,
+    "end": 218.293
+   },
+   {
+    "word": "gastando.",
+    "start": 218.293,
+    "end": 218.769
+   }
+  ]
+ },
+ {
+  "id": "S07_F038",
+  "scene": "EL CIERRE",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "El multitasking no te hace más lento porque seas malo administrando el tiempo, ni porque te falte disciplina comparado con otras personas que sí logran avanzar.",
+  "visual": "Figure stands calm and grounded, the earlier competitive comparison-icon fully dissolved and gone.",
+  "start": 219.392,
+  "end": 229.257,
+  "words": [
+   {
+    "word": "El",
+    "start": 220.016,
+    "end": 220.133
+   },
+   {
+    "word": "multitasking",
+    "start": 220.133,
+    "end": 220.835
+   },
+   {
+    "word": "no",
+    "start": 220.835,
+    "end": 220.952
+   },
+   {
+    "word": "te",
+    "start": 220.952,
+    "end": 221.069
+   },
+   {
+    "word": "hace",
+    "start": 221.069,
+    "end": 221.304
+   },
+   {
+    "word": "más",
+    "start": 221.304,
+    "end": 221.479
+   },
+   {
+    "word": "lento",
+    "start": 221.479,
+    "end": 221.772
+   },
+   {
+    "word": "porque",
+    "start": 221.772,
+    "end": 222.123
+   },
+   {
+    "word": "seas",
+    "start": 222.123,
+    "end": 222.357
+   },
+   {
+    "word": "malo",
+    "start": 222.357,
+    "end": 222.591
+   },
+   {
+    "word": "administrando",
+    "start": 222.591,
+    "end": 223.352
+   },
+   {
+    "word": "el",
+    "start": 223.352,
+    "end": 223.469
+   },
+   {
+    "word": "tiempo,",
+    "start": 223.469,
+    "end": 223.909
+   },
+   {
+    "word": "ni",
+    "start": 223.909,
+    "end": 224.108
+   },
+   {
+    "word": "porque",
+    "start": 224.108,
+    "end": 224.88
+   },
+   {
+    "word": "te",
+    "start": 224.88,
+    "end": 224.997
+   },
+   {
+    "word": "falte",
+    "start": 224.997,
+    "end": 225.29
+   },
+   {
+    "word": "disciplina",
+    "start": 225.29,
+    "end": 225.952
+   },
+   {
+    "word": "comparado",
+    "start": 225.952,
+    "end": 226.479
+   },
+   {
+    "word": "con",
+    "start": 226.479,
+    "end": 226.74
+   },
+   {
+    "word": "otras",
+    "start": 226.74,
+    "end": 227.032
+   },
+   {
+    "word": "personas",
+    "start": 227.032,
+    "end": 227.573
+   },
+   {
+    "word": "que",
+    "start": 227.573,
+    "end": 227.748
+   },
+   {
+    "word": "sí",
+    "start": 227.748,
+    "end": 227.865
+   },
+   {
+    "word": "logran",
+    "start": 227.865,
+    "end": 228.216
+   },
+   {
+    "word": "avanzar.",
+    "start": 228.216,
+    "end": 228.626
+   }
+  ]
+ },
+ {
+  "id": "S07_F039",
+  "scene": "EL CIERRE",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Te hace más lento porque le estás pidiendo a tu cerebro que haga algo para lo que biológicamente no está construido,",
+  "visual": "The glowing brain icon is shown calmly and clearly, its natural limits acknowledged rather than fought against.",
+  "start": 229.257,
+  "end": 235.733,
+  "words": [
+   {
+    "word": "Te",
+    "start": 229.887,
+    "end": 229.995
+   },
+   {
+    "word": "hace",
+    "start": 229.995,
+    "end": 230.212
+   },
+   {
+    "word": "más",
+    "start": 230.212,
+    "end": 230.374
+   },
+   {
+    "word": "lento",
+    "start": 230.374,
+    "end": 230.645
+   },
+   {
+    "word": "porque",
+    "start": 230.645,
+    "end": 230.97
+   },
+   {
+    "word": "le",
+    "start": 230.97,
+    "end": 231.078
+   },
+   {
+    "word": "estás",
+    "start": 231.078,
+    "end": 231.349
+   },
+   {
+    "word": "pidiendo",
+    "start": 231.349,
+    "end": 231.962
+   },
+   {
+    "word": "a",
+    "start": 231.962,
+    "end": 232.016
+   },
+   {
+    "word": "tu",
+    "start": 232.016,
+    "end": 232.124
+   },
+   {
+    "word": "cerebro",
+    "start": 232.124,
+    "end": 232.503
+   },
+   {
+    "word": "que",
+    "start": 232.503,
+    "end": 232.666
+   },
+   {
+    "word": "haga",
+    "start": 232.666,
+    "end": 232.882
+   },
+   {
+    "word": "algo",
+    "start": 232.882,
+    "end": 233.099
+   },
+   {
+    "word": "para",
+    "start": 233.099,
+    "end": 233.4
+   },
+   {
+    "word": "lo",
+    "start": 233.4,
+    "end": 233.509
+   },
+   {
+    "word": "que",
+    "start": 233.509,
+    "end": 233.772
+   },
+   {
+    "word": "biológicamente",
+    "start": 233.772,
+    "end": 234.692
+   },
+   {
+    "word": "no",
+    "start": 234.692,
+    "end": 234.801
+   },
+   {
+    "word": "está",
+    "start": 234.801,
+    "end": 235.017
+   },
+   {
+    "word": "construido,",
+    "start": 235.017,
+    "end": 235.559
+   }
+  ]
+ },
+ {
+  "id": "S07_F040",
+  "scene": "EL CIERRE",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "y él paga ese costo en silencio, tarea tras tarea, todo el día, sin mandarte ninguna alerta clara de que está pasando.",
+  "visual": "Close-up, calm knowing expression, the small glowing residue marks from Módulo 1 shown clearly now, previously invisible but always present.",
+  "start": 235.733,
+  "end": 243.644,
+  "words": [
+   {
+    "word": "y",
+    "start": 235.907,
+    "end": 235.964
+   },
+   {
+    "word": "él",
+    "start": 235.964,
+    "end": 236.162
+   },
+   {
+    "word": "paga",
+    "start": 236.162,
+    "end": 236.389
+   },
+   {
+    "word": "ese",
+    "start": 236.389,
+    "end": 236.56
+   },
+   {
+    "word": "costo",
+    "start": 236.56,
+    "end": 236.936
+   },
+   {
+    "word": "en",
+    "start": 236.936,
+    "end": 237.049
+   },
+   {
+    "word": "silencio,",
+    "start": 237.049,
+    "end": 237.503
+   },
+   {
+    "word": "tarea",
+    "start": 237.503,
+    "end": 238.222
+   },
+   {
+    "word": "tras",
+    "start": 238.222,
+    "end": 238.531
+   },
+   {
+    "word": "tarea,",
+    "start": 238.531,
+    "end": 238.815
+   },
+   {
+    "word": "todo",
+    "start": 238.815,
+    "end": 239.042
+   },
+   {
+    "word": "el",
+    "start": 239.042,
+    "end": 239.469
+   },
+   {
+    "word": "día,",
+    "start": 239.469,
+    "end": 239.639
+   },
+   {
+    "word": "sin",
+    "start": 239.639,
+    "end": 239.809
+   },
+   {
+    "word": "mandarte",
+    "start": 239.809,
+    "end": 240.634
+   },
+   {
+    "word": "ninguna",
+    "start": 240.634,
+    "end": 241.132
+   },
+   {
+    "word": "alerta",
+    "start": 241.132,
+    "end": 241.473
+   },
+   {
+    "word": "clara",
+    "start": 241.473,
+    "end": 241.917
+   },
+   {
+    "word": "de",
+    "start": 241.917,
+    "end": 242.03
+   },
+   {
+    "word": "que",
+    "start": 242.03,
+    "end": 242.2
+   },
+   {
+    "word": "está",
+    "start": 242.2,
+    "end": 242.505
+   },
+   {
+    "word": "pasando.",
+    "start": 242.505,
+    "end": 242.987
+   }
+  ]
+ },
+ {
+  "id": "S07_F041",
+  "scene": "EL CIERRE",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Escribe en los comentarios cuántas pestañas o tareas tienes abiertas ahora mismo mientras ves esto.",
+  "visual": "Figure points directly toward the camera/viewer, warm inviting expression, a faint speech-bubble icon glowing softly in accent color.",
+  "start": 243.644,
+  "end": 250.386,
+  "words": [
+   {
+    "word": "Escribe",
+    "start": 244.302,
+    "end": 244.736
+   },
+   {
+    "word": "en",
+    "start": 244.736,
+    "end": 244.861
+   },
+   {
+    "word": "los",
+    "start": 244.861,
+    "end": 245.047
+   },
+   {
+    "word": "comentarios",
+    "start": 245.047,
+    "end": 245.815
+   },
+   {
+    "word": "cuántas",
+    "start": 245.815,
+    "end": 246.249
+   },
+   {
+    "word": "pestañas",
+    "start": 246.249,
+    "end": 246.746
+   },
+   {
+    "word": "o",
+    "start": 246.746,
+    "end": 246.808
+   },
+   {
+    "word": "tareas",
+    "start": 246.808,
+    "end": 247.18
+   },
+   {
+    "word": "tienes",
+    "start": 247.18,
+    "end": 247.553
+   },
+   {
+    "word": "abiertas",
+    "start": 247.553,
+    "end": 248.125
+   },
+   {
+    "word": "ahora",
+    "start": 248.125,
+    "end": 248.436
+   },
+   {
+    "word": "mismo",
+    "start": 248.436,
+    "end": 248.746
+   },
+   {
+    "word": "mientras",
+    "start": 248.746,
+    "end": 249.243
+   },
+   {
+    "word": "ves",
+    "start": 249.243,
+    "end": 249.429
+   },
+   {
+    "word": "esto.",
+    "start": 249.429,
+    "end": 249.759
+   }
+  ]
+ },
+ {
+  "id": "S07_F042",
+  "scene": "EL CIERRE",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Si este video te sirvió, dale like y suscríbete —",
+  "visual": "Figure gives a genuine thumbs-up gesture with a warm smile, a faint bell icon glows softly beside them.",
+  "start": 250.386,
+  "end": 254.629,
+  "words": [
+   {
+    "word": "Si",
+    "start": 251.013,
+    "end": 251.158
+   },
+   {
+    "word": "este",
+    "start": 251.158,
+    "end": 251.447
+   },
+   {
+    "word": "video",
+    "start": 251.447,
+    "end": 251.808
+   },
+   {
+    "word": "te",
+    "start": 251.808,
+    "end": 251.953
+   },
+   {
+    "word": "sirvió,",
+    "start": 251.953,
+    "end": 252.386
+   },
+   {
+    "word": "dale",
+    "start": 252.386,
+    "end": 253.028
+   },
+   {
+    "word": "like",
+    "start": 253.028,
+    "end": 253.318
+   },
+   {
+    "word": "y",
+    "start": 253.318,
+    "end": 253.39
+   },
+   {
+    "word": "suscríbete",
+    "start": 253.39,
+    "end": 254.355
+   },
+   {
+    "word": "—",
+    "start": 254.355,
+    "end": 254.427
+   }
+  ]
+ },
+ {
+  "id": "S07_F043",
+  "scene": "EL CIERRE",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "la disciplina no hace ruido, ni siquiera cuando decide hacer solo una cosa a la vez.",
+  "visual": "Figure stands calm and still in the quiet dark space, faint warm rim light outlining their silhouette, serene composed expression.",
+  "start": 254.629,
+  "end": 260.28,
+  "words": [
+   {
+    "word": "la",
+    "start": 254.83,
+    "end": 254.943
+   },
+   {
+    "word": "disciplina",
+    "start": 254.943,
+    "end": 255.585
+   },
+   {
+    "word": "no",
+    "start": 255.585,
+    "end": 255.697
+   },
+   {
+    "word": "hace",
+    "start": 255.697,
+    "end": 255.923
+   },
+   {
+    "word": "ruido,",
+    "start": 255.923,
+    "end": 256.205
+   },
+   {
+    "word": "ni",
+    "start": 256.205,
+    "end": 256.7
+   },
+   {
+    "word": "siquiera",
+    "start": 256.7,
+    "end": 257.151
+   },
+   {
+    "word": "cuando",
+    "start": 257.151,
+    "end": 257.562
+   },
+   {
+    "word": "decide",
+    "start": 257.562,
+    "end": 257.9
+   },
+   {
+    "word": "hacer",
+    "start": 257.9,
+    "end": 258.182
+   },
+   {
+    "word": "solo",
+    "start": 258.182,
+    "end": 258.408
+   },
+   {
+    "word": "una",
+    "start": 258.408,
+    "end": 258.577
+   },
+   {
+    "word": "cosa",
+    "start": 258.577,
+    "end": 258.803
+   },
+   {
+    "word": "a",
+    "start": 258.803,
+    "end": 258.859
+   },
+   {
+    "word": "la",
+    "start": 258.859,
+    "end": 258.972
+   },
+   {
+    "word": "vez.",
+    "start": 258.972,
+    "end": 259.229
+   }
+  ]
+ }
+]

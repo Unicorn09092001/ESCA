@@ -56,6 +56,7 @@ python3 tools/animate_video.py   --project "$P" --audio voz_gonzalo.mp3 --title 
 | 23 — ¿Buscas Motivación? Deja De Buscarla y Haz Esto | 03_Motivacion y Superacion (`#FF3B78`) | `deja_de_buscar_motivacion_motion.mp4` |
 | 25 — Detox Digital de 7 Días: Recupera Tu Cerebro del Scroll | 04_Productividad Practica (`#3BA7C9`) | `detox_digital_7_dias_motion.mp4` |
 | 26 — La Técnica Pomodoro Real (No la Versión de tu App) | 04_Productividad Practica (`#3BA7C9`) | `pomodoro_real_motion.mp4` |
+| 27 — Por Qué el Multitasking Te Hace Más Lento (Ciencia) | 04_Productividad Practica (`#3BA7C9`) | `multitasking_falso_motion.mp4` |
 
 ## Lưu ý
 
