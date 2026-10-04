@@ -625,6 +625,32 @@ def icon(name, color=INK, w=7, **kw):
                 f'<circle cx="0" cy="8" r="5" {_c(color, 4)}/>')
     if name == "calcheck":
         return icon("calendar", color, w) + f'<path d="M-18,10 L-4,24 L22,-4" {_c(color, 9)}/>'
+    if name == "hourglass":
+        return (f'<path d="M-30,-46 L30,-46 M-30,46 L30,46 M-24,-46 Q-24,-12 0,0 Q-24,12 -24,46 M24,-46 Q24,-12 0,0 Q24,12 24,46" {s}/>'
+                f'<path d="M-14,34 Q0,20 14,34 Z" fill="{color}"/><path d="M-12,-30 L12,-30 L0,-14 Z" fill="{color}" opacity=".7"/>')
+    if name == "browser":
+        tabs = kw.get("tabs", 4)
+        out = [f'<rect x="-50" y="-30" width="100" height="72" rx="6" {s}/>', f'<line x1="-50" y1="-12" x2="50" y2="-12" {_c(color, 4)}/>']
+        for i in range(tabs):
+            out.append(f'<rect x="{-48 + i * 24}" y="-44" width="20" height="14" rx="3" {_c(color, 3)}/>')
+        return "".join(out)
+    if name == "task":
+        return (f'<rect x="-36" y="-44" width="72" height="88" rx="8" {s}/>'
+                f'<path d="M0,-20 L7,-6 L22,-4 L11,6 L14,21 L0,14 L-14,21 L-11,6 L-22,-4 L-7,-6 Z" fill="{color}"/>'
+                f'<line x1="-20" y1="32" x2="20" y2="32" {_c(color, 4)}/>')
+    if name == "muscle":
+        return (f'<path d="M-44,30 L-44,6 Q-40,-6 -26,-6 L-10,-6 Q-14,-26 -4,-40 Q8,-48 14,-38 Q16,-30 8,-26 L8,-10 Q30,-20 42,0 Q48,22 30,32 Z" {s}/>')
+    if name == "sofa":
+        return (f'<path d="M-46,30 L-46,-4 Q-46,-12 -38,-12 L-30,-12 L-30,8 L30,8 L30,-12 L38,-12 Q46,-12 46,-4 L46,30 Z" {s}/>'
+                f'<path d="M-30,-12 L-30,-30 Q-30,-38 -22,-38 L22,-38 Q30,-38 30,-30 L30,-12" {s}/>'
+                f'<line x1="-40" y1="30" x2="-40" y2="40" {_c(color, 6)}/><line x1="40" y1="30" x2="40" y2="40" {_c(color, 6)}/>')
+    if name == "scatter":
+        import random as _r
+        rr = _r.Random(4)
+        pts = "".join(f'<circle cx="{-40 + i * 8}" cy="{30 - i * 5 + rr.uniform(-12, 12):.1f}" r="4.5" fill="{color}"/>' for i in range(11))
+        return f'<path d="M-46,-46 L-46,42 L46,42" {_c(color, 5)}/>' + pts
+    if name == "envelope2":
+        return icon("envelope", color, w)
     raise KeyError(name)
 
 

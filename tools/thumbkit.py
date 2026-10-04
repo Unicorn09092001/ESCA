@@ -65,12 +65,13 @@ def headline(img, text, accent_word, size=116, gap=18, bottom=34, max_w=1180):
     img = Image.alpha_composite(img.convert("RGBA"), scrim)
     d = ImageDraw.Draw(img)
     space = d.textlength(" ", font=font)
+    accent_words = set(accent_word.upper().split())  # hỗ trợ cụm từ nhấn, vd "DE ORO"
     y = top
     for ln in lines:
         total = sum(d.textlength(w, font=font) for w in ln) + space * (len(ln) - 1)
         x = (W - total) / 2
         for w in ln:
-            col = sl.ACC if w.upper() == accent_word.upper() else sl.INK
+            col = sl.ACC if w.upper() in accent_words else sl.INK
             d.text((x, y - font.getbbox("A")[1]), w, font=font, fill=col, stroke_width=4, stroke_fill="#000000")
             x += d.textlength(w, font=font) + space
         y += line_h + gap

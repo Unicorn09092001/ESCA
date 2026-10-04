@@ -1,0 +1,4191 @@
+[
+ {
+  "id": "S01_F001",
+  "scene": "EL GANCHO",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "¿Sabes por qué algunas personas logran en dos horas lo que a otras les toma un día entero?",
+  "visual": "Two figures shown side by side: one calm and finished early with a glowing checkmark, the other still surrounded by scattered unfinished task-icons late in the day.",
+  "start": 0.0,
+  "end": 4.919,
+  "words": [
+   {
+    "word": "¿Sabes",
+    "start": 0.268,
+    "end": 0.546
+   },
+   {
+    "word": "por",
+    "start": 0.546,
+    "end": 0.713
+   },
+   {
+    "word": "qué",
+    "start": 0.713,
+    "end": 0.954
+   },
+   {
+    "word": "algunas",
+    "start": 0.954,
+    "end": 1.344
+   },
+   {
+    "word": "personas",
+    "start": 1.344,
+    "end": 1.79
+   },
+   {
+    "word": "logran",
+    "start": 1.79,
+    "end": 2.124
+   },
+   {
+    "word": "en",
+    "start": 2.124,
+    "end": 2.235
+   },
+   {
+    "word": "dos",
+    "start": 2.235,
+    "end": 2.403
+   },
+   {
+    "word": "horas",
+    "start": 2.403,
+    "end": 2.681
+   },
+   {
+    "word": "lo",
+    "start": 2.681,
+    "end": 2.792
+   },
+   {
+    "word": "que",
+    "start": 2.792,
+    "end": 2.96
+   },
+   {
+    "word": "a",
+    "start": 2.96,
+    "end": 3.015
+   },
+   {
+    "word": "otras",
+    "start": 3.015,
+    "end": 3.294
+   },
+   {
+    "word": "les",
+    "start": 3.294,
+    "end": 3.461
+   },
+   {
+    "word": "toma",
+    "start": 3.461,
+    "end": 3.684
+   },
+   {
+    "word": "un",
+    "start": 3.684,
+    "end": 3.795
+   },
+   {
+    "word": "día",
+    "start": 3.795,
+    "end": 3.962
+   },
+   {
+    "word": "entero?",
+    "start": 3.962,
+    "end": 4.296
+   }
+  ]
+ },
+ {
+  "id": "S01_F002",
+  "scene": "EL GANCHO",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "No es que trabajen más rápido, ni que sean más inteligentes.",
+  "visual": "The two figures' small brain-icon and speed-icon overlays are shown roughly equal, dismissing simple explanations.",
+  "start": 4.919,
+  "end": 9.728,
+  "words": [
+   {
+    "word": "No",
+    "start": 5.541,
+    "end": 5.665
+   },
+   {
+    "word": "es",
+    "start": 5.665,
+    "end": 5.79
+   },
+   {
+    "word": "que",
+    "start": 5.79,
+    "end": 5.976
+   },
+   {
+    "word": "trabajen",
+    "start": 5.976,
+    "end": 6.473
+   },
+   {
+    "word": "más",
+    "start": 6.473,
+    "end": 6.66
+   },
+   {
+    "word": "rápido,",
+    "start": 6.66,
+    "end": 7.546
+   },
+   {
+    "word": "ni",
+    "start": 7.546,
+    "end": 7.671
+   },
+   {
+    "word": "que",
+    "start": 7.671,
+    "end": 7.857
+   },
+   {
+    "word": "sean",
+    "start": 7.857,
+    "end": 8.106
+   },
+   {
+    "word": "más",
+    "start": 8.106,
+    "end": 8.292
+   },
+   {
+    "word": "inteligentes.",
+    "start": 8.292,
+    "end": 9.114
+   }
+  ]
+ },
+ {
+  "id": "S01_F003",
+  "scene": "EL GANCHO",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Es que protegen algo que casi nadie protege:",
+  "visual": "Close-up, calm-intense expression, a faint glowing shield icon begins to form around the figure.",
+  "start": 9.728,
+  "end": 12.884,
+  "words": [
+   {
+    "word": "Es",
+    "start": 10.341,
+    "end": 10.463
+   },
+   {
+    "word": "que",
+    "start": 10.463,
+    "end": 10.645
+   },
+   {
+    "word": "protegen",
+    "start": 10.645,
+    "end": 11.132
+   },
+   {
+    "word": "algo",
+    "start": 11.132,
+    "end": 11.375
+   },
+   {
+    "word": "que",
+    "start": 11.375,
+    "end": 11.558
+   },
+   {
+    "word": "casi",
+    "start": 11.558,
+    "end": 11.801
+   },
+   {
+    "word": "nadie",
+    "start": 11.801,
+    "end": 12.105
+   },
+   {
+    "word": "protege:",
+    "start": 12.105,
+    "end": 12.682
+   }
+  ]
+ },
+ {
+  "id": "S01_F004",
+  "scene": "EL GANCHO",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "una franja exacta del día en la que su mente rinde al máximo, y todo lo demás espera afuera.",
+  "visual": "The shield icon fully forms around a glowing bright zone beside the figure, with dim distraction-icons (phone, messages) pushed visibly outside it.",
+  "start": 12.884,
+  "end": 18.638,
+  "words": [
+   {
+    "word": "una",
+    "start": 13.087,
+    "end": 13.266
+   },
+   {
+    "word": "franja",
+    "start": 13.266,
+    "end": 13.625
+   },
+   {
+    "word": "exacta",
+    "start": 13.625,
+    "end": 14.097
+   },
+   {
+    "word": "del",
+    "start": 14.097,
+    "end": 14.277
+   },
+   {
+    "word": "día",
+    "start": 14.277,
+    "end": 14.456
+   },
+   {
+    "word": "en",
+    "start": 14.456,
+    "end": 14.576
+   },
+   {
+    "word": "la",
+    "start": 14.576,
+    "end": 14.695
+   },
+   {
+    "word": "que",
+    "start": 14.695,
+    "end": 14.875
+   },
+   {
+    "word": "su",
+    "start": 14.875,
+    "end": 14.994
+   },
+   {
+    "word": "mente",
+    "start": 14.994,
+    "end": 15.364
+   },
+   {
+    "word": "rinde",
+    "start": 15.364,
+    "end": 15.663
+   },
+   {
+    "word": "al",
+    "start": 15.663,
+    "end": 15.783
+   },
+   {
+    "word": "máximo,",
+    "start": 15.783,
+    "end": 16.141
+   },
+   {
+    "word": "y",
+    "start": 16.141,
+    "end": 16.201
+   },
+   {
+    "word": "todo",
+    "start": 16.201,
+    "end": 16.809
+   },
+   {
+    "word": "lo",
+    "start": 16.809,
+    "end": 16.929
+   },
+   {
+    "word": "demás",
+    "start": 16.929,
+    "end": 17.227
+   },
+   {
+    "word": "espera",
+    "start": 17.227,
+    "end": 17.666
+   },
+   {
+    "word": "afuera.",
+    "start": 17.666,
+    "end": 18.025
+   }
+  ]
+ },
+ {
+  "id": "S02_F005",
+  "scene": "LA PROMESA",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Hoy te explico la regla de las 2 horas — una sola franja del día, elegida con ciencia, no con motivación.",
+  "visual": "A single glowing bright zone (the protected block) appears clearly marked on an otherwise plain daily timeline, figure gestures toward it with explanatory posture.",
+  "start": 18.638,
+  "end": 26.698,
+  "words": [
+   {
+    "word": "Hoy",
+    "start": 19.251,
+    "end": 19.459
+   },
+   {
+    "word": "te",
+    "start": 19.459,
+    "end": 19.597
+   },
+   {
+    "word": "explico",
+    "start": 19.597,
+    "end": 20.156
+   },
+   {
+    "word": "la",
+    "start": 20.156,
+    "end": 20.294
+   },
+   {
+    "word": "regla",
+    "start": 20.294,
+    "end": 20.641
+   },
+   {
+    "word": "de",
+    "start": 20.641,
+    "end": 20.779
+   },
+   {
+    "word": "las",
+    "start": 20.779,
+    "end": 20.987
+   },
+   {
+    "word": "2",
+    "start": 20.987,
+    "end": 21.056
+   },
+   {
+    "word": "horas",
+    "start": 21.056,
+    "end": 21.692
+   },
+   {
+    "word": "—",
+    "start": 21.692,
+    "end": 21.762
+   },
+   {
+    "word": "una",
+    "start": 21.762,
+    "end": 21.969
+   },
+   {
+    "word": "sola",
+    "start": 21.969,
+    "end": 22.247
+   },
+   {
+    "word": "franja",
+    "start": 22.247,
+    "end": 22.662
+   },
+   {
+    "word": "del",
+    "start": 22.662,
+    "end": 22.87
+   },
+   {
+    "word": "día,",
+    "start": 22.87,
+    "end": 23.465
+   },
+   {
+    "word": "elegida",
+    "start": 23.465,
+    "end": 23.95
+   },
+   {
+    "word": "con",
+    "start": 23.95,
+    "end": 24.158
+   },
+   {
+    "word": "ciencia,",
+    "start": 24.158,
+    "end": 24.643
+   },
+   {
+    "word": "no",
+    "start": 24.643,
+    "end": 25.186
+   },
+   {
+    "word": "con",
+    "start": 25.186,
+    "end": 25.394
+   },
+   {
+    "word": "motivación.",
+    "start": 25.394,
+    "end": 26.086
+   }
+  ]
+ },
+ {
+  "id": "S02_F006",
+  "scene": "LA PROMESA",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Vas a entender por qué existe un límite real a cuánto puedes rendir de verdad en un día,",
+  "visual": "A faint glowing capacity-bar appears beside the figure, clearly capped at a certain level rather than unlimited.",
+  "start": 26.698,
+  "end": 31.894,
+  "words": [
+   {
+    "word": "Vas",
+    "start": 27.309,
+    "end": 27.482
+   },
+   {
+    "word": "a",
+    "start": 27.482,
+    "end": 27.539
+   },
+   {
+    "word": "entender",
+    "start": 27.539,
+    "end": 27.998
+   },
+   {
+    "word": "por",
+    "start": 27.998,
+    "end": 28.171
+   },
+   {
+    "word": "qué",
+    "start": 28.171,
+    "end": 28.416
+   },
+   {
+    "word": "existe",
+    "start": 28.416,
+    "end": 28.761
+   },
+   {
+    "word": "un",
+    "start": 28.761,
+    "end": 28.876
+   },
+   {
+    "word": "límite",
+    "start": 28.876,
+    "end": 29.303
+   },
+   {
+    "word": "real",
+    "start": 29.303,
+    "end": 29.532
+   },
+   {
+    "word": "a",
+    "start": 29.532,
+    "end": 29.59
+   },
+   {
+    "word": "cuánto",
+    "start": 29.59,
+    "end": 30.126
+   },
+   {
+    "word": "puedes",
+    "start": 30.126,
+    "end": 30.471
+   },
+   {
+    "word": "rendir",
+    "start": 30.471,
+    "end": 30.816
+   },
+   {
+    "word": "de",
+    "start": 30.816,
+    "end": 30.93
+   },
+   {
+    "word": "verdad",
+    "start": 30.93,
+    "end": 31.275
+   },
+   {
+    "word": "en",
+    "start": 31.275,
+    "end": 31.39
+   },
+   {
+    "word": "un",
+    "start": 31.39,
+    "end": 31.505
+   },
+   {
+    "word": "día,",
+    "start": 31.505,
+    "end": 31.677
+   }
+  ]
+ },
+ {
+  "id": "S02_F007",
+  "scene": "LA PROMESA",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "por qué esas dos horas deben ser las primeras y no las últimas,",
+  "visual": "Close-up, the glowing bright zone on the timeline shifts and settles firmly at the very start of the day rather than the end.",
+  "start": 31.894,
+  "end": 35.402,
+  "words": [
+   {
+    "word": "por",
+    "start": 32.112,
+    "end": 32.29
+   },
+   {
+    "word": "qué",
+    "start": 32.29,
+    "end": 32.469
+   },
+   {
+    "word": "esas",
+    "start": 32.469,
+    "end": 32.707
+   },
+   {
+    "word": "dos",
+    "start": 32.707,
+    "end": 32.885
+   },
+   {
+    "word": "horas",
+    "start": 32.885,
+    "end": 33.183
+   },
+   {
+    "word": "deben",
+    "start": 33.183,
+    "end": 33.48
+   },
+   {
+    "word": "ser",
+    "start": 33.48,
+    "end": 33.747
+   },
+   {
+    "word": "las",
+    "start": 33.747,
+    "end": 33.926
+   },
+   {
+    "word": "primeras",
+    "start": 33.926,
+    "end": 34.402
+   },
+   {
+    "word": "y",
+    "start": 34.402,
+    "end": 34.461
+   },
+   {
+    "word": "no",
+    "start": 34.461,
+    "end": 34.58
+   },
+   {
+    "word": "las",
+    "start": 34.58,
+    "end": 34.759
+   },
+   {
+    "word": "últimas,",
+    "start": 34.759,
+    "end": 35.251
+   }
+  ]
+ },
+ {
+  "id": "S02_F008",
+  "scene": "LA PROMESA",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "y cómo protegerlas de todo lo que normalmente las destruye sin que te des cuenta.",
+  "visual": "Small dim distraction-icons approach the glowing bright zone but are stopped at its edge by the faint shield, figure watches calmly.",
+  "start": 35.402,
+  "end": 40.267,
+  "words": [
+   {
+    "word": "y",
+    "start": 35.553,
+    "end": 35.611
+   },
+   {
+    "word": "cómo",
+    "start": 35.611,
+    "end": 35.921
+   },
+   {
+    "word": "protegerlas",
+    "start": 35.921,
+    "end": 36.553
+   },
+   {
+    "word": "de",
+    "start": 36.553,
+    "end": 36.668
+   },
+   {
+    "word": "todo",
+    "start": 36.668,
+    "end": 36.977
+   },
+   {
+    "word": "lo",
+    "start": 36.977,
+    "end": 37.173
+   },
+   {
+    "word": "que",
+    "start": 37.173,
+    "end": 37.346
+   },
+   {
+    "word": "normalmente",
+    "start": 37.346,
+    "end": 37.978
+   },
+   {
+    "word": "las",
+    "start": 37.978,
+    "end": 38.151
+   },
+   {
+    "word": "destruye",
+    "start": 38.151,
+    "end": 38.611
+   },
+   {
+    "word": "sin",
+    "start": 38.611,
+    "end": 38.783
+   },
+   {
+    "word": "que",
+    "start": 38.783,
+    "end": 38.956
+   },
+   {
+    "word": "te",
+    "start": 38.956,
+    "end": 39.071
+   },
+   {
+    "word": "des",
+    "start": 39.071,
+    "end": 39.243
+   },
+   {
+    "word": "cuenta.",
+    "start": 39.243,
+    "end": 39.666
+   }
+  ]
+ },
+ {
+  "id": "S03_F009",
+  "scene": "MÓDULO 1 — El Límite Real (Cal Newport)",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Primero, el límite real.",
+  "visual": "Figure stands beside a large numbered marker \"1\", attentive explanatory posture.",
+  "start": 40.267,
+  "end": 43.113,
+  "words": [
+   {
+    "word": "Primero,",
+    "start": 40.867,
+    "end": 41.678
+   },
+   {
+    "word": "el",
+    "start": 41.678,
+    "end": 41.81
+   },
+   {
+    "word": "límite",
+    "start": 41.81,
+    "end": 42.206
+   },
+   {
+    "word": "real.",
+    "start": 42.206,
+    "end": 42.47
+   }
+  ]
+ },
+ {
+  "id": "S03_F010",
+  "scene": "MÓDULO 1 — El Límite Real (Cal Newport)",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "El científico de la computación Cal Newport, en su libro \"Deep Work\",",
+  "visual": "Thoughtful narrating expression, a faint glowing open-book icon appears briefly beside the figure.",
+  "start": 43.113,
+  "end": 48.458,
+  "words": [
+   {
+    "word": "El",
+    "start": 43.756,
+    "end": 43.886
+   },
+   {
+    "word": "científico",
+    "start": 43.886,
+    "end": 44.614
+   },
+   {
+    "word": "de",
+    "start": 44.614,
+    "end": 44.743
+   },
+   {
+    "word": "la",
+    "start": 44.743,
+    "end": 44.873
+   },
+   {
+    "word": "computación",
+    "start": 44.873,
+    "end": 45.665
+   },
+   {
+    "word": "Cal",
+    "start": 45.665,
+    "end": 45.86
+   },
+   {
+    "word": "Newport,",
+    "start": 45.86,
+    "end": 46.917
+   },
+   {
+    "word": "en",
+    "start": 46.917,
+    "end": 47.047
+   },
+   {
+    "word": "su",
+    "start": 47.047,
+    "end": 47.177
+   },
+   {
+    "word": "libro",
+    "start": 47.177,
+    "end": 47.599
+   },
+   {
+    "word": "\"Deep",
+    "start": 47.599,
+    "end": 47.859
+   },
+   {
+    "word": "Work\",",
+    "start": 47.859,
+    "end": 48.118
+   }
+  ]
+ },
+ {
+  "id": "S03_F011",
+  "scene": "MÓDULO 1 — El Límite Real (Cal Newport)",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "explica algo que contradice la cultura de las diez horas de trabajo:",
+  "visual": "Close-up, a faint ghost-outline clock showing a very long stretch of hours is gently crossed out with a small accent-colored X.",
+  "start": 48.458,
+  "end": 52.426,
+  "words": [
+   {
+    "word": "explica",
+    "start": 48.672,
+    "end": 49.148
+   },
+   {
+    "word": "algo",
+    "start": 49.148,
+    "end": 49.374
+   },
+   {
+    "word": "que",
+    "start": 49.374,
+    "end": 49.616
+   },
+   {
+    "word": "contradice",
+    "start": 49.616,
+    "end": 50.183
+   },
+   {
+    "word": "la",
+    "start": 50.183,
+    "end": 50.296
+   },
+   {
+    "word": "cultura",
+    "start": 50.296,
+    "end": 50.867
+   },
+   {
+    "word": "de",
+    "start": 50.867,
+    "end": 50.98
+   },
+   {
+    "word": "las",
+    "start": 50.98,
+    "end": 51.15
+   },
+   {
+    "word": "diez",
+    "start": 51.15,
+    "end": 51.377
+   },
+   {
+    "word": "horas",
+    "start": 51.377,
+    "end": 51.66
+   },
+   {
+    "word": "de",
+    "start": 51.66,
+    "end": 51.773
+   },
+   {
+    "word": "trabajo:",
+    "start": 51.773,
+    "end": 52.17
+   }
+  ]
+ },
+ {
+  "id": "S03_F012",
+  "scene": "MÓDULO 1 — El Límite Real (Cal Newport)",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "la mayoría de las personas solo puede sostener entre una y cuatro horas de trabajo profundo",
+  "visual": "A glowing capacity-bar fills only a small portion of a full-day timeline, clearly capped rather than continuous.",
+  "start": 52.426,
+  "end": 57.583,
+  "words": [
+   {
+    "word": "la",
+    "start": 52.682,
+    "end": 52.796
+   },
+   {
+    "word": "mayoría",
+    "start": 52.796,
+    "end": 53.196
+   },
+   {
+    "word": "de",
+    "start": 53.196,
+    "end": 53.311
+   },
+   {
+    "word": "las",
+    "start": 53.311,
+    "end": 53.482
+   },
+   {
+    "word": "personas",
+    "start": 53.482,
+    "end": 54.009
+   },
+   {
+    "word": "solo",
+    "start": 54.009,
+    "end": 54.238
+   },
+   {
+    "word": "puede",
+    "start": 54.238,
+    "end": 54.618
+   },
+   {
+    "word": "sostener",
+    "start": 54.618,
+    "end": 55.075
+   },
+   {
+    "word": "entre",
+    "start": 55.075,
+    "end": 55.36
+   },
+   {
+    "word": "una",
+    "start": 55.36,
+    "end": 55.532
+   },
+   {
+    "word": "y",
+    "start": 55.532,
+    "end": 55.589
+   },
+   {
+    "word": "cuatro",
+    "start": 55.589,
+    "end": 56.068
+   },
+   {
+    "word": "horas",
+    "start": 56.068,
+    "end": 56.353
+   },
+   {
+    "word": "de",
+    "start": 56.353,
+    "end": 56.468
+   },
+   {
+    "word": "trabajo",
+    "start": 56.468,
+    "end": 56.95
+   },
+   {
+    "word": "profundo",
+    "start": 56.95,
+    "end": 57.407
+   }
+  ]
+ },
+ {
+  "id": "S03_F013",
+  "scene": "MÓDULO 1 — El Límite Real (Cal Newport)",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "— el tipo de concentración que produce resultados que realmente importan —",
+  "visual": "The filled portion of the capacity-bar glows notably brighter and more vivid than the rest of the timeline.",
+  "start": 57.583,
+  "end": 61.973,
+  "words": [
+   {
+    "word": "—",
+    "start": 57.759,
+    "end": 57.816
+   },
+   {
+    "word": "el",
+    "start": 57.816,
+    "end": 58.015
+   },
+   {
+    "word": "tipo",
+    "start": 58.015,
+    "end": 58.242
+   },
+   {
+    "word": "de",
+    "start": 58.242,
+    "end": 58.356
+   },
+   {
+    "word": "concentración",
+    "start": 58.356,
+    "end": 59.095
+   },
+   {
+    "word": "que",
+    "start": 59.095,
+    "end": 59.265
+   },
+   {
+    "word": "produce",
+    "start": 59.265,
+    "end": 59.736
+   },
+   {
+    "word": "resultados",
+    "start": 59.736,
+    "end": 60.415
+   },
+   {
+    "word": "que",
+    "start": 60.415,
+    "end": 60.586
+   },
+   {
+    "word": "realmente",
+    "start": 60.586,
+    "end": 61.097
+   },
+   {
+    "word": "importan",
+    "start": 61.097,
+    "end": 61.724
+   },
+   {
+    "word": "—",
+    "start": 61.724,
+    "end": 61.781
+   }
+  ]
+ },
+ {
+  "id": "S03_F014",
+  "scene": "MÓDULO 1 — El Límite Real (Cal Newport)",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "antes de que la calidad se desplome.",
+  "visual": "Close-up, the glowing bar dims sharply right after its capped point, a small downward-curved line illustrating the drop.",
+  "start": 61.973,
+  "end": 64.54,
+  "words": [
+   {
+    "word": "antes",
+    "start": 62.165,
+    "end": 62.431
+   },
+   {
+    "word": "de",
+    "start": 62.431,
+    "end": 62.537
+   },
+   {
+    "word": "que",
+    "start": 62.537,
+    "end": 62.768
+   },
+   {
+    "word": "la",
+    "start": 62.768,
+    "end": 62.95
+   },
+   {
+    "word": "calidad",
+    "start": 62.95,
+    "end": 63.322
+   },
+   {
+    "word": "se",
+    "start": 63.322,
+    "end": 63.428
+   },
+   {
+    "word": "desplome.",
+    "start": 63.428,
+    "end": 63.937
+   }
+  ]
+ },
+ {
+  "id": "S03_F015",
+  "scene": "MÓDULO 1 — El Límite Real (Cal Newport)",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Presta atención a esto: no se trata de fuerza de voluntad.",
+  "visual": "Figure gestures firmly, a faint muscle/willpower icon is set gently aside, not the focus of this explanation.",
+  "start": 64.54,
+  "end": 69.198,
+  "words": [
+   {
+    "word": "Presta",
+    "start": 65.143,
+    "end": 65.518
+   },
+   {
+    "word": "atención",
+    "start": 65.518,
+    "end": 66.018
+   },
+   {
+    "word": "a",
+    "start": 66.018,
+    "end": 66.08
+   },
+   {
+    "word": "esto:",
+    "start": 66.08,
+    "end": 66.404
+   },
+   {
+    "word": "no",
+    "start": 66.404,
+    "end": 66.919
+   },
+   {
+    "word": "se",
+    "start": 66.919,
+    "end": 67.044
+   },
+   {
+    "word": "trata",
+    "start": 67.044,
+    "end": 67.356
+   },
+   {
+    "word": "de",
+    "start": 67.356,
+    "end": 67.481
+   },
+   {
+    "word": "fuerza",
+    "start": 67.481,
+    "end": 67.856
+   },
+   {
+    "word": "de",
+    "start": 67.856,
+    "end": 67.981
+   },
+   {
+    "word": "voluntad.",
+    "start": 67.981,
+    "end": 68.586
+   }
+  ]
+ },
+ {
+  "id": "S03_F016",
+  "scene": "MÓDULO 1 — El Límite Real (Cal Newport)",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Es un límite cognitivo real, como el de un músculo que se fatiga.",
+  "visual": "A faint glowing brain icon pulses steadily then visibly dims after sustained effort, like a tiring muscle shape beside it.",
+  "start": 69.198,
+  "end": 74.175,
+  "words": [
+   {
+    "word": "Es",
+    "start": 69.809,
+    "end": 69.934
+   },
+   {
+    "word": "un",
+    "start": 69.934,
+    "end": 70.058
+   },
+   {
+    "word": "límite",
+    "start": 70.058,
+    "end": 70.432
+   },
+   {
+    "word": "cognitivo",
+    "start": 70.432,
+    "end": 71.068
+   },
+   {
+    "word": "real,",
+    "start": 71.068,
+    "end": 71.317
+   },
+   {
+    "word": "como",
+    "start": 71.317,
+    "end": 71.995
+   },
+   {
+    "word": "el",
+    "start": 71.995,
+    "end": 72.12
+   },
+   {
+    "word": "de",
+    "start": 72.12,
+    "end": 72.244
+   },
+   {
+    "word": "un",
+    "start": 72.244,
+    "end": 72.369
+   },
+   {
+    "word": "músculo",
+    "start": 72.369,
+    "end": 72.805
+   },
+   {
+    "word": "que",
+    "start": 72.805,
+    "end": 72.992
+   },
+   {
+    "word": "se",
+    "start": 72.992,
+    "end": 73.117
+   },
+   {
+    "word": "fatiga.",
+    "start": 73.117,
+    "end": 73.567
+   }
+  ]
+ },
+ {
+  "id": "S03_F017",
+  "scene": "MÓDULO 1 — El Límite Real (Cal Newport)",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Y aquí está la clave: si ese límite existe de todas formas,",
+  "visual": "Close-up, calm realization dawning on the figure's face, the capped capacity-bar accepted rather than fought against.",
+  "start": 74.175,
+  "end": 78.743,
+  "words": [
+   {
+    "word": "Y",
+    "start": 74.783,
+    "end": 74.854
+   },
+   {
+    "word": "aquí",
+    "start": 74.854,
+    "end": 75.136
+   },
+   {
+    "word": "está",
+    "start": 75.136,
+    "end": 75.419
+   },
+   {
+    "word": "la",
+    "start": 75.419,
+    "end": 75.56
+   },
+   {
+    "word": "clave:",
+    "start": 75.56,
+    "end": 75.914
+   },
+   {
+    "word": "si",
+    "start": 75.914,
+    "end": 76.45
+   },
+   {
+    "word": "ese",
+    "start": 76.45,
+    "end": 76.662
+   },
+   {
+    "word": "límite",
+    "start": 76.662,
+    "end": 77.086
+   },
+   {
+    "word": "existe",
+    "start": 77.086,
+    "end": 77.51
+   },
+   {
+    "word": "de",
+    "start": 77.51,
+    "end": 77.651
+   },
+   {
+    "word": "todas",
+    "start": 77.651,
+    "end": 78.085
+   },
+   {
+    "word": "formas,",
+    "start": 78.085,
+    "end": 78.509
+   }
+  ]
+ },
+ {
+  "id": "S03_F018",
+  "scene": "MÓDULO 1 — El Límite Real (Cal Newport)",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "la única pregunta inteligente es en qué momento del día lo vas a gastar.",
+  "visual": "Figure stands beside the daily timeline, thoughtfully pointing toward different possible positions for the glowing capacity-bar along it.",
+  "start": 78.743,
+  "end": 83.139,
+  "words": [
+   {
+    "word": "la",
+    "start": 78.977,
+    "end": 79.097
+   },
+   {
+    "word": "única",
+    "start": 79.097,
+    "end": 79.466
+   },
+   {
+    "word": "pregunta",
+    "start": 79.466,
+    "end": 79.943
+   },
+   {
+    "word": "inteligente",
+    "start": 79.943,
+    "end": 80.6
+   },
+   {
+    "word": "es",
+    "start": 80.6,
+    "end": 80.719
+   },
+   {
+    "word": "en",
+    "start": 80.719,
+    "end": 80.839
+   },
+   {
+    "word": "qué",
+    "start": 80.839,
+    "end": 81.018
+   },
+   {
+    "word": "momento",
+    "start": 81.018,
+    "end": 81.436
+   },
+   {
+    "word": "del",
+    "start": 81.436,
+    "end": 81.615
+   },
+   {
+    "word": "día",
+    "start": 81.615,
+    "end": 81.794
+   },
+   {
+    "word": "lo",
+    "start": 81.794,
+    "end": 81.913
+   },
+   {
+    "word": "vas",
+    "start": 81.913,
+    "end": 82.092
+   },
+   {
+    "word": "a",
+    "start": 82.092,
+    "end": 82.152
+   },
+   {
+    "word": "gastar.",
+    "start": 82.152,
+    "end": 82.51
+   }
+  ]
+ },
+ {
+  "id": "S04_F019",
+  "scene": "MÓDULO 2 — Por Qué las Primeras 2 Horas (Daniel Pink)",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Segundo, por qué las primeras dos horas, y no las últimas.",
+  "visual": "Figure stands beside a large numbered marker \"2\", the daily timeline now shown clearly from morning to night.",
+  "start": 83.139,
+  "end": 88.278,
+  "words": [
+   {
+    "word": "Segundo,",
+    "start": 83.769,
+    "end": 84.265
+   },
+   {
+    "word": "por",
+    "start": 84.265,
+    "end": 84.876
+   },
+   {
+    "word": "qué",
+    "start": 84.876,
+    "end": 85.089
+   },
+   {
+    "word": "las",
+    "start": 85.089,
+    "end": 85.302
+   },
+   {
+    "word": "primeras",
+    "start": 85.302,
+    "end": 85.869
+   },
+   {
+    "word": "dos",
+    "start": 85.869,
+    "end": 86.082
+   },
+   {
+    "word": "horas,",
+    "start": 86.082,
+    "end": 86.746
+   },
+   {
+    "word": "y",
+    "start": 86.746,
+    "end": 86.817
+   },
+   {
+    "word": "no",
+    "start": 86.817,
+    "end": 86.959
+   },
+   {
+    "word": "las",
+    "start": 86.959,
+    "end": 87.172
+   },
+   {
+    "word": "últimas.",
+    "start": 87.172,
+    "end": 87.668
+   }
+  ]
+ },
+ {
+  "id": "S04_F020",
+  "scene": "MÓDULO 2 — Por Qué las Primeras 2 Horas (Daniel Pink)",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "El escritor Daniel Pink, en su libro \"When\", analizó datos de miles de personas",
+  "visual": "Thoughtful narrating expression, a faint glowing chart/data-points icon appears briefly beside the figure.",
+  "start": 88.278,
+  "end": 94.634,
+  "words": [
+   {
+    "word": "El",
+    "start": 88.887,
+    "end": 89.046
+   },
+   {
+    "word": "escritor",
+    "start": 89.046,
+    "end": 89.681
+   },
+   {
+    "word": "Daniel",
+    "start": 89.681,
+    "end": 90.244
+   },
+   {
+    "word": "Pink,",
+    "start": 90.244,
+    "end": 90.986
+   },
+   {
+    "word": "en",
+    "start": 90.986,
+    "end": 91.145
+   },
+   {
+    "word": "su",
+    "start": 91.145,
+    "end": 91.304
+   },
+   {
+    "word": "libro",
+    "start": 91.304,
+    "end": 91.701
+   },
+   {
+    "word": "\"When\",",
+    "start": 91.701,
+    "end": 92.291
+   },
+   {
+    "word": "analizó",
+    "start": 92.291,
+    "end": 92.847
+   },
+   {
+    "word": "datos",
+    "start": 92.847,
+    "end": 93.244
+   },
+   {
+    "word": "de",
+    "start": 93.244,
+    "end": 93.402
+   },
+   {
+    "word": "miles",
+    "start": 93.402,
+    "end": 93.799
+   },
+   {
+    "word": "de",
+    "start": 93.799,
+    "end": 93.958
+   },
+   {
+    "word": "personas",
+    "start": 93.958,
+    "end": 94.593
+   }
+  ]
+ },
+ {
+  "id": "S04_F021",
+  "scene": "MÓDULO 2 — Por Qué las Primeras 2 Horas (Daniel Pink)",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "y encontró un patrón consistente: para la mayoría,",
+  "visual": "Close-up, a faint wave-shaped pattern glows steadily into view, clear and repeating.",
+  "start": 94.634,
+  "end": 97.305,
+  "words": [
+   {
+    "word": "y",
+    "start": 94.674,
+    "end": 94.722
+   },
+   {
+    "word": "encontró",
+    "start": 94.722,
+    "end": 95.104
+   },
+   {
+    "word": "un",
+    "start": 95.104,
+    "end": 95.199
+   },
+   {
+    "word": "patrón",
+    "start": 95.199,
+    "end": 95.485
+   },
+   {
+    "word": "consistente:",
+    "start": 95.485,
+    "end": 96.475
+   },
+   {
+    "word": "para",
+    "start": 96.475,
+    "end": 96.666
+   },
+   {
+    "word": "la",
+    "start": 96.666,
+    "end": 96.761
+   },
+   {
+    "word": "mayoría,",
+    "start": 96.761,
+    "end": 97.095
+   }
+  ]
+ },
+ {
+  "id": "S04_F022",
+  "scene": "MÓDULO 2 — Por Qué las Primeras 2 Horas (Daniel Pink)",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "el rendimiento analítico — el que exige enfoque, lógica, resolución de problemas —",
+  "visual": "The glowing wave rises to a clear peak early on the timeline, figure gestures toward that peak point.",
+  "start": 97.305,
+  "end": 103.381,
+  "words": [
+   {
+    "word": "el",
+    "start": 97.514,
+    "end": 97.634
+   },
+   {
+    "word": "rendimiento",
+    "start": 97.634,
+    "end": 98.29
+   },
+   {
+    "word": "analítico",
+    "start": 98.29,
+    "end": 99.322
+   },
+   {
+    "word": "—",
+    "start": 99.322,
+    "end": 99.456
+   },
+   {
+    "word": "el",
+    "start": 99.456,
+    "end": 99.576
+   },
+   {
+    "word": "que",
+    "start": 99.576,
+    "end": 99.755
+   },
+   {
+    "word": "exige",
+    "start": 99.755,
+    "end": 100.053
+   },
+   {
+    "word": "enfoque,",
+    "start": 100.053,
+    "end": 100.937
+   },
+   {
+    "word": "lógica,",
+    "start": 100.937,
+    "end": 101.799
+   },
+   {
+    "word": "resolución",
+    "start": 101.799,
+    "end": 102.396
+   },
+   {
+    "word": "de",
+    "start": 102.396,
+    "end": 102.603
+   },
+   {
+    "word": "problemas",
+    "start": 102.603,
+    "end": 103.14
+   },
+   {
+    "word": "—",
+    "start": 103.14,
+    "end": 103.2
+   }
+  ]
+ },
+ {
+  "id": "S04_F023",
+  "scene": "MÓDULO 2 — Por Qué las Primeras 2 Horas (Daniel Pink)",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "alcanza su punto más alto en las primeras horas después de despertar,",
+  "visual": "The peak of the glowing wave sits clearly near a small sunrise icon at the start of the timeline.",
+  "start": 103.381,
+  "end": 107.339,
+  "words": [
+   {
+    "word": "alcanza",
+    "start": 103.562,
+    "end": 103.942
+   },
+   {
+    "word": "su",
+    "start": 103.942,
+    "end": 104.05
+   },
+   {
+    "word": "punto",
+    "start": 104.05,
+    "end": 104.416
+   },
+   {
+    "word": "más",
+    "start": 104.416,
+    "end": 104.579
+   },
+   {
+    "word": "alto",
+    "start": 104.579,
+    "end": 104.796
+   },
+   {
+    "word": "en",
+    "start": 104.796,
+    "end": 104.904
+   },
+   {
+    "word": "las",
+    "start": 104.904,
+    "end": 105.15
+   },
+   {
+    "word": "primeras",
+    "start": 105.15,
+    "end": 105.66
+   },
+   {
+    "word": "horas",
+    "start": 105.66,
+    "end": 105.931
+   },
+   {
+    "word": "después",
+    "start": 105.931,
+    "end": 106.422
+   },
+   {
+    "word": "de",
+    "start": 106.422,
+    "end": 106.531
+   },
+   {
+    "word": "despertar,",
+    "start": 106.531,
+    "end": 107.206
+   }
+  ]
+ },
+ {
+  "id": "S04_F024",
+  "scene": "MÓDULO 2 — Por Qué las Primeras 2 Horas (Daniel Pink)",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "y luego cae durante el resto del día.",
+  "visual": "Close-up, the glowing wave descends steadily and unmistakably across the rest of the timeline toward a small moon icon.",
+  "start": 107.339,
+  "end": 110.074,
+  "words": [
+   {
+    "word": "y",
+    "start": 107.471,
+    "end": 107.534
+   },
+   {
+    "word": "luego",
+    "start": 107.534,
+    "end": 107.846
+   },
+   {
+    "word": "cae",
+    "start": 107.846,
+    "end": 108.122
+   },
+   {
+    "word": "durante",
+    "start": 108.122,
+    "end": 108.646
+   },
+   {
+    "word": "el",
+    "start": 108.646,
+    "end": 108.771
+   },
+   {
+    "word": "resto",
+    "start": 108.771,
+    "end": 109.084
+   },
+   {
+    "word": "del",
+    "start": 109.084,
+    "end": 109.271
+   },
+   {
+    "word": "día.",
+    "start": 109.271,
+    "end": 109.459
+   }
+  ]
+ },
+ {
+  "id": "S04_F025",
+  "scene": "MÓDULO 2 — Por Qué las Primeras 2 Horas (Daniel Pink)",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Esto es lo que nadie te dice: no es que te vuelvas perezoso por la tarde.",
+  "visual": "A faint dim laziness-icon is gently crossed out beside the figure, dismissing the common misconception.",
+  "start": 110.074,
+  "end": 115.066,
+  "words": [
+   {
+    "word": "Esto",
+    "start": 110.689,
+    "end": 110.909
+   },
+   {
+    "word": "es",
+    "start": 110.909,
+    "end": 111.018
+   },
+   {
+    "word": "lo",
+    "start": 111.018,
+    "end": 111.128
+   },
+   {
+    "word": "que",
+    "start": 111.128,
+    "end": 111.293
+   },
+   {
+    "word": "nadie",
+    "start": 111.293,
+    "end": 111.567
+   },
+   {
+    "word": "te",
+    "start": 111.567,
+    "end": 111.677
+   },
+   {
+    "word": "dice:",
+    "start": 111.677,
+    "end": 111.897
+   },
+   {
+    "word": "no",
+    "start": 111.897,
+    "end": 112.006
+   },
+   {
+    "word": "es",
+    "start": 112.006,
+    "end": 112.502
+   },
+   {
+    "word": "que",
+    "start": 112.502,
+    "end": 112.667
+   },
+   {
+    "word": "te",
+    "start": 112.667,
+    "end": 112.777
+   },
+   {
+    "word": "vuelvas",
+    "start": 112.777,
+    "end": 113.161
+   },
+   {
+    "word": "perezoso",
+    "start": 113.161,
+    "end": 113.672
+   },
+   {
+    "word": "por",
+    "start": 113.672,
+    "end": 113.837
+   },
+   {
+    "word": "la",
+    "start": 113.837,
+    "end": 114.022
+   },
+   {
+    "word": "tarde.",
+    "start": 114.022,
+    "end": 114.384
+   }
+  ]
+ },
+ {
+  "id": "S04_F026",
+  "scene": "MÓDULO 2 — Por Qué las Primeras 2 Horas (Daniel Pink)",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Es que ya gastaste tu mejor capacidad mental en correos, notificaciones y decisiones pequeñas",
+  "visual": "Small dim icons (an envelope, a notification bell, a tiny fork-in-the-road) drain the glowing capacity-bar visibly before the main task appears.",
+  "start": 115.066,
+  "end": 120.879,
+  "words": [
+   {
+    "word": "Es",
+    "start": 115.747,
+    "end": 115.864
+   },
+   {
+    "word": "que",
+    "start": 115.864,
+    "end": 116.04
+   },
+   {
+    "word": "ya",
+    "start": 116.04,
+    "end": 116.158
+   },
+   {
+    "word": "gastaste",
+    "start": 116.158,
+    "end": 116.627
+   },
+   {
+    "word": "tu",
+    "start": 116.627,
+    "end": 116.744
+   },
+   {
+    "word": "mejor",
+    "start": 116.744,
+    "end": 117.037
+   },
+   {
+    "word": "capacidad",
+    "start": 117.037,
+    "end": 117.635
+   },
+   {
+    "word": "mental",
+    "start": 117.635,
+    "end": 117.987
+   },
+   {
+    "word": "en",
+    "start": 117.987,
+    "end": 118.104
+   },
+   {
+    "word": "correos,",
+    "start": 118.104,
+    "end": 118.515
+   },
+   {
+    "word": "notificaciones",
+    "start": 118.515,
+    "end": 119.729
+   },
+   {
+    "word": "y",
+    "start": 119.729,
+    "end": 119.787
+   },
+   {
+    "word": "decisiones",
+    "start": 119.787,
+    "end": 120.374
+   },
+   {
+    "word": "pequeñas",
+    "start": 120.374,
+    "end": 120.843
+   }
+  ]
+ },
+ {
+  "id": "S04_F027",
+  "scene": "MÓDULO 2 — Por Qué las Primeras 2 Horas (Daniel Pink)",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "antes de siquiera empezar lo importante.",
+  "visual": "Close-up, the capacity-bar now noticeably depleted, a large important-task icon sits untouched and waiting, dimly lit.",
+  "start": 120.879,
+  "end": 124.056,
+  "words": [
+   {
+    "word": "antes",
+    "start": 120.914,
+    "end": 121.248
+   },
+   {
+    "word": "de",
+    "start": 121.248,
+    "end": 121.382
+   },
+   {
+    "word": "siquiera",
+    "start": 121.382,
+    "end": 121.916
+   },
+   {
+    "word": "empezar",
+    "start": 121.916,
+    "end": 122.454
+   },
+   {
+    "word": "lo",
+    "start": 122.454,
+    "end": 122.588
+   },
+   {
+    "word": "importante.",
+    "start": 122.588,
+    "end": 123.437
+   }
+  ]
+ },
+ {
+  "id": "S04_F028",
+  "scene": "MÓDULO 2 — Por Qué las Primeras 2 Horas (Daniel Pink)",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Aquí está la clave: la regla de las 2 horas no dice \"trabaja dos horas\".",
+  "visual": "Figure gestures firmly, a faint generic clock icon is gently set aside, not the point being made.",
+  "start": 124.056,
+  "end": 129.768,
+  "words": [
+   {
+    "word": "Aquí",
+    "start": 124.676,
+    "end": 124.952
+   },
+   {
+    "word": "está",
+    "start": 124.952,
+    "end": 125.227
+   },
+   {
+    "word": "la",
+    "start": 125.227,
+    "end": 125.365
+   },
+   {
+    "word": "clave:",
+    "start": 125.365,
+    "end": 125.709
+   },
+   {
+    "word": "la",
+    "start": 125.709,
+    "end": 126.244
+   },
+   {
+    "word": "regla",
+    "start": 126.244,
+    "end": 126.589
+   },
+   {
+    "word": "de",
+    "start": 126.589,
+    "end": 126.726
+   },
+   {
+    "word": "las",
+    "start": 126.726,
+    "end": 126.933
+   },
+   {
+    "word": "2",
+    "start": 126.933,
+    "end": 127.002
+   },
+   {
+    "word": "horas",
+    "start": 127.002,
+    "end": 127.346
+   },
+   {
+    "word": "no",
+    "start": 127.346,
+    "end": 127.484
+   },
+   {
+    "word": "dice",
+    "start": 127.484,
+    "end": 127.76
+   },
+   {
+    "word": "\"trabaja",
+    "start": 127.76,
+    "end": 128.539
+   },
+   {
+    "word": "dos",
+    "start": 128.539,
+    "end": 128.746
+   },
+   {
+    "word": "horas\".",
+    "start": 128.746,
+    "end": 129.167
+   }
+  ]
+ },
+ {
+  "id": "S04_F029",
+  "scene": "MÓDULO 2 — Por Qué las Primeras 2 Horas (Daniel Pink)",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Dice \"usa tus primeras dos horas de mente clara para lo único que de verdad importa hoy —",
+  "visual": "The glowing wave's peak zone is highlighted and connected directly to the single important-task icon from before.",
+  "start": 129.768,
+  "end": 135.224,
+  "words": [
+   {
+    "word": "Dice",
+    "start": 130.369,
+    "end": 130.595
+   },
+   {
+    "word": "\"usa",
+    "start": 130.595,
+    "end": 130.92
+   },
+   {
+    "word": "tus",
+    "start": 130.92,
+    "end": 131.09
+   },
+   {
+    "word": "primeras",
+    "start": 131.09,
+    "end": 131.615
+   },
+   {
+    "word": "dos",
+    "start": 131.615,
+    "end": 131.785
+   },
+   {
+    "word": "horas",
+    "start": 131.785,
+    "end": 132.068
+   },
+   {
+    "word": "de",
+    "start": 132.068,
+    "end": 132.181
+   },
+   {
+    "word": "mente",
+    "start": 132.181,
+    "end": 132.464
+   },
+   {
+    "word": "clara",
+    "start": 132.464,
+    "end": 132.829
+   },
+   {
+    "word": "para",
+    "start": 132.829,
+    "end": 133.145
+   },
+   {
+    "word": "lo",
+    "start": 133.145,
+    "end": 133.258
+   },
+   {
+    "word": "único",
+    "start": 133.258,
+    "end": 133.541
+   },
+   {
+    "word": "que",
+    "start": 133.541,
+    "end": 133.711
+   },
+   {
+    "word": "de",
+    "start": 133.711,
+    "end": 133.904
+   },
+   {
+    "word": "verdad",
+    "start": 133.904,
+    "end": 134.244
+   },
+   {
+    "word": "importa",
+    "start": 134.244,
+    "end": 134.832
+   },
+   {
+    "word": "hoy",
+    "start": 134.832,
+    "end": 135.001
+   },
+   {
+    "word": "—",
+    "start": 135.001,
+    "end": 135.058
+   }
+  ]
+ },
+ {
+  "id": "S04_F030",
+  "scene": "MÓDULO 2 — Por Qué las Primeras 2 Horas (Daniel Pink)",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "antes de que el día te las robe\".",
+  "visual": "Close-up, small dim distraction-icons reach toward the glowing peak zone but are held back just outside it, tense but protected moment.",
+  "start": 135.224,
+  "end": 137.387,
+  "words": [
+   {
+    "word": "antes",
+    "start": 135.389,
+    "end": 135.673
+   },
+   {
+    "word": "de",
+    "start": 135.673,
+    "end": 135.786
+   },
+   {
+    "word": "que",
+    "start": 135.786,
+    "end": 135.957
+   },
+   {
+    "word": "el",
+    "start": 135.957,
+    "end": 136.07
+   },
+   {
+    "word": "día",
+    "start": 136.07,
+    "end": 136.24
+   },
+   {
+    "word": "te",
+    "start": 136.24,
+    "end": 136.354
+   },
+   {
+    "word": "las",
+    "start": 136.354,
+    "end": 136.524
+   },
+   {
+    "word": "robe\".",
+    "start": 136.524,
+    "end": 136.751
+   }
+  ]
+ },
+ {
+  "id": "S05_F031",
+  "scene": "MÓDULO 3 — Cómo Proteger las 2 Horas",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Tercero, cómo proteger esas dos horas, porque decidirlo no es suficiente.",
+  "visual": "Figure stands beside a large numbered marker \"3\", the glowing protected zone from before now shown clearly on the timeline.",
+  "start": 137.387,
+  "end": 143.384,
+  "words": [
+   {
+    "word": "Tercero,",
+    "start": 138.022,
+    "end": 138.48
+   },
+   {
+    "word": "cómo",
+    "start": 138.48,
+    "end": 139.105
+   },
+   {
+    "word": "proteger",
+    "start": 139.105,
+    "end": 139.629
+   },
+   {
+    "word": "esas",
+    "start": 139.629,
+    "end": 139.891
+   },
+   {
+    "word": "dos",
+    "start": 139.891,
+    "end": 140.087
+   },
+   {
+    "word": "horas,",
+    "start": 140.087,
+    "end": 140.414
+   },
+   {
+    "word": "porque",
+    "start": 140.414,
+    "end": 141.182
+   },
+   {
+    "word": "decidirlo",
+    "start": 141.182,
+    "end": 141.771
+   },
+   {
+    "word": "no",
+    "start": 141.771,
+    "end": 141.902
+   },
+   {
+    "word": "es",
+    "start": 141.902,
+    "end": 142.033
+   },
+   {
+    "word": "suficiente.",
+    "start": 142.033,
+    "end": 142.765
+   }
+  ]
+ },
+ {
+  "id": "S05_F032",
+  "scene": "MÓDULO 3 — Cómo Proteger las 2 Horas",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Elige una sola tarea, la más importante, la noche anterior —",
+  "visual": "Figure, in a calm evening setting, circles a single glowing task-icon among several dimmer ones, decisive but relaxed expression.",
+  "start": 143.384,
+  "end": 148.27,
+  "words": [
+   {
+    "word": "Elige",
+    "start": 144.003,
+    "end": 144.326
+   },
+   {
+    "word": "una",
+    "start": 144.326,
+    "end": 144.52
+   },
+   {
+    "word": "sola",
+    "start": 144.52,
+    "end": 144.778
+   },
+   {
+    "word": "tarea,",
+    "start": 144.778,
+    "end": 145.101
+   },
+   {
+    "word": "la",
+    "start": 145.101,
+    "end": 145.23
+   },
+   {
+    "word": "más",
+    "start": 145.23,
+    "end": 145.806
+   },
+   {
+    "word": "importante,",
+    "start": 145.806,
+    "end": 146.616
+   },
+   {
+    "word": "la",
+    "start": 146.616,
+    "end": 147.177
+   },
+   {
+    "word": "noche",
+    "start": 147.177,
+    "end": 147.5
+   },
+   {
+    "word": "anterior",
+    "start": 147.5,
+    "end": 148.016
+   },
+   {
+    "word": "—",
+    "start": 148.016,
+    "end": 148.081
+   }
+  ]
+ },
+ {
+  "id": "S05_F033",
+  "scene": "MÓDULO 3 — Cómo Proteger las 2 Horas",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "no en la mañana, cuando ya estás cansado de decidir.",
+  "visual": "Close-up, a faint tired ghost-outline of the figure surrounded by many small decision-icons the next morning, visibly drained.",
+  "start": 148.27,
+  "end": 151.816,
+  "words": [
+   {
+    "word": "no",
+    "start": 148.46,
+    "end": 148.577
+   },
+   {
+    "word": "en",
+    "start": 148.577,
+    "end": 148.693
+   },
+   {
+    "word": "la",
+    "start": 148.693,
+    "end": 148.81
+   },
+   {
+    "word": "mañana,",
+    "start": 148.81,
+    "end": 149.16
+   },
+   {
+    "word": "cuando",
+    "start": 149.16,
+    "end": 149.853
+   },
+   {
+    "word": "ya",
+    "start": 149.853,
+    "end": 149.969
+   },
+   {
+    "word": "estás",
+    "start": 149.969,
+    "end": 150.261
+   },
+   {
+    "word": "cansado",
+    "start": 150.261,
+    "end": 150.67
+   },
+   {
+    "word": "de",
+    "start": 150.67,
+    "end": 150.786
+   },
+   {
+    "word": "decidir.",
+    "start": 150.786,
+    "end": 151.195
+   }
+  ]
+ },
+ {
+  "id": "S05_F034",
+  "scene": "MÓDULO 3 — Cómo Proteger las 2 Horas",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Pon el teléfono en otra habitación, no en modo silencio sobre tu escritorio,",
+  "visual": "Figure carries a glowing phone icon out of the workspace entirely into a separate faint room-outline, deliberate action.",
+  "start": 151.816,
+  "end": 156.901,
+  "words": [
+   {
+    "word": "Pon",
+    "start": 152.437,
+    "end": 152.611
+   },
+   {
+    "word": "el",
+    "start": 152.611,
+    "end": 152.823
+   },
+   {
+    "word": "teléfono",
+    "start": 152.823,
+    "end": 153.288
+   },
+   {
+    "word": "en",
+    "start": 153.288,
+    "end": 153.404
+   },
+   {
+    "word": "otra",
+    "start": 153.404,
+    "end": 153.637
+   },
+   {
+    "word": "habitación,",
+    "start": 153.637,
+    "end": 154.218
+   },
+   {
+    "word": "no",
+    "start": 154.218,
+    "end": 154.713
+   },
+   {
+    "word": "en",
+    "start": 154.713,
+    "end": 154.829
+   },
+   {
+    "word": "modo",
+    "start": 154.829,
+    "end": 155.062
+   },
+   {
+    "word": "silencio",
+    "start": 155.062,
+    "end": 155.526
+   },
+   {
+    "word": "sobre",
+    "start": 155.526,
+    "end": 155.817
+   },
+   {
+    "word": "tu",
+    "start": 155.817,
+    "end": 156.007
+   },
+   {
+    "word": "escritorio,",
+    "start": 156.007,
+    "end": 156.67
+   }
+  ]
+ },
+ {
+  "id": "S05_F035",
+  "scene": "MÓDULO 3 — Cómo Proteger las 2 Horas",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "porque incluso verlo ahí reduce tu capacidad de concentración.",
+  "visual": "A faint dim phone icon sitting visibly on the desk subtly drains the glowing capacity-bar just by its presence, even while silent.",
+  "start": 156.901,
+  "end": 161.033,
+  "words": [
+   {
+    "word": "porque",
+    "start": 157.132,
+    "end": 157.497
+   },
+   {
+    "word": "incluso",
+    "start": 157.497,
+    "end": 157.923
+   },
+   {
+    "word": "verlo",
+    "start": 157.923,
+    "end": 158.227
+   },
+   {
+    "word": "ahí",
+    "start": 158.227,
+    "end": 158.409
+   },
+   {
+    "word": "reduce",
+    "start": 158.409,
+    "end": 158.774
+   },
+   {
+    "word": "tu",
+    "start": 158.774,
+    "end": 158.896
+   },
+   {
+    "word": "capacidad",
+    "start": 158.896,
+    "end": 159.516
+   },
+   {
+    "word": "de",
+    "start": 159.516,
+    "end": 159.637
+   },
+   {
+    "word": "concentración.",
+    "start": 159.637,
+    "end": 160.428
+   }
+  ]
+ },
+ {
+  "id": "S05_F036",
+  "scene": "MÓDULO 3 — Cómo Proteger las 2 Horas",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Y esto es lo que cambia todo: no revises correo, mensajes ni redes hasta que termine el bloque,",
+  "visual": "Close-up, figure resolutely turns away from a cluster of small message/notification icons, the glowing protected zone staying intact behind them.",
+  "start": 161.033,
+  "end": 167.472,
+  "words": [
+   {
+    "word": "Y",
+    "start": 161.638,
+    "end": 161.7
+   },
+   {
+    "word": "esto",
+    "start": 161.7,
+    "end": 161.946
+   },
+   {
+    "word": "es",
+    "start": 161.946,
+    "end": 162.069
+   },
+   {
+    "word": "lo",
+    "start": 162.069,
+    "end": 162.193
+   },
+   {
+    "word": "que",
+    "start": 162.193,
+    "end": 162.378
+   },
+   {
+    "word": "cambia",
+    "start": 162.378,
+    "end": 162.836
+   },
+   {
+    "word": "todo:",
+    "start": 162.836,
+    "end": 163.509
+   },
+   {
+    "word": "no",
+    "start": 163.509,
+    "end": 163.632
+   },
+   {
+    "word": "revises",
+    "start": 163.632,
+    "end": 164.063
+   },
+   {
+    "word": "correo,",
+    "start": 164.063,
+    "end": 164.433
+   },
+   {
+    "word": "mensajes",
+    "start": 164.433,
+    "end": 165.326
+   },
+   {
+    "word": "ni",
+    "start": 165.326,
+    "end": 165.449
+   },
+   {
+    "word": "redes",
+    "start": 165.449,
+    "end": 165.758
+   },
+   {
+    "word": "hasta",
+    "start": 165.758,
+    "end": 166.066
+   },
+   {
+    "word": "que",
+    "start": 166.066,
+    "end": 166.251
+   },
+   {
+    "word": "termine",
+    "start": 166.251,
+    "end": 166.682
+   },
+   {
+    "word": "el",
+    "start": 166.682,
+    "end": 166.805
+   },
+   {
+    "word": "bloque,",
+    "start": 166.805,
+    "end": 167.272
+   }
+  ]
+ },
+ {
+  "id": "S05_F037",
+  "scene": "MÓDULO 3 — Cómo Proteger las 2 Horas",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "aunque solo sea un vistazo rápido — un vistazo rápido no existe,",
+  "visual": "A small dim notification icon flickers briefly, tempting, then a faint ghost-outline shows it actually costing several minutes of recovery.",
+  "start": 167.472,
+  "end": 171.68,
+  "words": [
+   {
+    "word": "aunque",
+    "start": 167.672,
+    "end": 168.055
+   },
+   {
+    "word": "solo",
+    "start": 168.055,
+    "end": 168.311
+   },
+   {
+    "word": "sea",
+    "start": 168.311,
+    "end": 168.502
+   },
+   {
+    "word": "un",
+    "start": 168.502,
+    "end": 168.63
+   },
+   {
+    "word": "vistazo",
+    "start": 168.63,
+    "end": 169.077
+   },
+   {
+    "word": "rápido",
+    "start": 169.077,
+    "end": 169.842
+   },
+   {
+    "word": "—",
+    "start": 169.842,
+    "end": 169.906
+   },
+   {
+    "word": "un",
+    "start": 169.906,
+    "end": 170.034
+   },
+   {
+    "word": "vistazo",
+    "start": 170.034,
+    "end": 170.481
+   },
+   {
+    "word": "rápido",
+    "start": 170.481,
+    "end": 170.969
+   },
+   {
+    "word": "no",
+    "start": 170.969,
+    "end": 171.097
+   },
+   {
+    "word": "existe,",
+    "start": 171.097,
+    "end": 171.48
+   }
+  ]
+ },
+ {
+  "id": "S05_F038",
+  "scene": "MÓDULO 3 — Cómo Proteger las 2 Horas",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "siempre te cuesta minutos de recuperación después.",
+  "visual": "The glowing capacity-bar visibly dips and takes a noticeable stretch of the timeline to recover back to its previous level.",
+  "start": 171.68,
+  "end": 175.186,
+  "words": [
+   {
+    "word": "siempre",
+    "start": 171.881,
+    "end": 172.294
+   },
+   {
+    "word": "te",
+    "start": 172.294,
+    "end": 172.412
+   },
+   {
+    "word": "cuesta",
+    "start": 172.412,
+    "end": 172.766
+   },
+   {
+    "word": "minutos",
+    "start": 172.766,
+    "end": 173.178
+   },
+   {
+    "word": "de",
+    "start": 173.178,
+    "end": 173.296
+   },
+   {
+    "word": "recuperación",
+    "start": 173.296,
+    "end": 174.075
+   },
+   {
+    "word": "después.",
+    "start": 174.075,
+    "end": 174.576
+   }
+  ]
+ },
+ {
+  "id": "S05_F039",
+  "scene": "MÓDULO 3 — Cómo Proteger las 2 Horas",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Pero espera, todavía hay más: cierra también las pestañas del navegador que no necesitas",
+  "visual": "Close-up, figure closes several small dim browser-tab icons one by one, leaving only the single task-icon glowing on screen.",
+  "start": 175.186,
+  "end": 181.135,
+  "words": [
+   {
+    "word": "Pero",
+    "start": 175.796,
+    "end": 176.032
+   },
+   {
+    "word": "espera,",
+    "start": 176.032,
+    "end": 176.479
+   },
+   {
+    "word": "todavía",
+    "start": 176.479,
+    "end": 177.272
+   },
+   {
+    "word": "hay",
+    "start": 177.272,
+    "end": 177.449
+   },
+   {
+    "word": "más:",
+    "start": 177.449,
+    "end": 177.626
+   },
+   {
+    "word": "cierra",
+    "start": 177.626,
+    "end": 178.315
+   },
+   {
+    "word": "también",
+    "start": 178.315,
+    "end": 178.728
+   },
+   {
+    "word": "las",
+    "start": 178.728,
+    "end": 178.977
+   },
+   {
+    "word": "pestañas",
+    "start": 178.977,
+    "end": 179.45
+   },
+   {
+    "word": "del",
+    "start": 179.45,
+    "end": 179.627
+   },
+   {
+    "word": "navegador",
+    "start": 179.627,
+    "end": 180.262
+   },
+   {
+    "word": "que",
+    "start": 180.262,
+    "end": 180.439
+   },
+   {
+    "word": "no",
+    "start": 180.439,
+    "end": 180.558
+   },
+   {
+    "word": "necesitas",
+    "start": 180.558,
+    "end": 181.089
+   }
+  ]
+ },
+ {
+  "id": "S05_F040",
+  "scene": "MÓDULO 3 — Cómo Proteger las 2 Horas",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "para esa tarea específica.",
+  "visual": "Only the single glowing task-icon remains open and centered, clean and uncluttered workspace around it.",
+  "start": 181.135,
+  "end": 183.284,
+  "words": [
+   {
+    "word": "para",
+    "start": 181.181,
+    "end": 181.407
+   },
+   {
+    "word": "esa",
+    "start": 181.407,
+    "end": 181.65
+   },
+   {
+    "word": "tarea",
+    "start": 181.65,
+    "end": 181.932
+   },
+   {
+    "word": "específica.",
+    "start": 181.932,
+    "end": 182.677
+   }
+  ]
+ },
+ {
+  "id": "S05_F041",
+  "scene": "MÓDULO 3 — Cómo Proteger las 2 Horas",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Cada pestaña abierta es una decisión pendiente compitiendo por el mismo espacio mental limitado",
+  "visual": "Each faint remaining tab-icon pulls a thin visible thread of light away from the main glowing capacity-bar, competing for the same resource.",
+  "start": 183.284,
+  "end": 188.088,
+  "words": [
+   {
+    "word": "Cada",
+    "start": 183.892,
+    "end": 184.084
+   },
+   {
+    "word": "pestaña",
+    "start": 184.084,
+    "end": 184.419
+   },
+   {
+    "word": "abierta",
+    "start": 184.419,
+    "end": 184.754
+   },
+   {
+    "word": "es",
+    "start": 184.754,
+    "end": 184.85
+   },
+   {
+    "word": "una",
+    "start": 184.85,
+    "end": 184.994
+   },
+   {
+    "word": "decisión",
+    "start": 184.994,
+    "end": 185.377
+   },
+   {
+    "word": "pendiente",
+    "start": 185.377,
+    "end": 185.886
+   },
+   {
+    "word": "compitiendo",
+    "start": 185.886,
+    "end": 186.413
+   },
+   {
+    "word": "por",
+    "start": 186.413,
+    "end": 186.556
+   },
+   {
+    "word": "el",
+    "start": 186.556,
+    "end": 186.652
+   },
+   {
+    "word": "mismo",
+    "start": 186.652,
+    "end": 186.971
+   },
+   {
+    "word": "espacio",
+    "start": 186.971,
+    "end": 187.306
+   },
+   {
+    "word": "mental",
+    "start": 187.306,
+    "end": 187.667
+   },
+   {
+    "word": "limitado",
+    "start": 187.667,
+    "end": 188.05
+   }
+  ]
+ },
+ {
+  "id": "S05_F042",
+  "scene": "MÓDULO 3 — Cómo Proteger las 2 Horas",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "del que hablaba Newport.",
+  "visual": "Close-up, the glowing capacity-bar icon from Módulo 1 reappears briefly, calm knowing expression, connecting the two ideas.",
+  "start": 188.088,
+  "end": 190.372,
+  "words": [
+   {
+    "word": "del",
+    "start": 188.125,
+    "end": 188.314
+   },
+   {
+    "word": "que",
+    "start": 188.314,
+    "end": 188.599
+   },
+   {
+    "word": "hablaba",
+    "start": 188.599,
+    "end": 189.121
+   },
+   {
+    "word": "Newport.",
+    "start": 189.121,
+    "end": 189.702
+   }
+  ]
+ },
+ {
+  "id": "S06_F043",
+  "scene": "MÓDULO 4 — Qué Pasa Si No las Proteges",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Cuarto, qué pasa cuando no las proteges.",
+  "visual": "Figure stands beside a large numbered marker \"4\", the protected zone now shown broken and dim rather than glowing.",
+  "start": 190.372,
+  "end": 194.11,
+  "words": [
+   {
+    "word": "Cuarto,",
+    "start": 191.042,
+    "end": 191.855
+   },
+   {
+    "word": "qué",
+    "start": 191.855,
+    "end": 192.034
+   },
+   {
+    "word": "pasa",
+    "start": 192.034,
+    "end": 192.274
+   },
+   {
+    "word": "cuando",
+    "start": 192.274,
+    "end": 192.632
+   },
+   {
+    "word": "no",
+    "start": 192.632,
+    "end": 192.752
+   },
+   {
+    "word": "las",
+    "start": 192.752,
+    "end": 192.931
+   },
+   {
+    "word": "proteges.",
+    "start": 192.931,
+    "end": 193.492
+   }
+  ]
+ },
+ {
+  "id": "S06_F044",
+  "scene": "MÓDULO 4 — Qué Pasa Si No las Proteges",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Empiezas el día revisando el teléfono en la cama, respondes tres mensajes, revisas una notificación,",
+  "visual": "Figure lying in bed reaching for a glowing phone, three small message-icons and a notification-icon lighting up one after another.",
+  "start": 194.11,
+  "end": 199.471,
+  "words": [
+   {
+    "word": "Empiezas",
+    "start": 194.728,
+    "end": 195.107
+   },
+   {
+    "word": "el",
+    "start": 195.107,
+    "end": 195.202
+   },
+   {
+    "word": "día",
+    "start": 195.202,
+    "end": 195.344
+   },
+   {
+    "word": "revisando",
+    "start": 195.344,
+    "end": 195.771
+   },
+   {
+    "word": "el",
+    "start": 195.771,
+    "end": 195.866
+   },
+   {
+    "word": "teléfono",
+    "start": 195.866,
+    "end": 196.245
+   },
+   {
+    "word": "en",
+    "start": 196.245,
+    "end": 196.422
+   },
+   {
+    "word": "la",
+    "start": 196.422,
+    "end": 196.516
+   },
+   {
+    "word": "cama,",
+    "start": 196.516,
+    "end": 196.706
+   },
+   {
+    "word": "respondes",
+    "start": 196.706,
+    "end": 197.234
+   },
+   {
+    "word": "tres",
+    "start": 197.234,
+    "end": 197.83
+   },
+   {
+    "word": "mensajes,",
+    "start": 197.83,
+    "end": 198.209
+   },
+   {
+    "word": "revisas",
+    "start": 198.209,
+    "end": 198.541
+   },
+   {
+    "word": "una",
+    "start": 198.541,
+    "end": 198.683
+   },
+   {
+    "word": "notificación,",
+    "start": 198.683,
+    "end": 199.252
+   }
+  ]
+ },
+ {
+  "id": "S06_F045",
+  "scene": "MÓDULO 4 — Qué Pasa Si No las Proteges",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "y para cuando te sientas a trabajar, ya gastaste una parte de esas dos horas doradas",
+  "visual": "Close-up, the glowing capacity-bar shown noticeably smaller than in Módulo 1, already partially drained before work even starts.",
+  "start": 199.471,
+  "end": 204.953,
+  "words": [
+   {
+    "word": "y",
+    "start": 199.689,
+    "end": 199.751
+   },
+   {
+    "word": "para",
+    "start": 199.751,
+    "end": 199.997
+   },
+   {
+    "word": "cuando",
+    "start": 199.997,
+    "end": 200.366
+   },
+   {
+    "word": "te",
+    "start": 200.366,
+    "end": 200.489
+   },
+   {
+    "word": "sientas",
+    "start": 200.489,
+    "end": 200.919
+   },
+   {
+    "word": "a",
+    "start": 200.919,
+    "end": 200.981
+   },
+   {
+    "word": "trabajar,",
+    "start": 200.981,
+    "end": 201.802
+   },
+   {
+    "word": "ya",
+    "start": 201.802,
+    "end": 201.997
+   },
+   {
+    "word": "gastaste",
+    "start": 201.997,
+    "end": 202.489
+   },
+   {
+    "word": "una",
+    "start": 202.489,
+    "end": 202.674
+   },
+   {
+    "word": "parte",
+    "start": 202.674,
+    "end": 203.052
+   },
+   {
+    "word": "de",
+    "start": 203.052,
+    "end": 203.175
+   },
+   {
+    "word": "esas",
+    "start": 203.175,
+    "end": 203.832
+   },
+   {
+    "word": "dos",
+    "start": 203.832,
+    "end": 204.017
+   },
+   {
+    "word": "horas",
+    "start": 204.017,
+    "end": 204.324
+   },
+   {
+    "word": "doradas",
+    "start": 204.324,
+    "end": 204.907
+   }
+  ]
+ },
+ {
+  "id": "S06_F046",
+  "scene": "MÓDULO 4 — Qué Pasa Si No las Proteges",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "en decisiones que no importaban.",
+  "visual": "Small dim decision-icons scattered around, none of them connected to the single important-task icon from earlier.",
+  "start": 204.953,
+  "end": 208.502,
+  "words": [
+   {
+    "word": "en",
+    "start": 204.999,
+    "end": 205.206
+   },
+   {
+    "word": "decisiones",
+    "start": 205.206,
+    "end": 206.239
+   },
+   {
+    "word": "que",
+    "start": 206.239,
+    "end": 206.549
+   },
+   {
+    "word": "no",
+    "start": 206.549,
+    "end": 206.756
+   },
+   {
+    "word": "importaban.",
+    "start": 206.756,
+    "end": 207.89
+   }
+  ]
+ },
+ {
+  "id": "S06_F047",
+  "scene": "MÓDULO 4 — Qué Pasa Si No las Proteges",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Presta atención a esto: el problema no es la cantidad de horas que trabajas después.",
+  "visual": "Figure gestures toward a long stretch of the timeline later in the day, dismissing it as not the real issue.",
+  "start": 208.502,
+  "end": 214.409,
+  "words": [
+   {
+    "word": "Presta",
+    "start": 209.114,
+    "end": 209.479
+   },
+   {
+    "word": "atención",
+    "start": 209.479,
+    "end": 209.966
+   },
+   {
+    "word": "a",
+    "start": 209.966,
+    "end": 210.027
+   },
+   {
+    "word": "esto:",
+    "start": 210.027,
+    "end": 210.271
+   },
+   {
+    "word": "el",
+    "start": 210.271,
+    "end": 210.776
+   },
+   {
+    "word": "problema",
+    "start": 210.776,
+    "end": 211.263
+   },
+   {
+    "word": "no",
+    "start": 211.263,
+    "end": 211.384
+   },
+   {
+    "word": "es",
+    "start": 211.384,
+    "end": 211.506
+   },
+   {
+    "word": "la",
+    "start": 211.506,
+    "end": 211.628
+   },
+   {
+    "word": "cantidad",
+    "start": 211.628,
+    "end": 212.115
+   },
+   {
+    "word": "de",
+    "start": 212.115,
+    "end": 212.237
+   },
+   {
+    "word": "horas",
+    "start": 212.237,
+    "end": 212.541
+   },
+   {
+    "word": "que",
+    "start": 212.541,
+    "end": 212.799
+   },
+   {
+    "word": "trabajas",
+    "start": 212.799,
+    "end": 213.286
+   },
+   {
+    "word": "después.",
+    "start": 213.286,
+    "end": 213.806
+   }
+  ]
+ },
+ {
+  "id": "S06_F048",
+  "scene": "MÓDULO 4 — Qué Pasa Si No las Proteges",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Es que ya usaste tu mejor capacidad mental en lo más trivial del día,",
+  "visual": "Close-up, the glowing capacity-bar's brightest portion shown spent entirely on small trivial icons rather than the important task.",
+  "start": 214.409,
+  "end": 218.765,
+  "words": [
+   {
+    "word": "Es",
+    "start": 215.012,
+    "end": 215.139
+   },
+   {
+    "word": "que",
+    "start": 215.139,
+    "end": 215.33
+   },
+   {
+    "word": "ya",
+    "start": 215.33,
+    "end": 215.457
+   },
+   {
+    "word": "usaste",
+    "start": 215.457,
+    "end": 215.838
+   },
+   {
+    "word": "tu",
+    "start": 215.838,
+    "end": 215.965
+   },
+   {
+    "word": "mejor",
+    "start": 215.965,
+    "end": 216.282
+   },
+   {
+    "word": "capacidad",
+    "start": 216.282,
+    "end": 216.854
+   },
+   {
+    "word": "mental",
+    "start": 216.854,
+    "end": 217.313
+   },
+   {
+    "word": "en",
+    "start": 217.313,
+    "end": 217.44
+   },
+   {
+    "word": "lo",
+    "start": 217.44,
+    "end": 217.567
+   },
+   {
+    "word": "más",
+    "start": 217.567,
+    "end": 217.757
+   },
+   {
+    "word": "trivial",
+    "start": 217.757,
+    "end": 218.202
+   },
+   {
+    "word": "del",
+    "start": 218.202,
+    "end": 218.392
+   },
+   {
+    "word": "día,",
+    "start": 218.392,
+    "end": 218.583
+   }
+  ]
+ },
+ {
+  "id": "S06_F049",
+  "scene": "MÓDULO 4 — Qué Pasa Si No las Proteges",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "y lo que te queda para lo importante es la versión cansada de tu mente, no la versión completa.",
+  "visual": "A faint dimmer, more tired version of the glowing brain icon sits beside the untouched important-task icon, mismatched and insufficient.",
+  "start": 218.765,
+  "end": 224.652,
+  "words": [
+   {
+    "word": "y",
+    "start": 218.947,
+    "end": 219.003
+   },
+   {
+    "word": "lo",
+    "start": 219.003,
+    "end": 219.116
+   },
+   {
+    "word": "que",
+    "start": 219.116,
+    "end": 219.285
+   },
+   {
+    "word": "te",
+    "start": 219.285,
+    "end": 219.398
+   },
+   {
+    "word": "queda",
+    "start": 219.398,
+    "end": 219.68
+   },
+   {
+    "word": "para",
+    "start": 219.68,
+    "end": 219.977
+   },
+   {
+    "word": "lo",
+    "start": 219.977,
+    "end": 220.09
+   },
+   {
+    "word": "importante",
+    "start": 220.09,
+    "end": 220.738
+   },
+   {
+    "word": "es",
+    "start": 220.738,
+    "end": 220.851
+   },
+   {
+    "word": "la",
+    "start": 220.851,
+    "end": 220.964
+   },
+   {
+    "word": "versión",
+    "start": 220.964,
+    "end": 221.359
+   },
+   {
+    "word": "cansada",
+    "start": 221.359,
+    "end": 221.753
+   },
+   {
+    "word": "de",
+    "start": 221.753,
+    "end": 221.866
+   },
+   {
+    "word": "tu",
+    "start": 221.866,
+    "end": 222.055
+   },
+   {
+    "word": "mente,",
+    "start": 222.055,
+    "end": 222.441
+   },
+   {
+    "word": "no",
+    "start": 222.441,
+    "end": 222.905
+   },
+   {
+    "word": "la",
+    "start": 222.905,
+    "end": 223.018
+   },
+   {
+    "word": "versión",
+    "start": 223.018,
+    "end": 223.413
+   },
+   {
+    "word": "completa.",
+    "start": 223.413,
+    "end": 224.031
+   }
+  ]
+ },
+ {
+  "id": "S06_F050",
+  "scene": "MÓDULO 4 — Qué Pasa Si No las Proteges",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "El resultado no es que trabajes menos — es que trabajas muchas horas sintiéndote ocupado,",
+  "visual": "Figure shown surrounded by many small completed-but-trivial task-icons across a long stretch of the timeline, visibly tired but not satisfied.",
+  "start": 224.652,
+  "end": 230.534,
+  "words": [
+   {
+    "word": "El",
+    "start": 225.273,
+    "end": 225.396
+   },
+   {
+    "word": "resultado",
+    "start": 225.396,
+    "end": 226.03
+   },
+   {
+    "word": "no",
+    "start": 226.03,
+    "end": 226.153
+   },
+   {
+    "word": "es",
+    "start": 226.153,
+    "end": 226.275
+   },
+   {
+    "word": "que",
+    "start": 226.275,
+    "end": 226.459
+   },
+   {
+    "word": "trabajes",
+    "start": 226.459,
+    "end": 226.949
+   },
+   {
+    "word": "menos",
+    "start": 226.949,
+    "end": 227.255
+   },
+   {
+    "word": "—",
+    "start": 227.255,
+    "end": 227.317
+   },
+   {
+    "word": "es",
+    "start": 227.317,
+    "end": 227.439
+   },
+   {
+    "word": "que",
+    "start": 227.439,
+    "end": 227.999
+   },
+   {
+    "word": "trabajas",
+    "start": 227.999,
+    "end": 228.489
+   },
+   {
+    "word": "muchas",
+    "start": 228.489,
+    "end": 228.857
+   },
+   {
+    "word": "horas",
+    "start": 228.857,
+    "end": 229.163
+   },
+   {
+    "word": "sintiéndote",
+    "start": 229.163,
+    "end": 229.837
+   },
+   {
+    "word": "ocupado,",
+    "start": 229.837,
+    "end": 230.356
+   }
+  ]
+ },
+ {
+  "id": "S06_F051",
+  "scene": "MÓDULO 4 — Qué Pasa Si No las Proteges",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "sin avanzar realmente en lo que de verdad importa.",
+  "visual": "Close-up, the single important-task icon from earlier sits completely untouched at the end of the day, unchanged, tired resigned expression.",
+  "start": 230.534,
+  "end": 233.728,
+  "words": [
+   {
+    "word": "sin",
+    "start": 230.713,
+    "end": 230.868
+   },
+   {
+    "word": "avanzar",
+    "start": 230.868,
+    "end": 231.231
+   },
+   {
+    "word": "realmente",
+    "start": 231.231,
+    "end": 231.696
+   },
+   {
+    "word": "en",
+    "start": 231.696,
+    "end": 231.8
+   },
+   {
+    "word": "lo",
+    "start": 231.8,
+    "end": 231.903
+   },
+   {
+    "word": "que",
+    "start": 231.903,
+    "end": 232.145
+   },
+   {
+    "word": "de",
+    "start": 232.145,
+    "end": 232.248
+   },
+   {
+    "word": "verdad",
+    "start": 232.248,
+    "end": 232.559
+   },
+   {
+    "word": "importa.",
+    "start": 232.559,
+    "end": 233.129
+   }
+  ]
+ },
+ {
+  "id": "S07_F052",
+  "scene": "EL CIERRE",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "La regla de las 2 horas no es sobre disciplina extrema ni sobre madrugar como monje.",
+  "visual": "Figure stands calm and relaxed, a faint ghost-outline of an overly strict monk-figure fades gently aside, not the point being made.",
+  "start": 233.728,
+  "end": 239.091,
+  "words": [
+   {
+    "word": "La",
+    "start": 234.328,
+    "end": 234.443
+   },
+   {
+    "word": "regla",
+    "start": 234.443,
+    "end": 234.732
+   },
+   {
+    "word": "de",
+    "start": 234.732,
+    "end": 234.847
+   },
+   {
+    "word": "las",
+    "start": 234.847,
+    "end": 235.02
+   },
+   {
+    "word": "2",
+    "start": 235.02,
+    "end": 235.077
+   },
+   {
+    "word": "horas",
+    "start": 235.077,
+    "end": 235.366
+   },
+   {
+    "word": "no",
+    "start": 235.366,
+    "end": 235.481
+   },
+   {
+    "word": "es",
+    "start": 235.481,
+    "end": 235.596
+   },
+   {
+    "word": "sobre",
+    "start": 235.596,
+    "end": 235.884
+   },
+   {
+    "word": "disciplina",
+    "start": 235.884,
+    "end": 236.538
+   },
+   {
+    "word": "extrema",
+    "start": 236.538,
+    "end": 236.941
+   },
+   {
+    "word": "ni",
+    "start": 236.941,
+    "end": 237.057
+   },
+   {
+    "word": "sobre",
+    "start": 237.057,
+    "end": 237.345
+   },
+   {
+    "word": "madrugar",
+    "start": 237.345,
+    "end": 237.806
+   },
+   {
+    "word": "como",
+    "start": 237.806,
+    "end": 238.121
+   },
+   {
+    "word": "monje.",
+    "start": 238.121,
+    "end": 238.409
+   }
+  ]
+ },
+ {
+  "id": "S07_F053",
+  "scene": "EL CIERRE",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Es sobre reconocer que tu mente tiene un momento de máxima claridad cada día,",
+  "visual": "The glowing wave-peak from Módulo 2 reappears softly, calm acknowledging expression.",
+  "start": 239.091,
+  "end": 244.01,
+  "words": [
+   {
+    "word": "Es",
+    "start": 239.773,
+    "end": 239.897
+   },
+   {
+    "word": "sobre",
+    "start": 239.897,
+    "end": 240.207
+   },
+   {
+    "word": "reconocer",
+    "start": 240.207,
+    "end": 240.766
+   },
+   {
+    "word": "que",
+    "start": 240.766,
+    "end": 241.022
+   },
+   {
+    "word": "tu",
+    "start": 241.022,
+    "end": 241.146
+   },
+   {
+    "word": "mente",
+    "start": 241.146,
+    "end": 241.456
+   },
+   {
+    "word": "tiene",
+    "start": 241.456,
+    "end": 241.766
+   },
+   {
+    "word": "un",
+    "start": 241.766,
+    "end": 241.89
+   },
+   {
+    "word": "momento",
+    "start": 241.89,
+    "end": 242.324
+   },
+   {
+    "word": "de",
+    "start": 242.324,
+    "end": 242.448
+   },
+   {
+    "word": "máxima",
+    "start": 242.448,
+    "end": 242.821
+   },
+   {
+    "word": "claridad",
+    "start": 242.821,
+    "end": 243.409
+   },
+   {
+    "word": "cada",
+    "start": 243.409,
+    "end": 243.657
+   },
+   {
+    "word": "día,",
+    "start": 243.657,
+    "end": 243.843
+   }
+  ]
+ },
+ {
+  "id": "S07_F054",
+  "scene": "EL CIERRE",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "y decidir, de forma deliberada, qué merece recibirlo primero.",
+  "visual": "Close-up, figure gently places the single important-task icon directly onto the glowing peak zone, deliberate satisfied gesture.",
+  "start": 244.01,
+  "end": 248.857,
+  "words": [
+   {
+    "word": "y",
+    "start": 244.178,
+    "end": 244.242
+   },
+   {
+    "word": "decidir,",
+    "start": 244.242,
+    "end": 244.69
+   },
+   {
+    "word": "de",
+    "start": 244.69,
+    "end": 244.818
+   },
+   {
+    "word": "forma",
+    "start": 244.818,
+    "end": 245.522
+   },
+   {
+    "word": "deliberada,",
+    "start": 245.522,
+    "end": 246.162
+   },
+   {
+    "word": "qué",
+    "start": 246.162,
+    "end": 246.354
+   },
+   {
+    "word": "merece",
+    "start": 246.354,
+    "end": 247.1
+   },
+   {
+    "word": "recibirlo",
+    "start": 247.1,
+    "end": 247.675
+   },
+   {
+    "word": "primero.",
+    "start": 247.675,
+    "end": 248.2
+   }
+  ]
+ },
+ {
+  "id": "S07_F055",
+  "scene": "EL CIERRE",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Empieza mañana: elige esa tarea esta noche, protege las dos horas, y mira cuánto cambia.",
+  "visual": "Figure stands tall in warm steady light, the protected glowing zone fully intact and bright on the timeline beside them, resolute expression.",
+  "start": 248.857,
+  "end": 256.018,
+  "words": [
+   {
+    "word": "Empieza",
+    "start": 249.514,
+    "end": 249.974
+   },
+   {
+    "word": "mañana:",
+    "start": 249.974,
+    "end": 250.368
+   },
+   {
+    "word": "elige",
+    "start": 250.368,
+    "end": 251.076
+   },
+   {
+    "word": "esa",
+    "start": 251.076,
+    "end": 251.273
+   },
+   {
+    "word": "tarea",
+    "start": 251.273,
+    "end": 251.673
+   },
+   {
+    "word": "esta",
+    "start": 251.673,
+    "end": 251.936
+   },
+   {
+    "word": "noche,",
+    "start": 251.936,
+    "end": 252.264
+   },
+   {
+    "word": "protege",
+    "start": 252.264,
+    "end": 253.139
+   },
+   {
+    "word": "las",
+    "start": 253.139,
+    "end": 253.336
+   },
+   {
+    "word": "dos",
+    "start": 253.336,
+    "end": 253.533
+   },
+   {
+    "word": "horas,",
+    "start": 253.533,
+    "end": 253.861
+   },
+   {
+    "word": "y",
+    "start": 253.861,
+    "end": 253.926
+   },
+   {
+    "word": "mira",
+    "start": 253.926,
+    "end": 254.536
+   },
+   {
+    "word": "cuánto",
+    "start": 254.536,
+    "end": 254.93
+   },
+   {
+    "word": "cambia.",
+    "start": 254.93,
+    "end": 255.401
+   }
+  ]
+ },
+ {
+  "id": "S07_F056",
+  "scene": "EL CIERRE",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Si este video te sirvió, dale like y suscríbete —",
+  "visual": "Figure gives a genuine thumbs-up gesture with a warm smile, a faint bell icon glows softly beside them.",
+  "start": 256.018,
+  "end": 260.283,
+  "words": [
+   {
+    "word": "Si",
+    "start": 256.635,
+    "end": 256.78
+   },
+   {
+    "word": "este",
+    "start": 256.78,
+    "end": 257.07
+   },
+   {
+    "word": "video",
+    "start": 257.07,
+    "end": 257.433
+   },
+   {
+    "word": "te",
+    "start": 257.433,
+    "end": 257.578
+   },
+   {
+    "word": "sirvió,",
+    "start": 257.578,
+    "end": 258.013
+   },
+   {
+    "word": "dale",
+    "start": 258.013,
+    "end": 258.661
+   },
+   {
+    "word": "like",
+    "start": 258.661,
+    "end": 258.951
+   },
+   {
+    "word": "y",
+    "start": 258.951,
+    "end": 259.023
+   },
+   {
+    "word": "suscríbete",
+    "start": 259.023,
+    "end": 259.998
+   },
+   {
+    "word": "—",
+    "start": 259.998,
+    "end": 260.071
+   }
+  ]
+ },
+ {
+  "id": "S07_F057",
+  "scene": "EL CIERRE",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "la disciplina no hace ruido, ni siquiera en las dos horas más silenciosas de tu día.",
+  "visual": "Figure stands calm and still in the quiet dark space, faint warm rim light outlining their silhouette, serene composed expression.",
+  "start": 260.283,
+  "end": 265.99,
+  "words": [
+   {
+    "word": "la",
+    "start": 260.494,
+    "end": 260.608
+   },
+   {
+    "word": "disciplina",
+    "start": 260.608,
+    "end": 261.259
+   },
+   {
+    "word": "no",
+    "start": 261.259,
+    "end": 261.373
+   },
+   {
+    "word": "hace",
+    "start": 261.373,
+    "end": 261.602
+   },
+   {
+    "word": "ruido,",
+    "start": 261.602,
+    "end": 261.888
+   },
+   {
+    "word": "ni",
+    "start": 261.888,
+    "end": 262.38
+   },
+   {
+    "word": "siquiera",
+    "start": 262.38,
+    "end": 262.912
+   },
+   {
+    "word": "en",
+    "start": 262.912,
+    "end": 263.026
+   },
+   {
+    "word": "las",
+    "start": 263.026,
+    "end": 263.198
+   },
+   {
+    "word": "dos",
+    "start": 263.198,
+    "end": 263.37
+   },
+   {
+    "word": "horas",
+    "start": 263.37,
+    "end": 263.656
+   },
+   {
+    "word": "más",
+    "start": 263.656,
+    "end": 263.827
+   },
+   {
+    "word": "silenciosas",
+    "start": 263.827,
+    "end": 264.457
+   },
+   {
+    "word": "de",
+    "start": 264.457,
+    "end": 264.642
+   },
+   {
+    "word": "tu",
+    "start": 264.642,
+    "end": 264.756
+   },
+   {
+    "word": "día.",
+    "start": 264.756,
+    "end": 264.928
+   }
+  ]
+ }
+]

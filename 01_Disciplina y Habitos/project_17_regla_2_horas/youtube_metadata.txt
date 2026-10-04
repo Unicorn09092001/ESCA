@@ -1,0 +1,197 @@
+================================================================================
+PROJECT 17 — Chủ đề #17 (20-chu-de-video-tiep-theo-2026-09.md)
+Trụ cột: Disciplina y Hábitos (40%) — Khuôn D + A (đào sâu 1 kỹ thuật, có bước
+đánh số bên trong)
+Playlist Folder: 01_Disciplina y Habitos  |  Màu nhấn: #FF5A36
+================================================================================
+
+## BƯỚC 2 — NGUỒN ĐÃ VERIFY QUA WEBSEARCH (2 tác giả tên cụ thể — chủ đề này
+## nằm trong danh sách 5 chủ đề "cần verify nguồn" của file gốc)
+
+1. Cal Newport — nhà khoa học máy tính, tác giả sách "Deep Work" (2016): con
+   người chỉ có thể duy trì khoảng 1-4 giờ làm việc sâu (deep work) chất lượng
+   cao mỗi ngày trước khi chất lượng giảm mạnh — đây là giới hạn nhận thức
+   thực sự, không phải vấn đề ý chí.
+2. Daniel Pink — tác giả sách "When: The Scientific Secrets of Perfect Timing"
+   (2018): phân tích dữ liệu quy mô lớn cho thấy hiệu suất tư duy phân tích
+   của hầu hết mọi người đạt đỉnh vào vài giờ đầu sau khi thức dậy, rồi giảm
+   dần trong ngày (mô hình "peak-trough-recovery").
+
+Cả 2 nguồn CHƯA từng dùng ở các video 01-28 trong kênh (đã dùng trước đó:
+Huberman, Gollwitzer, Clear/Fogg, Goggins, Wood, Duckworth, Dweck, Lembke,
+Walker, Pychyl, Brewer, Emmons, Doidge, Ratey, Waldinger, Thaler/Benartzi,
+Jones & Berglas, Swann, Marlatt, Czeisler, Wright).
+
+## BƯỚC 1 — TITLES
+
+1. [RECOMENDADO] La Regla de las 2 Horas de las Personas Más Disciplinadas (58 ký tự)
+2. 2 Horas al Día: La Regla Que Usan los Más Disciplinados (57 ký tự)
+3. La Regla de las 2 Horas Que Cambia Tu Productividad (51 ký tự)
+
+## BƯỚC 1 — PLAYLIST
+
+01_Disciplina y Habitos (màu nhấn #FF5A36)
+
+## BƯỚC 1 — THUMBNAIL PROMPTS (đúng 1 Mẫu B + 1 Mẫu C, dùng CHUNG 1 headline)
+
+Headline dùng chung: "2 HORAS DE ORO" (từ nhấn "DE ORO" màu #FF5A36 — bỏ dấu
+theo quy tắc ký tự an toàn 1.3). Cỡ chữ 29-34% chiều cao ảnh.
+
+{NHÂN_VẬT_CỐ_ĐỊNH} = a young adult male anime character, athletic lean
+build, short dark messy hair, calm-intense neutral expression by default,
+wearing dark casual streetwear (hoodie or henley, muted charcoal/black)
+with exactly ONE accent-colored detail (drawstring, zipper, or small
+patch) in #FF5A36. Detailed anime illustration style with clean line
+art and cel-shading, fully rendered face with clear eyes, nose, and mouth.
+This exact character design must repeat identically across every
+thumbnail — only pose, facial expression, camera angle, and background
+change per video.
+
+### THUMBNAIL B — Triptych 3 khung
+
+```
+A YouTube thumbnail, 16:9. Three-panel triptych layout, thin dark vertical
+dividers between panels. Each panel shows the character performing ONE
+specific, concrete action/habit — the three panels are NOT a linear story
+(no "problem/climax/result" roles) — and each panel has a DIFFERENT
+background lighting/tone matching its own action, so the three panels are
+instantly distinguishable even at small size.
+
+panel 1 (left): {NHÂN_VẬT_CỐ_ĐỊNH}, shown writing down tomorrow's single
+most important task on a notepad in bed, the night before, with a calm
+and deliberate facial expression, set against a background/lighting that
+fits this specific action (#0B0B0C base with a subtle tint suited to the
+scene).
+
+panel 2 (center): {NHÂN_VẬT_CỐ_ĐỊNH}, shown carrying his phone into
+another room and leaving it there face-down before starting work, with a
+resolved, mildly reluctant but determined facial expression, set against
+a background/lighting that fits this specific action, clearly distinct
+in tone from panel 1 and panel 3.
+
+panel 3 (right): {NHÂN_VẬT_CỐ_ĐỊNH}, shown sitting at a clean desk in
+the first light of morning, closing unnecessary browser tabs one by one,
+with a deeply focused facial expression, set against a background/
+lighting that fits this specific action, clearly distinct in tone from
+the other two panels. One small accent object in solid flat #FF5A36 may
+appear in this panel only.
+
+Bold cinematic anime illustration style throughout, clean line art,
+NO photorealistic rendering, NO real photograph, NO 3D render, NO stick
+figure. The character's face, hair, and outfit must look IDENTICAL across
+all three panels — only pose, expression, camera angle, and background
+tone change.
+
+Below the three panels, bold ultra-condensed sans-serif headline text in
+warm white, reading exactly "2 HORAS DE ORO", all capital letters, with
+the words "DE ORO" in #FF5A36, sitting on a soft dark gradient scrim for
+legibility, positioned in the lower-middle area, text height about
+29-34% of the image height, perfectly legible when shrunk to 160x90 px.
+A small circular badge in the top-left corner containing a simple white
+mountain-peak icon on a dark circle.
+
+--ar 16:9 --no bright background, light background, cream background,
+yellow banner, gradient glow, extra text, additional words, captions,
+subtitles, watermark, small lettering, gibberish text, photorealistic
+face, real photograph, 3D render, stick figure, identical flat background
+across all three panels, inconsistent character design
+```
+
+### THUMBNAIL C — Lưới 6 khung
+
+```
+A YouTube thumbnail, 16:9. A grid of six small panels arranged 2 rows by
+3 columns, each panel separated by a thin dark border (2-3px, #0B0B0C),
+filling the entire frame edge-to-edge with no outer margin, all six panels
+equal size.
+
+{NHÂN_VẬT_CỐ_ĐỊNH} appears in most panels — the character's FACE,
+HAIRSTYLE, and BODY BUILD stay perfectly identical to the reference design
+in every panel that includes them, but the OUTFIT and pose change per
+panel to match that panel's own beat, always staying within the same
+dark/muted color family as the base design.
+
+panel 1: a close-up still-life of a glowing hourglass marked "2", moodily
+lit, no character present (el límite real). panel 2: sitting up in bed at
+dawn, alert expression, wearing a plain t-shirt (las primeras 2 horas).
+panel 3: placing a phone face-down in a distant drawer, deliberate
+expression, wearing a plain hoodie (protege el bloque). panel 4: seated at
+a clean desk with only one object in view, deeply focused expression,
+wearing a plain shirt (una sola tarea). panel 5: a close-up still-life of a
+cluttered phone screen full of notification icons, moodily lit, no
+character present (qué pasa si no proteges). panel 6: standing up from the
+desk, satisfied confident expression, wearing a plain jacket, faint glow
+of the hourglass now complete beside him (payoff/cierre).
+
+Each panel has its own dark, moody lighting appropriate to its own
+activity/setting, but all six panels keep the same bold cinematic anime
+illustration style and the same overall dark color grading (#0B0B0C-based)
+so the grid reads as ONE cohesive poster, not six unrelated pictures. NO
+photorealistic rendering, NO real photograph, NO 3D render, NO stick
+figure, in any panel.
+
+Bold ultra-condensed sans-serif headline text overlaid ACROSS the grid
+(spanning over several panels, not confined inside a single panel),
+reading exactly "2 HORAS DE ORO", all capital letters, with the words
+"DE ORO" in #FF5A36, sitting on a soft dark gradient scrim across the
+panels it overlaps for legibility, positioned in the lower-middle area,
+text height about 29-34% of the image height, perfectly legible when
+shrunk to 160x90 px.
+
+A small circular badge in the top-left corner containing a simple white
+mountain-peak icon on a dark circle.
+
+--ar 16:9 --no bright background, light background, cream background,
+yellow banner, gradient glow, extra text, additional words, captions,
+subtitles, watermark, small lettering, gibberish text, photorealistic
+face, real photograph, 3D render, stick figure, inconsistent character
+design across panels, uneven panel sizes, thick white borders, panels
+in completely different art styles
+```
+
+## BƯỚC 2.9 — DESCRIPTION (tiếng Tây Ban Nha, ~150 từ)
+
+¿Sabes por qué algunas personas logran en dos horas lo que a otras les toma
+un día entero? No es que trabajen más rápido. Es que protegen algo que casi
+nadie protege.
+
+En este video te explico la regla de las 2 horas: por qué, según el
+investigador Cal Newport ("Deep Work"), tu mente solo puede sostener entre
+1 y 4 horas de trabajo profundo real por día; por qué, según Daniel Pink
+("When"), esa capacidad está en su punto más alto en las primeras horas
+después de despertar; y cómo proteger ese bloque de las notificaciones,
+mensajes y pestañas abiertas que normalmente lo destruyen sin que te des
+cuenta.
+
+No se trata de trabajar más horas. Se trata de usar tus mejores dos horas
+en lo único que de verdad importa hoy.
+
+## HASHTAGS (12)
+
+#disciplina #productividad #habitos #deepwork #enfoque #desarrollopersonal
+#gestiondeltiempo #concentracion #crecimientopersonal #superacionpersonal
+#autodisciplina #motivacion
+
+## CHAPTERS (timestamp ƯỚC TÍNH — 2,5 từ/giây, tổng ≈ 4:40 phút — THAY BẰNG
+## TIMESTAMP THẬT từ .srt ngay khi có audio edge-tts thật)
+
+0:00 Introducción
+0:22 La Promesa
+0:49 El Límite Real (Cal Newport)
+1:34 Por Qué las Primeras 2 Horas (Daniel Pink)
+2:32 Cómo Proteger las 2 Horas
+3:22 Qué Pasa Si No las Proteges
+4:08 Cierre
+
+## CHECKLIST METADATA
+
+- [x] Description >= 120 từ
+- [x] >= 10 hashtags lowercase (12), không dùng hashtag giật gân
+- [x] 3 titles <= 60 ký tự
+- [x] Đã gán Playlist Folder (01_Disciplina y Habitos)
+- [x] 2 thumbnail prompts — đúng 1 Mẫu B + 1 Mẫu C, dùng
+      {NHÂN_VẬT_CỐ_ĐỊNH}, màu nhấn #FF5A36, cỡ chữ 29-34%
+- [x] Chapters >= 3 mốc, dòng đầu 0:00, timestamp ƯỚC TÍNH
+- [x] wc -w script.txt = 691 từ (trong khoảng 650-1.100)
+- [x] 2 nguồn tên cụ thể đã verify qua WebSearch (Cal Newport, Daniel Pink) —
+      đúng yêu cầu "cần verify nguồn" của chủ đề #17 trong file gốc
