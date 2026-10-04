@@ -1,0 +1,3758 @@
+[
+ {
+  "id": "S01_F001",
+  "scene": "EL GANCHO",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Las personas mentalmente fuertes no se levantan un día decididas a \"ser fuertes\".",
+  "visual": "Wide shot of a stick figure standing calm in dim light, no dramatic pose, ordinary posture emphasizing there is no single heroic moment.",
+  "start": 0.0,
+  "end": 5.536,
+  "words": [
+   {
+    "word": "Las",
+    "start": 0.254,
+    "end": 0.446
+   },
+   {
+    "word": "personas",
+    "start": 0.446,
+    "end": 0.961
+   },
+   {
+    "word": "mentalmente",
+    "start": 0.961,
+    "end": 1.668
+   },
+   {
+    "word": "fuertes",
+    "start": 1.668,
+    "end": 2.197
+   },
+   {
+    "word": "no",
+    "start": 2.197,
+    "end": 2.325
+   },
+   {
+    "word": "se",
+    "start": 2.325,
+    "end": 2.454
+   },
+   {
+    "word": "levantan",
+    "start": 2.454,
+    "end": 2.968
+   },
+   {
+    "word": "un",
+    "start": 2.968,
+    "end": 3.097
+   },
+   {
+    "word": "día",
+    "start": 3.097,
+    "end": 3.29
+   },
+   {
+    "word": "decididas",
+    "start": 3.29,
+    "end": 4.143
+   },
+   {
+    "word": "a",
+    "start": 4.143,
+    "end": 4.207
+   },
+   {
+    "word": "\"ser",
+    "start": 4.207,
+    "end": 4.4
+   },
+   {
+    "word": "fuertes\".",
+    "start": 4.4,
+    "end": 4.937
+   }
+  ]
+ },
+ {
+  "id": "S01_F002",
+  "scene": "EL GANCHO",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "Tienen hábitos pequeños, casi invisibles desde afuera, que repiten sin darse cuenta y que marcan toda la diferencia.",
+  "visual": "Medium shot of seven small dim number-tiles (1-7) floating faintly around the stick figure, barely visible, #8B6CFF glow just beginning to appear on their edges.",
+  "start": 5.536,
+  "end": 13.486,
+  "words": [
+   {
+    "word": "Tienen",
+    "start": 6.136,
+    "end": 6.5
+   },
+   {
+    "word": "hábitos",
+    "start": 6.5,
+    "end": 6.925
+   },
+   {
+    "word": "pequeños,",
+    "start": 6.925,
+    "end": 7.411
+   },
+   {
+    "word": "casi",
+    "start": 7.411,
+    "end": 8.007
+   },
+   {
+    "word": "invisibles",
+    "start": 8.007,
+    "end": 8.614
+   },
+   {
+    "word": "desde",
+    "start": 8.614,
+    "end": 8.918
+   },
+   {
+    "word": "afuera,",
+    "start": 8.918,
+    "end": 9.282
+   },
+   {
+    "word": "que",
+    "start": 9.282,
+    "end": 9.864
+   },
+   {
+    "word": "repiten",
+    "start": 9.864,
+    "end": 10.361
+   },
+   {
+    "word": "sin",
+    "start": 10.361,
+    "end": 10.543
+   },
+   {
+    "word": "darse",
+    "start": 10.543,
+    "end": 10.847
+   },
+   {
+    "word": "cuenta",
+    "start": 10.847,
+    "end": 11.211
+   },
+   {
+    "word": "y",
+    "start": 11.211,
+    "end": 11.272
+   },
+   {
+    "word": "que",
+    "start": 11.272,
+    "end": 11.454
+   },
+   {
+    "word": "marcan",
+    "start": 11.454,
+    "end": 11.893
+   },
+   {
+    "word": "toda",
+    "start": 11.893,
+    "end": 12.136
+   },
+   {
+    "word": "la",
+    "start": 12.136,
+    "end": 12.257
+   },
+   {
+    "word": "diferencia.",
+    "start": 12.257,
+    "end": 12.864
+   }
+  ]
+ },
+ {
+  "id": "S01_F003",
+  "scene": "EL GANCHO",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Hoy te muestro 7 de esos hábitos ocultos.",
+  "visual": "Wide shot of the seven number-tiles now arranged in a clear arc above the stick figure's shoulder, glowing steadily.",
+  "start": 13.486,
+  "end": 17.115,
+  "words": [
+   {
+    "word": "Hoy",
+    "start": 14.107,
+    "end": 14.306
+   },
+   {
+    "word": "te",
+    "start": 14.306,
+    "end": 14.438
+   },
+   {
+    "word": "muestro",
+    "start": 14.438,
+    "end": 14.902
+   },
+   {
+    "word": "7",
+    "start": 14.902,
+    "end": 14.968
+   },
+   {
+    "word": "de",
+    "start": 14.968,
+    "end": 15.1
+   },
+   {
+    "word": "esos",
+    "start": 15.1,
+    "end": 15.365
+   },
+   {
+    "word": "hábitos",
+    "start": 15.365,
+    "end": 15.829
+   },
+   {
+    "word": "ocultos.",
+    "start": 15.829,
+    "end": 16.493
+   }
+  ]
+ },
+ {
+  "id": "S01_F004",
+  "scene": "EL GANCHO",
+  "shot_raw": "Direct address",
+  "shot": "MEDIUM SHOT",
+  "es": "Cuenta cuántos ya tienes, sin hacer trampa, y espera hasta el final — el último es el que casi nadie identifica en sí mismo.",
+  "visual": "Direct-address medium shot of the stick figure gesturing toward the viewer, tile number 7 glowing distinctly brighter than the others as a teaser.",
+  "start": 17.115,
+  "end": 25.511,
+  "words": [
+   {
+    "word": "Cuenta",
+    "start": 17.737,
+    "end": 18.097
+   },
+   {
+    "word": "cuántos",
+    "start": 18.097,
+    "end": 18.517
+   },
+   {
+    "word": "ya",
+    "start": 18.517,
+    "end": 18.636
+   },
+   {
+    "word": "tienes,",
+    "start": 18.636,
+    "end": 18.996
+   },
+   {
+    "word": "sin",
+    "start": 18.996,
+    "end": 19.571
+   },
+   {
+    "word": "hacer",
+    "start": 19.571,
+    "end": 19.871
+   },
+   {
+    "word": "trampa,",
+    "start": 19.871,
+    "end": 20.312
+   },
+   {
+    "word": "y",
+    "start": 20.312,
+    "end": 20.372
+   },
+   {
+    "word": "espera",
+    "start": 20.372,
+    "end": 21.088
+   },
+   {
+    "word": "hasta",
+    "start": 21.088,
+    "end": 21.388
+   },
+   {
+    "word": "el",
+    "start": 21.388,
+    "end": 21.508
+   },
+   {
+    "word": "final",
+    "start": 21.508,
+    "end": 21.808
+   },
+   {
+    "word": "—",
+    "start": 21.808,
+    "end": 21.868
+   },
+   {
+    "word": "el",
+    "start": 21.868,
+    "end": 22.281
+   },
+   {
+    "word": "último",
+    "start": 22.281,
+    "end": 22.711
+   },
+   {
+    "word": "es",
+    "start": 22.711,
+    "end": 22.831
+   },
+   {
+    "word": "el",
+    "start": 22.831,
+    "end": 23.03
+   },
+   {
+    "word": "que",
+    "start": 23.03,
+    "end": 23.21
+   },
+   {
+    "word": "casi",
+    "start": 23.21,
+    "end": 23.45
+   },
+   {
+    "word": "nadie",
+    "start": 23.45,
+    "end": 23.75
+   },
+   {
+    "word": "identifica",
+    "start": 23.75,
+    "end": 24.349
+   },
+   {
+    "word": "en",
+    "start": 24.349,
+    "end": 24.469
+   },
+   {
+    "word": "sí",
+    "start": 24.469,
+    "end": 24.589
+   },
+   {
+    "word": "mismo.",
+    "start": 24.589,
+    "end": 24.888
+   }
+  ]
+ },
+ {
+  "id": "S02_F005",
+  "scene": "HABITO 1 - Reformular el Pensamiento (Amy Morin)",
+  "shot_raw": "Text card / title",
+  "shot": "MEDIUM SHOT",
+  "es": "Uno: reformulan el pensamiento negativo en el momento, no después.",
+  "visual": "Minimal title card, number tile '1' glowing bright #8B6CFF, a small dark thought-bubble icon beside it with a jagged crack forming across it.",
+  "start": 25.511,
+  "end": 31.192,
+  "words": [
+   {
+    "word": "Uno:",
+    "start": 26.133,
+    "end": 26.321
+   },
+   {
+    "word": "reformulan",
+    "start": 26.321,
+    "end": 27.32
+   },
+   {
+    "word": "el",
+    "start": 27.32,
+    "end": 27.445
+   },
+   {
+    "word": "pensamiento",
+    "start": 27.445,
+    "end": 28.22
+   },
+   {
+    "word": "negativo",
+    "start": 28.22,
+    "end": 28.797
+   },
+   {
+    "word": "en",
+    "start": 28.797,
+    "end": 28.922
+   },
+   {
+    "word": "el",
+    "start": 28.922,
+    "end": 29.047
+   },
+   {
+    "word": "momento,",
+    "start": 29.047,
+    "end": 29.935
+   },
+   {
+    "word": "no",
+    "start": 29.935,
+    "end": 30.06
+   },
+   {
+    "word": "después.",
+    "start": 30.06,
+    "end": 30.592
+   }
+  ]
+ },
+ {
+  "id": "S02_F006",
+  "scene": "HABITO 1 - Reformular el Pensamiento (Amy Morin)",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "La psicóloga Amy Morin, autora de \"13 Cosas Que Las Personas Mentalmente Fuertes No Hacen\",",
+  "visual": "Stick figure standing beside a glowing book icon with a simple checklist motif on its cover, distinct from other book icons used in prior videos.",
+  "start": 31.192,
+  "end": 37.468,
+  "words": [
+   {
+    "word": "La",
+    "start": 31.792,
+    "end": 31.916
+   },
+   {
+    "word": "psicóloga",
+    "start": 31.916,
+    "end": 32.549
+   },
+   {
+    "word": "Amy",
+    "start": 32.549,
+    "end": 32.735
+   },
+   {
+    "word": "Morin,",
+    "start": 32.735,
+    "end": 33.045
+   },
+   {
+    "word": "autora",
+    "start": 33.045,
+    "end": 33.878
+   },
+   {
+    "word": "de",
+    "start": 33.878,
+    "end": 34.002
+   },
+   {
+    "word": "\"13",
+    "start": 34.002,
+    "end": 34.325
+   },
+   {
+    "word": "Cosas",
+    "start": 34.325,
+    "end": 34.636
+   },
+   {
+    "word": "Que",
+    "start": 34.636,
+    "end": 34.822
+   },
+   {
+    "word": "Las",
+    "start": 34.822,
+    "end": 35.083
+   },
+   {
+    "word": "Personas",
+    "start": 35.083,
+    "end": 35.655
+   },
+   {
+    "word": "Mentalmente",
+    "start": 35.655,
+    "end": 36.415
+   },
+   {
+    "word": "Fuertes",
+    "start": 36.415,
+    "end": 36.849
+   },
+   {
+    "word": "No",
+    "start": 36.849,
+    "end": 36.974
+   },
+   {
+    "word": "Hacen\",",
+    "start": 36.974,
+    "end": 37.284
+   }
+  ]
+ },
+ {
+  "id": "S02_F007",
+  "scene": "HABITO 1 - Reformular el Pensamiento (Amy Morin)",
+  "shot_raw": "Close-up",
+  "shot": "CLOSE-UP",
+  "es": "explica que no se trata de \"pensar positivo\" a la fuerza, sino de notar un pensamiento como \"esto va a salir mal\"",
+  "visual": "Close-up of a dark thought-bubble containing a small warning-triangle icon, the stick figure's eyes shown noticing it rather than reacting immediately.",
+  "start": 37.468,
+  "end": 44.663,
+  "words": [
+   {
+    "word": "explica",
+    "start": 37.653,
+    "end": 38.177
+   },
+   {
+    "word": "que",
+    "start": 38.177,
+    "end": 38.368
+   },
+   {
+    "word": "no",
+    "start": 38.368,
+    "end": 38.495
+   },
+   {
+    "word": "se",
+    "start": 38.495,
+    "end": 38.622
+   },
+   {
+    "word": "trata",
+    "start": 38.622,
+    "end": 39.014
+   },
+   {
+    "word": "de",
+    "start": 39.014,
+    "end": 39.477
+   },
+   {
+    "word": "\"pensar",
+    "start": 39.477,
+    "end": 39.95
+   },
+   {
+    "word": "positivo\"",
+    "start": 39.95,
+    "end": 40.652
+   },
+   {
+    "word": "a",
+    "start": 40.652,
+    "end": 40.715
+   },
+   {
+    "word": "la",
+    "start": 40.715,
+    "end": 40.843
+   },
+   {
+    "word": "fuerza,",
+    "start": 40.843,
+    "end": 41.224
+   },
+   {
+    "word": "sino",
+    "start": 41.224,
+    "end": 41.842
+   },
+   {
+    "word": "de",
+    "start": 41.842,
+    "end": 41.969
+   },
+   {
+    "word": "notar",
+    "start": 41.969,
+    "end": 42.287
+   },
+   {
+    "word": "un",
+    "start": 42.287,
+    "end": 42.489
+   },
+   {
+    "word": "pensamiento",
+    "start": 42.489,
+    "end": 43.188
+   },
+   {
+    "word": "como",
+    "start": 43.188,
+    "end": 43.632
+   },
+   {
+    "word": "\"esto",
+    "start": 43.632,
+    "end": 43.886
+   },
+   {
+    "word": "va",
+    "start": 43.886,
+    "end": 44.013
+   },
+   {
+    "word": "a",
+    "start": 44.013,
+    "end": 44.077
+   },
+   {
+    "word": "salir",
+    "start": 44.077,
+    "end": 44.395
+   },
+   {
+    "word": "mal\"",
+    "start": 44.395,
+    "end": 44.585
+   }
+  ]
+ },
+ {
+  "id": "S02_F008",
+  "scene": "HABITO 1 - Reformular el Pensamiento (Amy Morin)",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "y preguntarse de inmediato: ¿es un hecho o es solo un miedo?",
+  "visual": "Medium shot of the thought-bubble splitting into two smaller glowing bubbles labeled by simple icons — a checkmark (hecho) and a wavy fear-line (miedo) — #8B6CFF highlight on the checkmark side.",
+  "start": 44.663,
+  "end": 48.714,
+  "words": [
+   {
+    "word": "y",
+    "start": 44.741,
+    "end": 44.802
+   },
+   {
+    "word": "preguntarse",
+    "start": 44.802,
+    "end": 45.551
+   },
+   {
+    "word": "de",
+    "start": 45.551,
+    "end": 45.674
+   },
+   {
+    "word": "inmediato:",
+    "start": 45.674,
+    "end": 46.697
+   },
+   {
+    "word": "¿es",
+    "start": 46.697,
+    "end": 46.82
+   },
+   {
+    "word": "un",
+    "start": 46.82,
+    "end": 46.942
+   },
+   {
+    "word": "hecho",
+    "start": 46.942,
+    "end": 47.249
+   },
+   {
+    "word": "o",
+    "start": 47.249,
+    "end": 47.31
+   },
+   {
+    "word": "es",
+    "start": 47.31,
+    "end": 47.433
+   },
+   {
+    "word": "solo",
+    "start": 47.433,
+    "end": 47.678
+   },
+   {
+    "word": "un",
+    "start": 47.678,
+    "end": 47.8
+   },
+   {
+    "word": "miedo?",
+    "start": 47.8,
+    "end": 48.107
+   }
+  ]
+ },
+ {
+  "id": "S02_F009",
+  "scene": "HABITO 1 - Reformular el Pensamiento (Amy Morin)",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Esa pausa de dos segundos cambia por completo lo que pasa después.",
+  "visual": "Wide shot of a small glowing clock icon ticking briefly, stick figure's posture visibly settling from tense to calm across the pause.",
+  "start": 48.714,
+  "end": 53.53,
+  "words": [
+   {
+    "word": "Esa",
+    "start": 49.322,
+    "end": 49.504
+   },
+   {
+    "word": "pausa",
+    "start": 49.504,
+    "end": 49.809
+   },
+   {
+    "word": "de",
+    "start": 49.809,
+    "end": 49.93
+   },
+   {
+    "word": "dos",
+    "start": 49.93,
+    "end": 50.113
+   },
+   {
+    "word": "segundos",
+    "start": 50.113,
+    "end": 50.6
+   },
+   {
+    "word": "cambia",
+    "start": 50.6,
+    "end": 50.965
+   },
+   {
+    "word": "por",
+    "start": 50.965,
+    "end": 51.222
+   },
+   {
+    "word": "completo",
+    "start": 51.222,
+    "end": 51.782
+   },
+   {
+    "word": "lo",
+    "start": 51.782,
+    "end": 51.903
+   },
+   {
+    "word": "que",
+    "start": 51.903,
+    "end": 52.086
+   },
+   {
+    "word": "pasa",
+    "start": 52.086,
+    "end": 52.401
+   },
+   {
+    "word": "después.",
+    "start": 52.401,
+    "end": 52.931
+   }
+  ]
+ },
+ {
+  "id": "S03_F010",
+  "scene": "HABITO 2 - Sentir Antes de Decidir (James Gross)",
+  "shot_raw": "Text card / title",
+  "shot": "MEDIUM SHOT",
+  "es": "Dos: sienten la emoción completa antes de decidir qué hacer con ella.",
+  "visual": "Minimal title card, number tile '2' glowing #8B6CFF, a small glowing heart/wave icon beside it representing emotion.",
+  "start": 53.53,
+  "end": 58.785,
+  "words": [
+   {
+    "word": "Dos:",
+    "start": 54.13,
+    "end": 54.309
+   },
+   {
+    "word": "sienten",
+    "start": 54.309,
+    "end": 55.098
+   },
+   {
+    "word": "la",
+    "start": 55.098,
+    "end": 55.218
+   },
+   {
+    "word": "emoción",
+    "start": 55.218,
+    "end": 55.637
+   },
+   {
+    "word": "completa",
+    "start": 55.637,
+    "end": 56.187
+   },
+   {
+    "word": "antes",
+    "start": 56.187,
+    "end": 56.56
+   },
+   {
+    "word": "de",
+    "start": 56.56,
+    "end": 56.68
+   },
+   {
+    "word": "decidir",
+    "start": 56.68,
+    "end": 57.099
+   },
+   {
+    "word": "qué",
+    "start": 57.099,
+    "end": 57.278
+   },
+   {
+    "word": "hacer",
+    "start": 57.278,
+    "end": 57.668
+   },
+   {
+    "word": "con",
+    "start": 57.668,
+    "end": 57.922
+   },
+   {
+    "word": "ella.",
+    "start": 57.922,
+    "end": 58.161
+   }
+  ]
+ },
+ {
+  "id": "S03_F011",
+  "scene": "HABITO 2 - Sentir Antes de Decidir (James Gross)",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "El psicólogo James Gross, de la Universidad de Stanford, ha investigado durante años la \"reevaluación cognitiva\" —",
+  "visual": "Stick figure standing beside a distinct academic-building icon (different silhouette from the NYU icon used in prior videos) and a small glowing brain-and-arrow icon.",
+  "start": 58.785,
+  "end": 66.918,
+  "words": [
+   {
+    "word": "El",
+    "start": 59.409,
+    "end": 59.538
+   },
+   {
+    "word": "psicólogo",
+    "start": 59.538,
+    "end": 60.117
+   },
+   {
+    "word": "James",
+    "start": 60.117,
+    "end": 60.439
+   },
+   {
+    "word": "Gross,",
+    "start": 60.439,
+    "end": 60.761
+   },
+   {
+    "word": "de",
+    "start": 60.761,
+    "end": 60.89
+   },
+   {
+    "word": "la",
+    "start": 60.89,
+    "end": 61.314
+   },
+   {
+    "word": "Universidad",
+    "start": 61.314,
+    "end": 62.023
+   },
+   {
+    "word": "de",
+    "start": 62.023,
+    "end": 62.152
+   },
+   {
+    "word": "Stanford,",
+    "start": 62.152,
+    "end": 62.738
+   },
+   {
+    "word": "ha",
+    "start": 62.738,
+    "end": 63.299
+   },
+   {
+    "word": "investigado",
+    "start": 63.299,
+    "end": 64.007
+   },
+   {
+    "word": "durante",
+    "start": 64.007,
+    "end": 64.458
+   },
+   {
+    "word": "años",
+    "start": 64.458,
+    "end": 64.799
+   },
+   {
+    "word": "la",
+    "start": 64.799,
+    "end": 64.928
+   },
+   {
+    "word": "\"reevaluación",
+    "start": 64.928,
+    "end": 65.969
+   },
+   {
+    "word": "cognitiva\"",
+    "start": 65.969,
+    "end": 66.634
+   },
+   {
+    "word": "—",
+    "start": 66.634,
+    "end": 66.698
+   }
+  ]
+ },
+ {
+  "id": "S03_F012",
+  "scene": "HABITO 2 - Sentir Antes de Decidir (James Gross)",
+  "shot_raw": "Close-up",
+  "shot": "CLOSE-UP",
+  "es": "la capacidad de cambiar el significado de una situación antes de que la emoción tome el control de la conducta.",
+  "visual": "Close-up of a simple scene-icon (a small dark cloud) being reframed by a glowing #8B6CFF lens passing over it, the cloud's expression shifting from threatening to neutral.",
+  "start": 66.918,
+  "end": 73.276,
+  "words": [
+   {
+    "word": "la",
+    "start": 67.139,
+    "end": 67.249
+   },
+   {
+    "word": "capacidad",
+    "start": 67.249,
+    "end": 67.743
+   },
+   {
+    "word": "de",
+    "start": 67.743,
+    "end": 67.853
+   },
+   {
+    "word": "cambiar",
+    "start": 67.853,
+    "end": 68.237
+   },
+   {
+    "word": "el",
+    "start": 68.237,
+    "end": 68.347
+   },
+   {
+    "word": "significado",
+    "start": 68.347,
+    "end": 69.043
+   },
+   {
+    "word": "de",
+    "start": 69.043,
+    "end": 69.153
+   },
+   {
+    "word": "una",
+    "start": 69.153,
+    "end": 69.317
+   },
+   {
+    "word": "situación",
+    "start": 69.317,
+    "end": 69.812
+   },
+   {
+    "word": "antes",
+    "start": 69.812,
+    "end": 70.162
+   },
+   {
+    "word": "de",
+    "start": 70.162,
+    "end": 70.272
+   },
+   {
+    "word": "que",
+    "start": 70.272,
+    "end": 70.514
+   },
+   {
+    "word": "la",
+    "start": 70.514,
+    "end": 70.623
+   },
+   {
+    "word": "emoción",
+    "start": 70.623,
+    "end": 71.008
+   },
+   {
+    "word": "tome",
+    "start": 71.008,
+    "end": 71.3
+   },
+   {
+    "word": "el",
+    "start": 71.3,
+    "end": 71.486
+   },
+   {
+    "word": "control",
+    "start": 71.486,
+    "end": 71.87
+   },
+   {
+    "word": "de",
+    "start": 71.87,
+    "end": 71.98
+   },
+   {
+    "word": "la",
+    "start": 71.98,
+    "end": 72.09
+   },
+   {
+    "word": "conducta.",
+    "start": 72.09,
+    "end": 72.667
+   }
+  ]
+ },
+ {
+  "id": "S03_F013",
+  "scene": "HABITO 2 - Sentir Antes de Decidir (James Gross)",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "Anota esto: las personas mentalmente fuertes no reprimen lo que sienten.",
+  "visual": "Medium shot of the stick figure with a glowing emotion-icon fully visible and unblocked above the chest, no barrier or wall suppressing it.",
+  "start": 73.276,
+  "end": 78.911,
+  "words": [
+   {
+    "word": "Anota",
+    "start": 73.885,
+    "end": 74.193
+   },
+   {
+    "word": "esto:",
+    "start": 74.193,
+    "end": 74.44
+   },
+   {
+    "word": "las",
+    "start": 74.44,
+    "end": 74.624
+   },
+   {
+    "word": "personas",
+    "start": 74.624,
+    "end": 75.604
+   },
+   {
+    "word": "mentalmente",
+    "start": 75.604,
+    "end": 76.281
+   },
+   {
+    "word": "fuertes",
+    "start": 76.281,
+    "end": 76.713
+   },
+   {
+    "word": "no",
+    "start": 76.713,
+    "end": 76.913
+   },
+   {
+    "word": "reprimen",
+    "start": 76.913,
+    "end": 77.483
+   },
+   {
+    "word": "lo",
+    "start": 77.483,
+    "end": 77.606
+   },
+   {
+    "word": "que",
+    "start": 77.606,
+    "end": 77.791
+   },
+   {
+    "word": "sienten.",
+    "start": 77.791,
+    "end": 78.306
+   }
+  ]
+ },
+ {
+  "id": "S03_F014",
+  "scene": "HABITO 2 - Sentir Antes de Decidir (James Gross)",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Dejan que la emoción exista, y solo después eligen cómo actuar.",
+  "visual": "Wide shot of the stick figure standing with the emotion-icon glowing steadily beside them, then a separate small action-icon (a footstep) appearing a moment later, clearly sequential.",
+  "start": 78.911,
+  "end": 83.869,
+  "words": [
+   {
+    "word": "Dejan",
+    "start": 79.515,
+    "end": 79.826
+   },
+   {
+    "word": "que",
+    "start": 79.826,
+    "end": 80.012
+   },
+   {
+    "word": "la",
+    "start": 80.012,
+    "end": 80.136
+   },
+   {
+    "word": "emoción",
+    "start": 80.136,
+    "end": 80.57
+   },
+   {
+    "word": "exista,",
+    "start": 80.57,
+    "end": 80.942
+   },
+   {
+    "word": "y",
+    "start": 80.942,
+    "end": 81.004
+   },
+   {
+    "word": "solo",
+    "start": 81.004,
+    "end": 81.569
+   },
+   {
+    "word": "después",
+    "start": 81.569,
+    "end": 82.097
+   },
+   {
+    "word": "eligen",
+    "start": 82.097,
+    "end": 82.469
+   },
+   {
+    "word": "cómo",
+    "start": 82.469,
+    "end": 82.717
+   },
+   {
+    "word": "actuar.",
+    "start": 82.717,
+    "end": 83.235
+   }
+  ]
+ },
+ {
+  "id": "S04_F015",
+  "scene": "HABITO 3 - Decidir por Valores",
+  "shot_raw": "Text card / title",
+  "shot": "MEDIUM SHOT",
+  "es": "Tres: toman decisiones según sus valores, no según lo que otros van a pensar.",
+  "visual": "Minimal title card, number tile '3' glowing #8B6CFF, a small compass icon beside it pointing steadily in one direction.",
+  "start": 83.869,
+  "end": 89.959,
+  "words": [
+   {
+    "word": "Tres:",
+    "start": 84.503,
+    "end": 84.759
+   },
+   {
+    "word": "toman",
+    "start": 84.759,
+    "end": 85.498
+   },
+   {
+    "word": "decisiones",
+    "start": 85.498,
+    "end": 86.137
+   },
+   {
+    "word": "según",
+    "start": 86.137,
+    "end": 86.456
+   },
+   {
+    "word": "sus",
+    "start": 86.456,
+    "end": 86.648
+   },
+   {
+    "word": "valores,",
+    "start": 86.648,
+    "end": 87.095
+   },
+   {
+    "word": "no",
+    "start": 87.095,
+    "end": 87.223
+   },
+   {
+    "word": "según",
+    "start": 87.223,
+    "end": 87.954
+   },
+   {
+    "word": "lo",
+    "start": 87.954,
+    "end": 88.082
+   },
+   {
+    "word": "que",
+    "start": 88.082,
+    "end": 88.273
+   },
+   {
+    "word": "otros",
+    "start": 88.273,
+    "end": 88.593
+   },
+   {
+    "word": "van",
+    "start": 88.593,
+    "end": 88.784
+   },
+   {
+    "word": "a",
+    "start": 88.784,
+    "end": 88.93
+   },
+   {
+    "word": "pensar.",
+    "start": 88.93,
+    "end": 89.314
+   }
+  ]
+ },
+ {
+  "id": "S04_F016",
+  "scene": "HABITO 3 - Decidir por Valores",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "Se preguntan \"¿esto me acerca a la persona que quiero ser?\" en lugar de \"¿esto le va a gustar a los demás?\" —",
+  "visual": "Medium shot of two glowing thought-paths diverging from the stick figure — one leading toward a compass icon, one leading toward small crowd-approval icons — the figure's gaze fixed on the compass path.",
+  "start": 89.959,
+  "end": 99.017,
+  "words": [
+   {
+    "word": "Se",
+    "start": 90.605,
+    "end": 90.762
+   },
+   {
+    "word": "preguntan",
+    "start": 90.762,
+    "end": 91.629
+   },
+   {
+    "word": "\"¿esto",
+    "start": 91.629,
+    "end": 91.945
+   },
+   {
+    "word": "me",
+    "start": 91.945,
+    "end": 92.103
+   },
+   {
+    "word": "acerca",
+    "start": 92.103,
+    "end": 92.648
+   },
+   {
+    "word": "a",
+    "start": 92.648,
+    "end": 92.727
+   },
+   {
+    "word": "la",
+    "start": 92.727,
+    "end": 92.885
+   },
+   {
+    "word": "persona",
+    "start": 92.885,
+    "end": 93.438
+   },
+   {
+    "word": "que",
+    "start": 93.438,
+    "end": 94.102
+   },
+   {
+    "word": "quiero",
+    "start": 94.102,
+    "end": 94.847
+   },
+   {
+    "word": "ser?\"",
+    "start": 94.847,
+    "end": 95.084
+   },
+   {
+    "word": "en",
+    "start": 95.084,
+    "end": 95.242
+   },
+   {
+    "word": "lugar",
+    "start": 95.242,
+    "end": 95.637
+   },
+   {
+    "word": "de",
+    "start": 95.637,
+    "end": 95.795
+   },
+   {
+    "word": "\"¿esto",
+    "start": 95.795,
+    "end": 96.111
+   },
+   {
+    "word": "le",
+    "start": 96.111,
+    "end": 96.269
+   },
+   {
+    "word": "va",
+    "start": 96.269,
+    "end": 97.639
+   },
+   {
+    "word": "a",
+    "start": 97.639,
+    "end": 97.718
+   },
+   {
+    "word": "gustar",
+    "start": 97.718,
+    "end": 98.192
+   },
+   {
+    "word": "a",
+    "start": 98.192,
+    "end": 98.271
+   },
+   {
+    "word": "los",
+    "start": 98.271,
+    "end": 98.507
+   },
+   {
+    "word": "demás?\"",
+    "start": 98.507,
+    "end": 98.902
+   },
+   {
+    "word": "—",
+    "start": 98.902,
+    "end": 98.981
+   }
+  ]
+ },
+ {
+  "id": "S04_F017",
+  "scene": "HABITO 3 - Decidir por Valores",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "y sostienen esa pregunta incluso cuando la respuesta incomoda a alguien más,",
+  "visual": "Wide shot of the stick figure standing firm on the compass path while a faint disapproving silhouette figure looks on from the crowd-path, unmoved posture.",
+  "start": 99.017,
+  "end": 101.941,
+  "words": [
+   {
+    "word": "y",
+    "start": 99.052,
+    "end": 99.094
+   },
+   {
+    "word": "sostienen",
+    "start": 99.094,
+    "end": 99.463
+   },
+   {
+    "word": "esa",
+    "start": 99.463,
+    "end": 99.587
+   },
+   {
+    "word": "pregunta",
+    "start": 99.587,
+    "end": 99.916
+   },
+   {
+    "word": "incluso",
+    "start": 99.916,
+    "end": 100.284
+   },
+   {
+    "word": "cuando",
+    "start": 100.284,
+    "end": 100.53
+   },
+   {
+    "word": "la",
+    "start": 100.53,
+    "end": 100.612
+   },
+   {
+    "word": "respuesta",
+    "start": 100.612,
+    "end": 100.982
+   },
+   {
+    "word": "incomoda",
+    "start": 100.982,
+    "end": 101.311
+   },
+   {
+    "word": "a",
+    "start": 101.311,
+    "end": 101.352
+   },
+   {
+    "word": "alguien",
+    "start": 101.352,
+    "end": 101.64
+   },
+   {
+    "word": "más,",
+    "start": 101.64,
+    "end": 101.763
+   }
+  ]
+ },
+ {
+  "id": "S04_F018",
+  "scene": "HABITO 3 - Decidir por Valores",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "incluso cuando decir que no a un plan, un favor o una expectativa ajena les cuesta la aprobación momentánea de alguien que les importa.",
+  "visual": "Medium shot of a small glowing 'no' gesture icon held calmly by the stick figure, a faint dimming approval-star icon nearby fading slightly without the figure reacting to it.",
+  "start": 101.941,
+  "end": 109.747,
+  "words": [
+   {
+    "word": "incluso",
+    "start": 102.118,
+    "end": 102.499
+   },
+   {
+    "word": "cuando",
+    "start": 102.499,
+    "end": 102.825
+   },
+   {
+    "word": "decir",
+    "start": 102.825,
+    "end": 103.186
+   },
+   {
+    "word": "que",
+    "start": 103.186,
+    "end": 103.349
+   },
+   {
+    "word": "no",
+    "start": 103.349,
+    "end": 103.458
+   },
+   {
+    "word": "a",
+    "start": 103.458,
+    "end": 103.512
+   },
+   {
+    "word": "un",
+    "start": 103.512,
+    "end": 103.702
+   },
+   {
+    "word": "plan,",
+    "start": 103.702,
+    "end": 104.251
+   },
+   {
+    "word": "un",
+    "start": 104.251,
+    "end": 104.36
+   },
+   {
+    "word": "favor",
+    "start": 104.36,
+    "end": 104.632
+   },
+   {
+    "word": "o",
+    "start": 104.632,
+    "end": 104.687
+   },
+   {
+    "word": "una",
+    "start": 104.687,
+    "end": 104.85
+   },
+   {
+    "word": "expectativa",
+    "start": 104.85,
+    "end": 105.622
+   },
+   {
+    "word": "ajena",
+    "start": 105.622,
+    "end": 105.894
+   },
+   {
+    "word": "les",
+    "start": 105.894,
+    "end": 106.057
+   },
+   {
+    "word": "cuesta",
+    "start": 106.057,
+    "end": 106.383
+   },
+   {
+    "word": "la",
+    "start": 106.383,
+    "end": 106.492
+   },
+   {
+    "word": "aprobación",
+    "start": 106.492,
+    "end": 107.112
+   },
+   {
+    "word": "momentánea",
+    "start": 107.112,
+    "end": 107.734
+   },
+   {
+    "word": "de",
+    "start": 107.734,
+    "end": 107.842
+   },
+   {
+    "word": "alguien",
+    "start": 107.842,
+    "end": 108.223
+   },
+   {
+    "word": "que",
+    "start": 108.223,
+    "end": 108.386
+   },
+   {
+    "word": "les",
+    "start": 108.386,
+    "end": 108.549
+   },
+   {
+    "word": "importa.",
+    "start": 108.549,
+    "end": 109.129
+   }
+  ]
+ },
+ {
+  "id": "S05_F019",
+  "scene": "HABITO 4 - La Incomodidad No Es Alarma",
+  "shot_raw": "Text card / title",
+  "shot": "MEDIUM SHOT",
+  "es": "Cuatro: tratan la incomodidad como información, no como una alarma que hay que apagar de inmediato.",
+  "visual": "Minimal title card, number tile '4' glowing #8B6CFF, a small bell/alarm icon beside it shown calm and dimmed rather than ringing.",
+  "start": 109.747,
+  "end": 116.48,
+  "words": [
+   {
+    "word": "Cuatro:",
+    "start": 110.365,
+    "end": 110.701
+   },
+   {
+    "word": "tratan",
+    "start": 110.701,
+    "end": 111.427
+   },
+   {
+    "word": "la",
+    "start": 111.427,
+    "end": 111.539
+   },
+   {
+    "word": "incomodidad",
+    "start": 111.539,
+    "end": 112.154
+   },
+   {
+    "word": "como",
+    "start": 112.154,
+    "end": 112.378
+   },
+   {
+    "word": "información,",
+    "start": 112.378,
+    "end": 112.994
+   },
+   {
+    "word": "no",
+    "start": 112.994,
+    "end": 113.49
+   },
+   {
+    "word": "como",
+    "start": 113.49,
+    "end": 113.714
+   },
+   {
+    "word": "una",
+    "start": 113.714,
+    "end": 113.882
+   },
+   {
+    "word": "alarma",
+    "start": 113.882,
+    "end": 114.218
+   },
+   {
+    "word": "que",
+    "start": 114.218,
+    "end": 114.385
+   },
+   {
+    "word": "hay",
+    "start": 114.385,
+    "end": 114.553
+   },
+   {
+    "word": "que",
+    "start": 114.553,
+    "end": 114.721
+   },
+   {
+    "word": "apagar",
+    "start": 114.721,
+    "end": 115.138
+   },
+   {
+    "word": "de",
+    "start": 115.138,
+    "end": 115.25
+   },
+   {
+    "word": "inmediato.",
+    "start": 115.25,
+    "end": 115.856
+   }
+  ]
+ },
+ {
+  "id": "S05_F020",
+  "scene": "HABITO 4 - La Incomodidad No Es Alarma",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "Aquí está lo que nadie te dice: si cada vez que algo se siente difícil lo evitas,",
+  "visual": "Medium shot of the stick figure turning away from a small glowing obstacle icon, a faint repeating-avoidance motion line shown behind them.",
+  "start": 116.48,
+  "end": 121.975,
+  "words": [
+   {
+    "word": "Aquí",
+    "start": 117.103,
+    "end": 117.368
+   },
+   {
+    "word": "está",
+    "start": 117.368,
+    "end": 117.633
+   },
+   {
+    "word": "lo",
+    "start": 117.633,
+    "end": 117.765
+   },
+   {
+    "word": "que",
+    "start": 117.765,
+    "end": 117.963
+   },
+   {
+    "word": "nadie",
+    "start": 117.963,
+    "end": 118.294
+   },
+   {
+    "word": "te",
+    "start": 118.294,
+    "end": 118.427
+   },
+   {
+    "word": "dice:",
+    "start": 118.427,
+    "end": 118.692
+   },
+   {
+    "word": "si",
+    "start": 118.692,
+    "end": 119.237
+   },
+   {
+    "word": "cada",
+    "start": 119.237,
+    "end": 119.502
+   },
+   {
+    "word": "vez",
+    "start": 119.502,
+    "end": 119.7
+   },
+   {
+    "word": "que",
+    "start": 119.7,
+    "end": 119.899
+   },
+   {
+    "word": "algo",
+    "start": 119.899,
+    "end": 120.164
+   },
+   {
+    "word": "se",
+    "start": 120.164,
+    "end": 120.296
+   },
+   {
+    "word": "siente",
+    "start": 120.296,
+    "end": 120.693
+   },
+   {
+    "word": "difícil",
+    "start": 120.693,
+    "end": 121.156
+   },
+   {
+    "word": "lo",
+    "start": 121.156,
+    "end": 121.289
+   },
+   {
+    "word": "evitas,",
+    "start": 121.289,
+    "end": 121.77
+   }
+  ]
+ },
+ {
+  "id": "S05_F021",
+  "scene": "HABITO 4 - La Incomodidad No Es Alarma",
+  "shot_raw": "Close-up",
+  "shot": "CLOSE-UP",
+  "es": "tu cerebro aprende que la incomodidad siempre significa peligro, y cada vez necesita menos dificultad real para activar la misma alarma.",
+  "visual": "Close-up of the simplified brain icon with the alarm-bell icon growing progressively larger and more sensitive across three small sequential panels within the frame.",
+  "start": 121.975,
+  "end": 130.262,
+  "words": [
+   {
+    "word": "tu",
+    "start": 122.18,
+    "end": 122.295
+   },
+   {
+    "word": "cerebro",
+    "start": 122.295,
+    "end": 122.697
+   },
+   {
+    "word": "aprende",
+    "start": 122.697,
+    "end": 123.099
+   },
+   {
+    "word": "que",
+    "start": 123.099,
+    "end": 123.271
+   },
+   {
+    "word": "la",
+    "start": 123.271,
+    "end": 123.386
+   },
+   {
+    "word": "incomodidad",
+    "start": 123.386,
+    "end": 124.017
+   },
+   {
+    "word": "siempre",
+    "start": 124.017,
+    "end": 124.419
+   },
+   {
+    "word": "significa",
+    "start": 124.419,
+    "end": 125.087
+   },
+   {
+    "word": "peligro,",
+    "start": 125.087,
+    "end": 125.779
+   },
+   {
+    "word": "y",
+    "start": 125.779,
+    "end": 125.931
+   },
+   {
+    "word": "cada",
+    "start": 125.931,
+    "end": 126.16
+   },
+   {
+    "word": "vez",
+    "start": 126.16,
+    "end": 126.333
+   },
+   {
+    "word": "necesita",
+    "start": 126.333,
+    "end": 126.792
+   },
+   {
+    "word": "menos",
+    "start": 126.792,
+    "end": 127.079
+   },
+   {
+    "word": "dificultad",
+    "start": 127.079,
+    "end": 127.744
+   },
+   {
+    "word": "real",
+    "start": 127.744,
+    "end": 127.974
+   },
+   {
+    "word": "para",
+    "start": 127.974,
+    "end": 128.319
+   },
+   {
+    "word": "activar",
+    "start": 128.319,
+    "end": 128.872
+   },
+   {
+    "word": "la",
+    "start": 128.872,
+    "end": 128.986
+   },
+   {
+    "word": "misma",
+    "start": 128.986,
+    "end": 129.273
+   },
+   {
+    "word": "alarma.",
+    "start": 129.273,
+    "end": 129.618
+   }
+  ]
+ },
+ {
+  "id": "S05_F022",
+  "scene": "HABITO 4 - La Incomodidad No Es Alarma",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Las personas mentalmente fuertes entrenan, poco a poco y sin dramatismo, la diferencia entre \"esto duele\" y \"esto es una amenaza real\".",
+  "visual": "Wide shot of the stick figure standing calmly beside the obstacle icon, the alarm-bell icon now shown small and quiet, #8B6CFF highlight distinguishing a 'duele' label from an 'amenaza' label as two separate small icons.",
+  "start": 130.262,
+  "end": 139.966,
+  "words": [
+   {
+    "word": "Las",
+    "start": 130.907,
+    "end": 131.095
+   },
+   {
+    "word": "personas",
+    "start": 131.095,
+    "end": 131.598
+   },
+   {
+    "word": "mentalmente",
+    "start": 131.598,
+    "end": 132.289
+   },
+   {
+    "word": "fuertes",
+    "start": 132.289,
+    "end": 132.8
+   },
+   {
+    "word": "entrenan,",
+    "start": 132.8,
+    "end": 133.735
+   },
+   {
+    "word": "poco",
+    "start": 133.735,
+    "end": 133.986
+   },
+   {
+    "word": "a",
+    "start": 133.986,
+    "end": 134.137
+   },
+   {
+    "word": "poco",
+    "start": 134.137,
+    "end": 134.388
+   },
+   {
+    "word": "y",
+    "start": 134.388,
+    "end": 134.451
+   },
+   {
+    "word": "sin",
+    "start": 134.451,
+    "end": 134.64
+   },
+   {
+    "word": "dramatismo,",
+    "start": 134.64,
+    "end": 135.364
+   },
+   {
+    "word": "la",
+    "start": 135.364,
+    "end": 135.922
+   },
+   {
+    "word": "diferencia",
+    "start": 135.922,
+    "end": 136.55
+   },
+   {
+    "word": "entre",
+    "start": 136.55,
+    "end": 137.109
+   },
+   {
+    "word": "\"esto",
+    "start": 137.109,
+    "end": 137.432
+   },
+   {
+    "word": "duele\"",
+    "start": 137.432,
+    "end": 137.912
+   },
+   {
+    "word": "y",
+    "start": 137.912,
+    "end": 137.974
+   },
+   {
+    "word": "\"esto",
+    "start": 137.974,
+    "end": 138.349
+   },
+   {
+    "word": "es",
+    "start": 138.349,
+    "end": 138.474
+   },
+   {
+    "word": "una",
+    "start": 138.474,
+    "end": 138.663
+   },
+   {
+    "word": "amenaza",
+    "start": 138.663,
+    "end": 139.103
+   },
+   {
+    "word": "real\".",
+    "start": 139.103,
+    "end": 139.354
+   }
+  ]
+ },
+ {
+  "id": "S06_F023",
+  "scene": "HABITO 5 - Soltar el Control",
+  "shot_raw": "Text card / title",
+  "shot": "MEDIUM SHOT",
+  "es": "Cinco: sueltan el control sobre lo que objetivamente no pueden cambiar.",
+  "visual": "Minimal title card, number tile '5' glowing #8B6CFF, two simple open-hand icons beside it releasing a small weight.",
+  "start": 139.966,
+  "end": 145.294,
+  "words": [
+   {
+    "word": "Cinco:",
+    "start": 140.579,
+    "end": 140.95
+   },
+   {
+    "word": "sueltan",
+    "start": 140.95,
+    "end": 141.738
+   },
+   {
+    "word": "el",
+    "start": 141.738,
+    "end": 141.855
+   },
+   {
+    "word": "control",
+    "start": 141.855,
+    "end": 142.264
+   },
+   {
+    "word": "sobre",
+    "start": 142.264,
+    "end": 142.556
+   },
+   {
+    "word": "lo",
+    "start": 142.556,
+    "end": 142.673
+   },
+   {
+    "word": "que",
+    "start": 142.673,
+    "end": 142.849
+   },
+   {
+    "word": "objetivamente",
+    "start": 142.849,
+    "end": 143.694
+   },
+   {
+    "word": "no",
+    "start": 143.694,
+    "end": 143.811
+   },
+   {
+    "word": "pueden",
+    "start": 143.811,
+    "end": 144.248
+   },
+   {
+    "word": "cambiar.",
+    "start": 144.248,
+    "end": 144.657
+   }
+  ]
+ },
+ {
+  "id": "S06_F024",
+  "scene": "HABITO 5 - Soltar el Control",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "No es resignación — es dejar de gastar energía en pelear contra el clima, el tráfico o las decisiones ajenas,",
+  "visual": "Medium shot of the stick figure standing calm beside three small fading icons (a raincloud, a traffic line, a crowd silhouette), no longer pushing against them.",
+  "start": 145.294,
+  "end": 152.833,
+  "words": [
+   {
+    "word": "No",
+    "start": 145.931,
+    "end": 146.06
+   },
+   {
+    "word": "es",
+    "start": 146.06,
+    "end": 146.188
+   },
+   {
+    "word": "resignación",
+    "start": 146.188,
+    "end": 146.895
+   },
+   {
+    "word": "—",
+    "start": 146.895,
+    "end": 146.96
+   },
+   {
+    "word": "es",
+    "start": 146.96,
+    "end": 147.401
+   },
+   {
+    "word": "dejar",
+    "start": 147.401,
+    "end": 147.723
+   },
+   {
+    "word": "de",
+    "start": 147.723,
+    "end": 147.851
+   },
+   {
+    "word": "gastar",
+    "start": 147.851,
+    "end": 148.237
+   },
+   {
+    "word": "energía",
+    "start": 148.237,
+    "end": 148.687
+   },
+   {
+    "word": "en",
+    "start": 148.687,
+    "end": 148.816
+   },
+   {
+    "word": "pelear",
+    "start": 148.816,
+    "end": 149.202
+   },
+   {
+    "word": "contra",
+    "start": 149.202,
+    "end": 149.759
+   },
+   {
+    "word": "el",
+    "start": 149.759,
+    "end": 149.888
+   },
+   {
+    "word": "clima,",
+    "start": 149.888,
+    "end": 150.687
+   },
+   {
+    "word": "el",
+    "start": 150.687,
+    "end": 150.816
+   },
+   {
+    "word": "tráfico",
+    "start": 150.816,
+    "end": 151.342
+   },
+   {
+    "word": "o",
+    "start": 151.342,
+    "end": 151.406
+   },
+   {
+    "word": "las",
+    "start": 151.406,
+    "end": 151.599
+   },
+   {
+    "word": "decisiones",
+    "start": 151.599,
+    "end": 152.242
+   },
+   {
+    "word": "ajenas,",
+    "start": 152.242,
+    "end": 152.628
+   }
+  ]
+ },
+ {
+  "id": "S06_F025",
+  "scene": "HABITO 5 - Soltar el Control",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "para invertir esa misma energía en lo único que sí depende de ellas: su propia respuesta, su propio esfuerzo",
+  "visual": "Wide shot of a glowing energy stream in #8B6CFF redirecting away from the fading external icons toward a single glowing internal icon (a simple figure-shaped light) at the character's center.",
+  "start": 152.833,
+  "end": 158.156,
+  "words": [
+   {
+    "word": "para",
+    "start": 153.038,
+    "end": 153.23
+   },
+   {
+    "word": "invertir",
+    "start": 153.23,
+    "end": 153.711
+   },
+   {
+    "word": "esa",
+    "start": 153.711,
+    "end": 153.854
+   },
+   {
+    "word": "misma",
+    "start": 153.854,
+    "end": 154.094
+   },
+   {
+    "word": "energía",
+    "start": 154.094,
+    "end": 154.429
+   },
+   {
+    "word": "en",
+    "start": 154.429,
+    "end": 154.525
+   },
+   {
+    "word": "lo",
+    "start": 154.525,
+    "end": 154.62
+   },
+   {
+    "word": "único",
+    "start": 154.62,
+    "end": 154.86
+   },
+   {
+    "word": "que",
+    "start": 154.86,
+    "end": 155.004
+   },
+   {
+    "word": "sí",
+    "start": 155.004,
+    "end": 155.099
+   },
+   {
+    "word": "depende",
+    "start": 155.099,
+    "end": 155.435
+   },
+   {
+    "word": "de",
+    "start": 155.435,
+    "end": 155.53
+   },
+   {
+    "word": "ellas:",
+    "start": 155.53,
+    "end": 155.855
+   },
+   {
+    "word": "su",
+    "start": 155.855,
+    "end": 155.951
+   },
+   {
+    "word": "propia",
+    "start": 155.951,
+    "end": 156.238
+   },
+   {
+    "word": "respuesta,",
+    "start": 156.238,
+    "end": 157.039
+   },
+   {
+    "word": "su",
+    "start": 157.039,
+    "end": 157.215
+   },
+   {
+    "word": "propio",
+    "start": 157.215,
+    "end": 157.502
+   },
+   {
+    "word": "esfuerzo",
+    "start": 157.502,
+    "end": 157.972
+   }
+  ]
+ },
+ {
+  "id": "S06_F026",
+  "scene": "HABITO 5 - Soltar el Control",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "y el siguiente paso concreto que sí está en sus manos dar hoy mismo.",
+  "visual": "Medium shot of the stick figure taking a single deliberate step forward, a small glowing footprint icon marking the ground ahead, clear and immediate.",
+  "start": 158.156,
+  "end": 163.443,
+  "words": [
+   {
+    "word": "y",
+    "start": 158.34,
+    "end": 158.419
+   },
+   {
+    "word": "el",
+    "start": 158.419,
+    "end": 158.578
+   },
+   {
+    "word": "siguiente",
+    "start": 158.578,
+    "end": 159.391
+   },
+   {
+    "word": "paso",
+    "start": 159.391,
+    "end": 159.709
+   },
+   {
+    "word": "concreto",
+    "start": 159.709,
+    "end": 160.422
+   },
+   {
+    "word": "que",
+    "start": 160.422,
+    "end": 160.661
+   },
+   {
+    "word": "sí",
+    "start": 160.661,
+    "end": 160.819
+   },
+   {
+    "word": "está",
+    "start": 160.819,
+    "end": 161.137
+   },
+   {
+    "word": "en",
+    "start": 161.137,
+    "end": 161.296
+   },
+   {
+    "word": "sus",
+    "start": 161.296,
+    "end": 161.534
+   },
+   {
+    "word": "manos",
+    "start": 161.534,
+    "end": 161.931
+   },
+   {
+    "word": "dar",
+    "start": 161.931,
+    "end": 162.17
+   },
+   {
+    "word": "hoy",
+    "start": 162.17,
+    "end": 162.408
+   },
+   {
+    "word": "mismo.",
+    "start": 162.408,
+    "end": 162.805
+   }
+  ]
+ },
+ {
+  "id": "S07_F027",
+  "scene": "HABITO 6 - Celebrar el Progreso Ajeno",
+  "shot_raw": "Text card / title",
+  "shot": "MEDIUM SHOT",
+  "es": "Seis: celebran el progreso de otras personas sin sentir que eso les resta algo a ellas mismas.",
+  "visual": "Minimal title card, number tile '6' glowing #8B6CFF, two small glowing figure-icons standing side by side, one slightly ahead, neither dimming the other.",
+  "start": 163.443,
+  "end": 170.129,
+  "words": [
+   {
+    "word": "Seis:",
+    "start": 164.081,
+    "end": 164.337
+   },
+   {
+    "word": "celebran",
+    "start": 164.337,
+    "end": 165.194
+   },
+   {
+    "word": "el",
+    "start": 165.194,
+    "end": 165.322
+   },
+   {
+    "word": "progreso",
+    "start": 165.322,
+    "end": 165.908
+   },
+   {
+    "word": "de",
+    "start": 165.908,
+    "end": 166.036
+   },
+   {
+    "word": "otras",
+    "start": 166.036,
+    "end": 166.356
+   },
+   {
+    "word": "personas",
+    "start": 166.356,
+    "end": 166.94
+   },
+   {
+    "word": "sin",
+    "start": 166.94,
+    "end": 167.131
+   },
+   {
+    "word": "sentir",
+    "start": 167.131,
+    "end": 167.515
+   },
+   {
+    "word": "que",
+    "start": 167.515,
+    "end": 167.796
+   },
+   {
+    "word": "eso",
+    "start": 167.796,
+    "end": 167.988
+   },
+   {
+    "word": "les",
+    "start": 167.988,
+    "end": 168.18
+   },
+   {
+    "word": "resta",
+    "start": 168.18,
+    "end": 168.5
+   },
+   {
+    "word": "algo",
+    "start": 168.5,
+    "end": 168.756
+   },
+   {
+    "word": "a",
+    "start": 168.756,
+    "end": 168.82
+   },
+   {
+    "word": "ellas",
+    "start": 168.82,
+    "end": 169.14
+   },
+   {
+    "word": "mismas.",
+    "start": 169.14,
+    "end": 169.524
+   }
+  ]
+ },
+ {
+  "id": "S07_F028",
+  "scene": "HABITO 6 - Celebrar el Progreso Ajeno",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "Pero espera, todavía hay más: esto no es actuación ni bondad forzada.",
+  "visual": "Medium shot of the stick figure genuinely smiling toward the other figure-icon's small glowing achievement-star, no forced or tense expression.",
+  "start": 170.129,
+  "end": 175.53,
+  "words": [
+   {
+    "word": "Pero",
+    "start": 170.733,
+    "end": 170.975
+   },
+   {
+    "word": "espera,",
+    "start": 170.975,
+    "end": 171.421
+   },
+   {
+    "word": "todavía",
+    "start": 171.421,
+    "end": 172.199
+   },
+   {
+    "word": "hay",
+    "start": 172.199,
+    "end": 172.381
+   },
+   {
+    "word": "más:",
+    "start": 172.381,
+    "end": 172.562
+   },
+   {
+    "word": "esto",
+    "start": 172.562,
+    "end": 173.117
+   },
+   {
+    "word": "no",
+    "start": 173.117,
+    "end": 173.238
+   },
+   {
+    "word": "es",
+    "start": 173.238,
+    "end": 173.359
+   },
+   {
+    "word": "actuación",
+    "start": 173.359,
+    "end": 174.008
+   },
+   {
+    "word": "ni",
+    "start": 174.008,
+    "end": 174.129
+   },
+   {
+    "word": "bondad",
+    "start": 174.129,
+    "end": 174.492
+   },
+   {
+    "word": "forzada.",
+    "start": 174.492,
+    "end": 174.916
+   }
+  ]
+ },
+ {
+  "id": "S07_F029",
+  "scene": "HABITO 6 - Celebrar el Progreso Ajeno",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Es consecuencia directa de medir su propio progreso contra su propio punto de partida, no contra el de alguien más —",
+  "visual": "Wide shot of the stick figure standing beside a personal glowing progress-line rising from their own starting point, clearly separate from a second unrelated progress-line for the other figure, #8B6CFF highlight on the personal line.",
+  "start": 175.53,
+  "end": 182.922,
+  "words": [
+   {
+    "word": "Es",
+    "start": 176.144,
+    "end": 176.265
+   },
+   {
+    "word": "consecuencia",
+    "start": 176.265,
+    "end": 176.992
+   },
+   {
+    "word": "directa",
+    "start": 176.992,
+    "end": 177.53
+   },
+   {
+    "word": "de",
+    "start": 177.53,
+    "end": 177.652
+   },
+   {
+    "word": "medir",
+    "start": 177.652,
+    "end": 177.955
+   },
+   {
+    "word": "su",
+    "start": 177.955,
+    "end": 178.076
+   },
+   {
+    "word": "propio",
+    "start": 178.076,
+    "end": 178.516
+   },
+   {
+    "word": "progreso",
+    "start": 178.516,
+    "end": 179.001
+   },
+   {
+    "word": "contra",
+    "start": 179.001,
+    "end": 179.364
+   },
+   {
+    "word": "su",
+    "start": 179.364,
+    "end": 179.486
+   },
+   {
+    "word": "propio",
+    "start": 179.486,
+    "end": 179.943
+   },
+   {
+    "word": "punto",
+    "start": 179.943,
+    "end": 180.246
+   },
+   {
+    "word": "de",
+    "start": 180.246,
+    "end": 180.367
+   },
+   {
+    "word": "partida,",
+    "start": 180.367,
+    "end": 181.356
+   },
+   {
+    "word": "no",
+    "start": 181.356,
+    "end": 181.478
+   },
+   {
+    "word": "contra",
+    "start": 181.478,
+    "end": 181.841
+   },
+   {
+    "word": "el",
+    "start": 181.841,
+    "end": 181.962
+   },
+   {
+    "word": "de",
+    "start": 181.962,
+    "end": 182.084
+   },
+   {
+    "word": "alguien",
+    "start": 182.084,
+    "end": 182.508
+   },
+   {
+    "word": "más",
+    "start": 182.508,
+    "end": 182.689
+   },
+   {
+    "word": "—",
+    "start": 182.689,
+    "end": 182.75
+   }
+  ]
+ },
+ {
+  "id": "S07_F030",
+  "scene": "HABITO 6 - Celebrar el Progreso Ajeno",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "porque cuando la comparación deja de ser la vara de medir, el éxito ajeno deja de sentirse como una amenaza personal.",
+  "visual": "Medium shot of a small comparison-scale icon fading out completely, both progress-lines from the previous frame now shown calmly side by side with no tension between them.",
+  "start": 182.922,
+  "end": 189.88,
+  "words": [
+   {
+    "word": "porque",
+    "start": 183.094,
+    "end": 183.453
+   },
+   {
+    "word": "cuando",
+    "start": 183.453,
+    "end": 183.813
+   },
+   {
+    "word": "la",
+    "start": 183.813,
+    "end": 183.933
+   },
+   {
+    "word": "comparación",
+    "start": 183.933,
+    "end": 184.592
+   },
+   {
+    "word": "deja",
+    "start": 184.592,
+    "end": 184.832
+   },
+   {
+    "word": "de",
+    "start": 184.832,
+    "end": 184.951
+   },
+   {
+    "word": "ser",
+    "start": 184.951,
+    "end": 185.131
+   },
+   {
+    "word": "la",
+    "start": 185.131,
+    "end": 185.251
+   },
+   {
+    "word": "vara",
+    "start": 185.251,
+    "end": 185.491
+   },
+   {
+    "word": "de",
+    "start": 185.491,
+    "end": 185.61
+   },
+   {
+    "word": "medir,",
+    "start": 185.61,
+    "end": 186.297
+   },
+   {
+    "word": "el",
+    "start": 186.297,
+    "end": 186.417
+   },
+   {
+    "word": "éxito",
+    "start": 186.417,
+    "end": 186.716
+   },
+   {
+    "word": "ajeno",
+    "start": 186.716,
+    "end": 187.016
+   },
+   {
+    "word": "deja",
+    "start": 187.016,
+    "end": 187.256
+   },
+   {
+    "word": "de",
+    "start": 187.256,
+    "end": 187.376
+   },
+   {
+    "word": "sentirse",
+    "start": 187.376,
+    "end": 187.855
+   },
+   {
+    "word": "como",
+    "start": 187.855,
+    "end": 188.095
+   },
+   {
+    "word": "una",
+    "start": 188.095,
+    "end": 188.274
+   },
+   {
+    "word": "amenaza",
+    "start": 188.274,
+    "end": 188.694
+   },
+   {
+    "word": "personal.",
+    "start": 188.694,
+    "end": 189.26
+   }
+  ]
+ },
+ {
+  "id": "S08_F031",
+  "scene": "HABITO 7 - Revisar el Error Sin Repetirlo",
+  "shot_raw": "Text card / title",
+  "shot": "MEDIUM SHOT",
+  "es": "Y siete — el que casi nadie identifica en sí mismo: revisan sus errores buscando la lección exacta, con una pregunta concreta, y después la sueltan por completo.",
+  "visual": "Minimal title card, number tile '7' glowing brightest of all seven, distinctly larger, a small glowing magnifying-glass icon beside it examining a faint error mark before it fades.",
+  "start": 189.88,
+  "end": 201.18,
+  "words": [
+   {
+    "word": "Y",
+    "start": 190.501,
+    "end": 190.562
+   },
+   {
+    "word": "siete",
+    "start": 190.562,
+    "end": 190.864
+   },
+   {
+    "word": "—",
+    "start": 190.864,
+    "end": 190.925
+   },
+   {
+    "word": "el",
+    "start": 190.925,
+    "end": 191.367
+   },
+   {
+    "word": "que",
+    "start": 191.367,
+    "end": 191.549
+   },
+   {
+    "word": "casi",
+    "start": 191.549,
+    "end": 191.791
+   },
+   {
+    "word": "nadie",
+    "start": 191.791,
+    "end": 192.094
+   },
+   {
+    "word": "identifica",
+    "start": 192.094,
+    "end": 192.7
+   },
+   {
+    "word": "en",
+    "start": 192.7,
+    "end": 192.821
+   },
+   {
+    "word": "sí",
+    "start": 192.821,
+    "end": 192.942
+   },
+   {
+    "word": "mismo:",
+    "start": 192.942,
+    "end": 193.245
+   },
+   {
+    "word": "revisan",
+    "start": 193.245,
+    "end": 194.115
+   },
+   {
+    "word": "sus",
+    "start": 194.115,
+    "end": 194.296
+   },
+   {
+    "word": "errores",
+    "start": 194.296,
+    "end": 194.72
+   },
+   {
+    "word": "buscando",
+    "start": 194.72,
+    "end": 195.205
+   },
+   {
+    "word": "la",
+    "start": 195.205,
+    "end": 195.326
+   },
+   {
+    "word": "lección",
+    "start": 195.326,
+    "end": 195.75
+   },
+   {
+    "word": "exacta,",
+    "start": 195.75,
+    "end": 196.114
+   },
+   {
+    "word": "con",
+    "start": 196.114,
+    "end": 196.295
+   },
+   {
+    "word": "una",
+    "start": 196.295,
+    "end": 196.611
+   },
+   {
+    "word": "pregunta",
+    "start": 196.611,
+    "end": 197.43
+   },
+   {
+    "word": "concreta,",
+    "start": 197.43,
+    "end": 197.914
+   },
+   {
+    "word": "y",
+    "start": 197.914,
+    "end": 197.975
+   },
+   {
+    "word": "después",
+    "start": 197.975,
+    "end": 198.859
+   },
+   {
+    "word": "la",
+    "start": 198.859,
+    "end": 198.98
+   },
+   {
+    "word": "sueltan",
+    "start": 198.98,
+    "end": 199.497
+   },
+   {
+    "word": "por",
+    "start": 199.497,
+    "end": 199.773
+   },
+   {
+    "word": "completo.",
+    "start": 199.773,
+    "end": 200.415
+   }
+  ]
+ },
+ {
+  "id": "S08_F032",
+  "scene": "HABITO 7 - Revisar el Error Sin Repetirlo",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "La mayoría de las personas hace solo la mitad de esto: o revive el error una y otra vez sin extraer nada útil,",
+  "visual": "Medium shot of a faint looping replay icon showing the same error mark repeating in a stuck cycle, stick figure caught inside the loop with a tired expression.",
+  "start": 201.18,
+  "end": 208.042,
+  "words": [
+   {
+    "word": "La",
+    "start": 201.815,
+    "end": 201.942
+   },
+   {
+    "word": "mayoría",
+    "start": 201.942,
+    "end": 202.384
+   },
+   {
+    "word": "de",
+    "start": 202.384,
+    "end": 202.511
+   },
+   {
+    "word": "las",
+    "start": 202.511,
+    "end": 202.779
+   },
+   {
+    "word": "personas",
+    "start": 202.779,
+    "end": 203.285
+   },
+   {
+    "word": "hace",
+    "start": 203.285,
+    "end": 203.538
+   },
+   {
+    "word": "solo",
+    "start": 203.538,
+    "end": 203.791
+   },
+   {
+    "word": "la",
+    "start": 203.791,
+    "end": 203.918
+   },
+   {
+    "word": "mitad",
+    "start": 203.918,
+    "end": 204.315
+   },
+   {
+    "word": "de",
+    "start": 204.315,
+    "end": 204.441
+   },
+   {
+    "word": "esto:",
+    "start": 204.441,
+    "end": 205.038
+   },
+   {
+    "word": "o",
+    "start": 205.038,
+    "end": 205.102
+   },
+   {
+    "word": "revive",
+    "start": 205.102,
+    "end": 205.481
+   },
+   {
+    "word": "el",
+    "start": 205.481,
+    "end": 205.608
+   },
+   {
+    "word": "error",
+    "start": 205.608,
+    "end": 205.924
+   },
+   {
+    "word": "una",
+    "start": 205.924,
+    "end": 206.114
+   },
+   {
+    "word": "y",
+    "start": 206.114,
+    "end": 206.177
+   },
+   {
+    "word": "otra",
+    "start": 206.177,
+    "end": 206.43
+   },
+   {
+    "word": "vez",
+    "start": 206.43,
+    "end": 206.62
+   },
+   {
+    "word": "sin",
+    "start": 206.62,
+    "end": 206.81
+   },
+   {
+    "word": "extraer",
+    "start": 206.81,
+    "end": 207.253
+   },
+   {
+    "word": "nada",
+    "start": 207.253,
+    "end": 207.506
+   },
+   {
+    "word": "útil,",
+    "start": 207.506,
+    "end": 207.853
+   }
+  ]
+ },
+ {
+  "id": "S08_F033",
+  "scene": "HABITO 7 - Revisar el Error Sin Repetirlo",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "o lo entierra tan rápido que vuelve a cometerlo.",
+  "visual": "Wide shot of the error mark being hastily buried under a small dark mound, then immediately reappearing beside the stick figure moments later, unresolved.",
+  "start": 208.042,
+  "end": 211.188,
+  "words": [
+   {
+    "word": "o",
+    "start": 208.231,
+    "end": 208.278
+   },
+   {
+    "word": "lo",
+    "start": 208.278,
+    "end": 208.372
+   },
+   {
+    "word": "entierra",
+    "start": 208.372,
+    "end": 208.749
+   },
+   {
+    "word": "tan",
+    "start": 208.749,
+    "end": 208.969
+   },
+   {
+    "word": "rápido",
+    "start": 208.969,
+    "end": 209.384
+   },
+   {
+    "word": "que",
+    "start": 209.384,
+    "end": 209.525
+   },
+   {
+    "word": "vuelve",
+    "start": 209.525,
+    "end": 209.808
+   },
+   {
+    "word": "a",
+    "start": 209.808,
+    "end": 209.855
+   },
+   {
+    "word": "cometerlo.",
+    "start": 209.855,
+    "end": 210.457
+   }
+  ]
+ },
+ {
+  "id": "S08_F034",
+  "scene": "HABITO 7 - Revisar el Error Sin Repetirlo",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Las personas mentalmente fuertes hacen las dos cosas, en ese orden, y no se saltan ninguna.",
+  "visual": "Wide shot of the magnifying-glass icon examining the error mark first, then a clean release gesture letting it dissolve into light afterward, both steps shown in clear sequence, #8B6CFF highlight on the completed sequence.",
+  "start": 211.188,
+  "end": 218.283,
+  "words": [
+   {
+    "word": "Las",
+    "start": 211.822,
+    "end": 212.032
+   },
+   {
+    "word": "personas",
+    "start": 212.032,
+    "end": 212.591
+   },
+   {
+    "word": "mentalmente",
+    "start": 212.591,
+    "end": 213.361
+   },
+   {
+    "word": "fuertes",
+    "start": 213.361,
+    "end": 213.922
+   },
+   {
+    "word": "hacen",
+    "start": 213.922,
+    "end": 214.272
+   },
+   {
+    "word": "las",
+    "start": 214.272,
+    "end": 214.482
+   },
+   {
+    "word": "dos",
+    "start": 214.482,
+    "end": 214.692
+   },
+   {
+    "word": "cosas,",
+    "start": 214.692,
+    "end": 215.414
+   },
+   {
+    "word": "en",
+    "start": 215.414,
+    "end": 215.553
+   },
+   {
+    "word": "ese",
+    "start": 215.553,
+    "end": 215.763
+   },
+   {
+    "word": "orden,",
+    "start": 215.763,
+    "end": 216.113
+   },
+   {
+    "word": "y",
+    "start": 216.113,
+    "end": 216.417
+   },
+   {
+    "word": "no",
+    "start": 216.417,
+    "end": 216.557
+   },
+   {
+    "word": "se",
+    "start": 216.557,
+    "end": 216.697
+   },
+   {
+    "word": "saltan",
+    "start": 216.697,
+    "end": 217.19
+   },
+   {
+    "word": "ninguna.",
+    "start": 217.19,
+    "end": 217.68
+   }
+  ]
+ },
+ {
+  "id": "S09_F035",
+  "scene": "EL CIERRE",
+  "shot_raw": "Direct address",
+  "shot": "MEDIUM SHOT",
+  "es": "¿Cuántos de estos siete tienes ya, y cuáles reconoces que te faltan?",
+  "visual": "Direct-address medium shot of the stick figure gesturing toward the viewer, the full arc of seven number-tiles now all glowing steadily behind them.",
+  "start": 218.283,
+  "end": 222.998,
+  "words": [
+   {
+    "word": "¿Cuántos",
+    "start": 218.886,
+    "end": 219.277
+   },
+   {
+    "word": "de",
+    "start": 219.277,
+    "end": 219.388
+   },
+   {
+    "word": "estos",
+    "start": 219.388,
+    "end": 219.667
+   },
+   {
+    "word": "siete",
+    "start": 219.667,
+    "end": 219.946
+   },
+   {
+    "word": "tienes",
+    "start": 219.946,
+    "end": 220.281
+   },
+   {
+    "word": "ya,",
+    "start": 220.281,
+    "end": 220.393
+   },
+   {
+    "word": "y",
+    "start": 220.393,
+    "end": 220.449
+   },
+   {
+    "word": "cuáles",
+    "start": 220.449,
+    "end": 221.196
+   },
+   {
+    "word": "reconoces",
+    "start": 221.196,
+    "end": 221.698
+   },
+   {
+    "word": "que",
+    "start": 221.698,
+    "end": 221.865
+   },
+   {
+    "word": "te",
+    "start": 221.865,
+    "end": 221.977
+   },
+   {
+    "word": "faltan?",
+    "start": 221.977,
+    "end": 222.394
+   }
+  ]
+ },
+ {
+  "id": "S09_F036",
+  "scene": "EL CIERRE",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "Escribe el número exacto en los comentarios — sin redondear hacia arriba, y sin contar como propio un hábito que solo practicas cuando todo va bien.",
+  "visual": "Medium shot of a small glowing comment-bubble icon appearing beside the stick figure, a subtle small number counter shown honestly rather than inflated.",
+  "start": 222.998,
+  "end": 232.296,
+  "words": [
+   {
+    "word": "Escribe",
+    "start": 223.601,
+    "end": 223.998
+   },
+   {
+    "word": "el",
+    "start": 223.998,
+    "end": 224.111
+   },
+   {
+    "word": "número",
+    "start": 224.111,
+    "end": 224.451
+   },
+   {
+    "word": "exacto",
+    "start": 224.451,
+    "end": 224.9
+   },
+   {
+    "word": "en",
+    "start": 224.9,
+    "end": 225.013
+   },
+   {
+    "word": "los",
+    "start": 225.013,
+    "end": 225.183
+   },
+   {
+    "word": "comentarios",
+    "start": 225.183,
+    "end": 225.884
+   },
+   {
+    "word": "—",
+    "start": 225.884,
+    "end": 225.94
+   },
+   {
+    "word": "sin",
+    "start": 225.94,
+    "end": 226.456
+   },
+   {
+    "word": "redondear",
+    "start": 226.456,
+    "end": 226.966
+   },
+   {
+    "word": "hacia",
+    "start": 226.966,
+    "end": 227.25
+   },
+   {
+    "word": "arriba,",
+    "start": 227.25,
+    "end": 227.59
+   },
+   {
+    "word": "y",
+    "start": 227.59,
+    "end": 227.647
+   },
+   {
+    "word": "sin",
+    "start": 227.647,
+    "end": 228.197
+   },
+   {
+    "word": "contar",
+    "start": 228.197,
+    "end": 228.537
+   },
+   {
+    "word": "como",
+    "start": 228.537,
+    "end": 228.845
+   },
+   {
+    "word": "propio",
+    "start": 228.845,
+    "end": 229.256
+   },
+   {
+    "word": "un",
+    "start": 229.256,
+    "end": 229.37
+   },
+   {
+    "word": "hábito",
+    "start": 229.37,
+    "end": 229.71
+   },
+   {
+    "word": "que",
+    "start": 229.71,
+    "end": 229.88
+   },
+   {
+    "word": "solo",
+    "start": 229.88,
+    "end": 230.106
+   },
+   {
+    "word": "practicas",
+    "start": 230.106,
+    "end": 230.693
+   },
+   {
+    "word": "cuando",
+    "start": 230.693,
+    "end": 231.033
+   },
+   {
+    "word": "todo",
+    "start": 231.033,
+    "end": 231.343
+   },
+   {
+    "word": "va",
+    "start": 231.343,
+    "end": 231.456
+   },
+   {
+    "word": "bien.",
+    "start": 231.456,
+    "end": 231.683
+   }
+  ]
+ },
+ {
+  "id": "S09_F037",
+  "scene": "EL CIERRE",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Ninguno de estos hábitos exige fuerza de voluntad sobrehumana; exige repetirlos, uno a la vez, en los momentos exactos donde es más incómodo hacerlo, hasta que dejen de sentirse como esfuerzo.",
+  "visual": "Wide shot of the seven number-tiles slowly settling into a calm, steady glow, stick figure standing relaxed rather than strained, ordinary posture matching the opening shot.",
+  "start": 232.296,
+  "end": 245.063,
+  "words": [
+   {
+    "word": "Ninguno",
+    "start": 232.908,
+    "end": 233.343
+   },
+   {
+    "word": "de",
+    "start": 233.343,
+    "end": 233.467
+   },
+   {
+    "word": "estos",
+    "start": 233.467,
+    "end": 233.778
+   },
+   {
+    "word": "hábitos",
+    "start": 233.778,
+    "end": 234.213
+   },
+   {
+    "word": "exige",
+    "start": 234.213,
+    "end": 234.523
+   },
+   {
+    "word": "fuerza",
+    "start": 234.523,
+    "end": 234.896
+   },
+   {
+    "word": "de",
+    "start": 234.896,
+    "end": 235.02
+   },
+   {
+    "word": "voluntad",
+    "start": 235.02,
+    "end": 235.594
+   },
+   {
+    "word": "sobrehumana;",
+    "start": 235.594,
+    "end": 236.667
+   },
+   {
+    "word": "exige",
+    "start": 236.667,
+    "end": 236.977
+   },
+   {
+    "word": "repetirlos,",
+    "start": 236.977,
+    "end": 237.681
+   },
+   {
+    "word": "uno",
+    "start": 237.681,
+    "end": 238.186
+   },
+   {
+    "word": "a",
+    "start": 238.186,
+    "end": 238.248
+   },
+   {
+    "word": "la",
+    "start": 238.248,
+    "end": 238.372
+   },
+   {
+    "word": "vez,",
+    "start": 238.372,
+    "end": 238.559
+   },
+   {
+    "word": "en",
+    "start": 238.559,
+    "end": 238.683
+   },
+   {
+    "word": "los",
+    "start": 238.683,
+    "end": 239.293
+   },
+   {
+    "word": "momentos",
+    "start": 239.293,
+    "end": 239.79
+   },
+   {
+    "word": "exactos",
+    "start": 239.79,
+    "end": 240.225
+   },
+   {
+    "word": "donde",
+    "start": 240.225,
+    "end": 240.642
+   },
+   {
+    "word": "es",
+    "start": 240.642,
+    "end": 240.766
+   },
+   {
+    "word": "más",
+    "start": 240.766,
+    "end": 240.953
+   },
+   {
+    "word": "incómodo",
+    "start": 240.953,
+    "end": 241.45
+   },
+   {
+    "word": "hacerlo,",
+    "start": 241.45,
+    "end": 241.885
+   },
+   {
+    "word": "hasta",
+    "start": 241.885,
+    "end": 242.551
+   },
+   {
+    "word": "que",
+    "start": 242.551,
+    "end": 242.738
+   },
+   {
+    "word": "dejen",
+    "start": 242.738,
+    "end": 243.048
+   },
+   {
+    "word": "de",
+    "start": 243.048,
+    "end": 243.172
+   },
+   {
+    "word": "sentirse",
+    "start": 243.172,
+    "end": 243.669
+   },
+   {
+    "word": "como",
+    "start": 243.669,
+    "end": 243.918
+   },
+   {
+    "word": "esfuerzo.",
+    "start": 243.918,
+    "end": 244.415
+   }
+  ]
+ },
+ {
+  "id": "S09_F038",
+  "scene": "EL CIERRE",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Si este video te sirvió, dale like y suscríbete — la disciplina no hace ruido, ni siquiera cuando construye una mente que no se quiebra fácilmente.",
+  "visual": "Final wide shot of the stick figure standing calm and grounded in soft dim light, small subscribe-bell and thumbs-up icons glowing gently in #8B6CFF in the corner, the seven tiles fading softly into the darkness behind, understated close.",
+  "start": 245.063,
+  "end": 255.79,
+  "words": [
+   {
+    "word": "Si",
+    "start": 245.711,
+    "end": 245.835
+   },
+   {
+    "word": "este",
+    "start": 245.835,
+    "end": 246.084
+   },
+   {
+    "word": "video",
+    "start": 246.084,
+    "end": 246.394
+   },
+   {
+    "word": "te",
+    "start": 246.394,
+    "end": 246.518
+   },
+   {
+    "word": "sirvió,",
+    "start": 246.518,
+    "end": 246.891
+   },
+   {
+    "word": "dale",
+    "start": 246.891,
+    "end": 247.139
+   },
+   {
+    "word": "like",
+    "start": 247.139,
+    "end": 247.747
+   },
+   {
+    "word": "y",
+    "start": 247.747,
+    "end": 247.81
+   },
+   {
+    "word": "suscríbete",
+    "start": 247.81,
+    "end": 248.508
+   },
+   {
+    "word": "—",
+    "start": 248.508,
+    "end": 248.57
+   },
+   {
+    "word": "la",
+    "start": 248.57,
+    "end": 248.773
+   },
+   {
+    "word": "disciplina",
+    "start": 248.773,
+    "end": 249.869
+   },
+   {
+    "word": "no",
+    "start": 249.869,
+    "end": 250.082
+   },
+   {
+    "word": "hace",
+    "start": 250.082,
+    "end": 250.33
+   },
+   {
+    "word": "ruido,",
+    "start": 250.33,
+    "end": 250.641
+   },
+   {
+    "word": "ni",
+    "start": 250.641,
+    "end": 250.765
+   },
+   {
+    "word": "siquiera",
+    "start": 250.765,
+    "end": 251.714
+   },
+   {
+    "word": "cuando",
+    "start": 251.714,
+    "end": 252.086
+   },
+   {
+    "word": "construye",
+    "start": 252.086,
+    "end": 252.645
+   },
+   {
+    "word": "una",
+    "start": 252.645,
+    "end": 252.831
+   },
+   {
+    "word": "mente",
+    "start": 252.831,
+    "end": 253.142
+   },
+   {
+    "word": "que",
+    "start": 253.142,
+    "end": 253.328
+   },
+   {
+    "word": "no",
+    "start": 253.328,
+    "end": 253.452
+   },
+   {
+    "word": "se",
+    "start": 253.452,
+    "end": 253.576
+   },
+   {
+    "word": "quiebra",
+    "start": 253.576,
+    "end": 254.011
+   },
+   {
+    "word": "fácilmente.",
+    "start": 254.011,
+    "end": 254.726
+   }
+  ]
+ }
+]

@@ -1,0 +1,564 @@
+================================================================================
+PROJECT 31 — 7 Hábitos Ocultos de la Gente Mentalmente Fuerte
+Playlist: 05_Autoconocimiento
+ACCENT = #8B6CFF
+================================================================================
+
+
+### ESCENA 1: EL GANCHO
+
+[FRAME S01_F001 -> images/img_001.png]
+[SHOT TYPE]: Wide shot
+[ES]: Las personas mentalmente fuertes no se levantan un día decididas a "ser fuertes".
+[VI]: Những người có tinh thần vững vàng không phải một ngày nào đó thức dậy và quyết định "trở nên mạnh mẽ".
+[VISUAL DESCRIPTION]: Wide shot of a stick figure standing calm in dim light, no dramatic pose, ordinary posture emphasizing there is no single heroic moment.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S01_F002 -> images/img_002.png]
+[SHOT TYPE]: Medium shot
+[ES]: Tienen hábitos pequeños, casi invisibles desde afuera, que repiten sin darse cuenta y que marcan toda la diferencia.
+[VI]: Họ có những thói quen nhỏ, gần như vô hình từ bên ngoài, lặp lại mà không hề để ý, và chính điều đó tạo nên khác biệt.
+[VISUAL DESCRIPTION]: Medium shot of seven small dim number-tiles (1-7) floating faintly around the stick figure, barely visible, #8B6CFF glow just beginning to appear on their edges.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S01_F003 -> images/img_003.png]
+[SHOT TYPE]: Wide shot
+[ES]: Hoy te muestro 7 de esos hábitos ocultos.
+[VI]: Hôm nay mình sẽ chỉ ra 7 thói quen ẩn giấu đó.
+[VISUAL DESCRIPTION]: Wide shot of the seven number-tiles now arranged in a clear arc above the stick figure's shoulder, glowing steadily.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S01_F004 -> images/img_004.png]
+[SHOT TYPE]: Direct address
+[ES]: Cuenta cuántos ya tienes, sin hacer trampa, y espera hasta el final — el último es el que casi nadie identifica en sí mismo.
+[VI]: Hãy đếm xem bạn đã có bao nhiêu, đừng gian lận, và chờ đến cuối video — thói quen cuối cùng là điều gần như không ai tự nhận ra ở chính mình.
+[VISUAL DESCRIPTION]: Direct-address medium shot of the stick figure gesturing toward the viewer, tile number 7 glowing distinctly brighter than the others as a teaser.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+
+### ESCENA 2: HABITO 1 - Reformular el Pensamiento (Amy Morin)
+
+[FRAME S02_F005 -> images/img_005.png]
+[SHOT TYPE]: Text card / title
+[ES]: Uno: reformulan el pensamiento negativo en el momento, no después.
+[VI]: Một: họ tái định hình suy nghĩ tiêu cực ngay lúc đó, không phải sau này.
+[VISUAL DESCRIPTION]: Minimal title card, number tile '1' glowing bright #8B6CFF, a small dark thought-bubble icon beside it with a jagged crack forming across it.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S02_F006 -> images/img_006.png]
+[SHOT TYPE]: Medium shot
+[ES]: La psicóloga Amy Morin, autora de "13 Cosas Que Las Personas Mentalmente Fuertes No Hacen",
+[VI]: Nhà trị liệu tâm lý Amy Morin, tác giả cuốn "13 Điều Người Có Tinh Thần Vững Vàng Không Làm",
+[VISUAL DESCRIPTION]: Stick figure standing beside a glowing book icon with a simple checklist motif on its cover, distinct from other book icons used in prior videos.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S02_F007 -> images/img_007.png]
+[SHOT TYPE]: Close-up
+[ES]: explica que no se trata de "pensar positivo" a la fuerza, sino de notar un pensamiento como "esto va a salir mal"
+[VI]: giải thích rằng không phải là ép mình "nghĩ tích cực", mà là nhận ra một suy nghĩ như "chuyện này sẽ tệ"
+[VISUAL DESCRIPTION]: Close-up of a dark thought-bubble containing a small warning-triangle icon, the stick figure's eyes shown noticing it rather than reacting immediately.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S02_F008 -> images/img_008.png]
+[SHOT TYPE]: Medium shot
+[ES]: y preguntarse de inmediato: ¿es un hecho o es solo un miedo?
+[VI]: và ngay lập tức tự hỏi: đây là sự thật hay chỉ là nỗi sợ?
+[VISUAL DESCRIPTION]: Medium shot of the thought-bubble splitting into two smaller glowing bubbles labeled by simple icons — a checkmark (hecho) and a wavy fear-line (miedo) — #8B6CFF highlight on the checkmark side.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S02_F009 -> images/img_009.png]
+[SHOT TYPE]: Wide shot
+[ES]: Esa pausa de dos segundos cambia por completo lo que pasa después.
+[VI]: Khoảng dừng hai giây đó thay đổi hoàn toàn mọi thứ xảy ra sau đó.
+[VISUAL DESCRIPTION]: Wide shot of a small glowing clock icon ticking briefly, stick figure's posture visibly settling from tense to calm across the pause.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+
+### ESCENA 3: HABITO 2 - Sentir Antes de Decidir (James Gross)
+
+[FRAME S03_F010 -> images/img_010.png]
+[SHOT TYPE]: Text card / title
+[ES]: Dos: sienten la emoción completa antes de decidir qué hacer con ella.
+[VI]: Hai: họ cảm nhận trọn vẹn cảm xúc trước khi quyết định phải làm gì với nó.
+[VISUAL DESCRIPTION]: Minimal title card, number tile '2' glowing #8B6CFF, a small glowing heart/wave icon beside it representing emotion.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S03_F011 -> images/img_011.png]
+[SHOT TYPE]: Medium shot
+[ES]: El psicólogo James Gross, de la Universidad de Stanford, ha investigado durante años la "reevaluación cognitiva" —
+[VI]: Nhà tâm lý học James Gross, Đại học Stanford, đã nghiên cứu suốt nhiều năm về "tái đánh giá nhận thức"
+[VISUAL DESCRIPTION]: Stick figure standing beside a distinct academic-building icon (different silhouette from the NYU icon used in prior videos) and a small glowing brain-and-arrow icon.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S03_F012 -> images/img_012.png]
+[SHOT TYPE]: Close-up
+[ES]: la capacidad de cambiar el significado de una situación antes de que la emoción tome el control de la conducta.
+[VI]: khả năng thay đổi ý nghĩa của một tình huống trước khi cảm xúc nắm quyền kiểm soát hành vi.
+[VISUAL DESCRIPTION]: Close-up of a simple scene-icon (a small dark cloud) being reframed by a glowing #8B6CFF lens passing over it, the cloud's expression shifting from threatening to neutral.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S03_F013 -> images/img_013.png]
+[SHOT TYPE]: Medium shot
+[ES]: Anota esto: las personas mentalmente fuertes no reprimen lo que sienten.
+[VI]: Ghi nhớ điều này: người có tinh thần vững vàng không kìm nén cảm xúc của mình.
+[VISUAL DESCRIPTION]: Medium shot of the stick figure with a glowing emotion-icon fully visible and unblocked above the chest, no barrier or wall suppressing it.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S03_F014 -> images/img_014.png]
+[SHOT TYPE]: Wide shot
+[ES]: Dejan que la emoción exista, y solo después eligen cómo actuar.
+[VI]: Họ để cảm xúc tồn tại, và chỉ sau đó mới chọn cách hành động.
+[VISUAL DESCRIPTION]: Wide shot of the stick figure standing with the emotion-icon glowing steadily beside them, then a separate small action-icon (a footstep) appearing a moment later, clearly sequential.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+
+### ESCENA 4: HABITO 3 - Decidir por Valores
+
+[FRAME S04_F015 -> images/img_015.png]
+[SHOT TYPE]: Text card / title
+[ES]: Tres: toman decisiones según sus valores, no según lo que otros van a pensar.
+[VI]: Ba: họ ra quyết định dựa trên giá trị của mình, không dựa vào việc người khác sẽ nghĩ gì.
+[VISUAL DESCRIPTION]: Minimal title card, number tile '3' glowing #8B6CFF, a small compass icon beside it pointing steadily in one direction.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S04_F016 -> images/img_016.png]
+[SHOT TYPE]: Medium shot
+[ES]: Se preguntan "¿esto me acerca a la persona que quiero ser?" en lugar de "¿esto le va a gustar a los demás?" —
+[VI]: Họ tự hỏi "điều này có đưa tôi đến gần con người tôi muốn trở thành không?" thay vì "điều này có làm người khác thích không?"
+[VISUAL DESCRIPTION]: Medium shot of two glowing thought-paths diverging from the stick figure — one leading toward a compass icon, one leading toward small crowd-approval icons — the figure's gaze fixed on the compass path.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S04_F017 -> images/img_017.png]
+[SHOT TYPE]: Wide shot
+[ES]: y sostienen esa pregunta incluso cuando la respuesta incomoda a alguien más,
+[VI]: và họ giữ vững câu hỏi đó ngay cả khi câu trả lời khiến người khác khó chịu,
+[VISUAL DESCRIPTION]: Wide shot of the stick figure standing firm on the compass path while a faint disapproving silhouette figure looks on from the crowd-path, unmoved posture.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S04_F018 -> images/img_018.png]
+[SHOT TYPE]: Medium shot
+[ES]: incluso cuando decir que no a un plan, un favor o una expectativa ajena les cuesta la aprobación momentánea de alguien que les importa.
+[VI]: ngay cả khi việc từ chối một kế hoạch, một lời nhờ vả hay một kỳ vọng từ người khác khiến họ mất đi sự tán thành nhất thời từ người mà họ quan tâm.
+[VISUAL DESCRIPTION]: Medium shot of a small glowing 'no' gesture icon held calmly by the stick figure, a faint dimming approval-star icon nearby fading slightly without the figure reacting to it.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+
+### ESCENA 5: HABITO 4 - La Incomodidad No Es Alarma
+
+[FRAME S05_F019 -> images/img_019.png]
+[SHOT TYPE]: Text card / title
+[ES]: Cuatro: tratan la incomodidad como información, no como una alarma que hay que apagar de inmediato.
+[VI]: Bốn: họ coi sự khó chịu là thông tin, không phải một hồi chuông báo động cần tắt ngay lập tức.
+[VISUAL DESCRIPTION]: Minimal title card, number tile '4' glowing #8B6CFF, a small bell/alarm icon beside it shown calm and dimmed rather than ringing.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S05_F020 -> images/img_020.png]
+[SHOT TYPE]: Medium shot
+[ES]: Aquí está lo que nadie te dice: si cada vez que algo se siente difícil lo evitas,
+[VI]: Đây là điều không ai nói với bạn: nếu mỗi khi điều gì đó khó khăn bạn né tránh nó,
+[VISUAL DESCRIPTION]: Medium shot of the stick figure turning away from a small glowing obstacle icon, a faint repeating-avoidance motion line shown behind them.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S05_F021 -> images/img_021.png]
+[SHOT TYPE]: Close-up
+[ES]: tu cerebro aprende que la incomodidad siempre significa peligro, y cada vez necesita menos dificultad real para activar la misma alarma.
+[VI]: não bạn học được rằng sự khó chịu luôn đồng nghĩa với nguy hiểm, và mỗi lần cần ít khó khăn thật hơn để kích hoạt cùng một báo động.
+[VISUAL DESCRIPTION]: Close-up of the simplified brain icon with the alarm-bell icon growing progressively larger and more sensitive across three small sequential panels within the frame.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S05_F022 -> images/img_022.png]
+[SHOT TYPE]: Wide shot
+[ES]: Las personas mentalmente fuertes entrenan, poco a poco y sin dramatismo, la diferencia entre "esto duele" y "esto es una amenaza real".
+[VI]: Người có tinh thần vững vàng rèn luyện, từng chút một và không kịch tính, sự khác biệt giữa "điều này đau" và "điều này là mối đe doạ thật sự".
+[VISUAL DESCRIPTION]: Wide shot of the stick figure standing calmly beside the obstacle icon, the alarm-bell icon now shown small and quiet, #8B6CFF highlight distinguishing a 'duele' label from an 'amenaza' label as two separate small icons.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+
+### ESCENA 6: HABITO 5 - Soltar el Control
+
+[FRAME S06_F023 -> images/img_023.png]
+[SHOT TYPE]: Text card / title
+[ES]: Cinco: sueltan el control sobre lo que objetivamente no pueden cambiar.
+[VI]: Năm: họ buông bỏ quyền kiểm soát với những gì khách quan không thể thay đổi.
+[VISUAL DESCRIPTION]: Minimal title card, number tile '5' glowing #8B6CFF, two simple open-hand icons beside it releasing a small weight.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S06_F024 -> images/img_024.png]
+[SHOT TYPE]: Medium shot
+[ES]: No es resignación — es dejar de gastar energía en pelear contra el clima, el tráfico o las decisiones ajenas,
+[VI]: Đó không phải là cam chịu — mà là ngừng tiêu hao năng lượng để chống lại thời tiết, giao thông hay quyết định của người khác,
+[VISUAL DESCRIPTION]: Medium shot of the stick figure standing calm beside three small fading icons (a raincloud, a traffic line, a crowd silhouette), no longer pushing against them.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S06_F025 -> images/img_025.png]
+[SHOT TYPE]: Wide shot
+[ES]: para invertir esa misma energía en lo único que sí depende de ellas: su propia respuesta, su propio esfuerzo
+[VI]: để dồn chính năng lượng đó vào điều duy nhất thật sự phụ thuộc vào họ: phản ứng của chính mình, nỗ lực của chính mình
+[VISUAL DESCRIPTION]: Wide shot of a glowing energy stream in #8B6CFF redirecting away from the fading external icons toward a single glowing internal icon (a simple figure-shaped light) at the character's center.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S06_F026 -> images/img_026.png]
+[SHOT TYPE]: Medium shot
+[ES]: y el siguiente paso concreto que sí está en sus manos dar hoy mismo.
+[VI]: và bước đi cụ thể tiếp theo thật sự nằm trong tầm tay để thực hiện ngay hôm nay.
+[VISUAL DESCRIPTION]: Medium shot of the stick figure taking a single deliberate step forward, a small glowing footprint icon marking the ground ahead, clear and immediate.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+
+### ESCENA 7: HABITO 6 - Celebrar el Progreso Ajeno
+
+[FRAME S07_F027 -> images/img_027.png]
+[SHOT TYPE]: Text card / title
+[ES]: Seis: celebran el progreso de otras personas sin sentir que eso les resta algo a ellas mismas.
+[VI]: Sáu: họ ăn mừng sự tiến bộ của người khác mà không cảm thấy điều đó lấy đi gì của bản thân.
+[VISUAL DESCRIPTION]: Minimal title card, number tile '6' glowing #8B6CFF, two small glowing figure-icons standing side by side, one slightly ahead, neither dimming the other.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S07_F028 -> images/img_028.png]
+[SHOT TYPE]: Medium shot
+[ES]: Pero espera, todavía hay más: esto no es actuación ni bondad forzada.
+[VI]: Nhưng khoan đã, còn nữa: đây không phải là diễn kịch hay tử tế gượng ép.
+[VISUAL DESCRIPTION]: Medium shot of the stick figure genuinely smiling toward the other figure-icon's small glowing achievement-star, no forced or tense expression.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S07_F029 -> images/img_029.png]
+[SHOT TYPE]: Wide shot
+[ES]: Es consecuencia directa de medir su propio progreso contra su propio punto de partida, no contra el de alguien más —
+[VI]: Đó là hệ quả trực tiếp của việc đo tiến bộ của bản thân dựa trên điểm xuất phát của chính mình, không phải của người khác
+[VISUAL DESCRIPTION]: Wide shot of the stick figure standing beside a personal glowing progress-line rising from their own starting point, clearly separate from a second unrelated progress-line for the other figure, #8B6CFF highlight on the personal line.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S07_F030 -> images/img_030.png]
+[SHOT TYPE]: Medium shot
+[ES]: porque cuando la comparación deja de ser la vara de medir, el éxito ajeno deja de sentirse como una amenaza personal.
+[VI]: vì khi sự so sánh không còn là thước đo, thành công của người khác không còn cảm giác là mối đe doạ cá nhân nữa.
+[VISUAL DESCRIPTION]: Medium shot of a small comparison-scale icon fading out completely, both progress-lines from the previous frame now shown calmly side by side with no tension between them.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+
+### ESCENA 8: HABITO 7 - Revisar el Error Sin Repetirlo
+
+[FRAME S08_F031 -> images/img_031.png]
+[SHOT TYPE]: Text card / title
+[ES]: Y siete — el que casi nadie identifica en sí mismo: revisan sus errores buscando la lección exacta, con una pregunta concreta, y después la sueltan por completo.
+[VI]: Và bảy — điều gần như không ai tự nhận ra ở chính mình: họ xem lại lỗi sai để tìm đúng bài học, bằng một câu hỏi cụ thể, rồi buông bỏ hoàn toàn sau đó.
+[VISUAL DESCRIPTION]: Minimal title card, number tile '7' glowing brightest of all seven, distinctly larger, a small glowing magnifying-glass icon beside it examining a faint error mark before it fades.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S08_F032 -> images/img_032.png]
+[SHOT TYPE]: Medium shot
+[ES]: La mayoría de las personas hace solo la mitad de esto: o revive el error una y otra vez sin extraer nada útil,
+[VI]: Hầu hết mọi người chỉ làm được một nửa điều này: hoặc cứ sống lại lỗi sai hết lần này đến lần khác mà chẳng rút ra được gì,
+[VISUAL DESCRIPTION]: Medium shot of a faint looping replay icon showing the same error mark repeating in a stuck cycle, stick figure caught inside the loop with a tired expression.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S08_F033 -> images/img_033.png]
+[SHOT TYPE]: Wide shot
+[ES]: o lo entierra tan rápido que vuelve a cometerlo.
+[VI]: hoặc chôn vùi nó quá nhanh đến mức lặp lại chính lỗi đó.
+[VISUAL DESCRIPTION]: Wide shot of the error mark being hastily buried under a small dark mound, then immediately reappearing beside the stick figure moments later, unresolved.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S08_F034 -> images/img_034.png]
+[SHOT TYPE]: Wide shot
+[ES]: Las personas mentalmente fuertes hacen las dos cosas, en ese orden, y no se saltan ninguna.
+[VI]: Người có tinh thần vững vàng làm cả hai điều đó, đúng theo thứ tự, và không bỏ qua bước nào.
+[VISUAL DESCRIPTION]: Wide shot of the magnifying-glass icon examining the error mark first, then a clean release gesture letting it dissolve into light afterward, both steps shown in clear sequence, #8B6CFF highlight on the completed sequence.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+
+### ESCENA 9: EL CIERRE
+
+[FRAME S09_F035 -> images/img_035.png]
+[SHOT TYPE]: Direct address
+[ES]: ¿Cuántos de estos siete tienes ya, y cuáles reconoces que te faltan?
+[VI]: Bạn đã có bao nhiêu trong số bảy điều này, và bạn nhận ra mình còn thiếu điều nào?
+[VISUAL DESCRIPTION]: Direct-address medium shot of the stick figure gesturing toward the viewer, the full arc of seven number-tiles now all glowing steadily behind them.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S09_F036 -> images/img_036.png]
+[SHOT TYPE]: Medium shot
+[ES]: Escribe el número exacto en los comentarios — sin redondear hacia arriba, y sin contar como propio un hábito que solo practicas cuando todo va bien.
+[VI]: Hãy viết con số chính xác ở phần bình luận — đừng làm tròn lên, và đừng tính là của mình một thói quen mà bạn chỉ thực hành khi mọi thứ đều suôn sẻ.
+[VISUAL DESCRIPTION]: Medium shot of a small glowing comment-bubble icon appearing beside the stick figure, a subtle small number counter shown honestly rather than inflated.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S09_F037 -> images/img_037.png]
+[SHOT TYPE]: Wide shot
+[ES]: Ninguno de estos hábitos exige fuerza de voluntad sobrehumana; exige repetirlos, uno a la vez, en los momentos exactos donde es más incómodo hacerlo, hasta que dejen de sentirse como esfuerzo.
+[VI]: Không thói quen nào trong số này đòi hỏi ý chí phi thường; chúng đòi hỏi được lặp lại, từng cái một, đúng vào những khoảnh khắc khó khăn nhất, cho đến khi không còn cảm thấy là nỗ lực nữa.
+[VISUAL DESCRIPTION]: Wide shot of the seven number-tiles slowly settling into a calm, steady glow, stick figure standing relaxed rather than strained, ordinary posture matching the opening shot.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S09_F038 -> images/img_038.png]
+[SHOT TYPE]: Wide shot
+[ES]: Si este video te sirvió, dale like y suscríbete — la disciplina no hace ruido, ni siquiera cuando construye una mente que no se quiebra fácilmente.
+[VI]: Nếu video này hữu ích, hãy nhấn thích và đăng ký — kỷ luật không ồn ào, kể cả khi nó xây dựng nên một tinh thần khó lay chuyển.
+[VISUAL DESCRIPTION]: Final wide shot of the stick figure standing calm and grounded in soft dim light, small subscribe-bell and thumbs-up icons glowing gently in #8B6CFF in the corner, the seven tiles fading softly into the darkness behind, understated close.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.

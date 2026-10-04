@@ -59,6 +59,7 @@ python3 tools/animate_video.py   --project "$P" --audio voz_gonzalo.mp3 --title 
 | 27 — Por Qué el Multitasking Te Hace Más Lento (Ciencia) | 04_Productividad Practica (`#3BA7C9`) | `multitasking_falso_motion.mp4` |
 | 29 — 6 Señales de Mentalidad de Crecimiento (Y No Lo Sabías) | 05_Autoconocimiento (`#8B6CFF`) | `mente_en_crecimiento_motion.mp4` |
 | 30 — ¿Por Qué Nunca Sientes Que Es Suficiente? (Perfeccionismo) | 05_Autoconocimiento (`#8B6CFF`) | `perfeccion_silenciosa_motion.mp4` |
+| 31 — 7 Hábitos Ocultos de la Gente Mentalmente Fuerte | 05_Autoconocimiento (`#8B6CFF`) | `mente_fuerte_motion.mp4` |
 
 ## Lưu ý
 
