@@ -703,6 +703,24 @@ def icon(name, color=INK, w=7, **kw):
         return f'<polygon points="{" ".join(pts)}" {s}/>'
     if name == "hashtag":
         return f'<path d="M-12,-40 L-20,40 M14,-40 L6,40 M-34,-14 L36,-14 M-38,14 L32,14" {_c(color, 8)}/>'
+    if name == "clipboard":
+        rows = kw.get("rows", 2)
+        out = [f'<rect x="-38" y="-44" width="76" height="92" rx="7" {s}/>', f'<rect x="-16" y="-52" width="32" height="16" rx="5" {_c(color, 5)}/>']
+        for i in range(rows):
+            y = -18 + i * 24
+            out.append(f'<path d="M-26,{y} L-20,{y + 6} L-10,{y - 6}" {_c(color, 4)}/><line x1="0" y1="{y}" x2="26" y2="{y}" {_c(color, 4)}/>')
+        return "".join(out)
+    if name == "gauge":
+        v = kw.get("value", .85)
+        a = math.radians(180 + 180 * v)
+        return (f'<path d="M-44,16 A44,44 0 0 1 44,16" {s}/>'
+                + "".join(f'<line x1="{36 * math.cos(math.radians(180 + t)):.1f}" y1="{16 + 36 * math.sin(math.radians(180 + t)):.1f}" '
+                          f'x2="{44 * math.cos(math.radians(180 + t)):.1f}" y2="{16 + 44 * math.sin(math.radians(180 + t)):.1f}" {_c(color, 3)}/>'
+                          for t in range(0, 181, 30))
+                + f'<line x1="0" y1="16" x2="{34 * math.cos(a):.1f}" y2="{16 + 34 * math.sin(a):.1f}" {_c(color, 7)}/><circle cx="0" cy="16" r="6" fill="{color}"/>')
+    if name == "compass":
+        return (f'<circle cx="0" cy="0" r="44" {s}/><path d="M0,-34 L10,0 L0,34 L-10,0 Z" fill="none" {_c(color, 4)}/>'
+                f'<path d="M0,-34 L10,0 L-10,0 Z" fill="{color}"/>')
     raise KeyError(name)
 
 
