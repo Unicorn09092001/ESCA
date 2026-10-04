@@ -778,6 +778,24 @@ def icon(name, color=INK, w=7, **kw):
         return f'<path d="M-44,0 L0,-40 L44,0 M-34,-8 L-34,40 L34,40 L34,-8" {s}/><rect x="-10" y="12" width="20" height="28" {_c(color, 4)}/>'
     if name == "road":
         return (f'<path d="M-20,46 L-8,-46 M20,46 L8,-46" {s}/><path d="M0,40 L0,24 M0,8 L0,-8 M0,-24 L0,-36" {_c(color, 4)}/>')
+    if name == "crutch":
+        return (f'<path d="M-14,-46 L14,-46 M0,-46 L0,46 M-10,-46 L-6,10 L6,10 L10,-46 M-8,46 L8,46" {s}/>'
+                f'<line x1="-10" y1="-6" x2="10" y2="-6" {_c(color, 5)}/>')
+    if name == "mic":
+        return (f'<rect x="-16" y="-46" width="32" height="56" rx="16" {s}/><path d="M-28,-6 Q-28,26 0,26 Q28,26 28,-6" {_c(color, 5)}/>'
+                f'<line x1="0" y1="26" x2="0" y2="44" {_c(color, 5)}/><line x1="-16" y1="44" x2="16" y2="44" {_c(color, 5)}/>')
+    if name == "car":
+        return (f'<path d="M-50,16 L-50,-2 L-34,-6 L-20,-28 L22,-28 L36,-6 L50,-2 L50,16 Z" {s}/>'
+                f'<circle cx="-28" cy="18" r="11" fill="{BG}" {_c(color, 5)}/><circle cx="28" cy="18" r="11" fill="{BG}" {_c(color, 5)}/>'
+                f'<line x1="0" y1="-28" x2="0" y2="-6" {_c(color, 4)}/>')
+    if name == "cell":
+        return (f'<ellipse cx="0" cy="0" rx="48" ry="38" {s}/><circle cx="-6" cy="-2" r="14" {_c(color, 4)}/>'
+                + "".join(f'<circle cx="{x}" cy="{y}" r="4" fill="{color}"/>' for x, y in ((22, -14), (28, 10), (-26, 18), (10, 22), (-30, -14))))
+    if name == "mask":
+        return (f'<path d="M-40,-30 Q0,-44 40,-30 Q44,10 0,42 Q-44,10 -40,-30 Z" {s}/>'
+                f'<path d="M-24,-10 Q-16,-18 -8,-10 M8,-10 Q16,-18 24,-10" {_c(color, 4)}/><path d="M-18,12 Q0,28 18,12" {_c(color, 5)}/>')
+    if name == "plate":
+        return f'<ellipse cx="0" cy="0" rx="50" ry="22" {s}/><ellipse cx="0" cy="-2" rx="32" ry="12" {_c(color, 3)}/>'
     raise KeyError(name)
 
 
