@@ -823,6 +823,15 @@ def icon(name, color=INK, w=7, **kw):
     if name == "hook":
         return (f'<path d="M0,-46 L0,14 Q0,38 -20,38 Q-38,38 -38,18 L-38,8" {s}/><path d="M-46,18 L-38,4 L-30,18" {_c(color, 5)}/>'
                 f'<circle cx="0" cy="-46" r="6" {_c(color, 4)}/>')
+    if name == "tomato":
+        return (f'<path d="M0,-30 Q42,-32 46,6 Q46,44 0,46 Q-46,44 -46,6 Q-42,-32 0,-30 Z" {s}/>'
+                f'<path d="M0,-30 L-16,-44 M0,-30 L16,-44 M0,-30 L0,-48 M0,-30 L-22,-32 M0,-30 L22,-32" {_c(color, 4)}/>'
+                f'<line x1="-46" y1="4" x2="46" y2="4" {_c(color, 3)} opacity=".6"/>'
+                + "".join(f'<line x1="{-30 + i * 12}" y1="4" x2="{-30 + i * 12}" y2="{-4 if i % 2 else -10}" {_c(color, 3)}/>' for i in range(6))
+                + f'<path d="M0,4 L0,-8" {_c(color, 5)}/>')
+    if name == "pause":
+        return (f'<rect x="-40" y="-40" width="80" height="80" rx="16" {s}/>'
+                f'<rect x="-18" y="-20" width="12" height="40" rx="3" fill="{color}"/><rect x="6" y="-20" width="12" height="40" rx="3" fill="{color}"/>')
     if name == "nomotiv_book":
         return (icon("book", color, w, progress=0) + f'<g transform="translate(-23,-6) scale(.32)">{icon("flame", color, w * 2)}</g>'
                 f'<line x1="-38" y1="-20" x2="-8" y2="10" {_c(color, 4)}/>')

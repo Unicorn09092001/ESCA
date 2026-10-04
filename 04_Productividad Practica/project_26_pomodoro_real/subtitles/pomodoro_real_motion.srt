@@ -1,0 +1,747 @@
+1
+00:00:00,268 --> 00:00:01,093
+Si crees que la
+
+2
+00:00:01,093 --> 00:00:02,610
+Técnica Pomodoro es solo
+
+3
+00:00:02,610 --> 00:00:04,053
+poner un temporizador de
+
+4
+00:00:04,053 --> 00:00:05,291
+25 minutos y trabajar
+
+5
+00:00:05,291 --> 00:00:06,185
+hasta que suene,
+
+6
+00:00:06,678 --> 00:00:07,907
+no conoces la técnica
+
+7
+00:00:07,907 --> 00:00:09,564
+real — conoces una versión
+
+8
+00:00:09,564 --> 00:00:11,403
+simplificada, la que cabe
+
+9
+00:00:11,403 --> 00:00:12,902
+en una aplicación de celular,
+
+10
+00:00:13,296 --> 00:00:14,388
+que perdió casi todo
+
+11
+00:00:14,388 --> 00:00:15,108
+lo que la hacía
+
+12
+00:00:15,108 --> 00:00:16,298
+funcionar en primer lugar.
+
+13
+00:00:17,555 --> 00:00:18,516
+Hoy te muestro cómo
+
+14
+00:00:18,516 --> 00:00:19,689
+es en realidad,
+
+15
+00:00:19,689 --> 00:00:20,890
+según su propio creador,
+
+16
+00:00:21,334 --> 00:00:22,278
+no según la versión
+
+17
+00:00:22,278 --> 00:00:23,840
+que circula en redes sociales,
+
+18
+00:00:24,200 --> 00:00:24,797
+y por qué la
+
+19
+00:00:24,797 --> 00:00:25,942
+mitad que casi todos
+
+20
+00:00:25,942 --> 00:00:26,459
+ignoran es,
+
+21
+00:00:26,459 --> 00:00:28,822
+probablemente, la parte más
+
+22
+00:00:28,822 --> 00:00:30,018
+importante de las dos.
+
+23
+00:00:31,212 --> 00:00:32,583
+Primero, así es como
+
+24
+00:00:32,583 --> 00:00:33,740
+casi todos la hacen mal.
+
+25
+00:00:34,962 --> 00:00:36,738
+Abren una aplicación,
+
+26
+00:00:36,738 --> 00:00:37,913
+ponen 25 minutos,
+
+27
+00:00:37,913 --> 00:00:40,704
+trabajan, suena la alarma,
+
+28
+00:00:40,704 --> 00:00:42,126
+descansan 5 minutos,
+
+29
+00:00:42,126 --> 00:00:43,227
+y repiten.
+
+30
+00:00:44,424 --> 00:00:45,139
+Eso es todo lo
+
+31
+00:00:45,139 --> 00:00:46,309
+que la mayoría conoce.
+
+32
+00:00:47,545 --> 00:00:48,727
+Presta atención a esto:
+
+33
+00:00:48,727 --> 00:00:49,710
+eso no es un
+
+34
+00:00:49,710 --> 00:00:50,947
+mal punto de partida,
+
+35
+00:00:51,332 --> 00:00:52,198
+pero es apenas la
+
+36
+00:00:52,198 --> 00:00:53,853
+mitad de la técnica original —
+
+37
+00:00:54,283 --> 00:00:55,182
+la mitad más fácil
+
+38
+00:00:55,182 --> 00:00:56,519
+de convertir en aplicación,
+
+39
+00:00:56,519 --> 00:00:57,355
+y por eso la
+
+40
+00:00:57,355 --> 00:00:58,523
+única que sobrevivió en
+
+41
+00:00:58,523 --> 00:00:59,781
+la cultura popular.
+
+42
+00:01:01,020 --> 00:01:02,850
+Segundo, el origen real.
+
+43
+00:01:04,137 --> 00:01:05,866
+El italiano Francesco Cirillo
+
+44
+00:01:05,866 --> 00:01:07,051
+creó esta técnica a
+
+45
+00:01:07,051 --> 00:01:08,610
+finales de los años ochenta,
+
+46
+00:01:09,008 --> 00:01:10,725
+siendo estudiante universitario,
+
+47
+00:01:10,725 --> 00:01:12,735
+frustrado porque no lograba
+
+48
+00:01:12,735 --> 00:01:14,228
+concentrarse en sus estudios.
+
+49
+00:01:15,448 --> 00:01:16,710
+Usó un temporizador de
+
+50
+00:01:16,710 --> 00:01:17,773
+cocina con forma de
+
+51
+00:01:17,773 --> 00:01:20,277
+tomate — "pomodoro" en italiano —
+
+52
+00:01:20,523 --> 00:01:21,382
+y de ahí el nombre.
+
+53
+00:01:22,614 --> 00:01:23,584
+Aquí está la clave
+
+54
+00:01:23,584 --> 00:01:24,877
+que casi nadie menciona:
+
+55
+00:01:24,877 --> 00:01:26,377
+Cirillo no eligió 25
+
+56
+00:01:26,377 --> 00:01:27,845
+minutos porque fuera un
+
+57
+00:01:27,845 --> 00:01:28,747
+número mágico.
+
+58
+00:01:30,008 --> 00:01:31,063
+Lo eligió porque era
+
+59
+00:01:31,063 --> 00:01:32,044
+un compromiso que su
+
+60
+00:01:32,044 --> 00:01:33,249
+propia mente,
+
+61
+00:01:33,249 --> 00:01:34,024
+en ese momento,
+
+62
+00:01:34,024 --> 00:01:35,778
+podía sostener sin negociar
+
+63
+00:01:35,778 --> 00:01:36,980
+consigo mismo a mitad
+
+64
+00:01:36,980 --> 00:01:37,517
+de camino.
+
+65
+00:01:38,827 --> 00:01:40,841
+Cualquier duración funciona,
+
+66
+00:01:40,841 --> 00:01:42,547
+siempre que sea corta,
+
+67
+00:01:42,547 --> 00:01:43,841
+fija, y la respetes
+
+68
+00:01:43,841 --> 00:01:44,761
+sin excepciones.
+
+69
+00:01:45,967 --> 00:01:47,474
+Tercero, la regla que
+
+70
+00:01:47,474 --> 00:01:48,388
+casi nadie sigue:
+
+71
+00:01:48,388 --> 00:01:49,728
+un pomodoro es una
+
+72
+00:01:49,728 --> 00:01:50,837
+unidad indivisible.
+
+73
+00:01:52,104 --> 00:01:53,210
+Si te interrumpen —
+
+74
+00:01:53,210 --> 00:01:54,032
+una llamada,
+
+75
+00:01:54,032 --> 00:01:55,173
+una pregunta,
+
+76
+00:01:55,173 --> 00:01:56,511
+una idea urgente —
+
+77
+00:01:56,511 --> 00:01:58,366
+no pausas el temporizador.
+
+78
+00:01:59,650 --> 00:02:00,995
+Según el método original,
+
+79
+00:02:00,995 --> 00:02:02,568
+ese pomodoro se anula
+
+80
+00:02:02,568 --> 00:02:04,186
+por completo y empiezas
+
+81
+00:02:04,186 --> 00:02:05,274
+uno nuevo desde cero.
+
+82
+00:02:06,505 --> 00:02:07,218
+Esto es lo que
+
+83
+00:02:07,218 --> 00:02:07,931
+nadie te dice:
+
+84
+00:02:07,931 --> 00:02:08,817
+esa regla,
+
+85
+00:02:08,817 --> 00:02:10,611
+que suena hasta exagerada,
+
+86
+00:02:10,611 --> 00:02:12,206
+tiene respaldo real.
+
+87
+00:02:13,437 --> 00:02:15,104
+La investigadora Sophie Leroy,
+
+88
+00:02:15,104 --> 00:02:16,495
+de la Universidad de
+
+89
+00:02:16,495 --> 00:02:18,447
+Minnesota, documentó lo que
+
+90
+00:02:18,447 --> 00:02:20,183
+llamó "residuo de atención":
+
+91
+00:02:20,513 --> 00:02:21,615
+cuando cambias de tarea
+
+92
+00:02:21,615 --> 00:02:22,632
+antes de terminarla,
+
+93
+00:02:22,632 --> 00:02:23,697
+una parte de tu
+
+94
+00:02:23,697 --> 00:02:24,774
+mente se queda pegada
+
+95
+00:02:24,774 --> 00:02:25,826
+a la tarea anterior,
+
+96
+00:02:26,114 --> 00:02:26,858
+y esa parte no
+
+97
+00:02:26,858 --> 00:02:27,826
+vuelve contigo a la
+
+98
+00:02:27,826 --> 00:02:28,418
+nueva tarea.
+
+99
+00:02:29,666 --> 00:02:30,796
+Pero espera,
+
+100
+00:02:30,796 --> 00:02:32,020
+todavía hay más:
+
+101
+00:02:32,020 --> 00:02:33,258
+eso significa que un
+
+102
+00:02:33,258 --> 00:02:35,243
+pomodoro "pausado y reanudado"
+
+103
+00:02:35,243 --> 00:02:36,540
+no es más corto —
+
+104
+00:02:36,948 --> 00:02:38,321
+es, en la práctica,
+
+105
+00:02:38,321 --> 00:02:39,494
+dos pomodoros peores,
+
+106
+00:02:39,494 --> 00:02:40,840
+porque ninguno de los
+
+107
+00:02:40,840 --> 00:02:42,455
+dos tiene tu atención completa.
+
+108
+00:02:43,674 --> 00:02:45,461
+Cuarto, la mitad olvidada
+
+109
+00:02:45,461 --> 00:02:46,701
+de la técnica:
+
+110
+00:02:46,701 --> 00:02:48,670
+registrar las interrupciones,
+
+111
+00:02:48,670 --> 00:02:49,750
+no solo evitarlas.
+
+112
+00:02:50,968 --> 00:02:52,313
+Cirillo diseñaba la técnica
+
+113
+00:02:52,313 --> 00:02:53,385
+para anotar cada vez
+
+114
+00:02:53,385 --> 00:02:54,251
+que algo te sacaba
+
+115
+00:02:54,251 --> 00:02:54,966
+del pomodoro —
+
+116
+00:02:55,430 --> 00:02:57,223
+interna, como un pensamiento
+
+117
+00:02:57,223 --> 00:02:58,261
+random, o externa,
+
+118
+00:02:58,261 --> 00:03:00,209
+como alguien tocando la puerta.
+
+119
+00:03:01,623 --> 00:03:02,605
+Al final del día,
+
+120
+00:03:02,605 --> 00:03:04,370
+revisas ese registro.
+
+121
+00:03:05,594 --> 00:03:06,607
+Aquí está la clave:
+
+122
+00:03:06,607 --> 00:03:07,962
+no es un ejercicio
+
+123
+00:03:07,962 --> 00:03:09,805
+de culpa.
+
+124
+00:03:09,805 --> 00:03:10,618
+Es información.
+
+125
+00:03:11,869 --> 00:03:12,702
+La mayoría de las
+
+126
+00:03:12,702 --> 00:03:13,870
+personas cree que se
+
+127
+00:03:13,870 --> 00:03:15,109
+distrae "en general",
+
+128
+00:03:15,109 --> 00:03:17,090
+sin saber exactamente cuándo
+
+129
+00:03:17,090 --> 00:03:17,763
+ni por qué.
+
+130
+00:03:18,987 --> 00:03:20,443
+Cirillo diseñó el registro
+
+131
+00:03:20,443 --> 00:03:22,279
+precisamente para reemplazar esa
+
+132
+00:03:22,279 --> 00:03:24,461
+sensación vaga con datos concretos —
+
+133
+00:03:24,863 --> 00:03:25,448
+y una vez que
+
+134
+00:03:25,448 --> 00:03:27,071
+ves el patrón escrito,
+
+135
+00:03:27,071 --> 00:03:28,162
+ya no puedes fingir
+
+136
+00:03:28,162 --> 00:03:28,923
+que no lo sabías.
+
+137
+00:03:30,122 --> 00:03:31,732
+Después de cuatro pomodoros
+
+138
+00:03:31,732 --> 00:03:33,624
+completos, tomas un descanso
+
+139
+00:03:33,624 --> 00:03:34,173
+más largo —
+
+140
+00:03:34,173 --> 00:03:36,281
+quince a treinta minutos
+
+141
+00:03:36,281 --> 00:03:36,855
+—, no cinco.
+
+142
+00:03:38,092 --> 00:03:38,777
+Esto es lo que
+
+143
+00:03:38,777 --> 00:03:39,873
+cambia todo:
+
+144
+00:03:39,873 --> 00:03:40,932
+el ciclo completo no
+
+145
+00:03:40,932 --> 00:03:42,453
+es "trabajar en bloques".
+
+146
+00:03:43,665 --> 00:03:44,874
+Es alternar entre un
+
+147
+00:03:44,874 --> 00:03:46,823
+compromiso corto y total,
+
+148
+00:03:46,823 --> 00:03:48,146
+y una recuperación real,
+
+149
+00:03:48,542 --> 00:03:49,454
+sin que ninguna de
+
+150
+00:03:49,454 --> 00:03:50,395
+las dos etapas se
+
+151
+00:03:50,395 --> 00:03:51,810
+filtre en la otra —
+
+152
+00:03:51,810 --> 00:03:53,340
+sin revisar el teléfono
+
+153
+00:03:53,340 --> 00:03:54,808
+"solo un segundo" durante
+
+154
+00:03:54,808 --> 00:03:55,416
+el descanso,
+
+155
+00:03:55,677 --> 00:03:56,767
+y sin seguir pensando
+
+156
+00:03:56,767 --> 00:03:58,328
+en el descanso mientras trabajas.
+
+157
+00:03:59,855 --> 00:04:01,221
+La Técnica Pomodoro real
+
+158
+00:04:01,221 --> 00:04:01,833
+no es una app
+
+159
+00:04:01,833 --> 00:04:03,111
+con un sonido de alarma.
+
+160
+00:04:04,341 --> 00:04:05,551
+Es una disciplina sobre
+
+161
+00:04:05,551 --> 00:04:06,566
+qué haces cuando algo
+
+162
+00:04:06,566 --> 00:04:08,179
+intenta interrumpirte,
+
+163
+00:04:08,179 --> 00:04:08,968
+y qué tan honesto
+
+164
+00:04:08,968 --> 00:04:10,358
+eres contigo mismo después
+
+165
+00:04:10,358 --> 00:04:11,824
+sobre lo que realmente pasó.
+
+166
+00:04:13,036 --> 00:04:14,340
+No necesitas un tomate
+
+167
+00:04:14,340 --> 00:04:14,890
+de cocina,
+
+168
+00:04:14,890 --> 00:04:16,496
+ni una aplicación con
+
+169
+00:04:16,496 --> 00:04:17,911
+estadísticas bonitas.
+
+170
+00:04:19,128 --> 00:04:21,295
+Necesitas un temporizador cualquiera,
+
+171
+00:04:21,295 --> 00:04:22,606
+una libreta para el
+
+172
+00:04:22,606 --> 00:04:24,313
+registro, y la disposición
+
+173
+00:04:24,313 --> 00:04:25,415
+a anular un pomodoro
+
+174
+00:04:25,415 --> 00:04:26,324
+entero en lugar de
+
+175
+00:04:26,324 --> 00:04:28,010
+fingir que "casi" cuenta.
+
+176
+00:04:29,203 --> 00:04:30,380
+Prueba mañana la versión
+
+177
+00:04:30,380 --> 00:04:31,903
+completa — con el registro
+
+178
+00:04:31,903 --> 00:04:33,379
+de interrupciones incluido —
+
+179
+00:04:33,688 --> 00:04:34,264
+y dime en los
+
+180
+00:04:34,264 --> 00:04:36,193
+comentarios qué patrón descubriste
+
+181
+00:04:36,193 --> 00:04:36,963
+sobre ti mismo.
+
+182
+00:04:38,217 --> 00:04:39,040
+Si este video te
+
+183
+00:04:39,040 --> 00:04:40,346
+sirvió, dale like y
+
+184
+00:04:40,346 --> 00:04:42,678
+suscríbete — la disciplina no
+
+185
+00:04:42,678 --> 00:04:43,248
+hace ruido,
+
+186
+00:04:43,248 --> 00:04:44,756
+ni siquiera cuando sí
+
+187
+00:04:44,756 --> 00:04:45,959
+suena un temporizador.
