@@ -721,6 +721,52 @@ def icon(name, color=INK, w=7, **kw):
     if name == "compass":
         return (f'<circle cx="0" cy="0" r="44" {s}/><path d="M0,-34 L10,0 L0,34 L-10,0 Z" fill="none" {_c(color, 4)}/>'
                 f'<path d="M0,-34 L10,0 L-10,0 Z" fill="{color}"/>')
+    if name == "firstaid":
+        return (f'<rect x="-44" y="-36" width="88" height="80" rx="12" {s}/><path d="M-14,-48 L-14,-36 M14,-48 L14,-36 M-14,-48 L14,-48" {_c(color, 5)}/>'
+                f'<path d="M0,-16 L0,24 M-20,4 L20,4" {_c(color, 12)}/>')
+    if name == "toolbox":
+        return (f'<rect x="-48" y="-14" width="96" height="58" rx="6" {s}/><path d="M-18,-14 L-18,-30 L18,-30 L18,-14" {s}/>'
+                f'<line x1="-48" y1="8" x2="48" y2="8" {_c(color, 4)}/><rect x="-8" y="2" width="16" height="12" rx="2" fill="{color}"/>')
+    if name == "pot":
+        return (f'<path d="M-40,-8 L40,-8 L34,38 Q32,44 26,44 L-26,44 Q-32,44 -34,38 Z" {s}/><line x1="-50" y1="-8" x2="50" y2="-8" {_c(color, 7)}/>'
+                f'<path d="M-50,4 L-40,4 M50,4 L40,4" {_c(color, 6)}/><path d="M-12,-22 q4,-10 0,-20 M8,-22 q4,-10 0,-20" {_c(color, 4)} opacity=".7"/>')
+    if name == "takeout":
+        return (f'<path d="M-36,-20 L36,-20 L28,44 L-28,44 Z" {s}/><path d="M-36,-20 L-26,-40 L26,-40 L36,-20" {_c(color, 5)}/>'
+                f'<path d="M-14,-40 Q0,-60 14,-40" {_c(color, 4)}/>')
+    if name == "cloche":
+        return (f'<path d="M-44,20 Q-44,-30 0,-30 Q44,-30 44,20 Z" {s}/><line x1="-54" y1="22" x2="54" y2="22" {_c(color, 7)}/>'
+                f'<circle cx="0" cy="-38" r="6" {_c(color, 5)}/>')
+    if name == "pie":
+        hi = kw.get("hi", None)
+        fills = kw.get("fills", (.5, .3, .2))
+        out, a0 = [], -90
+        for i, f in enumerate(fills):
+            a1 = a0 + 360 * f
+            r0, r1 = math.radians(a0), math.radians(a1)
+            large = 1 if f > .5 else 0
+            path = f"M0,0 L{44 * math.cos(r0):.1f},{44 * math.sin(r0):.1f} A44,44 0 {large} 1 {44 * math.cos(r1):.1f},{44 * math.sin(r1):.1f} Z"
+            fill = kw.get("accent", color) if hi == i else "none"
+            out.append(f'<path d="{path}" fill="{fill}" fill-opacity="{.85 if hi == i else 0}" {_c(color, 5)}/>')
+            a0 = a1
+        return "".join(out)
+    if name == "grid":
+        out = [f'<rect x="-46" y="-36" width="92" height="72" rx="4" {s}/>']
+        out += [f'<line x1="-46" y1="{y}" x2="46" y2="{y}" {_c(color, 3)}/>' for y in (-18, 0, 18)]
+        out += [f'<line x1="{x}" y1="-36" x2="{x}" y2="36" {_c(color, 3)}/>' for x in (-23, 0, 23)]
+        return "".join(out)
+    if name == "pipe":
+        drip = kw.get("drip", True)
+        return (f'<path d="M-50,-20 L10,-20 Q30,-20 30,0 L30,30" {_c(color, 14)}/><path d="M-50,-20 L10,-20 Q30,-20 30,0 L30,30" {_c(BG, 6)}/>'
+                f'<rect x="-6" y="-32" width="14" height="24" rx="3" fill="{color}"/>'
+                + (f'<path d="M30,40 Q24,50 30,56 Q36,50 30,40 Z" fill="{color}"/>' if drip else ""))
+    if name == "badge":
+        return (f'<path d="M0,-46 L36,-30 L36,6 Q36,32 0,46 Q-36,32 -36,6 L-36,-30 Z" {s}/>'
+                f'<path d="M0,-18 L7,-4 L22,-2 L11,8 L14,23 L0,16 L-14,23 L-11,8 L-22,-2 L-7,-4 Z" fill="{color}"/>')
+    if name == "schooldesk":
+        return (f'<path d="M-46,-6 L46,-6 M-36,-6 L-36,40 M36,-6 L36,40 M-46,-20 L46,-20 L46,-6" {s}/>'
+                f'<path d="M-16,-20 L-16,-46 L16,-46" {_c(color, 5)}/>')
+    if name == "resume":
+        return icon("document", color, w)
     raise KeyError(name)
 
 

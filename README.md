@@ -50,6 +50,7 @@ python3 tools/animate_video.py   --project "$P" --audio voz_gonzalo.mp3 --title 
 | 17 — La Regla de las 2 Horas | 01_Disciplina y Habitos (`#FF5A36`) | `regla_2_horas_motion.mp4` |
 | 18 — Por Qué la Ducha Fría Cambia Tu Disciplina | 01_Disciplina y Habitos (`#FF5A36`) | `ducha_fria_motion.mp4` |
 | 19 — No Es Talento, Es GRIT | 02_Mentalidad y Exito (`#E8A23C`) | `no_es_talento_grit_motion.mp4` |
+| 20 — 7 Habilidades Que Toda Persona Debe Dominar | 02_Mentalidad y Exito (`#E8A23C`) | `7_habilidades_clave_motion.mp4` |
 
 ## Lưu ý
 
