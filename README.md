@@ -51,6 +51,7 @@ python3 tools/animate_video.py   --project "$P" --audio voz_gonzalo.mp3 --title 
 | 18 — Por Qué la Ducha Fría Cambia Tu Disciplina | 01_Disciplina y Habitos (`#FF5A36`) | `ducha_fria_motion.mp4` |
 | 19 — No Es Talento, Es GRIT | 02_Mentalidad y Exito (`#E8A23C`) | `no_es_talento_grit_motion.mp4` |
 | 20 — 7 Habilidades Que Toda Persona Debe Dominar | 02_Mentalidad y Exito (`#E8A23C`) | `7_habilidades_clave_motion.mp4` |
+| 21 — 5 Lecciones de Vida Que Aprendí Demasiado Tarde | 03_Motivacion y Superacion (`#FF3B78`) | `aprendi_demasiado_tarde_motion.mp4` |
 
 ## Lưu ý
 

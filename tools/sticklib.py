@@ -767,6 +767,17 @@ def icon(name, color=INK, w=7, **kw):
                 f'<path d="M-16,-20 L-16,-46 L16,-46" {_c(color, 5)}/>')
     if name == "resume":
         return icon("document", color, w)
+    if name == "toggle":
+        on = kw.get("on", True)
+        return (f'<rect x="-46" y="-22" width="92" height="44" rx="22" {s}/>'
+                f'<circle cx="{22 if on else -22}" cy="0" r="15" fill="{color}"/>')
+    if name == "dice":
+        return (f'<rect x="-36" y="-36" width="72" height="72" rx="12" {s}/>'
+                + "".join(f'<circle cx="{x}" cy="{y}" r="6" fill="{color}"/>' for x, y in ((-16, -16), (16, -16), (0, 0), (-16, 16), (16, 16))))
+    if name == "house":
+        return f'<path d="M-44,0 L0,-40 L44,0 M-34,-8 L-34,40 L34,40 L34,-8" {s}/><rect x="-10" y="12" width="20" height="28" {_c(color, 4)}/>'
+    if name == "road":
+        return (f'<path d="M-20,46 L-8,-46 M20,46 L8,-46" {s}/><path d="M0,40 L0,24 M0,8 L0,-8 M0,-24 L0,-36" {_c(color, 4)}/>')
     raise KeyError(name)
 
 
