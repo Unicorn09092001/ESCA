@@ -107,3 +107,79 @@ def timeline(x0, y0, x1, y1, ticks=2, color=None, w=6, op=1.0):
     if color == sl.ACC:
         out.insert(0, glow((x0 + x1) / 2, (y0 + y1) / 2, abs(x1 - x0) * .45, "A", op * .5))
     return "".join(out)
+
+
+# ------------------------------------------------------------------ domino
+def domino_tile(x, y, h, color=None, op=1.0, label=None, glow_it=False):
+    """Quân domino đứng, đáy giữa tại (x, y). label = tên icon nhỏ vẽ trên mặt quân."""
+    color = color or INK
+    w = h * 0.46
+    out = []
+    if glow_it:
+        out.append(glow(x, y - h / 2, h * 0.9, "A", op))
+    out.append(f'<rect x="{x - w / 2:.1f}" y="{y - h:.1f}" width="{w:.1f}" height="{h:.1f}" rx="{w * .14:.1f}" '
+               f'fill="{sl.BG}" stroke="{color}" stroke-width="{max(4, h * .045):.1f}" opacity="{op}"/>')
+    out.append(f'<line x1="{x - w * .32:.1f}" y1="{y - h / 2:.1f}" x2="{x + w * .32:.1f}" y2="{y - h / 2:.1f}" '
+               f'stroke="{color}" stroke-width="{max(3, h * .03):.1f}" stroke-linecap="round" opacity="{op}"/>')
+    if label:
+        out.append(place(x, y - h * .75, w * .62, icon(label, color, 7), op))
+        out.append(f'<circle cx="{x:.1f}" cy="{y - h * .25:.1f}" r="{h * .045:.1f}" fill="{color}" opacity="{op}"/>')
+    else:
+        for dy in (.75, .25):
+            out.append(f'<circle cx="{x:.1f}" cy="{y - h * dy:.1f}" r="{h * .05:.1f}" fill="{color}" opacity="{op}"/>')
+    return "".join(out)
+
+
+def domino_row(x0, x1, y, n=10, h=180, fall=None, first_acc=True, labels=None, op=1.0, fade=0.0,
+               shrink=0.0, start=0.35, step=0.16):
+    """Hàng domino. fall: None (đứng) | "anim" (đổ dây chuyền trong video; ảnh tĩnh = đã đổ) | "done" (đã đổ).
+    fade: độ mờ dần về cuối hàng; shrink: thu nhỏ dần (phối cảnh xa)."""
+    out = []
+    xs = [x0 + (x1 - x0) * i / max(n - 1, 1) for i in range(n)]
+    for i, x in enumerate(xs):
+        k = i / max(n - 1, 1)
+        hi = h * (1 - shrink * k)
+        yi = y - (h - hi) * .9 * (1 if shrink else 0)
+        oi = op * (1 - fade * k)
+        acc_tile = first_acc and i == 0
+        col = sl.ACC if acc_tile else INK
+        lab = labels[i] if labels and i < len(labels) else None
+        tile = domino_tile(x, yi, hi, col, oi, lab, glow_it=acc_tile)
+        if fall:
+            gap = (xs[i + 1] - x) if i + 1 < n else hi
+            w = hi * .46
+            ang = 82 if i == n - 1 else min(80, math.degrees(math.asin(max(0.05, min(1, (gap - w * .5) / hi)))) + 4)
+            mode = "done" if fall == "done" else f"{start + i * step:.2f}"
+            tile = f'<g data-fall="{ang:.1f},{x + w / 2:.1f},{yi:.1f},{mode}">{tile}</g>'
+        out.append(tile)
+    return "".join(out)
+
+
+def jumble(cx, cy, n=20, h=90, seed=7, op=.7):
+    """Cụm domino lộn xộn (nhiều thói quen cùng lúc, không quân nào đổ gọn)."""
+    import random
+    rnd = random.Random(seed)
+    out = []
+    for i in range(n):
+        x, yy = cx + rnd.uniform(-330, 330), cy + rnd.uniform(-60, 120)
+        out.append(f'<g transform="rotate({rnd.uniform(-35, 35):.1f} {x:.1f} {yy:.1f})">'
+                   + domino_tile(x, yy, h * rnd.uniform(.7, 1.15), INK, op * rnd.uniform(.5, 1)) + "</g>")
+    return "".join(out)
+
+
+def marker(num, x, y, size=170, color=None):
+    """Số đánh dấu module ("1".."4") — vòng tròn + chữ số Anton."""
+    color = color or INK
+    return (f'<circle cx="{x}" cy="{y}" r="{size * .62:.0f}" fill="none" stroke="{color}" stroke-width="7" opacity=".9"/>'
+            f'<text x="{x}" y="{y + size * .36:.0f}" font-family="Anton" font-size="{size:.0f}" fill="{color}" '
+            f'text-anchor="middle">{num}</text>')
+
+
+def finalize_static(svg):
+    """Ảnh tĩnh/thumbnail: domino "anim" hiển thị ở trạng thái đã đổ."""
+    import re
+
+    def sub(m):
+        ang, px, py, _ = m.group(1).split(",")
+        return f'transform="rotate({ang} {px} {py})"'
+    return re.sub(r'data-fall="([^"]+)"', sub, svg)

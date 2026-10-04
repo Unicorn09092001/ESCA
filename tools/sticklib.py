@@ -540,6 +540,30 @@ def icon(name, color=INK, w=7, **kw):
     if name == "page":
         return (f'<rect x="-34" y="-44" width="68" height="88" rx="5" {s}/><rect x="-34" y="-44" width="68" height="20" fill="{color}" opacity=".5"/>'
                 + "".join(f'<circle cx="{-18 + c * 18}" cy="{-4 + r * 18}" r="3.5" fill="{color}"/>' for r in range(3) for c in range(3)))
+    if name == "clover":
+        out = []
+        for a in (0, 90, 180, 270):
+            out.append(f'<ellipse cx="0" cy="-20" rx="13" ry="20" transform="rotate({a})" {s}/>')
+        return "".join(out) + f'<path d="M0,0 Q8,26 22,44" {_c(color, 6)}/>'
+    if name == "shoe":
+        return (f'<path d="M-46,24 L-46,-4 Q-44,-14 -34,-14 L-20,-14 L-14,-30 L6,-30 Q8,-8 30,0 Q48,6 48,18 L48,24 Z" {s}/>'
+                f'<line x1="-46" y1="34" x2="48" y2="34" {_c(color, 7)}/><path d="M-10,-20 L4,-14 M-6,-26 L8,-20" {_c(color, 4)}/>')
+    if name == "bedicon":
+        return (f'<path d="M-48,30 L-48,-26 M-48,8 L48,8 L48,30 M-48,-6 L48,-6" {s}/>'
+                f'<rect x="-40" y="-26" width="28" height="16" rx="6" {_c(color, 5)}/>')
+    if name == "signpost":
+        return (f'<line x1="0" y1="-44" x2="0" y2="46" {s}/><path d="M0,-34 L40,-34 L50,-24 L40,-14 L0,-14 Z" {s}/>'
+                f'<path d="M0,-6 L-40,-6 L-50,4 L-40,14 L0,14 Z" {s}/>')
+    if name == "org":
+        return (f'<rect x="-14" y="-46" width="28" height="22" rx="4" {s}/><path d="M0,-24 L0,-8 M-34,-8 L34,-8 M-34,-8 L-34,8 M34,-8 L34,8 M0,-8 L0,8" {_c(color, 5)}/>'
+                + "".join(f'<rect x="{x - 12}" y="8" width="24" height="20" rx="4" {_c(color, 5)}/>' for x in (-34, 0, 34)))
+    if name == "apple":
+        return (f'<path d="M0,-18 Q-18,-30 -32,-18 Q-46,-2 -36,22 Q-26,44 -8,40 Q0,36 8,40 Q26,44 36,22 Q46,-2 32,-18 Q18,-30 0,-18 Z" {s}/>'
+                f'<path d="M0,-18 Q2,-34 10,-42" {_c(color, 5)}/>')
+    if name == "target":
+        return (f'<circle cx="0" cy="0" r="42" {s}/><circle cx="0" cy="0" r="26" {_c(color, 5)}/><circle cx="0" cy="0" r="9" fill="{color}"/>')
+    if name == "check":
+        return f'<path d="M-30,2 L-8,24 L32,-22" {_c(color, 10)}/>'
     raise KeyError(name)
 
 

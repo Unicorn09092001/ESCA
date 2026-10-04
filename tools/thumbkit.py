@@ -29,7 +29,8 @@ def badge():
 
 
 def render(svg_body):
-    png = cairosvg.svg2png(bytestring=sl.svg_doc(svg_body, TW, TH, vignette=False).encode())
+    from scenekit import finalize_static
+    png = cairosvg.svg2png(bytestring=finalize_static(sl.svg_doc(svg_body, TW, TH, vignette=False)).encode())
     return Image.open(io.BytesIO(png)).convert("RGB")
 
 

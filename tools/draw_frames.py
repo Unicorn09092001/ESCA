@@ -18,6 +18,7 @@ import cairosvg
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from projectkit import load_scenes  # noqa: E402
+from scenekit import finalize_static  # noqa: E402
 from sticklib import svg_doc  # noqa: E402
 
 
@@ -34,7 +35,7 @@ def main():
     for i, fr in enumerate(tl, 1):
         if only and i not in only:
             continue
-        svg = svg_doc("".join(scenes.build_layers(i, fr.get("shot", "MEDIUM SHOT"))))
+        svg = finalize_static(svg_doc("".join(scenes.build_layers(i, fr.get("shot", "MEDIUM SHOT")))))
         cairosvg.svg2png(bytestring=svg.encode("utf-8"), write_to=os.path.join(out_dir, f"img_{i:03d}.png"))
     print(f"✅ Đã vẽ {len(only) if only else len(tl)} khung → {out_dir}")
 

@@ -1,0 +1,3795 @@
+[
+ {
+  "id": "S01_F001",
+  "scene": "EL GANCHO",
+  "shot": "WIDE SHOT",
+  "es": "Hay un solo hábito que, si lo cambias, arrastra a casi todos los demás con él,",
+  "visual": "Figure gently touches the first of a long row of glowing domino-shaped tiles stretching far into the distance.",
+  "start": 0.0,
+  "end": 5.026,
+  "words": [
+   {
+    "word": "Hay",
+    "start": 0.251,
+    "end": 0.439
+   },
+   {
+    "word": "un",
+    "start": 0.439,
+    "end": 0.565
+   },
+   {
+    "word": "solo",
+    "start": 0.565,
+    "end": 0.816
+   },
+   {
+    "word": "hábito",
+    "start": 0.816,
+    "end": 1.193
+   },
+   {
+    "word": "que,",
+    "start": 1.193,
+    "end": 1.746
+   },
+   {
+    "word": "si",
+    "start": 1.746,
+    "end": 1.872
+   },
+   {
+    "word": "lo",
+    "start": 1.872,
+    "end": 1.997
+   },
+   {
+    "word": "cambias,",
+    "start": 1.997,
+    "end": 2.437
+   },
+   {
+    "word": "arrastra",
+    "start": 2.437,
+    "end": 3.301
+   },
+   {
+    "word": "a",
+    "start": 3.301,
+    "end": 3.364
+   },
+   {
+    "word": "casi",
+    "start": 3.364,
+    "end": 3.685
+   },
+   {
+    "word": "todos",
+    "start": 3.685,
+    "end": 3.999
+   },
+   {
+    "word": "los",
+    "start": 3.999,
+    "end": 4.188
+   },
+   {
+    "word": "demás",
+    "start": 4.188,
+    "end": 4.502
+   },
+   {
+    "word": "con",
+    "start": 4.502,
+    "end": 4.69
+   },
+   {
+    "word": "él,",
+    "start": 4.69,
+    "end": 4.816
+   }
+  ]
+ },
+ {
+  "id": "S01_F002",
+  "scene": "EL GANCHO",
+  "shot": "MEDIUM SHOT",
+  "es": "como el primer dominó de una fila larguísima que ni siquiera sabías que existía.",
+  "visual": "The row of domino tiles extends further than expected, previously hidden in the dark, now faintly visible.",
+  "start": 5.026,
+  "end": 9.904,
+  "words": [
+   {
+    "word": "como",
+    "start": 5.237,
+    "end": 5.473
+   },
+   {
+    "word": "el",
+    "start": 5.473,
+    "end": 5.666
+   },
+   {
+    "word": "primer",
+    "start": 5.666,
+    "end": 6.021
+   },
+   {
+    "word": "dominó",
+    "start": 6.021,
+    "end": 6.376
+   },
+   {
+    "word": "de",
+    "start": 6.376,
+    "end": 6.494
+   },
+   {
+    "word": "una",
+    "start": 6.494,
+    "end": 6.671
+   },
+   {
+    "word": "fila",
+    "start": 6.671,
+    "end": 6.908
+   },
+   {
+    "word": "larguísima",
+    "start": 6.908,
+    "end": 7.499
+   },
+   {
+    "word": "que",
+    "start": 7.499,
+    "end": 7.677
+   },
+   {
+    "word": "ni",
+    "start": 7.677,
+    "end": 7.795
+   },
+   {
+    "word": "siquiera",
+    "start": 7.795,
+    "end": 8.344
+   },
+   {
+    "word": "sabías",
+    "start": 8.344,
+    "end": 8.699
+   },
+   {
+    "word": "que",
+    "start": 8.699,
+    "end": 8.877
+   },
+   {
+    "word": "existía.",
+    "start": 8.877,
+    "end": 9.291
+   }
+  ]
+ },
+ {
+  "id": "S01_F003",
+  "scene": "EL GANCHO",
+  "shot": "CLOSE-UP",
+  "es": "No necesitas cambiar diez cosas a la vez, ni rediseñar tu vida entera de golpe.",
+  "visual": "Close-up, a faint overwhelming cluster of ten separate change-icons is gently dismissed, simplified down to one.",
+  "start": 9.904,
+  "end": 15.748,
+  "words": [
+   {
+    "word": "No",
+    "start": 10.518,
+    "end": 10.644
+   },
+   {
+    "word": "necesitas",
+    "start": 10.644,
+    "end": 11.214
+   },
+   {
+    "word": "cambiar",
+    "start": 11.214,
+    "end": 11.657
+   },
+   {
+    "word": "diez",
+    "start": 11.657,
+    "end": 11.91
+   },
+   {
+    "word": "cosas",
+    "start": 11.91,
+    "end": 12.304
+   },
+   {
+    "word": "a",
+    "start": 12.304,
+    "end": 12.367
+   },
+   {
+    "word": "la",
+    "start": 12.367,
+    "end": 12.494
+   },
+   {
+    "word": "vez,",
+    "start": 12.494,
+    "end": 12.683
+   },
+   {
+    "word": "ni",
+    "start": 12.683,
+    "end": 12.81
+   },
+   {
+    "word": "rediseñar",
+    "start": 12.81,
+    "end": 13.775
+   },
+   {
+    "word": "tu",
+    "start": 13.775,
+    "end": 13.902
+   },
+   {
+    "word": "vida",
+    "start": 13.902,
+    "end": 14.24
+   },
+   {
+    "word": "entera",
+    "start": 14.24,
+    "end": 14.62
+   },
+   {
+    "word": "de",
+    "start": 14.62,
+    "end": 14.746
+   },
+   {
+    "word": "golpe.",
+    "start": 14.746,
+    "end": 15.063
+   }
+  ]
+ },
+ {
+  "id": "S01_F004",
+  "scene": "EL GANCHO",
+  "shot": "WIDE SHOT",
+  "es": "No es magia, ni una casualidad que le pasó a otra persona con suerte.",
+  "visual": "A faint lucky four-leaf-clover icon is gently crossed out, dismissing the idea of mere chance.",
+  "start": 15.748,
+  "end": 20.943,
+  "words": [
+   {
+    "word": "No",
+    "start": 16.434,
+    "end": 16.56
+   },
+   {
+    "word": "es",
+    "start": 16.56,
+    "end": 16.686
+   },
+   {
+    "word": "magia,",
+    "start": 16.686,
+    "end": 17.0
+   },
+   {
+    "word": "ni",
+    "start": 17.0,
+    "end": 17.126
+   },
+   {
+    "word": "una",
+    "start": 17.126,
+    "end": 17.62
+   },
+   {
+    "word": "casualidad",
+    "start": 17.62,
+    "end": 18.248
+   },
+   {
+    "word": "que",
+    "start": 18.248,
+    "end": 18.437
+   },
+   {
+    "word": "le",
+    "start": 18.437,
+    "end": 18.563
+   },
+   {
+    "word": "pasó",
+    "start": 18.563,
+    "end": 18.814
+   },
+   {
+    "word": "a",
+    "start": 18.814,
+    "end": 18.877
+   },
+   {
+    "word": "otra",
+    "start": 18.877,
+    "end": 19.128
+   },
+   {
+    "word": "persona",
+    "start": 19.128,
+    "end": 19.568
+   },
+   {
+    "word": "con",
+    "start": 19.568,
+    "end": 19.831
+   },
+   {
+    "word": "suerte.",
+    "start": 19.831,
+    "end": 20.32
+   }
+  ]
+ },
+ {
+  "id": "S01_F005",
+  "scene": "EL GANCHO",
+  "shot": "CLOSE-UP",
+  "es": "Es un mecanismo real, documentado, y hoy te explico exactamente cuál es, por qué funciona de la forma en que funciona, y cómo encontrar el tuyo específico.",
+  "visual": "Close-up, thoughtful confident expression, a faint glowing research-document icon settles calmly beside the row of domino tiles.",
+  "start": 20.943,
+  "end": 31.842,
+  "words": [
+   {
+    "word": "Es",
+    "start": 21.565,
+    "end": 21.688
+   },
+   {
+    "word": "un",
+    "start": 21.688,
+    "end": 21.811
+   },
+   {
+    "word": "mecanismo",
+    "start": 21.811,
+    "end": 22.365
+   },
+   {
+    "word": "real,",
+    "start": 22.365,
+    "end": 22.612
+   },
+   {
+    "word": "documentado,",
+    "start": 22.612,
+    "end": 23.618
+   },
+   {
+    "word": "y",
+    "start": 23.618,
+    "end": 23.764
+   },
+   {
+    "word": "hoy",
+    "start": 23.764,
+    "end": 23.949
+   },
+   {
+    "word": "te",
+    "start": 23.949,
+    "end": 24.455
+   },
+   {
+    "word": "explico",
+    "start": 24.455,
+    "end": 24.886
+   },
+   {
+    "word": "exactamente",
+    "start": 24.886,
+    "end": 25.665
+   },
+   {
+    "word": "cuál",
+    "start": 25.665,
+    "end": 25.986
+   },
+   {
+    "word": "es,",
+    "start": 25.986,
+    "end": 26.109
+   },
+   {
+    "word": "por",
+    "start": 26.109,
+    "end": 26.294
+   },
+   {
+    "word": "qué",
+    "start": 26.294,
+    "end": 26.879
+   },
+   {
+    "word": "funciona",
+    "start": 26.879,
+    "end": 27.372
+   },
+   {
+    "word": "de",
+    "start": 27.372,
+    "end": 27.495
+   },
+   {
+    "word": "la",
+    "start": 27.495,
+    "end": 27.618
+   },
+   {
+    "word": "forma",
+    "start": 27.618,
+    "end": 27.925
+   },
+   {
+    "word": "en",
+    "start": 27.925,
+    "end": 28.049
+   },
+   {
+    "word": "que",
+    "start": 28.049,
+    "end": 28.233
+   },
+   {
+    "word": "funciona,",
+    "start": 28.233,
+    "end": 28.726
+   },
+   {
+    "word": "y",
+    "start": 28.726,
+    "end": 28.787
+   },
+   {
+    "word": "cómo",
+    "start": 28.787,
+    "end": 29.423
+   },
+   {
+    "word": "encontrar",
+    "start": 29.423,
+    "end": 29.977
+   },
+   {
+    "word": "el",
+    "start": 29.977,
+    "end": 30.1
+   },
+   {
+    "word": "tuyo",
+    "start": 30.1,
+    "end": 30.457
+   },
+   {
+    "word": "específico.",
+    "start": 30.457,
+    "end": 31.234
+   }
+  ]
+ },
+ {
+  "id": "S02_F006",
+  "scene": "MÓDULO 1 — El Hábito Clave (Paul O'Neill / Duhigg)",
+  "shot": "WIDE SHOT",
+  "es": "Primero, qué es exactamente un hábito clave.",
+  "visual": "Figure stands beside a large numbered marker \"1\", the single upright domino tile glowing clearly beside them.",
+  "start": 31.842,
+  "end": 35.73,
+  "words": [
+   {
+    "word": "Primero,",
+    "start": 32.451,
+    "end": 32.86
+   },
+   {
+    "word": "qué",
+    "start": 32.86,
+    "end": 33.413
+   },
+   {
+    "word": "es",
+    "start": 33.413,
+    "end": 33.53
+   },
+   {
+    "word": "exactamente",
+    "start": 33.53,
+    "end": 34.356
+   },
+   {
+    "word": "un",
+    "start": 34.356,
+    "end": 34.473
+   },
+   {
+    "word": "hábito",
+    "start": 34.473,
+    "end": 34.823
+   },
+   {
+    "word": "clave.",
+    "start": 34.823,
+    "end": 35.115
+   }
+  ]
+ },
+ {
+  "id": "S02_F007",
+  "scene": "MÓDULO 1 — El Hábito Clave (Paul O'Neill / Duhigg)",
+  "shot": "MEDIUM SHOT",
+  "es": "El periodista Charles Duhigg, en su libro \"El Poder de los Hábitos\", cuenta la historia de Paul O'Neill,",
+  "visual": "Thoughtful narrating expression, a faint glowing open-book icon appears briefly beside the figure.",
+  "start": 35.73,
+  "end": 42.785,
+  "words": [
+   {
+    "word": "El",
+    "start": 36.344,
+    "end": 36.464
+   },
+   {
+    "word": "periodista",
+    "start": 36.464,
+    "end": 37.062
+   },
+   {
+    "word": "Charles",
+    "start": 37.062,
+    "end": 37.481
+   },
+   {
+    "word": "Duhigg,",
+    "start": 37.481,
+    "end": 38.263
+   },
+   {
+    "word": "en",
+    "start": 38.263,
+    "end": 38.382
+   },
+   {
+    "word": "su",
+    "start": 38.382,
+    "end": 38.502
+   },
+   {
+    "word": "libro",
+    "start": 38.502,
+    "end": 38.801
+   },
+   {
+    "word": "\"El",
+    "start": 38.801,
+    "end": 39.211
+   },
+   {
+    "word": "Poder",
+    "start": 39.211,
+    "end": 39.601
+   },
+   {
+    "word": "de",
+    "start": 39.601,
+    "end": 39.72
+   },
+   {
+    "word": "los",
+    "start": 39.72,
+    "end": 39.9
+   },
+   {
+    "word": "Hábitos\",",
+    "start": 39.9,
+    "end": 40.419
+   },
+   {
+    "word": "cuenta",
+    "start": 40.419,
+    "end": 41.185
+   },
+   {
+    "word": "la",
+    "start": 41.185,
+    "end": 41.304
+   },
+   {
+    "word": "historia",
+    "start": 41.304,
+    "end": 41.783
+   },
+   {
+    "word": "de",
+    "start": 41.783,
+    "end": 41.99
+   },
+   {
+    "word": "Paul",
+    "start": 41.99,
+    "end": 42.23
+   },
+   {
+    "word": "O'Neill,",
+    "start": 42.23,
+    "end": 42.589
+   }
+  ]
+ },
+ {
+  "id": "S02_F008",
+  "scene": "MÓDULO 1 — El Hábito Clave (Paul O'Neill / Duhigg)",
+  "shot": "CLOSE-UP",
+  "es": "quien llegó a dirigir la empresa Alcoa y sorprendió a todos al anunciar que su prioridad número uno no serían las ganancias, sino la seguridad de los trabajadores.",
+  "visual": "Close-up, a faint ghost-outline executive figure stands before a company building silhouette, a safety-shield icon glowing where a coin-icon was expected.",
+  "start": 42.785,
+  "end": 52.059,
+  "words": [
+   {
+    "word": "quien",
+    "start": 42.982,
+    "end": 43.263
+   },
+   {
+    "word": "llegó",
+    "start": 43.263,
+    "end": 43.545
+   },
+   {
+    "word": "a",
+    "start": 43.545,
+    "end": 43.601
+   },
+   {
+    "word": "dirigir",
+    "start": 43.601,
+    "end": 43.995
+   },
+   {
+    "word": "la",
+    "start": 43.995,
+    "end": 44.107
+   },
+   {
+    "word": "empresa",
+    "start": 44.107,
+    "end": 44.602
+   },
+   {
+    "word": "Alcoa",
+    "start": 44.602,
+    "end": 44.883
+   },
+   {
+    "word": "y",
+    "start": 44.883,
+    "end": 44.939
+   },
+   {
+    "word": "sorprendió",
+    "start": 44.939,
+    "end": 45.693
+   },
+   {
+    "word": "a",
+    "start": 45.693,
+    "end": 45.75
+   },
+   {
+    "word": "todos",
+    "start": 45.75,
+    "end": 46.031
+   },
+   {
+    "word": "al",
+    "start": 46.031,
+    "end": 46.144
+   },
+   {
+    "word": "anunciar",
+    "start": 46.144,
+    "end": 46.674
+   },
+   {
+    "word": "que",
+    "start": 46.674,
+    "end": 46.935
+   },
+   {
+    "word": "su",
+    "start": 46.935,
+    "end": 47.048
+   },
+   {
+    "word": "prioridad",
+    "start": 47.048,
+    "end": 47.554
+   },
+   {
+    "word": "número",
+    "start": 47.554,
+    "end": 47.892
+   },
+   {
+    "word": "uno",
+    "start": 47.892,
+    "end": 48.061
+   },
+   {
+    "word": "no",
+    "start": 48.061,
+    "end": 48.173
+   },
+   {
+    "word": "serían",
+    "start": 48.173,
+    "end": 48.511
+   },
+   {
+    "word": "las",
+    "start": 48.511,
+    "end": 48.68
+   },
+   {
+    "word": "ganancias,",
+    "start": 48.68,
+    "end": 49.548
+   },
+   {
+    "word": "sino",
+    "start": 49.548,
+    "end": 49.773
+   },
+   {
+    "word": "la",
+    "start": 49.773,
+    "end": 49.886
+   },
+   {
+    "word": "seguridad",
+    "start": 49.886,
+    "end": 50.392
+   },
+   {
+    "word": "de",
+    "start": 50.392,
+    "end": 50.505
+   },
+   {
+    "word": "los",
+    "start": 50.505,
+    "end": 50.673
+   },
+   {
+    "word": "trabajadores.",
+    "start": 50.673,
+    "end": 51.349
+   }
+  ]
+ },
+ {
+  "id": "S02_F009",
+  "scene": "MÓDULO 1 — El Hábito Clave (Paul O'Neill / Duhigg)",
+  "shot": "WIDE SHOT",
+  "es": "Presta atención a esto: al enfocarse obsesivamente en un solo hábito — reportar cada accidente, sin excepción, en menos de 24 horas —",
+  "visual": "A single glowing domino tile marked with a clock-icon (24 hours) stands upright, singled out from the rest of the row.",
+  "start": 52.059,
+  "end": 62.362,
+  "words": [
+   {
+    "word": "Presta",
+    "start": 52.77,
+    "end": 53.178
+   },
+   {
+    "word": "atención",
+    "start": 53.178,
+    "end": 53.723
+   },
+   {
+    "word": "a",
+    "start": 53.723,
+    "end": 53.792
+   },
+   {
+    "word": "esto:",
+    "start": 53.792,
+    "end": 54.531
+   },
+   {
+    "word": "al",
+    "start": 54.531,
+    "end": 54.668
+   },
+   {
+    "word": "enfocarse",
+    "start": 54.668,
+    "end": 55.281
+   },
+   {
+    "word": "obsesivamente",
+    "start": 55.281,
+    "end": 56.166
+   },
+   {
+    "word": "en",
+    "start": 56.166,
+    "end": 56.302
+   },
+   {
+    "word": "un",
+    "start": 56.302,
+    "end": 56.438
+   },
+   {
+    "word": "solo",
+    "start": 56.438,
+    "end": 56.711
+   },
+   {
+    "word": "hábito",
+    "start": 56.711,
+    "end": 57.589
+   },
+   {
+    "word": "—",
+    "start": 57.589,
+    "end": 57.657
+   },
+   {
+    "word": "reportar",
+    "start": 57.657,
+    "end": 58.363
+   },
+   {
+    "word": "cada",
+    "start": 58.363,
+    "end": 58.721
+   },
+   {
+    "word": "accidente,",
+    "start": 58.721,
+    "end": 59.707
+   },
+   {
+    "word": "sin",
+    "start": 59.707,
+    "end": 59.911
+   },
+   {
+    "word": "excepción,",
+    "start": 59.911,
+    "end": 60.941
+   },
+   {
+    "word": "en",
+    "start": 60.941,
+    "end": 61.077
+   },
+   {
+    "word": "menos",
+    "start": 61.077,
+    "end": 61.502
+   },
+   {
+    "word": "de",
+    "start": 61.502,
+    "end": 61.639
+   },
+   {
+    "word": "24",
+    "start": 61.639,
+    "end": 61.775
+   },
+   {
+    "word": "horas",
+    "start": 61.775,
+    "end": 62.115
+   },
+   {
+    "word": "—",
+    "start": 62.115,
+    "end": 62.184
+   }
+  ]
+ },
+ {
+  "id": "S02_F010",
+  "scene": "MÓDULO 1 — El Hábito Clave (Paul O'Neill / Duhigg)",
+  "shot": "MEDIUM SHOT",
+  "es": "la empresa tuvo que rediseñar por completo su comunicación interna, su cadena de mando y su cultura de responsabilidad.",
+  "visual": "As the single domino tile tips over, several other tiles labeled with organizational icons (communication, hierarchy, culture) begin to fall in sequence.",
+  "start": 62.362,
+  "end": 69.861,
+  "words": [
+   {
+    "word": "la",
+    "start": 62.541,
+    "end": 62.658
+   },
+   {
+    "word": "empresa",
+    "start": 62.658,
+    "end": 63.142
+   },
+   {
+    "word": "tuvo",
+    "start": 63.142,
+    "end": 63.448
+   },
+   {
+    "word": "que",
+    "start": 63.448,
+    "end": 63.624
+   },
+   {
+    "word": "rediseñar",
+    "start": 63.624,
+    "end": 64.248
+   },
+   {
+    "word": "por",
+    "start": 64.248,
+    "end": 64.496
+   },
+   {
+    "word": "completo",
+    "start": 64.496,
+    "end": 64.965
+   },
+   {
+    "word": "su",
+    "start": 64.965,
+    "end": 65.082
+   },
+   {
+    "word": "comunicación",
+    "start": 65.082,
+    "end": 65.786
+   },
+   {
+    "word": "interna,",
+    "start": 65.786,
+    "end": 66.625
+   },
+   {
+    "word": "su",
+    "start": 66.625,
+    "end": 66.743
+   },
+   {
+    "word": "cadena",
+    "start": 66.743,
+    "end": 67.095
+   },
+   {
+    "word": "de",
+    "start": 67.095,
+    "end": 67.212
+   },
+   {
+    "word": "mando",
+    "start": 67.212,
+    "end": 67.505
+   },
+   {
+    "word": "y",
+    "start": 67.505,
+    "end": 67.564
+   },
+   {
+    "word": "su",
+    "start": 67.564,
+    "end": 67.681
+   },
+   {
+    "word": "cultura",
+    "start": 67.681,
+    "end": 68.176
+   },
+   {
+    "word": "de",
+    "start": 68.176,
+    "end": 68.293
+   },
+   {
+    "word": "responsabilidad.",
+    "start": 68.293,
+    "end": 69.256
+   }
+  ]
+ },
+ {
+  "id": "S02_F011",
+  "scene": "MÓDULO 1 — El Hábito Clave (Paul O'Neill / Duhigg)",
+  "shot": "CLOSE-UP",
+  "es": "Las ganancias, que nadie estaba persiguiendo directamente, se multiplicaron.",
+  "visual": "Close-up, a faint coin-icon at the far end of the falling row glows brightly and multiplies, an unintended but real outcome.",
+  "start": 69.861,
+  "end": 75.978,
+  "words": [
+   {
+    "word": "Las",
+    "start": 70.465,
+    "end": 70.641
+   },
+   {
+    "word": "ganancias,",
+    "start": 70.641,
+    "end": 71.167
+   },
+   {
+    "word": "que",
+    "start": 71.167,
+    "end": 71.342
+   },
+   {
+    "word": "nadie",
+    "start": 71.342,
+    "end": 72.012
+   },
+   {
+    "word": "estaba",
+    "start": 72.012,
+    "end": 72.363
+   },
+   {
+    "word": "persiguiendo",
+    "start": 72.363,
+    "end": 73.142
+   },
+   {
+    "word": "directamente,",
+    "start": 73.142,
+    "end": 74.409
+   },
+   {
+    "word": "se",
+    "start": 74.409,
+    "end": 74.526
+   },
+   {
+    "word": "multiplicaron.",
+    "start": 74.526,
+    "end": 75.358
+   }
+  ]
+ },
+ {
+  "id": "S02_F012",
+  "scene": "MÓDULO 1 — El Hábito Clave (Paul O'Neill / Duhigg)",
+  "shot": "WIDE SHOT",
+  "es": "Ese es un hábito clave: uno que, al cambiar, obliga a cambiar la estructura de todo lo demás a su alrededor.",
+  "visual": "Wide shot, the entire row of domino tiles now shown fallen in a clean, complete cascade, all connected to the single first tile.",
+  "start": 75.978,
+  "end": 83.282,
+  "words": [
+   {
+    "word": "Ese",
+    "start": 76.599,
+    "end": 76.769
+   },
+   {
+    "word": "es",
+    "start": 76.769,
+    "end": 76.883
+   },
+   {
+    "word": "un",
+    "start": 76.883,
+    "end": 76.997
+   },
+   {
+    "word": "hábito",
+    "start": 76.997,
+    "end": 77.339
+   },
+   {
+    "word": "clave:",
+    "start": 77.339,
+    "end": 77.624
+   },
+   {
+    "word": "uno",
+    "start": 77.624,
+    "end": 77.795
+   },
+   {
+    "word": "que,",
+    "start": 77.795,
+    "end": 78.32
+   },
+   {
+    "word": "al",
+    "start": 78.32,
+    "end": 78.504
+   },
+   {
+    "word": "cambiar,",
+    "start": 78.504,
+    "end": 79.239
+   },
+   {
+    "word": "obliga",
+    "start": 79.239,
+    "end": 79.581
+   },
+   {
+    "word": "a",
+    "start": 79.581,
+    "end": 79.931
+   },
+   {
+    "word": "cambiar",
+    "start": 79.931,
+    "end": 80.33
+   },
+   {
+    "word": "la",
+    "start": 80.33,
+    "end": 80.444
+   },
+   {
+    "word": "estructura",
+    "start": 80.444,
+    "end": 81.136
+   },
+   {
+    "word": "de",
+    "start": 81.136,
+    "end": 81.25
+   },
+   {
+    "word": "todo",
+    "start": 81.25,
+    "end": 81.573
+   },
+   {
+    "word": "lo",
+    "start": 81.573,
+    "end": 81.687
+   },
+   {
+    "word": "demás",
+    "start": 81.687,
+    "end": 81.972
+   },
+   {
+    "word": "a",
+    "start": 81.972,
+    "end": 82.029
+   },
+   {
+    "word": "su",
+    "start": 82.029,
+    "end": 82.143
+   },
+   {
+    "word": "alrededor.",
+    "start": 82.143,
+    "end": 82.655
+   }
+  ]
+ },
+ {
+  "id": "S03_F013",
+  "scene": "MÓDULO 2 — Por Qué Funciona (Efecto Compuesto / Darren Hardy)",
+  "shot": "WIDE SHOT",
+  "es": "Segundo, por qué funciona este efecto dominó.",
+  "visual": "Figure stands beside a large numbered marker \"2\", the fallen row of dominoes from Módulo 1 visible behind them.",
+  "start": 83.282,
+  "end": 87.389,
+  "words": [
+   {
+    "word": "Segundo,",
+    "start": 83.91,
+    "end": 84.349
+   },
+   {
+    "word": "por",
+    "start": 84.349,
+    "end": 84.969
+   },
+   {
+    "word": "qué",
+    "start": 84.969,
+    "end": 85.157
+   },
+   {
+    "word": "funciona",
+    "start": 85.157,
+    "end": 85.659
+   },
+   {
+    "word": "este",
+    "start": 85.659,
+    "end": 85.91
+   },
+   {
+    "word": "efecto",
+    "start": 85.91,
+    "end": 86.386
+   },
+   {
+    "word": "dominó.",
+    "start": 86.386,
+    "end": 86.762
+   }
+  ]
+ },
+ {
+  "id": "S03_F014",
+  "scene": "MÓDULO 2 — Por Qué Funciona (Efecto Compuesto / Darren Hardy)",
+  "shot": "MEDIUM SHOT",
+  "es": "El autor Darren Hardy, en su libro \"El Efecto Compuesto\", explica que los resultados grandes casi nunca vienen de decisiones grandes y dramáticas.",
+  "visual": "Thoughtful narrating expression, a faint dramatic large-decision icon is gently set aside, not the real source of change.",
+  "start": 87.389,
+  "end": 97.613,
+  "words": [
+   {
+    "word": "El",
+    "start": 88.015,
+    "end": 88.137
+   },
+   {
+    "word": "autor",
+    "start": 88.137,
+    "end": 88.519
+   },
+   {
+    "word": "Darren",
+    "start": 88.519,
+    "end": 88.887
+   },
+   {
+    "word": "Hardy,",
+    "start": 88.887,
+    "end": 89.194
+   },
+   {
+    "word": "en",
+    "start": 89.194,
+    "end": 89.708
+   },
+   {
+    "word": "su",
+    "start": 89.708,
+    "end": 89.83
+   },
+   {
+    "word": "libro",
+    "start": 89.83,
+    "end": 90.137
+   },
+   {
+    "word": "\"El",
+    "start": 90.137,
+    "end": 90.259
+   },
+   {
+    "word": "Efecto",
+    "start": 90.259,
+    "end": 90.894
+   },
+   {
+    "word": "Compuesto\",",
+    "start": 90.894,
+    "end": 91.619
+   },
+   {
+    "word": "explica",
+    "start": 91.619,
+    "end": 92.52
+   },
+   {
+    "word": "que",
+    "start": 92.52,
+    "end": 92.704
+   },
+   {
+    "word": "los",
+    "start": 92.704,
+    "end": 92.888
+   },
+   {
+    "word": "resultados",
+    "start": 92.888,
+    "end": 93.595
+   },
+   {
+    "word": "grandes",
+    "start": 93.595,
+    "end": 94.024
+   },
+   {
+    "word": "casi",
+    "start": 94.024,
+    "end": 94.269
+   },
+   {
+    "word": "nunca",
+    "start": 94.269,
+    "end": 94.575
+   },
+   {
+    "word": "vienen",
+    "start": 94.575,
+    "end": 94.943
+   },
+   {
+    "word": "de",
+    "start": 94.943,
+    "end": 95.066
+   },
+   {
+    "word": "decisiones",
+    "start": 95.066,
+    "end": 95.679
+   },
+   {
+    "word": "grandes",
+    "start": 95.679,
+    "end": 96.108
+   },
+   {
+    "word": "y",
+    "start": 96.108,
+    "end": 96.169
+   },
+   {
+    "word": "dramáticas.",
+    "start": 96.169,
+    "end": 97.002
+   }
+  ]
+ },
+ {
+  "id": "S03_F015",
+  "scene": "MÓDULO 2 — Por Qué Funciona (Efecto Compuesto / Darren Hardy)",
+  "shot": "CLOSE-UP",
+  "es": "Vienen de decisiones pequeñas, repetidas con consistencia, cuyo efecto es invisible día a día pero enorme con el tiempo.",
+  "visual": "Close-up, a single tiny glowing dot repeats steadily across a long timeline, growing into a massive glowing shape by the end.",
+  "start": 97.613,
+  "end": 106.43,
+  "words": [
+   {
+    "word": "Vienen",
+    "start": 98.224,
+    "end": 98.611
+   },
+   {
+    "word": "de",
+    "start": 98.611,
+    "end": 98.74
+   },
+   {
+    "word": "decisiones",
+    "start": 98.74,
+    "end": 99.385
+   },
+   {
+    "word": "pequeñas,",
+    "start": 99.385,
+    "end": 99.901
+   },
+   {
+    "word": "repetidas",
+    "start": 99.901,
+    "end": 100.928
+   },
+   {
+    "word": "con",
+    "start": 100.928,
+    "end": 101.121
+   },
+   {
+    "word": "consistencia,",
+    "start": 101.121,
+    "end": 101.896
+   },
+   {
+    "word": "cuyo",
+    "start": 101.896,
+    "end": 102.154
+   },
+   {
+    "word": "efecto",
+    "start": 102.154,
+    "end": 102.894
+   },
+   {
+    "word": "es",
+    "start": 102.894,
+    "end": 103.13
+   },
+   {
+    "word": "invisible",
+    "start": 103.13,
+    "end": 103.711
+   },
+   {
+    "word": "día",
+    "start": 103.711,
+    "end": 103.904
+   },
+   {
+    "word": "a",
+    "start": 103.904,
+    "end": 103.969
+   },
+   {
+    "word": "día",
+    "start": 103.969,
+    "end": 104.162
+   },
+   {
+    "word": "pero",
+    "start": 104.162,
+    "end": 104.505
+   },
+   {
+    "word": "enorme",
+    "start": 104.505,
+    "end": 104.892
+   },
+   {
+    "word": "con",
+    "start": 104.892,
+    "end": 105.086
+   },
+   {
+    "word": "el",
+    "start": 105.086,
+    "end": 105.215
+   },
+   {
+    "word": "tiempo.",
+    "start": 105.215,
+    "end": 105.798
+   }
+  ]
+ },
+ {
+  "id": "S03_F016",
+  "scene": "MÓDULO 2 — Por Qué Funciona (Efecto Compuesto / Darren Hardy)",
+  "shot": "WIDE SHOT",
+  "es": "Aquí está la clave: un hábito clave no cambia tu vida porque sea especialmente poderoso por sí solo.",
+  "visual": "A faint standalone \"powerful habit\" icon is shown modest and unremarkable on its own, not the true source of its impact.",
+  "start": 106.43,
+  "end": 113.307,
+  "words": [
+   {
+    "word": "Aquí",
+    "start": 107.063,
+    "end": 107.3
+   },
+   {
+    "word": "está",
+    "start": 107.3,
+    "end": 107.536
+   },
+   {
+    "word": "la",
+    "start": 107.536,
+    "end": 107.654
+   },
+   {
+    "word": "clave:",
+    "start": 107.654,
+    "end": 107.95
+   },
+   {
+    "word": "un",
+    "start": 107.95,
+    "end": 108.068
+   },
+   {
+    "word": "hábito",
+    "start": 108.068,
+    "end": 108.776
+   },
+   {
+    "word": "clave",
+    "start": 108.776,
+    "end": 109.149
+   },
+   {
+    "word": "no",
+    "start": 109.149,
+    "end": 109.267
+   },
+   {
+    "word": "cambia",
+    "start": 109.267,
+    "end": 109.692
+   },
+   {
+    "word": "tu",
+    "start": 109.692,
+    "end": 109.81
+   },
+   {
+    "word": "vida",
+    "start": 109.81,
+    "end": 110.047
+   },
+   {
+    "word": "porque",
+    "start": 110.047,
+    "end": 110.482
+   },
+   {
+    "word": "sea",
+    "start": 110.482,
+    "end": 110.659
+   },
+   {
+    "word": "especialmente",
+    "start": 110.659,
+    "end": 111.595
+   },
+   {
+    "word": "poderoso",
+    "start": 111.595,
+    "end": 112.155
+   },
+   {
+    "word": "por",
+    "start": 112.155,
+    "end": 112.332
+   },
+   {
+    "word": "sí",
+    "start": 112.332,
+    "end": 112.45
+   },
+   {
+    "word": "solo.",
+    "start": 112.45,
+    "end": 112.687
+   }
+  ]
+ },
+ {
+  "id": "S03_F017",
+  "scene": "MÓDULO 2 — Por Qué Funciona (Efecto Compuesto / Darren Hardy)",
+  "shot": "MEDIUM SHOT",
+  "es": "Cambia tu vida porque cada vez que lo cumples, refuerza una identidad — \"soy alguien que cumple lo que se propone\" —",
+  "visual": "Each time the small habit-icon repeats, a faint glowing identity-icon (a steady, solid version of the figure) grows brighter and firmer.",
+  "start": 113.307,
+  "end": 121.582,
+  "words": [
+   {
+    "word": "Cambia",
+    "start": 113.927,
+    "end": 114.38
+   },
+   {
+    "word": "tu",
+    "start": 114.38,
+    "end": 114.508
+   },
+   {
+    "word": "vida",
+    "start": 114.508,
+    "end": 114.847
+   },
+   {
+    "word": "porque",
+    "start": 114.847,
+    "end": 115.23
+   },
+   {
+    "word": "cada",
+    "start": 115.23,
+    "end": 115.485
+   },
+   {
+    "word": "vez",
+    "start": 115.485,
+    "end": 115.676
+   },
+   {
+    "word": "que",
+    "start": 115.676,
+    "end": 115.947
+   },
+   {
+    "word": "lo",
+    "start": 115.947,
+    "end": 116.074
+   },
+   {
+    "word": "cumples,",
+    "start": 116.074,
+    "end": 116.979
+   },
+   {
+    "word": "refuerza",
+    "start": 116.979,
+    "end": 117.571
+   },
+   {
+    "word": "una",
+    "start": 117.571,
+    "end": 117.762
+   },
+   {
+    "word": "identidad",
+    "start": 117.762,
+    "end": 118.757
+   },
+   {
+    "word": "—",
+    "start": 118.757,
+    "end": 118.821
+   },
+   {
+    "word": "\"soy",
+    "start": 118.821,
+    "end": 119.012
+   },
+   {
+    "word": "alguien",
+    "start": 119.012,
+    "end": 119.458
+   },
+   {
+    "word": "que",
+    "start": 119.458,
+    "end": 119.649
+   },
+   {
+    "word": "cumple",
+    "start": 119.649,
+    "end": 120.128
+   },
+   {
+    "word": "lo",
+    "start": 120.128,
+    "end": 120.545
+   },
+   {
+    "word": "que",
+    "start": 120.545,
+    "end": 120.736
+   },
+   {
+    "word": "se",
+    "start": 120.736,
+    "end": 120.863
+   },
+   {
+    "word": "propone\"",
+    "start": 120.863,
+    "end": 121.309
+   },
+   {
+    "word": "—",
+    "start": 121.309,
+    "end": 121.373
+   }
+  ]
+ },
+ {
+  "id": "S03_F018",
+  "scene": "MÓDULO 2 — Por Qué Funciona (Efecto Compuesto / Darren Hardy)",
+  "shot": "CLOSE-UP",
+  "es": "y esa identidad, sin que lo planees, empieza a influir en decisiones que no tienen nada que ver directamente con ese hábito.",
+  "visual": "Close-up, the glowing identity-icon quietly influences several unrelated small decision-icons scattered nearby, unplanned but real.",
+  "start": 121.582,
+  "end": 128.257,
+  "words": [
+   {
+    "word": "y",
+    "start": 121.791,
+    "end": 121.841
+   },
+   {
+    "word": "esa",
+    "start": 121.841,
+    "end": 121.993
+   },
+   {
+    "word": "identidad,",
+    "start": 121.993,
+    "end": 122.598
+   },
+   {
+    "word": "sin",
+    "start": 122.598,
+    "end": 122.749
+   },
+   {
+    "word": "que",
+    "start": 122.749,
+    "end": 123.234
+   },
+   {
+    "word": "lo",
+    "start": 123.234,
+    "end": 123.335
+   },
+   {
+    "word": "planees,",
+    "start": 123.335,
+    "end": 123.688
+   },
+   {
+    "word": "empieza",
+    "start": 123.688,
+    "end": 124.041
+   },
+   {
+    "word": "a",
+    "start": 124.041,
+    "end": 124.092
+   },
+   {
+    "word": "influir",
+    "start": 124.092,
+    "end": 124.445
+   },
+   {
+    "word": "en",
+    "start": 124.445,
+    "end": 124.546
+   },
+   {
+    "word": "decisiones",
+    "start": 124.546,
+    "end": 125.05
+   },
+   {
+    "word": "que",
+    "start": 125.05,
+    "end": 125.202
+   },
+   {
+    "word": "no",
+    "start": 125.202,
+    "end": 125.302
+   },
+   {
+    "word": "tienen",
+    "start": 125.302,
+    "end": 125.605
+   },
+   {
+    "word": "nada",
+    "start": 125.605,
+    "end": 125.807
+   },
+   {
+    "word": "que",
+    "start": 125.807,
+    "end": 125.958
+   },
+   {
+    "word": "ver",
+    "start": 125.958,
+    "end": 126.109
+   },
+   {
+    "word": "directamente",
+    "start": 126.109,
+    "end": 126.911
+   },
+   {
+    "word": "con",
+    "start": 126.911,
+    "end": 127.062
+   },
+   {
+    "word": "ese",
+    "start": 127.062,
+    "end": 127.213
+   },
+   {
+    "word": "hábito.",
+    "start": 127.213,
+    "end": 127.638
+   }
+  ]
+ },
+ {
+  "id": "S04_F019",
+  "scene": "MÓDULO 3 — Cómo Encontrar el Tuyo",
+  "shot": "WIDE SHOT",
+  "es": "Tercero, cómo encontrar el tuyo.",
+  "visual": "Figure stands beside a large numbered marker \"3\", several small candidate-habit icons arranged before them.",
+  "start": 128.257,
+  "end": 131.615,
+  "words": [
+   {
+    "word": "Tercero,",
+    "start": 128.876,
+    "end": 129.326
+   },
+   {
+    "word": "cómo",
+    "start": 129.326,
+    "end": 129.939
+   },
+   {
+    "word": "encontrar",
+    "start": 129.939,
+    "end": 130.518
+   },
+   {
+    "word": "el",
+    "start": 130.518,
+    "end": 130.744
+   },
+   {
+    "word": "tuyo.",
+    "start": 130.744,
+    "end": 131.001
+   }
+  ]
+ },
+ {
+  "id": "S04_F020",
+  "scene": "MÓDULO 3 — Cómo Encontrar el Tuyo",
+  "shot": "MEDIUM SHOT",
+  "es": "No todos los hábitos clave son iguales para todas las personas, pero hay candidatos frecuentes:",
+  "visual": "Four small distinct candidate-icons appear clearly beside the figure: running shoes, a made bed, a clock, a small ledger.",
+  "start": 131.615,
+  "end": 137.728,
+  "words": [
+   {
+    "word": "No",
+    "start": 132.228,
+    "end": 132.34
+   },
+   {
+    "word": "todos",
+    "start": 132.34,
+    "end": 132.62
+   },
+   {
+    "word": "los",
+    "start": 132.62,
+    "end": 132.788
+   },
+   {
+    "word": "hábitos",
+    "start": 132.788,
+    "end": 133.18
+   },
+   {
+    "word": "clave",
+    "start": 133.18,
+    "end": 133.46
+   },
+   {
+    "word": "son",
+    "start": 133.46,
+    "end": 133.628
+   },
+   {
+    "word": "iguales",
+    "start": 133.628,
+    "end": 134.02
+   },
+   {
+    "word": "para",
+    "start": 134.02,
+    "end": 134.324
+   },
+   {
+    "word": "todas",
+    "start": 134.324,
+    "end": 134.706
+   },
+   {
+    "word": "las",
+    "start": 134.706,
+    "end": 134.958
+   },
+   {
+    "word": "personas,",
+    "start": 134.958,
+    "end": 135.406
+   },
+   {
+    "word": "pero",
+    "start": 135.406,
+    "end": 136.071
+   },
+   {
+    "word": "hay",
+    "start": 136.071,
+    "end": 136.239
+   },
+   {
+    "word": "candidatos",
+    "start": 136.239,
+    "end": 136.799
+   },
+   {
+    "word": "frecuentes:",
+    "start": 136.799,
+    "end": 137.517
+   }
+  ]
+ },
+ {
+  "id": "S04_F021",
+  "scene": "MÓDULO 3 — Cómo Encontrar el Tuyo",
+  "shot": "CLOSE-UP",
+  "es": "hacer ejercicio regularmente, tender la cama cada mañana, dormir a una hora fija, o llevar un registro simple de gastos.",
+  "visual": "Close-up, each of the four candidate-icons glows steadily and equally, none yet singled out as the true keystone.",
+  "start": 137.728,
+  "end": 146.264,
+  "words": [
+   {
+    "word": "hacer",
+    "start": 137.94,
+    "end": 138.265
+   },
+   {
+    "word": "ejercicio",
+    "start": 138.265,
+    "end": 138.85
+   },
+   {
+    "word": "regularmente,",
+    "start": 138.85,
+    "end": 140.185
+   },
+   {
+    "word": "tender",
+    "start": 140.185,
+    "end": 140.664
+   },
+   {
+    "word": "la",
+    "start": 140.664,
+    "end": 140.794
+   },
+   {
+    "word": "cama",
+    "start": 140.794,
+    "end": 141.054
+   },
+   {
+    "word": "cada",
+    "start": 141.054,
+    "end": 141.314
+   },
+   {
+    "word": "mañana,",
+    "start": 141.314,
+    "end": 142.061
+   },
+   {
+    "word": "dormir",
+    "start": 142.061,
+    "end": 142.451
+   },
+   {
+    "word": "a",
+    "start": 142.451,
+    "end": 142.516
+   },
+   {
+    "word": "una",
+    "start": 142.516,
+    "end": 142.711
+   },
+   {
+    "word": "hora",
+    "start": 142.711,
+    "end": 142.971
+   },
+   {
+    "word": "fija,",
+    "start": 142.971,
+    "end": 143.317
+   },
+   {
+    "word": "o",
+    "start": 143.317,
+    "end": 143.631
+   },
+   {
+    "word": "llevar",
+    "start": 143.631,
+    "end": 144.021
+   },
+   {
+    "word": "un",
+    "start": 144.021,
+    "end": 144.151
+   },
+   {
+    "word": "registro",
+    "start": 144.151,
+    "end": 144.671
+   },
+   {
+    "word": "simple",
+    "start": 144.671,
+    "end": 145.134
+   },
+   {
+    "word": "de",
+    "start": 145.134,
+    "end": 145.264
+   },
+   {
+    "word": "gastos.",
+    "start": 145.264,
+    "end": 145.654
+   }
+  ]
+ },
+ {
+  "id": "S04_F022",
+  "scene": "MÓDULO 3 — Cómo Encontrar el Tuyo",
+  "shot": "WIDE SHOT",
+  "es": "Esto es lo que nadie te dice: la forma de identificar tu hábito clave no es adivinando cuál \"suena\" más importante.",
+  "visual": "A faint guessing/question-mark icon hovers uncertainly over the four candidates, dismissed as an unreliable method.",
+  "start": 146.264,
+  "end": 154.212,
+  "words": [
+   {
+    "word": "Esto",
+    "start": 146.875,
+    "end": 147.107
+   },
+   {
+    "word": "es",
+    "start": 147.107,
+    "end": 147.224
+   },
+   {
+    "word": "lo",
+    "start": 147.224,
+    "end": 147.34
+   },
+   {
+    "word": "que",
+    "start": 147.34,
+    "end": 147.514
+   },
+   {
+    "word": "nadie",
+    "start": 147.514,
+    "end": 147.805
+   },
+   {
+    "word": "te",
+    "start": 147.805,
+    "end": 147.921
+   },
+   {
+    "word": "dice:",
+    "start": 147.921,
+    "end": 148.154
+   },
+   {
+    "word": "la",
+    "start": 148.154,
+    "end": 148.27
+   },
+   {
+    "word": "forma",
+    "start": 148.27,
+    "end": 149.01
+   },
+   {
+    "word": "de",
+    "start": 149.01,
+    "end": 149.126
+   },
+   {
+    "word": "identificar",
+    "start": 149.126,
+    "end": 149.765
+   },
+   {
+    "word": "tu",
+    "start": 149.765,
+    "end": 149.881
+   },
+   {
+    "word": "hábito",
+    "start": 149.881,
+    "end": 150.321
+   },
+   {
+    "word": "clave",
+    "start": 150.321,
+    "end": 150.692
+   },
+   {
+    "word": "no",
+    "start": 150.692,
+    "end": 150.808
+   },
+   {
+    "word": "es",
+    "start": 150.808,
+    "end": 150.924
+   },
+   {
+    "word": "adivinando",
+    "start": 150.924,
+    "end": 151.505
+   },
+   {
+    "word": "cuál",
+    "start": 151.505,
+    "end": 151.816
+   },
+   {
+    "word": "\"suena\"",
+    "start": 151.816,
+    "end": 152.397
+   },
+   {
+    "word": "más",
+    "start": 152.397,
+    "end": 152.762
+   },
+   {
+    "word": "importante.",
+    "start": 152.762,
+    "end": 153.6
+   }
+  ]
+ },
+ {
+  "id": "S04_F023",
+  "scene": "MÓDULO 3 — Cómo Encontrar el Tuyo",
+  "shot": "MEDIUM SHOT",
+  "es": "Es probarlo durante dos o tres semanas y observar con atención qué más empieza a moverse a su alrededor —",
+  "visual": "Figure picks the running-shoes candidate-icon and tries it, a faint glowing calendar shows two to three weeks passing attentively.",
+  "start": 154.212,
+  "end": 160.68,
+  "words": [
+   {
+    "word": "Es",
+    "start": 154.824,
+    "end": 154.951
+   },
+   {
+    "word": "probarlo",
+    "start": 154.951,
+    "end": 155.461
+   },
+   {
+    "word": "durante",
+    "start": 155.461,
+    "end": 155.907
+   },
+   {
+    "word": "dos",
+    "start": 155.907,
+    "end": 156.098
+   },
+   {
+    "word": "o",
+    "start": 156.098,
+    "end": 156.162
+   },
+   {
+    "word": "tres",
+    "start": 156.162,
+    "end": 156.416
+   },
+   {
+    "word": "semanas",
+    "start": 156.416,
+    "end": 156.862
+   },
+   {
+    "word": "y",
+    "start": 156.862,
+    "end": 156.926
+   },
+   {
+    "word": "observar",
+    "start": 156.926,
+    "end": 157.436
+   },
+   {
+    "word": "con",
+    "start": 157.436,
+    "end": 157.717
+   },
+   {
+    "word": "atención",
+    "start": 157.717,
+    "end": 158.226
+   },
+   {
+    "word": "qué",
+    "start": 158.226,
+    "end": 158.492
+   },
+   {
+    "word": "más",
+    "start": 158.492,
+    "end": 158.683
+   },
+   {
+    "word": "empieza",
+    "start": 158.683,
+    "end": 159.129
+   },
+   {
+    "word": "a",
+    "start": 159.129,
+    "end": 159.193
+   },
+   {
+    "word": "moverse",
+    "start": 159.193,
+    "end": 159.639
+   },
+   {
+    "word": "a",
+    "start": 159.639,
+    "end": 159.703
+   },
+   {
+    "word": "su",
+    "start": 159.703,
+    "end": 159.83
+   },
+   {
+    "word": "alrededor",
+    "start": 159.83,
+    "end": 160.403
+   },
+   {
+    "word": "—",
+    "start": 160.403,
+    "end": 160.467
+   }
+  ]
+ },
+ {
+  "id": "S04_F024",
+  "scene": "MÓDULO 3 — Cómo Encontrar el Tuyo",
+  "shot": "CLOSE-UP",
+  "es": "si haces ejercicio y notas que también duermes mejor, comes distinto y procrastinas menos, encontraste el tuyo.",
+  "visual": "Close-up, the running-shoes icon glows brightly while three small secondary icons (sleep, food, focus) light up in response, clear cascade.",
+  "start": 160.68,
+  "end": 168.522,
+  "words": [
+   {
+    "word": "si",
+    "start": 160.893,
+    "end": 161.021
+   },
+   {
+    "word": "haces",
+    "start": 161.021,
+    "end": 161.342
+   },
+   {
+    "word": "ejercicio",
+    "start": 161.342,
+    "end": 161.919
+   },
+   {
+    "word": "y",
+    "start": 161.919,
+    "end": 161.983
+   },
+   {
+    "word": "notas",
+    "start": 161.983,
+    "end": 162.382
+   },
+   {
+    "word": "que",
+    "start": 162.382,
+    "end": 162.574
+   },
+   {
+    "word": "también",
+    "start": 162.574,
+    "end": 163.023
+   },
+   {
+    "word": "duermes",
+    "start": 163.023,
+    "end": 163.472
+   },
+   {
+    "word": "mejor,",
+    "start": 163.472,
+    "end": 164.112
+   },
+   {
+    "word": "comes",
+    "start": 164.112,
+    "end": 164.433
+   },
+   {
+    "word": "distinto",
+    "start": 164.433,
+    "end": 165.094
+   },
+   {
+    "word": "y",
+    "start": 165.094,
+    "end": 165.158
+   },
+   {
+    "word": "procrastinas",
+    "start": 165.158,
+    "end": 165.927
+   },
+   {
+    "word": "menos,",
+    "start": 165.927,
+    "end": 166.248
+   },
+   {
+    "word": "encontraste",
+    "start": 166.248,
+    "end": 167.403
+   },
+   {
+    "word": "el",
+    "start": 167.403,
+    "end": 167.641
+   },
+   {
+    "word": "tuyo.",
+    "start": 167.641,
+    "end": 167.897
+   }
+  ]
+ },
+ {
+  "id": "S04_F025",
+  "scene": "MÓDULO 3 — Cómo Encontrar el Tuyo",
+  "shot": "WIDE SHOT",
+  "es": "Si no notas ningún cambio colateral, ese hábito, aunque sea bueno, probablemente no es tu dominó inicial.",
+  "visual": "A different candidate-icon (the ledger) is tried instead, glowing steadily alone without triggering any of the other icons nearby, informative but not the keystone.",
+  "start": 168.522,
+  "end": 176.255,
+  "words": [
+   {
+    "word": "Si",
+    "start": 169.146,
+    "end": 169.271
+   },
+   {
+    "word": "no",
+    "start": 169.271,
+    "end": 169.396
+   },
+   {
+    "word": "notas",
+    "start": 169.396,
+    "end": 169.708
+   },
+   {
+    "word": "ningún",
+    "start": 169.708,
+    "end": 170.083
+   },
+   {
+    "word": "cambio",
+    "start": 170.083,
+    "end": 170.457
+   },
+   {
+    "word": "colateral,",
+    "start": 170.457,
+    "end": 171.019
+   },
+   {
+    "word": "ese",
+    "start": 171.019,
+    "end": 171.207
+   },
+   {
+    "word": "hábito,",
+    "start": 171.207,
+    "end": 171.977
+   },
+   {
+    "word": "aunque",
+    "start": 171.977,
+    "end": 172.772
+   },
+   {
+    "word": "sea",
+    "start": 172.772,
+    "end": 172.959
+   },
+   {
+    "word": "bueno,",
+    "start": 172.959,
+    "end": 173.272
+   },
+   {
+    "word": "probablemente",
+    "start": 173.272,
+    "end": 174.448
+   },
+   {
+    "word": "no",
+    "start": 174.448,
+    "end": 174.572
+   },
+   {
+    "word": "es",
+    "start": 174.572,
+    "end": 174.697
+   },
+   {
+    "word": "tu",
+    "start": 174.697,
+    "end": 174.822
+   },
+   {
+    "word": "dominó",
+    "start": 174.822,
+    "end": 175.197
+   },
+   {
+    "word": "inicial.",
+    "start": 175.197,
+    "end": 175.634
+   }
+  ]
+ },
+ {
+  "id": "S05_F026",
+  "scene": "MÓDULO 4 — Qué No Debes Esperar",
+  "shot": "WIDE SHOT",
+  "es": "Y cuarto, qué no debes esperar.",
+  "visual": "Figure stands beside a large numbered marker \"4\", calm realistic expression.",
+  "start": 176.255,
+  "end": 179.521,
+  "words": [
+   {
+    "word": "Y",
+    "start": 176.876,
+    "end": 176.933
+   },
+   {
+    "word": "cuarto,",
+    "start": 176.933,
+    "end": 177.444
+   },
+   {
+    "word": "qué",
+    "start": 177.444,
+    "end": 177.993
+   },
+   {
+    "word": "no",
+    "start": 177.993,
+    "end": 178.107
+   },
+   {
+    "word": "debes",
+    "start": 178.107,
+    "end": 178.391
+   },
+   {
+    "word": "esperar.",
+    "start": 178.391,
+    "end": 178.875
+   }
+  ]
+ },
+ {
+  "id": "S05_F027",
+  "scene": "MÓDULO 4 — Qué No Debes Esperar",
+  "shot": "MEDIUM SHOT",
+  "es": "Un hábito clave no funciona de inmediato, ni funciona solo porque lo intentaste una vez, un martes cualquiera, y lo abandonaste al primer día difícil.",
+  "visual": "A faint single attempted domino tile wobbles once and falls back upright, abandoned too soon to trigger the chain.",
+  "start": 179.521,
+  "end": 189.633,
+  "words": [
+   {
+    "word": "Un",
+    "start": 180.167,
+    "end": 180.286
+   },
+   {
+    "word": "hábito",
+    "start": 180.286,
+    "end": 180.643
+   },
+   {
+    "word": "clave",
+    "start": 180.643,
+    "end": 180.941
+   },
+   {
+    "word": "no",
+    "start": 180.941,
+    "end": 181.06
+   },
+   {
+    "word": "funciona",
+    "start": 181.06,
+    "end": 181.536
+   },
+   {
+    "word": "de",
+    "start": 181.536,
+    "end": 181.656
+   },
+   {
+    "word": "inmediato,",
+    "start": 181.656,
+    "end": 182.286
+   },
+   {
+    "word": "ni",
+    "start": 182.286,
+    "end": 182.814
+   },
+   {
+    "word": "funciona",
+    "start": 182.814,
+    "end": 183.291
+   },
+   {
+    "word": "solo",
+    "start": 183.291,
+    "end": 183.529
+   },
+   {
+    "word": "porque",
+    "start": 183.529,
+    "end": 184.047
+   },
+   {
+    "word": "lo",
+    "start": 184.047,
+    "end": 184.166
+   },
+   {
+    "word": "intentaste",
+    "start": 184.166,
+    "end": 184.832
+   },
+   {
+    "word": "una",
+    "start": 184.832,
+    "end": 185.01
+   },
+   {
+    "word": "vez,",
+    "start": 185.01,
+    "end": 185.189
+   },
+   {
+    "word": "un",
+    "start": 185.189,
+    "end": 185.308
+   },
+   {
+    "word": "martes",
+    "start": 185.308,
+    "end": 186.023
+   },
+   {
+    "word": "cualquiera,",
+    "start": 186.023,
+    "end": 186.703
+   },
+   {
+    "word": "y",
+    "start": 186.703,
+    "end": 186.762
+   },
+   {
+    "word": "lo",
+    "start": 186.762,
+    "end": 187.196
+   },
+   {
+    "word": "abandonaste",
+    "start": 187.196,
+    "end": 187.851
+   },
+   {
+    "word": "al",
+    "start": 187.851,
+    "end": 188.061
+   },
+   {
+    "word": "primer",
+    "start": 188.061,
+    "end": 188.419
+   },
+   {
+    "word": "día",
+    "start": 188.419,
+    "end": 188.597
+   },
+   {
+    "word": "difícil.",
+    "start": 188.597,
+    "end": 189.014
+   }
+  ]
+ },
+ {
+  "id": "S05_F028",
+  "scene": "MÓDULO 4 — Qué No Debes Esperar",
+  "shot": "CLOSE-UP",
+  "es": "Pero espera, todavía hay más: tampoco funciona si lo conviertes en veinte hábitos a la vez, esperando activarlos todos juntos como si fuera solo cuestión de cantidad.",
+  "visual": "Close-up, a cluttered row of twenty small competing habit-icons all pushed at once, none falling cleanly, chaotic and ineffective.",
+  "start": 189.633,
+  "end": 200.596,
+  "words": [
+   {
+    "word": "Pero",
+    "start": 190.253,
+    "end": 190.486
+   },
+   {
+    "word": "espera,",
+    "start": 190.486,
+    "end": 190.916
+   },
+   {
+    "word": "todavía",
+    "start": 190.916,
+    "end": 191.72
+   },
+   {
+    "word": "hay",
+    "start": 191.72,
+    "end": 191.895
+   },
+   {
+    "word": "más:",
+    "start": 191.895,
+    "end": 192.069
+   },
+   {
+    "word": "tampoco",
+    "start": 192.069,
+    "end": 192.891
+   },
+   {
+    "word": "funciona",
+    "start": 192.891,
+    "end": 193.358
+   },
+   {
+    "word": "si",
+    "start": 193.358,
+    "end": 193.474
+   },
+   {
+    "word": "lo",
+    "start": 193.474,
+    "end": 193.591
+   },
+   {
+    "word": "conviertes",
+    "start": 193.591,
+    "end": 194.245
+   },
+   {
+    "word": "en",
+    "start": 194.245,
+    "end": 194.361
+   },
+   {
+    "word": "veinte",
+    "start": 194.361,
+    "end": 194.711
+   },
+   {
+    "word": "hábitos",
+    "start": 194.711,
+    "end": 195.194
+   },
+   {
+    "word": "a",
+    "start": 195.194,
+    "end": 195.252
+   },
+   {
+    "word": "la",
+    "start": 195.252,
+    "end": 195.369
+   },
+   {
+    "word": "vez,",
+    "start": 195.369,
+    "end": 195.543
+   },
+   {
+    "word": "esperando",
+    "start": 195.543,
+    "end": 196.458
+   },
+   {
+    "word": "activarlos",
+    "start": 196.458,
+    "end": 197.168
+   },
+   {
+    "word": "todos",
+    "start": 197.168,
+    "end": 197.459
+   },
+   {
+    "word": "juntos",
+    "start": 197.459,
+    "end": 197.908
+   },
+   {
+    "word": "como",
+    "start": 197.908,
+    "end": 198.141
+   },
+   {
+    "word": "si",
+    "start": 198.141,
+    "end": 198.257
+   },
+   {
+    "word": "fuera",
+    "start": 198.257,
+    "end": 198.549
+   },
+   {
+    "word": "solo",
+    "start": 198.549,
+    "end": 198.782
+   },
+   {
+    "word": "cuestión",
+    "start": 198.782,
+    "end": 199.329
+   },
+   {
+    "word": "de",
+    "start": 199.329,
+    "end": 199.517
+   },
+   {
+    "word": "cantidad.",
+    "start": 199.517,
+    "end": 199.983
+   }
+  ]
+ },
+ {
+  "id": "S05_F029",
+  "scene": "MÓDULO 4 — Qué No Debes Esperar",
+  "shot": "WIDE SHOT",
+  "es": "La razón por la que la estrategia de Paul O'Neill funcionó fue precisamente la obsesión con un solo punto de enfoque, sostenido durante meses,",
+  "visual": "The single clean domino tile from Módulo 1 reappears, sustained and pushed steadily and consistently over a long stretch of the timeline.",
+  "start": 200.596,
+  "end": 209.382,
+  "words": [
+   {
+    "word": "La",
+    "start": 201.208,
+    "end": 201.329
+   },
+   {
+    "word": "razón",
+    "start": 201.329,
+    "end": 201.63
+   },
+   {
+    "word": "por",
+    "start": 201.63,
+    "end": 201.893
+   },
+   {
+    "word": "la",
+    "start": 201.893,
+    "end": 202.014
+   },
+   {
+    "word": "que",
+    "start": 202.014,
+    "end": 202.194
+   },
+   {
+    "word": "la",
+    "start": 202.194,
+    "end": 202.315
+   },
+   {
+    "word": "estrategia",
+    "start": 202.315,
+    "end": 202.918
+   },
+   {
+    "word": "de",
+    "start": 202.918,
+    "end": 203.123
+   },
+   {
+    "word": "Paul",
+    "start": 203.123,
+    "end": 203.364
+   },
+   {
+    "word": "O'Neill",
+    "start": 203.364,
+    "end": 203.725
+   },
+   {
+    "word": "funcionó",
+    "start": 203.725,
+    "end": 204.208
+   },
+   {
+    "word": "fue",
+    "start": 204.208,
+    "end": 204.469
+   },
+   {
+    "word": "precisamente",
+    "start": 204.469,
+    "end": 205.268
+   },
+   {
+    "word": "la",
+    "start": 205.268,
+    "end": 205.389
+   },
+   {
+    "word": "obsesión",
+    "start": 205.389,
+    "end": 205.871
+   },
+   {
+    "word": "con",
+    "start": 205.871,
+    "end": 206.052
+   },
+   {
+    "word": "un",
+    "start": 206.052,
+    "end": 206.173
+   },
+   {
+    "word": "solo",
+    "start": 206.173,
+    "end": 206.5
+   },
+   {
+    "word": "punto",
+    "start": 206.5,
+    "end": 206.801
+   },
+   {
+    "word": "de",
+    "start": 206.801,
+    "end": 206.922
+   },
+   {
+    "word": "enfoque,",
+    "start": 206.922,
+    "end": 207.82
+   },
+   {
+    "word": "sostenido",
+    "start": 207.82,
+    "end": 208.362
+   },
+   {
+    "word": "durante",
+    "start": 208.362,
+    "end": 208.859
+   },
+   {
+    "word": "meses,",
+    "start": 208.859,
+    "end": 209.16
+   }
+  ]
+ },
+ {
+  "id": "S05_F030",
+  "scene": "MÓDULO 4 — Qué No Debes Esperar",
+  "shot": "MEDIUM SHOT",
+  "es": "no con diez prioridades simultáneas compitiendo por la misma atención limitada.",
+  "visual": "The cluttered twenty-icon row from before is dimmed and set aside, contrasted clearly against the one clean, sustained tile.",
+  "start": 209.382,
+  "end": 214.32,
+  "words": [
+   {
+    "word": "no",
+    "start": 209.604,
+    "end": 209.715
+   },
+   {
+    "word": "con",
+    "start": 209.715,
+    "end": 209.881
+   },
+   {
+    "word": "diez",
+    "start": 209.881,
+    "end": 210.102
+   },
+   {
+    "word": "prioridades",
+    "start": 210.102,
+    "end": 210.791
+   },
+   {
+    "word": "simultáneas",
+    "start": 210.791,
+    "end": 211.488
+   },
+   {
+    "word": "compitiendo",
+    "start": 211.488,
+    "end": 212.096
+   },
+   {
+    "word": "por",
+    "start": 212.096,
+    "end": 212.344
+   },
+   {
+    "word": "la",
+    "start": 212.344,
+    "end": 212.455
+   },
+   {
+    "word": "misma",
+    "start": 212.455,
+    "end": 212.731
+   },
+   {
+    "word": "atención",
+    "start": 212.731,
+    "end": 213.174
+   },
+   {
+    "word": "limitada.",
+    "start": 213.174,
+    "end": 213.715
+   }
+  ]
+ },
+ {
+  "id": "S05_F031",
+  "scene": "MÓDULO 4 — Qué No Debes Esperar",
+  "shot": "CLOSE-UP",
+  "es": "Elegir un hábito clave significa, necesariamente, aceptar la incomodidad de dejar de intentar cambiarlo todo a la vez, aunque tu ambición te empuje constantemente en esa dirección.",
+  "visual": "Close-up, figure calmly resists the pull of the cluttered twenty-icon row, choosing instead to focus fully on the single glowing tile.",
+  "start": 214.32,
+  "end": 226.213,
+  "words": [
+   {
+    "word": "Elegir",
+    "start": 214.926,
+    "end": 215.279
+   },
+   {
+    "word": "un",
+    "start": 215.279,
+    "end": 215.396
+   },
+   {
+    "word": "hábito",
+    "start": 215.396,
+    "end": 215.749
+   },
+   {
+    "word": "clave",
+    "start": 215.749,
+    "end": 216.12
+   },
+   {
+    "word": "significa,",
+    "start": 216.12,
+    "end": 216.721
+   },
+   {
+    "word": "necesariamente,",
+    "start": 216.721,
+    "end": 217.956
+   },
+   {
+    "word": "aceptar",
+    "start": 217.956,
+    "end": 219.039
+   },
+   {
+    "word": "la",
+    "start": 219.039,
+    "end": 219.156
+   },
+   {
+    "word": "incomodidad",
+    "start": 219.156,
+    "end": 219.803
+   },
+   {
+    "word": "de",
+    "start": 219.803,
+    "end": 219.92
+   },
+   {
+    "word": "dejar",
+    "start": 219.92,
+    "end": 220.214
+   },
+   {
+    "word": "de",
+    "start": 220.214,
+    "end": 220.332
+   },
+   {
+    "word": "intentar",
+    "start": 220.332,
+    "end": 220.802
+   },
+   {
+    "word": "cambiarlo",
+    "start": 220.802,
+    "end": 221.504
+   },
+   {
+    "word": "todo",
+    "start": 221.504,
+    "end": 221.739
+   },
+   {
+    "word": "a",
+    "start": 221.739,
+    "end": 221.798
+   },
+   {
+    "word": "la",
+    "start": 221.798,
+    "end": 221.916
+   },
+   {
+    "word": "vez,",
+    "start": 221.916,
+    "end": 222.092
+   },
+   {
+    "word": "aunque",
+    "start": 222.092,
+    "end": 222.793
+   },
+   {
+    "word": "tu",
+    "start": 222.793,
+    "end": 222.91
+   },
+   {
+    "word": "ambición",
+    "start": 222.91,
+    "end": 223.381
+   },
+   {
+    "word": "te",
+    "start": 223.381,
+    "end": 223.498
+   },
+   {
+    "word": "empuje",
+    "start": 223.498,
+    "end": 223.942
+   },
+   {
+    "word": "constantemente",
+    "start": 223.942,
+    "end": 224.765
+   },
+   {
+    "word": "en",
+    "start": 224.765,
+    "end": 224.883
+   },
+   {
+    "word": "esa",
+    "start": 224.883,
+    "end": 225.059
+   },
+   {
+    "word": "dirección.",
+    "start": 225.059,
+    "end": 225.588
+   }
+  ]
+ },
+ {
+  "id": "S06_F032",
+  "scene": "EL CIERRE",
+  "shot": "WIDE SHOT",
+  "es": "El efecto dominó no necesita que empujes fuerte, ni que uses toda tu energía y motivación de golpe en un solo esfuerzo heroico.",
+  "visual": "Figure stands calm and composed, gently touching the single domino tile without force or strain.",
+  "start": 226.213,
+  "end": 234.49,
+  "words": [
+   {
+    "word": "El",
+    "start": 226.838,
+    "end": 226.957
+   },
+   {
+    "word": "efecto",
+    "start": 226.957,
+    "end": 227.425
+   },
+   {
+    "word": "dominó",
+    "start": 227.425,
+    "end": 227.781
+   },
+   {
+    "word": "no",
+    "start": 227.781,
+    "end": 227.9
+   },
+   {
+    "word": "necesita",
+    "start": 227.9,
+    "end": 228.375
+   },
+   {
+    "word": "que",
+    "start": 228.375,
+    "end": 228.553
+   },
+   {
+    "word": "empujes",
+    "start": 228.553,
+    "end": 229.044
+   },
+   {
+    "word": "fuerte,",
+    "start": 229.044,
+    "end": 229.497
+   },
+   {
+    "word": "ni",
+    "start": 229.497,
+    "end": 230.029
+   },
+   {
+    "word": "que",
+    "start": 230.029,
+    "end": 230.207
+   },
+   {
+    "word": "uses",
+    "start": 230.207,
+    "end": 230.445
+   },
+   {
+    "word": "toda",
+    "start": 230.445,
+    "end": 230.683
+   },
+   {
+    "word": "tu",
+    "start": 230.683,
+    "end": 230.801
+   },
+   {
+    "word": "energía",
+    "start": 230.801,
+    "end": 231.217
+   },
+   {
+    "word": "y",
+    "start": 231.217,
+    "end": 231.276
+   },
+   {
+    "word": "motivación",
+    "start": 231.276,
+    "end": 231.87
+   },
+   {
+    "word": "de",
+    "start": 231.87,
+    "end": 231.989
+   },
+   {
+    "word": "golpe",
+    "start": 231.989,
+    "end": 232.286
+   },
+   {
+    "word": "en",
+    "start": 232.286,
+    "end": 232.405
+   },
+   {
+    "word": "un",
+    "start": 232.405,
+    "end": 232.609
+   },
+   {
+    "word": "solo",
+    "start": 232.609,
+    "end": 232.846
+   },
+   {
+    "word": "esfuerzo",
+    "start": 232.846,
+    "end": 233.321
+   },
+   {
+    "word": "heroico.",
+    "start": 233.321,
+    "end": 233.737
+   }
+  ]
+ },
+ {
+  "id": "S06_F033",
+  "scene": "EL CIERRE",
+  "shot": "MEDIUM SHOT",
+  "es": "Necesita que empujes la pieza correcta, la primera de la fila, con la misma constancia todos los días,",
+  "visual": "The figure repeats the same small, gentle touch on the same tile, consistent across many days on the timeline.",
+  "start": 234.49,
+  "end": 241.567,
+  "words": [
+   {
+    "word": "Necesita",
+    "start": 235.124,
+    "end": 235.632
+   },
+   {
+    "word": "que",
+    "start": 235.632,
+    "end": 235.823
+   },
+   {
+    "word": "empujes",
+    "start": 235.823,
+    "end": 236.268
+   },
+   {
+    "word": "la",
+    "start": 236.268,
+    "end": 236.395
+   },
+   {
+    "word": "pieza",
+    "start": 236.395,
+    "end": 236.797
+   },
+   {
+    "word": "correcta,",
+    "start": 236.797,
+    "end": 237.439
+   },
+   {
+    "word": "la",
+    "start": 237.439,
+    "end": 237.984
+   },
+   {
+    "word": "primera",
+    "start": 237.984,
+    "end": 238.429
+   },
+   {
+    "word": "de",
+    "start": 238.429,
+    "end": 238.556
+   },
+   {
+    "word": "la",
+    "start": 238.556,
+    "end": 238.683
+   },
+   {
+    "word": "fila,",
+    "start": 238.683,
+    "end": 238.937
+   },
+   {
+    "word": "con",
+    "start": 238.937,
+    "end": 239.466
+   },
+   {
+    "word": "la",
+    "start": 239.466,
+    "end": 239.593
+   },
+   {
+    "word": "misma",
+    "start": 239.593,
+    "end": 239.911
+   },
+   {
+    "word": "constancia",
+    "start": 239.911,
+    "end": 240.626
+   },
+   {
+    "word": "todos",
+    "start": 240.626,
+    "end": 240.944
+   },
+   {
+    "word": "los",
+    "start": 240.944,
+    "end": 241.135
+   },
+   {
+    "word": "días,",
+    "start": 241.135,
+    "end": 241.389
+   }
+  ]
+ },
+ {
+  "id": "S06_F034",
+  "scene": "EL CIERRE",
+  "shot": "CLOSE-UP",
+  "es": "y que confíes en que las demás van a caer solas con el tiempo, aunque no las veas moverse todavía.",
+  "visual": "Close-up, calm patient expression, the rest of the row sits still and unmoved for now, quiet trust in the process.",
+  "start": 241.567,
+  "end": 247.752,
+  "words": [
+   {
+    "word": "y",
+    "start": 241.746,
+    "end": 241.808
+   },
+   {
+    "word": "que",
+    "start": 241.808,
+    "end": 241.993
+   },
+   {
+    "word": "confíes",
+    "start": 241.993,
+    "end": 242.426
+   },
+   {
+    "word": "en",
+    "start": 242.426,
+    "end": 242.549
+   },
+   {
+    "word": "que",
+    "start": 242.549,
+    "end": 242.734
+   },
+   {
+    "word": "las",
+    "start": 242.734,
+    "end": 242.92
+   },
+   {
+    "word": "demás",
+    "start": 242.92,
+    "end": 243.229
+   },
+   {
+    "word": "van",
+    "start": 243.229,
+    "end": 243.414
+   },
+   {
+    "word": "a",
+    "start": 243.414,
+    "end": 243.476
+   },
+   {
+    "word": "caer",
+    "start": 243.476,
+    "end": 243.723
+   },
+   {
+    "word": "solas",
+    "start": 243.723,
+    "end": 244.032
+   },
+   {
+    "word": "con",
+    "start": 244.032,
+    "end": 244.217
+   },
+   {
+    "word": "el",
+    "start": 244.217,
+    "end": 244.341
+   },
+   {
+    "word": "tiempo,",
+    "start": 244.341,
+    "end": 244.9
+   },
+   {
+    "word": "aunque",
+    "start": 244.9,
+    "end": 245.64
+   },
+   {
+    "word": "no",
+    "start": 245.64,
+    "end": 245.764
+   },
+   {
+    "word": "las",
+    "start": 245.764,
+    "end": 245.949
+   },
+   {
+    "word": "veas",
+    "start": 245.949,
+    "end": 246.196
+   },
+   {
+    "word": "moverse",
+    "start": 246.196,
+    "end": 246.712
+   },
+   {
+    "word": "todavía.",
+    "start": 246.712,
+    "end": 247.144
+   }
+  ]
+ },
+ {
+  "id": "S06_F035",
+  "scene": "EL CIERRE",
+  "shot": "WIDE SHOT",
+  "es": "Escribe en los comentarios cuál crees que podría ser tu hábito clave,",
+  "visual": "Figure points directly toward the camera/viewer, warm inviting expression, a faint speech-bubble icon glowing softly in accent color.",
+  "start": 247.752,
+  "end": 252.236,
+  "words": [
+   {
+    "word": "Escribe",
+    "start": 248.361,
+    "end": 248.774
+   },
+   {
+    "word": "en",
+    "start": 248.774,
+    "end": 248.893
+   },
+   {
+    "word": "los",
+    "start": 248.893,
+    "end": 249.07
+   },
+   {
+    "word": "comentarios",
+    "start": 249.07,
+    "end": 249.8
+   },
+   {
+    "word": "cuál",
+    "start": 249.8,
+    "end": 250.036
+   },
+   {
+    "word": "crees",
+    "start": 250.036,
+    "end": 250.405
+   },
+   {
+    "word": "que",
+    "start": 250.405,
+    "end": 250.582
+   },
+   {
+    "word": "podría",
+    "start": 250.582,
+    "end": 250.937
+   },
+   {
+    "word": "ser",
+    "start": 250.937,
+    "end": 251.114
+   },
+   {
+    "word": "tu",
+    "start": 251.114,
+    "end": 251.326
+   },
+   {
+    "word": "hábito",
+    "start": 251.326,
+    "end": 251.754
+   },
+   {
+    "word": "clave,",
+    "start": 251.754,
+    "end": 252.049
+   }
+  ]
+ },
+ {
+  "id": "S06_F036",
+  "scene": "EL CIERRE",
+  "shot": "MEDIUM SHOT",
+  "es": "y pruébalo durante las próximas tres semanas prestando atención genuina a lo que cambia a su alrededor, sin forzar el resultado.",
+  "visual": "A faint glowing three-week calendar appears beside the figure, patient attentive framing rather than forced expectation.",
+  "start": 252.236,
+  "end": 260.013,
+  "words": [
+   {
+    "word": "y",
+    "start": 252.422,
+    "end": 252.478
+   },
+   {
+    "word": "pruébalo",
+    "start": 252.478,
+    "end": 253.01
+   },
+   {
+    "word": "durante",
+    "start": 253.01,
+    "end": 253.403
+   },
+   {
+    "word": "las",
+    "start": 253.403,
+    "end": 253.653
+   },
+   {
+    "word": "próximas",
+    "start": 253.653,
+    "end": 254.173
+   },
+   {
+    "word": "tres",
+    "start": 254.173,
+    "end": 254.397
+   },
+   {
+    "word": "semanas",
+    "start": 254.397,
+    "end": 254.865
+   },
+   {
+    "word": "prestando",
+    "start": 254.865,
+    "end": 255.37
+   },
+   {
+    "word": "atención",
+    "start": 255.37,
+    "end": 255.818
+   },
+   {
+    "word": "genuina",
+    "start": 255.818,
+    "end": 256.21
+   },
+   {
+    "word": "a",
+    "start": 256.21,
+    "end": 256.266
+   },
+   {
+    "word": "lo",
+    "start": 256.266,
+    "end": 256.378
+   },
+   {
+    "word": "que",
+    "start": 256.378,
+    "end": 256.72
+   },
+   {
+    "word": "cambia",
+    "start": 256.72,
+    "end": 257.056
+   },
+   {
+    "word": "a",
+    "start": 257.056,
+    "end": 257.112
+   },
+   {
+    "word": "su",
+    "start": 257.112,
+    "end": 257.224
+   },
+   {
+    "word": "alrededor,",
+    "start": 257.224,
+    "end": 258.114
+   },
+   {
+    "word": "sin",
+    "start": 258.114,
+    "end": 258.282
+   },
+   {
+    "word": "forzar",
+    "start": 258.282,
+    "end": 258.619
+   },
+   {
+    "word": "el",
+    "start": 258.619,
+    "end": 258.731
+   },
+   {
+    "word": "resultado.",
+    "start": 258.731,
+    "end": 259.365
+   }
+  ]
+ },
+ {
+  "id": "S06_F037",
+  "scene": "EL CIERRE",
+  "shot": "MEDIUM SHOT",
+  "es": "Si este video te sirvió, dale like y suscríbete —",
+  "visual": "Figure gives a genuine thumbs-up gesture with a warm smile, a faint bell icon glows softly beside them.",
+  "start": 260.013,
+  "end": 264.255,
+  "words": [
+   {
+    "word": "Si",
+    "start": 260.661,
+    "end": 260.803
+   },
+   {
+    "word": "este",
+    "start": 260.803,
+    "end": 261.087
+   },
+   {
+    "word": "video",
+    "start": 261.087,
+    "end": 261.442
+   },
+   {
+    "word": "te",
+    "start": 261.442,
+    "end": 261.584
+   },
+   {
+    "word": "sirvió,",
+    "start": 261.584,
+    "end": 262.01
+   },
+   {
+    "word": "dale",
+    "start": 262.01,
+    "end": 262.655
+   },
+   {
+    "word": "like",
+    "start": 262.655,
+    "end": 262.939
+   },
+   {
+    "word": "y",
+    "start": 262.939,
+    "end": 263.01
+   },
+   {
+    "word": "suscríbete",
+    "start": 263.01,
+    "end": 263.981
+   },
+   {
+    "word": "—",
+    "start": 263.981,
+    "end": 264.052
+   }
+  ]
+ },
+ {
+  "id": "S06_F038",
+  "scene": "EL CIERRE",
+  "shot": "WIDE SHOT",
+  "es": "la disciplina no hace ruido, ni siquiera cuando derriba una fila entera de dominós.",
+  "visual": "Figure stands calm and still in the quiet dark space, the entire row of dominoes fallen silently and completely behind them.",
+  "start": 264.255,
+  "end": 270.07,
+  "words": [
+   {
+    "word": "la",
+    "start": 264.459,
+    "end": 264.577
+   },
+   {
+    "word": "disciplina",
+    "start": 264.577,
+    "end": 265.243
+   },
+   {
+    "word": "no",
+    "start": 265.243,
+    "end": 265.362
+   },
+   {
+    "word": "hace",
+    "start": 265.362,
+    "end": 265.598
+   },
+   {
+    "word": "ruido,",
+    "start": 265.598,
+    "end": 265.894
+   },
+   {
+    "word": "ni",
+    "start": 265.894,
+    "end": 266.386
+   },
+   {
+    "word": "siquiera",
+    "start": 266.386,
+    "end": 266.931
+   },
+   {
+    "word": "cuando",
+    "start": 266.931,
+    "end": 267.286
+   },
+   {
+    "word": "derriba",
+    "start": 267.286,
+    "end": 267.699
+   },
+   {
+    "word": "una",
+    "start": 267.699,
+    "end": 267.877
+   },
+   {
+    "word": "fila",
+    "start": 267.877,
+    "end": 268.113
+   },
+   {
+    "word": "entera",
+    "start": 268.113,
+    "end": 268.468
+   },
+   {
+    "word": "de",
+    "start": 268.468,
+    "end": 268.586
+   },
+   {
+    "word": "dominós.",
+    "start": 268.586,
+    "end": 269.0
+   }
+  ]
+ }
+]

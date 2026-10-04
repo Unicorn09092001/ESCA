@@ -45,6 +45,7 @@ python3 tools/animate_video.py   --project "$P" --audio voz_gonzalo.mp3 --title 
 |---|---|---|
 | 28 — 7 Señales de Autosabotaje | 05_Autoconocimiento (`#8B6CFF`) | `7_senales_autosabotaje_motion.mp4` |
 | 14 — 5 Hábitos Que Cambian Todo | 01_Disciplina y Habitos (`#FF5A36`) | `5_habitos_cambian_todo_motion.mp4` |
+| 15 — El Efecto Dominó | 01_Disciplina y Habitos (`#FF5A36`) | `efecto_domino_motion.mp4` |
 
 ## Lưu ý
 

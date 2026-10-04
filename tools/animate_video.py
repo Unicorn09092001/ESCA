@@ -98,6 +98,22 @@ def animate_layer(svg, t, appear_t, seed):
         o = ease_out((lt - i * 0.14) / 0.35)
         return f'opacity="{max(o, 0):.3f}"'
 
+    def fall_sub(m):
+        ang, px, py, mode = m.group(1).split(",")
+        if mode == "done":
+            a = float(ang)
+        else:
+            q = min(max((lt - float(mode)) / 0.32, 0.0), 1.0)
+            a = float(ang) * q * q  # tăng tốc như vật rơi
+        return f'transform="rotate({a:.2f} {px} {py})"'
+
+    def wobble_sub(m):
+        px, py = m.group(1).split(",")
+        a = 9 * math.sin(2 * math.pi * lt / 1.1) * math.exp(-max(lt - 0.6, 0) / 1.2) if lt > 0.6 else 0
+        return f'transform="rotate({a:.2f} {px} {py})"'
+
+    svg = re.sub(r'data-fall="([^"]+)"', fall_sub, svg)
+    svg = re.sub(r'data-wobble="([^"]+)"', wobble_sub, svg)
     svg = re.sub(r'data-acc="([^"]+)"', acc_sub, svg)
     svg = re.sub(r'data-fig="([^"]+)"', fig_sub, svg)
     svg = re.sub(r'data-dot="(\d+)"', dot_sub, svg)
