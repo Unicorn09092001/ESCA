@@ -183,3 +183,21 @@ def finalize_static(svg):
         ang, px, py, _ = m.group(1).split(",")
         return f'transform="rotate({ang} {px} {py})"'
     return re.sub(r'data-fall="([^"]+)"', sub, svg)
+
+
+def shower(x, head_y=170, floor=905, width=170, n=7, op=1.0, intense=False, color=None):
+    """Vòi sen: ống + bát sen + các tia nước nét đứt (chạy xuống trong video nhờ data-flow)."""
+    color = color or INK
+    out = [f'<g opacity="{op}">',
+           f'<path d="M{x + 160},{head_y - 120} L{x + 160},{head_y - 40} Q{x + 160},{head_y - 10} {x + 120},{head_y - 10} L{x + 40},{head_y - 10}" '
+           f'fill="none" stroke="{color}" stroke-width="8" stroke-linecap="round"/>',
+           f'<path d="M{x - width / 2},{head_y + 14} Q{x},{head_y - 40} {x + width / 2},{head_y + 14} Z" fill="none" stroke="{color}" stroke-width="7"/>',
+           '<g data-flow="1">']
+    k = 11 if intense else n
+    for i in range(k):
+        xx = x - width / 2 + 14 + (width - 28) * i / max(k - 1, 1)
+        spread = (xx - x) * (0.9 if intense else 0.5)
+        out.append(f'<line x1="{xx:.1f}" y1="{head_y + 26}" x2="{xx + spread:.1f}" y2="{floor - 30}" stroke="{color}" '
+                   f'stroke-width="{4 if intense else 3}" stroke-dasharray="{"26 18" if intense else "18 26"}" stroke-linecap="round" opacity=".55"/>')
+    out.append("</g></g>")
+    return "".join(out)

@@ -651,6 +651,58 @@ def icon(name, color=INK, w=7, **kw):
         return f'<path d="M-46,-46 L-46,42 L46,42" {_c(color, 5)}/>' + pts
     if name == "envelope2":
         return icon("envelope", color, w)
+    if name == "valve":
+        return (f'<circle cx="0" cy="0" r="40" {s}/><circle cx="0" cy="0" r="8" fill="{color}"/>'
+                f'<line x1="0" y1="0" x2="0" y2="-30" {_c(color, 9)}/><path d="M-28,-44 A52,52 0 0 1 28,-44" {_c(color, 4)} opacity=".6"/>')
+    if name == "thermo":
+        lvl = kw.get("level", .5)
+        h = 70 * lvl
+        return (f'<path d="M-12,22 L-12,-40 Q-12,-50 0,-50 Q12,-50 12,-40 L12,22" {s}/><circle cx="0" cy="34" r="18" {s}/>'
+                f'<circle cx="0" cy="34" r="10" fill="{color}"/><rect x="-4" y="{24 - h:.1f}" width="8" height="{h:.1f}" fill="{color}"/>'
+                + "".join(f'<line x1="16" y1="{y}" x2="26" y2="{y}" {_c(color, 3)}/>' for y in (-36, -20, -4, 12)))
+    if name == "gear":
+        out = []
+        for i in range(8):
+            a = math.radians(i * 45)
+            out.append(f'<rect x="-9" y="-50" width="18" height="18" rx="3" fill="{color}" transform="rotate({i * 45})"/>')
+        return "".join(out) + f'<circle cx="0" cy="0" r="34" {s}/><circle cx="0" cy="0" r="12" {_c(color, 5)}/>'
+    if name == "molecule":
+        pts = ((0, 0), (-34, -22), (32, -26), (8, 38), (-30, 30))
+        out = [f'<line x1="0" y1="0" x2="{x}" y2="{y}" {_c(color, 5)}/>' for x, y in pts[1:]]
+        out += [f'<circle cx="{x}" cy="{y}" r="{14 if i == 0 else 10}" fill="{BG}" {_c(color, 5)}/>' for i, (x, y) in enumerate(pts)]
+        return "".join(out)
+    if name == "bolt":
+        return f'<path d="M8,-48 L-26,6 L-2,6 L-10,48 L28,-10 L4,-10 Z" {s}/>'
+    if name == "face":
+        m = kw.get("mood", 0)
+        return (f'<circle cx="0" cy="0" r="44" {s}/><circle cx="-15" cy="-10" r="5" fill="{color}"/><circle cx="15" cy="-10" r="5" fill="{color}"/>'
+                f'<path d="M-18,18 Q0,{18 + 16 * m:.0f} 18,18" {_c(color, 5)}/>')
+    if name == "journal":
+        return (f'<rect x="-34" y="-46" width="68" height="92" rx="5" {s}/><line x1="-22" y1="-46" x2="-22" y2="46" {_c(color, 4)}/>'
+                f'<path d="M8,-22 L8,2 M-4,-10 L20,-10" {_c(color, 7)}/><line x1="-8" y1="24" x2="24" y2="24" {_c(color, 4)}/>')
+    if name == "nerves":
+        out = [f'<circle cx="0" cy="-38" r="12" {_c(color, 5)}/><line x1="0" y1="-26" x2="0" y2="46" {_c(color, 6)}/>']
+        for y in (-12, 6, 24, 40):
+            out.append(f'<path d="M0,{y} Q-20,{y - 4} -38,{y + 6} M0,{y} Q20,{y - 4} 38,{y + 6}" {_c(color, 3.5)}/>')
+            out.append(f'<circle cx="-38" cy="{y + 6}" r="4" fill="{color}"/><circle cx="38" cy="{y + 6}" r="4" fill="{color}"/>')
+        return "".join(out)
+    if name == "handshake":
+        return (f'<path d="M-50,-6 L-26,-20 L-4,-12 L18,-22 L50,-6 M-50,-6 L-36,18 M50,-6 L36,18" {s}/>'
+                f'<path d="M-30,14 L-16,26 M-20,6 L-4,20 M-8,-2 L8,12 M-36,18 Q-20,34 0,26 Q20,34 36,18" {_c(color, 5)}/>')
+    if name == "tub":
+        return (f'<path d="M-50,-4 L50,-4 L42,30 Q40,40 30,40 L-30,40 Q-40,40 -42,30 Z" {s}/><line x1="-36" y1="40" x2="-40" y2="48" {_c(color, 5)}/>'
+                f'<line x1="36" y1="40" x2="40" y2="48" {_c(color, 5)}/>'
+                + "".join(f'<rect x="{x}" y="{y}" width="16" height="16" rx="3" transform="rotate({r} {x + 8} {y + 8})" {_c(color, 4)}/>'
+                          for x, y, r in ((-30, -24, 12), (-6, -28, -10), (18, -22, 20))))
+    if name == "burst":
+        pts = []
+        for i in range(16):
+            a = math.radians(i * 22.5)
+            r = 48 if i % 2 == 0 else 24
+            pts.append(f"{r * math.cos(a):.1f},{r * math.sin(a):.1f}")
+        return f'<polygon points="{" ".join(pts)}" {s}/>'
+    if name == "hashtag":
+        return f'<path d="M-12,-40 L-20,40 M14,-40 L6,40 M-34,-14 L36,-14 M-38,14 L32,14" {_c(color, 8)}/>'
     raise KeyError(name)
 
 

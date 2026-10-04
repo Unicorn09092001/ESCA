@@ -118,6 +118,7 @@ def animate_layer(svg, t, appear_t, seed):
     svg = re.sub(r'data-fig="([^"]+)"', fig_sub, svg)
     svg = re.sub(r'data-dot="(\d+)"', dot_sub, svg)
     svg = svg.replace('data-drift="1"', f'transform="translate(0,{-14 * lt:.1f})"')
+    svg = svg.replace('data-flow="1"', f'stroke-dashoffset="{-260 * lt:.1f}"')  # nước chảy
     return f'<g opacity="{op:.3f}" transform="translate(0,{dy:.1f})">{svg}</g>'
 
 
