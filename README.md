@@ -17,7 +17,8 @@ Kênh giúp người xem hiểu cơ chế tâm lý đằng sau kỷ luật, thó
 | `demo/demo_jorge_pro_studio_30s.mp3` | Giọng đọc demo "Jorge" (bản studio, 30 giây) |
 | `tools/align_frames.py` | Căn thời gian từng Frame theo audio (dò khoảng lặng, không cần Whisper) |
 | `tools/sticklib.py`, `tools/draw_frames.py` | Vẽ ảnh người que từng Frame bằng code (SVG → PNG) |
-| `tools/render_video.py` | Ghép ảnh + giọng đọc + phụ đề karaoke (Anton) → MP4 1080p30 |
+| `tools/render_video.py` | Ghép ảnh tĩnh (zoom nhẹ) + giọng đọc + phụ đề karaoke (Anton) → MP4 1080p30 |
+| `tools/animate_video.py` | Bản motion graphics: từng lớp bật ra lần lượt, vật nhấn đập nhịp, nhân vật "thở", camera trôi → MP4 |
 | `tools/make_thumbnails.py` | Thumbnail Mẫu B (triptych) và Mẫu C (lưới 6 khung) |
 | `fonts/Anton-Regular.ttf` | Font Anton (SIL OFL, xem `fonts/OFL-Anton.txt`) |
 | `05_Autoconocimiento/project_28_7_senales_autosabotaje/` | Video "7 Señales de Autosabotaje": script, visuals, metadata, giọng Gonzalo, ảnh, phụ đề, thumbnail, video |
@@ -31,6 +32,8 @@ python3 tools/align_frames.py   --project "$P" --audio voz_gonzalo.mp3
 python3 tools/draw_frames.py    --project "$P"
 python3 tools/make_thumbnails.py --project "$P"
 python3 tools/render_video.py   --project "$P" --audio voz_gonzalo.mp3 --title 7_senales_autosabotaje
+# Bản chuyển động (khuyên dùng), thêm --preview 20 để xem thử 20 giây đầu:
+python3 tools/animate_video.py  --project "$P" --audio voz_gonzalo.mp3 --title 7_senales_autosabotaje_motion
 ```
 
 ## Playlist

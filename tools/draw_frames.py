@@ -67,6 +67,11 @@ def boulder_on(anch, size, op=1.0, dx=0):
 
 # ------------------------------------------------------------------------------- 66 khung
 def build(n, shot):
+    return svg_doc("".join(build_layers(n, shot)))
+
+
+def build_layers(n, shot):
+    """Danh sách lớp SVG của khung n, theo thứ tự xuất hiện (dùng cho cả ảnh tĩnh và animation)."""
     F = lambda **kw: shot_fig(shot, **kw)  # noqa: E731
     b = []
     if n == 1:
@@ -303,7 +308,7 @@ def build(n, shot):
         b += [rim(960, 500, 600), boulder_on(an, 260, .12), particles(960, 180, 560, 300, 80, seed=66), fig]
     else:
         raise ValueError(n)
-    return svg_doc("".join(b))
+    return b
 
 
 def main():

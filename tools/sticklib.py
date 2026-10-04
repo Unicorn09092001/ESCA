@@ -243,8 +243,8 @@ def figure(x, y, s=1.0, pose="stand", expr="neutral", look=0, op=1.0, ghost=Fals
     else:
         parts.append(f'<circle cx="{head[0]}" cy="{head[1]}" r="{hr}" fill="{BG}" {stroke(color, sw)}/>')
         parts.append(face(head[0], head[1], expr, look, color))
-    g = (f'<g transform="translate({x:.1f},{y:.1f}) rotate({tilt}) scale({s:.4f})" opacity="{op}">'
-         + "".join(parts) + "</g>")
+    g = (f'<g data-fig="{x:.1f},{y:.1f},{s:.3f}"><g transform="translate({x:.1f},{y:.1f}) rotate({tilt}) scale({s:.4f})" opacity="{op}">'
+         + "".join(parts) + "</g></g>")
 
     def scr(p):
         a = math.radians(tilt)
@@ -443,7 +443,8 @@ def ico(name, x, y, size=100, color=INK, op=1.0, rot=0, w=7, **kw):
 def acc(name, x, y, size=100, op=1.0, rot=0, glow_r=None, w=7, **kw):
     """Vật nhấn màu playlist (duy nhất mỗi khung) kèm quầng sáng."""
     gr = glow_r if glow_r is not None else size * 1.15
-    return glow(x, y, gr, "A", op) + place(x, y, size, icon(name, ACC, w, **kw), op, rot)
+    return (f'<g data-acc="{x:.1f},{y:.1f}">' + glow(x, y, gr, "A", op)
+            + place(x, y, size, icon(name, ACC, w, **kw), op, rot) + "</g>")
 
 
 def dim(name, x, y, size=100, op=0.35, rot=0, w=7, **kw):
@@ -457,8 +458,8 @@ def dots_arc(cx, cy, r, n=7, a0=200, a1=340, color=None, size=13, lit=None, op=1
         a = math.radians(a0 + (a1 - a0) * i / (n - 1))
         x, y = cx + r * math.cos(a), cy + r * math.sin(a)
         on = lit is None or i < lit
-        out.append(glow(x, y, size * 3.2, "A", op if on else op * 0.3))
-        out.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="{size}" fill="{color}" opacity="{op if on else op * 0.35}"/>')
+        out.append(f'<g data-dot="{i}">' + glow(x, y, size * 3.2, "A", op if on else op * 0.3)
+                   + f'<circle cx="{x:.1f}" cy="{y:.1f}" r="{size}" fill="{color}" opacity="{op if on else op * 0.35}"/></g>')
     return "".join(out)
 
 
@@ -480,8 +481,8 @@ def dust(x, y, wdt, hgt, n=26, seed=1, op=0.35):
 def particles(x, y, wdt, hgt, n=40, seed=3, color=None, op=0.8):
     rnd = random.Random(seed)
     color = color or ACC
-    return "".join(f'<circle cx="{x + rnd.uniform(-wdt / 2, wdt / 2):.1f}" cy="{y + rnd.uniform(-hgt / 2, hgt / 2):.1f}" '
-                   f'r="{rnd.uniform(2, 6):.1f}" fill="{color}" opacity="{op * rnd.uniform(.25, 1):.2f}"/>' for _ in range(n))
+    return '<g data-drift="1">' + "".join(f'<circle cx="{x + rnd.uniform(-wdt / 2, wdt / 2):.1f}" cy="{y + rnd.uniform(-hgt / 2, hgt / 2):.1f}" '
+                   f'r="{rnd.uniform(2, 6):.1f}" fill="{color}" opacity="{op * rnd.uniform(.25, 1):.2f}"/>' for _ in range(n)) + "</g>"
 
 
 def crack(x0, y0, x1, y1, seed=2, color=None, w=6):
