@@ -433,6 +433,113 @@ def icon(name, color=INK, w=7, **kw):
         return f'<path d="M-44,0 L40,0 M22,-18 L42,0 L22,18" {s}/>'
     if name == "heart":
         return f'<path d="M0,40 Q-50,6 -40,-22 Q-30,-46 0,-26 Q30,-46 40,-22 Q50,6 0,40 Z" {s}/>'
+    if name == "notebook":
+        lit = kw.get("lit", 0)
+        out = [f'<path d="M0,-34 Q-24,-42 -48,-34 L-48,36 Q-24,28 0,36 Q24,28 48,36 L48,-34 Q24,-42 0,-34 Z" {s}/>',
+               f'<line x1="0" y1="-34" x2="0" y2="36" {_c(color, 4)}/>']
+        for i in range(3):
+            y = -16 + i * 16
+            out.append(f'<line x1="8" y1="{y}" x2="40" y2="{y}" {_c(kw.get("ink", color), 4)} opacity="{1 if i < lit else .35}"/>')
+            if i < lit:
+                out.append(f'<circle cx="-34" cy="{y}" r="4" fill="{kw.get("ink", color)}"/>')
+        return "".join(out)
+    if name == "lamp":
+        return (f'<path d="M-30,-10 L-10,-46 L22,-46 L38,-10 Z" {s}/><line x1="4" y1="-10" x2="4" y2="38" {s}/>'
+                f'<line x1="-18" y1="40" x2="26" y2="40" {s}/>')
+    if name == "building":
+        return (f'<path d="M-48,-12 L0,-46 L48,-12 Z" {s}/><line x1="-46" y1="40" x2="46" y2="40" {s}/>'
+                + "".join(f'<line x1="{x}" y1="-4" x2="{x}" y2="32" {_c(color, 6)}/>' for x in (-34, -12, 12, 34)))
+    if name == "bulb":
+        return (f'<path d="M-14,22 Q-14,8 -26,-6 Q-34,-20 -26,-34 Q-14,-50 0,-50 Q14,-50 26,-34 Q34,-20 26,-6 Q14,8 14,22 Z" {s}/>'
+                f'<line x1="-12" y1="32" x2="12" y2="32" {s}/><line x1="-8" y1="42" x2="8" y2="42" {s}/>')
+    if name == "books":
+        return (f'<rect x="-44" y="16" width="88" height="22" rx="3" {s}/><rect x="-36" y="-8" width="76" height="22" rx="3" {s}/>'
+                f'<rect x="-40" y="-32" width="70" height="22" rx="3" {s}/>')
+    if name == "coin":
+        return f'<circle cx="0" cy="0" r="40" {s}/><circle cx="0" cy="0" r="26" {_c(color, 4)}/><line x1="0" y1="-14" x2="0" y2="14" {_c(color, 6)}/>'
+    if name == "coins":
+        return "".join(f'<ellipse cx="0" cy="{30 - i * 16}" rx="38" ry="11" fill="{BG}" {s}/>' for i in range(5))
+    if name == "guitar":
+        return (f'<path d="M-20,46 Q-46,46 -44,22 Q-42,6 -26,4 Q-30,-12 -14,-16 Q2,-18 4,-2 Q22,-2 22,18 Q20,44 -20,46 Z" {s}/>'
+                f'<circle cx="-14" cy="18" r="8" {_c(color, 4)}/><line x1="-6" y1="10" x2="40" y2="-40" {_c(color, 7)}/>'
+                f'<rect x="34" y="-50" width="14" height="16" rx="3" transform="rotate(45 41 -42)" {_c(color, 5)}/>')
+    if name == "note":
+        return (f'<line x1="-6" y1="28" x2="-6" y2="-40" {s}/><path d="M-6,-40 Q14,-36 26,-20" {s}/>'
+                f'<ellipse cx="-20" cy="30" rx="16" ry="12" fill="{color}"/>')
+    if name == "wrench":
+        return (f'<path d="M-36,36 L8,-8" {_c(color, 12)}/><path d="M4,-4 Q-4,-30 18,-42 Q30,-46 38,-40 L24,-26 L30,-14 L44,-28 Q48,-12 36,0 Q22,10 4,-4 Z" {s}/>')
+    if name == "timer":
+        prog = kw.get("progress", 1.0)
+        a = 2 * math.pi * prog - math.pi / 2
+        large = 1 if prog > 0.5 else 0
+        arc = (f'<circle cx="0" cy="0" r="40" {_c(color, 10)}/>' if prog >= 0.999 else
+               f'<path d="M0,-40 A40,40 0 {large} 1 {40 * math.cos(a):.1f},{40 * math.sin(a):.1f}" {_c(color, 10)}/>')
+        return (f'<circle cx="0" cy="0" r="40" {_c(color, 3)} opacity=".35"/>' + arc
+                + f'<line x1="0" y1="0" x2="0" y2="-22" {_c(color, 5)}/><line x1="-8" y1="-52" x2="8" y2="-52" {_c(color, 5)}/>')
+    if name == "flame":
+        return f'<path d="M0,44 Q-30,40 -28,12 Q-26,-8 -8,-22 Q-6,-6 4,-2 Q2,-28 16,-46 Q34,-18 30,10 Q28,40 0,44 Z" {s}/>'
+    if name == "spark":
+        return "".join(f'<line x1="{12 * math.cos(math.radians(a)):.1f}" y1="{12 * math.sin(math.radians(a)):.1f}" '
+                       f'x2="{40 * math.cos(math.radians(a)):.1f}" y2="{40 * math.sin(math.radians(a)):.1f}" {_c(color, 6)}/>'
+                       for a in range(0, 360, 45))
+    if name == "gym":
+        return (f'<path d="M-46,40 L-46,-14 L0,-42 L46,-14 L46,40 Z" {s}/>'
+                f'<line x1="-22" y1="10" x2="22" y2="10" {_c(color, 6)}/><rect x="-30" y="-2" width="8" height="24" fill="{color}"/>'
+                f'<rect x="22" y="-2" width="8" height="24" fill="{color}"/>')
+    if name == "phone":
+        return (f'<rect x="-24" y="-46" width="48" height="92" rx="9" {s}/><line x1="-8" y1="-36" x2="8" y2="-36" {_c(color, 4)}/>'
+                f'<circle cx="0" cy="34" r="4" fill="{color}"/>')
+    if name == "call":
+        return (f'<path d="M-34,-38 Q-26,-46 -18,-38 L-8,-24 Q-4,-16 -12,-10 L-18,-6 Q-8,14 8,22 L14,16 Q20,10 28,14 L40,24 Q48,32 40,40 '
+                f'Q30,50 14,44 Q-30,26 -42,-16 Q-44,-30 -34,-38 Z" {s}/>'
+                f'<path d="M14,-36 Q36,-32 40,-10 M14,-20 Q24,-18 26,-8" {_c(color, 5)}/>')
+    if name == "wallet":
+        return (f'<rect x="-46" y="-28" width="92" height="64" rx="8" {s}/><path d="M-40,-28 L24,-44 L30,-28" {_c(color, 5)}/>'
+                f'<rect x="16" y="-6" width="30" height="22" rx="5" {_c(color, 5)}/><circle cx="28" cy="5" r="4" fill="{color}"/>')
+    if name == "jar":
+        lvl = kw.get("level", 0.2)
+        fill_c = kw.get("fill", color)
+        h = 70 * lvl
+        return (f'<rect x="-28" y="{40 - h:.1f}" width="56" height="{h:.1f}" rx="6" fill="{fill_c}" opacity=".55"/>'
+                f'<path d="M-24,-34 L-24,-40 L24,-40 L24,-34 Q36,-30 36,-16 L36,34 Q36,46 24,46 L-24,46 Q-36,46 -36,34 L-36,-16 Q-36,-30 -24,-34 Z" {s}/>'
+                f'<line x1="-26" y1="-34" x2="26" y2="-34" {_c(color, 5)}/>')
+    if name == "medal":
+        return (f'<path d="M-24,-48 L-6,-12 M24,-48 L6,-12" {_c(color, 8)}/><circle cx="0" cy="14" r="28" {s}/>'
+                f'<path d="M0,0 L5,9 L15,10 L8,17 L10,27 L0,22 L-10,27 L-8,17 L-15,10 L-5,9 Z" fill="{color}"/>')
+    if name == "briefcase":
+        return (f'<rect x="-46" y="-22" width="92" height="62" rx="7" {s}/><path d="M-16,-22 L-16,-36 L16,-36 L16,-22" {s}/>'
+                f'<line x1="-46" y1="4" x2="46" y2="4" {_c(color, 4)}/>')
+    if name == "sun":
+        out = [f'<path d="M-36,20 A36,36 0 0 1 36,20 Z" {s}/>', f'<line x1="-60" y1="20" x2="60" y2="20" {s}/>']
+        for a in range(200, 345, 24):
+            r = math.radians(a)
+            out.append(f'<line x1="{46 * math.cos(r):.1f}" y1="{20 + 46 * math.sin(r):.1f}" x2="{60 * math.cos(r):.1f}" '
+                       f'y2="{20 + 60 * math.sin(r):.1f}" {_c(color, 5)}/>')
+        return "".join(out)
+    if name == "arrow_up":
+        return f'<path d="M0,44 L0,-40 M-24,-16 L0,-42 L24,-16" {_c(color, 10)}/>'
+    if name == "pair":
+        out = []
+        for dx in (-22, 22):
+            out.append(f'<circle cx="{dx}" cy="-26" r="13" {_c(color, 6)}/><line x1="{dx}" y1="-13" x2="{dx}" y2="20" {_c(color, 6)}/>'
+                       f'<path d="M{dx - 12},44 L{dx},20 L{dx + 12},44" {_c(color, 6)}/>')
+        out.append(f'<path d="M-22,0 Q0,-12 22,0" {_c(color, 6)}/>')
+        return "".join(out)
+    if name == "person":
+        return (f'<circle cx="0" cy="-26" r="14" {_c(color, 6)}/><line x1="0" y1="-12" x2="0" y2="20" {_c(color, 6)}/>'
+                f'<path d="M-16,4 L0,-4 L16,4 M-12,44 L0,20 L12,44" {_c(color, 6)}/>')
+    if name == "dumbbell":
+        return (f'<line x1="-30" y1="0" x2="30" y2="0" {_c(color, 8)}/><rect x="-44" y="-20" width="14" height="40" rx="3" fill="{color}"/>'
+                f'<rect x="30" y="-20" width="14" height="40" rx="3" fill="{color}"/>')
+    if name == "stream":
+        return "".join(f'<path d="M-50,{y} Q-20,{y - 10} 10,{y} T50,{y}" {_c(color, 5)}/>' for y in (-18, 0, 18)) + \
+            f'<path d="M34,-34 L52,0 L34,34" {_c(color, 6)}/>'
+    if name == "bank":
+        return (f'<path d="M-46,-14 L0,-44 L46,-14 Z" {s}/><rect x="-42" y="-10" width="84" height="44" {s}/>'
+                f'<circle cx="0" cy="12" r="10" {_c(color, 5)}/>')
+    if name == "page":
+        return (f'<rect x="-34" y="-44" width="68" height="88" rx="5" {s}/><rect x="-34" y="-44" width="68" height="20" fill="{color}" opacity=".5"/>'
+                + "".join(f'<circle cx="{-18 + c * 18}" cy="{-4 + r * 18}" r="3.5" fill="{color}"/>' for r in range(3) for c in range(3)))
     raise KeyError(name)
 
 

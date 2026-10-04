@@ -11,14 +11,18 @@ render_video.py — Ghép ảnh từng Frame + giọng đọc + phụ đề kara
 
 Cách dùng:
   python3 tools/render_video.py --project "05_Autoconocimiento/project_28_..." --audio voz_gonzalo.mp3 \
-      --title "7_senales_autosabotaje" --accent "#8B6CFF"
+      --title "7_senales_autosabotaje"
 """
 import argparse
 import json
 import os
 import re
 import subprocess
+import sys
 import tempfile
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from projectkit import read_meta  # noqa: E402
 
 FPS = 30
 PUNCT_END = re.compile(r"[,.;:?!…]$|[—–]$")
@@ -123,7 +127,7 @@ def main():
     ap.add_argument("--project", required=True)
     ap.add_argument("--audio", required=True)
     ap.add_argument("--title", required=True)
-    ap.add_argument("--accent", default="#8B6CFF")
+    ap.add_argument("--accent", help="Ghi đè màu nhấn (mặc định theo youtube_metadata.txt)")
     ap.add_argument("--fonts", default=os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "fonts"))
     ap.add_argument("--preview", type=float, help="Chỉ render N giây đầu")
     args = ap.parse_args()
@@ -135,7 +139,7 @@ def main():
 
     chunks = chunks_of(frames)
     ass_path = os.path.join(sub_dir, f"{args.title}.ass")
-    open(ass_path, "w", encoding="utf-8").write(build_ass(chunks, hex_to_ass(args.accent)))
+    open(ass_path, "w", encoding="utf-8").write(build_ass(chunks, hex_to_ass(args.accent or read_meta(proj)["accent"])))
     open(os.path.join(sub_dir, f"{args.title}.srt"), "w", encoding="utf-8").write(build_srt(chunks))
     print(f"📝 Phụ đề: {len(chunks)} cụm → {ass_path}")
 

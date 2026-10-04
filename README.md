@@ -20,31 +20,31 @@ Kênh giúp người xem hiểu cơ chế tâm lý đằng sau kỷ luật, thó
 | `tools/render_video.py` | Ghép ảnh tĩnh (zoom nhẹ) + giọng đọc + phụ đề karaoke (Anton) → MP4 1080p30 |
 | `tools/animate_video.py` | Bản motion graphics: từng lớp bật ra lần lượt, vật nhấn đập nhịp, nhân vật "thở", camera trôi → MP4 |
 | `tools/make_thumbnails.py` | Thumbnail Mẫu B (triptych) và Mẫu C (lưới 6 khung) |
+| `tools/make_chapters.py` | Chapters với timestamp thật theo audio |
 | `fonts/Anton-Regular.ttf` | Font Anton (SIL OFL, xem `fonts/OFL-Anton.txt`) |
 | `05_Autoconocimiento/project_28_7_senales_autosabotaje/` | Video "7 Señales de Autosabotaje": script, visuals, metadata, giọng Gonzalo, ảnh, phụ đề, thumbnail, video |
 
-## Dựng video graphic (project 28)
+## Workflow dựng video graphic (mọi project)
+
+Mỗi project nằm trong `<playlist>/project_<NN>_<slug>/` với `script.txt`, `transcript_and_visuals.txt`,
+`youtube_metadata.txt` (chứa *Màu nhấn* và *Headline dùng chung*), `voz_gonzalo.mp3` và **`scenes.py`**:
+kịch bản hình bằng code, gồm `build_layers(n, shot)` cho từng Frame và `thumb_b()` / `thumb_c()` cho thumbnail.
+Phần dùng chung nằm trong `tools/` (`sticklib.py`, `scenekit.py`, `thumbkit.py`, `projectkit.py`).
 
 ```bash
 pip install cairosvg pillow
-P="05_Autoconocimiento/project_28_7_senales_autosabotaje"
-python3 tools/align_frames.py   --project "$P" --audio voz_gonzalo.mp3
-python3 tools/draw_frames.py    --project "$P"
-python3 tools/make_thumbnails.py --project "$P"
-python3 tools/render_video.py   --project "$P" --audio voz_gonzalo.mp3 --title 7_senales_autosabotaje
-# Bản chuyển động (khuyên dùng), thêm --preview 20 để xem thử 20 giây đầu:
-python3 tools/animate_video.py  --project "$P" --audio voz_gonzalo.mp3 --title 7_senales_autosabotaje_motion
+P="01_Disciplina y Habitos/project_14_5_habitos_cambian_todo"
+python3 tools/align_frames.py    --project "$P" --audio voz_gonzalo.mp3   # căn thời gian Frame theo giọng đọc
+python3 tools/draw_frames.py     --project "$P"                           # ảnh tĩnh images/img_NNN.png
+python3 tools/make_thumbnails.py --project "$P"                           # thumbnail Mẫu B + C
+python3 tools/make_chapters.py   --project "$P"                           # chapters.txt (timestamp thật)
+python3 tools/animate_video.py   --project "$P" --audio voz_gonzalo.mp3 --title <ten_video>_motion  # video motion graphics
 ```
 
-## Playlist
-
-| Playlist | Màu nhấn |
-|---|---|
-| 01_Disciplina y Habitos | `#FF5A36` |
-| 02_Mentalidad y Exito | `#E8A23C` |
-| 03_Motivacion y Superacion | `#FF3B78` |
-| 04_Productividad Practica | `#3BA7C9` |
-| 05_Autoconocimiento | `#8B6CFF` |
+| Project | Playlist | Video |
+|---|---|---|
+| 28 — 7 Señales de Autosabotaje | 05_Autoconocimiento (`#8B6CFF`) | `7_senales_autosabotaje_motion.mp4` |
+| 14 — 5 Hábitos Que Cambian Todo | 01_Disciplina y Habitos (`#FF5A36`) | `5_habitos_cambian_todo_motion.mp4` |
 
 ## Lưu ý
 

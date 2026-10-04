@@ -26,7 +26,7 @@ from multiprocessing import Pool
 import cairosvg
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-import draw_frames  # noqa: E402
+from projectkit import load_scenes  # noqa: E402
 from render_video import build_ass, build_srt, chunks_of, hex_to_ass  # noqa: E402
 from sticklib import svg_doc  # noqa: E402
 
@@ -35,6 +35,12 @@ APPEAR = 0.5  # thời lượng hiệu ứng xuất hiện của một lớp
 GHOST_DASH = 'stroke-dasharray="16 13"'
 
 _layers_cache = {}
+_scenes = None
+
+
+def _init_worker(project):
+    global _scenes
+    _scenes = load_scenes(project)
 
 
 def ease_out_back(x, k=1.6):
@@ -50,7 +56,7 @@ def ease_out(x):
 def layers_for(n, shot):
     key = (n, shot)
     if key not in _layers_cache:
-        _layers_cache[key] = draw_frames.build_layers(n, shot)
+        _layers_cache[key] = _scenes.build_layers(n, shot)
     return _layers_cache[key]
 
 
@@ -116,19 +122,21 @@ def main():
     ap.add_argument("--project", required=True)
     ap.add_argument("--audio", required=True)
     ap.add_argument("--title", required=True)
-    ap.add_argument("--accent", default="#8B6CFF")
+    ap.add_argument("--accent", help="Ghi đè màu nhấn (mặc định theo youtube_metadata.txt)")
     ap.add_argument("--fonts", default=os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "fonts"))
     ap.add_argument("--preview", type=float)
     ap.add_argument("--workers", type=int, default=os.cpu_count())
     args = ap.parse_args()
 
     proj = os.path.abspath(args.project)
+    _init_worker(proj)
+    accent = _scenes.META["accent"]
     frames = json.load(open(os.path.join(proj, "subtitles", "timeline.json"), encoding="utf-8"))
     audio = os.path.join(proj, args.audio)
     sub_dir = os.path.join(proj, "subtitles")
     chunks = chunks_of(frames)
     ass_path = os.path.join(sub_dir, f"{args.title}.ass")
-    open(ass_path, "w", encoding="utf-8").write(build_ass(chunks, hex_to_ass(args.accent)))
+    open(ass_path, "w", encoding="utf-8").write(build_ass(chunks, hex_to_ass(args.accent or accent)))
     open(os.path.join(sub_dir, f"{args.title}.srt"), "w", encoding="utf-8").write(build_srt(chunks))
 
     limit = args.preview or frames[-1]["end"]
@@ -151,7 +159,7 @@ def main():
            "-map", "0:v", "-map", "1:a", "-vf", vf, "-c:v", "libx264", "-preset", "medium", "-crf", "20",
            "-c:a", "aac", "-b:a", "160k", "-ar", "48000", "-movflags", "+faststart", "-shortest", out_path]
     ff = subprocess.Popen(cmd, stdin=subprocess.PIPE)
-    with Pool(args.workers) as pool:
+    with Pool(args.workers, initializer=_init_worker, initargs=(proj,)) as pool:
         for k, png in enumerate(pool.imap(render_frame, jobs, chunksize=8), 1):
             ff.stdin.write(png)
             if k % 300 == 0:

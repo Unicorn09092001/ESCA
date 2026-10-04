@@ -45,7 +45,7 @@ def parse_frames(tv_path):
     return frames
 
 
-def detect_silences(audio, noise_db=-35, min_dur=0.18):
+def detect_silences(audio, noise_db=-33, min_dur=0.07):
     out = subprocess.run(
         ["ffmpeg", "-hide_banner", "-i", audio, "-af",
          f"silencedetect=noise={noise_db}dB:d={min_dur}", "-f", "null", "-"],
@@ -89,12 +89,22 @@ def align(frames, sil, dur):
     cost = [[INF] * m for _ in range(n + 1)]
     back = [[-1] * m for _ in range(n + 1)]
     cost[0][0] = 0.0
+    ends = ["sent" if re.search(r"[.?!…][\"”»']?$", f["es"].strip()) else "other" for f in frames]
     for i in range(1, n + 1):
         exp = w[i - 1] * rate
         for b in range(i, m):
             if i == n and b != m - 1:
                 continue
-            bonus = 0.0 if b == m - 1 else 0.6 * min(cuts[b][1] - cuts[b][0], 1.0)
+            if b == m - 1:
+                bonus = 0.0
+            else:
+                gap = cuts[b][1] - cuts[b][0]
+                bonus = 0.6 * min(gap, 1.0)
+                # edge-tts: hết câu (. ? !) ngắt ~1.2s, dấu phẩy ~0.3s, giữa câu không ngắt
+                if ends[i - 1] == "sent" and gap < 0.8:
+                    bonus -= 0.8
+                elif ends[i - 1] != "sent" and gap > 0.9:
+                    bonus -= 0.8
             best, arg = INF, -1
             for a in range(i - 1, b):
                 if cost[i - 1][a] == INF:

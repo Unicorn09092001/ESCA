@@ -1,0 +1,4698 @@
+[
+ {
+  "id": "S01_F001",
+  "scene": "EL GANCHO",
+  "shot": "WIDE SHOT",
+  "es": "No hace falta que sea enero para cambiar tu vida.",
+  "visual": "Dark still lighting, figure stands calmly beside a faint ghost-outline calendar page floating in the air, unbothered neutral expression.",
+  "start": 0.0,
+  "end": 3.225,
+  "words": [
+   {
+    "word": "No",
+    "start": 0.249,
+    "end": 0.365
+   },
+   {
+    "word": "hace",
+    "start": 0.365,
+    "end": 0.598
+   },
+   {
+    "word": "falta",
+    "start": 0.598,
+    "end": 0.889
+   },
+   {
+    "word": "que",
+    "start": 0.889,
+    "end": 1.063
+   },
+   {
+    "word": "sea",
+    "start": 1.063,
+    "end": 1.237
+   },
+   {
+    "word": "enero",
+    "start": 1.237,
+    "end": 1.528
+   },
+   {
+    "word": "para",
+    "start": 1.528,
+    "end": 1.761
+   },
+   {
+    "word": "cambiar",
+    "start": 1.761,
+    "end": 2.168
+   },
+   {
+    "word": "tu",
+    "start": 2.168,
+    "end": 2.368
+   },
+   {
+    "word": "vida.",
+    "start": 2.368,
+    "end": 2.601
+   }
+  ]
+ },
+ {
+  "id": "S01_F002",
+  "scene": "EL GANCHO",
+  "shot": "MEDIUM SHOT",
+  "es": "La fecha en el calendario no tiene ningún poder —",
+  "visual": "The calendar page dissolves into faint dust, figure watches it fade with a calm dismissive gesture.",
+  "start": 3.225,
+  "end": 6.492,
+  "words": [
+   {
+    "word": "La",
+    "start": 3.85,
+    "end": 3.964
+   },
+   {
+    "word": "fecha",
+    "start": 3.964,
+    "end": 4.248
+   },
+   {
+    "word": "en",
+    "start": 4.248,
+    "end": 4.362
+   },
+   {
+    "word": "el",
+    "start": 4.362,
+    "end": 4.476
+   },
+   {
+    "word": "calendario",
+    "start": 4.476,
+    "end": 5.123
+   },
+   {
+    "word": "no",
+    "start": 5.123,
+    "end": 5.237
+   },
+   {
+    "word": "tiene",
+    "start": 5.237,
+    "end": 5.522
+   },
+   {
+    "word": "ningún",
+    "start": 5.522,
+    "end": 5.863
+   },
+   {
+    "word": "poder",
+    "start": 5.863,
+    "end": 6.233
+   },
+   {
+    "word": "—",
+    "start": 6.233,
+    "end": 6.29
+   }
+  ]
+ },
+ {
+  "id": "S01_F003",
+  "scene": "EL GANCHO",
+  "shot": "CLOSE-UP",
+  "es": "pero estos cinco hábitos sí.",
+  "visual": "Close-up, five small glowing dots arranged in an arc appear steadily beside the figure's head, calm confident expression.",
+  "start": 6.492,
+  "end": 8.692,
+  "words": [
+   {
+    "word": "pero",
+    "start": 6.694,
+    "end": 6.921
+   },
+   {
+    "word": "estos",
+    "start": 6.921,
+    "end": 7.205
+   },
+   {
+    "word": "cinco",
+    "start": 7.205,
+    "end": 7.489
+   },
+   {
+    "word": "hábitos",
+    "start": 7.489,
+    "end": 7.961
+   },
+   {
+    "word": "sí.",
+    "start": 7.961,
+    "end": 8.074
+   }
+  ]
+ },
+ {
+  "id": "S01_F004",
+  "scene": "EL GANCHO",
+  "shot": "MEDIUM SHOT",
+  "es": "Y la ciencia detrás de cada uno explica exactamente por qué.",
+  "visual": "Figure gestures toward the five dots, thoughtful explanatory posture, warm steady light.",
+  "start": 8.692,
+  "end": 13.296,
+  "words": [
+   {
+    "word": "Y",
+    "start": 9.31,
+    "end": 9.371
+   },
+   {
+    "word": "la",
+    "start": 9.371,
+    "end": 9.494
+   },
+   {
+    "word": "ciencia",
+    "start": 9.494,
+    "end": 9.925
+   },
+   {
+    "word": "detrás",
+    "start": 9.925,
+    "end": 10.295
+   },
+   {
+    "word": "de",
+    "start": 10.295,
+    "end": 10.418
+   },
+   {
+    "word": "cada",
+    "start": 10.418,
+    "end": 10.734
+   },
+   {
+    "word": "uno",
+    "start": 10.734,
+    "end": 10.919
+   },
+   {
+    "word": "explica",
+    "start": 10.919,
+    "end": 11.431
+   },
+   {
+    "word": "exactamente",
+    "start": 11.431,
+    "end": 12.222
+   },
+   {
+    "word": "por",
+    "start": 12.222,
+    "end": 12.407
+   },
+   {
+    "word": "qué.",
+    "start": 12.407,
+    "end": 12.693
+   }
+  ]
+ },
+ {
+  "id": "S02_F005",
+  "scene": "LA PROMESA",
+  "shot": "WIDE SHOT",
+  "es": "No son trucos nuevos ni motivación vacía.",
+  "visual": "A faint ghost-outline lightbulb/gimmick icon is crossed out with a small accent-colored X beside the figure.",
+  "start": 13.296,
+  "end": 16.847,
+  "words": [
+   {
+    "word": "No",
+    "start": 13.9,
+    "end": 14.037
+   },
+   {
+    "word": "son",
+    "start": 14.037,
+    "end": 14.244
+   },
+   {
+    "word": "trucos",
+    "start": 14.244,
+    "end": 14.657
+   },
+   {
+    "word": "nuevos",
+    "start": 14.657,
+    "end": 15.069
+   },
+   {
+    "word": "ni",
+    "start": 15.069,
+    "end": 15.207
+   },
+   {
+    "word": "motivación",
+    "start": 15.207,
+    "end": 15.895
+   },
+   {
+    "word": "vacía.",
+    "start": 15.895,
+    "end": 16.239
+   }
+  ]
+ },
+ {
+  "id": "S02_F006",
+  "scene": "LA PROMESA",
+  "shot": "MEDIUM SHOT",
+  "es": "Son cinco hábitos respaldados por décadas de investigación real,",
+  "visual": "The five dots each glow steadily, a faint stack of book/paper icons appears beneath them, narrating tone.",
+  "start": 16.847,
+  "end": 21.221,
+  "words": [
+   {
+    "word": "Son",
+    "start": 17.454,
+    "end": 17.644
+   },
+   {
+    "word": "cinco",
+    "start": 17.644,
+    "end": 17.959
+   },
+   {
+    "word": "hábitos",
+    "start": 17.959,
+    "end": 18.401
+   },
+   {
+    "word": "respaldados",
+    "start": 18.401,
+    "end": 19.176
+   },
+   {
+    "word": "por",
+    "start": 19.176,
+    "end": 19.365
+   },
+   {
+    "word": "décadas",
+    "start": 19.365,
+    "end": 19.807
+   },
+   {
+    "word": "de",
+    "start": 19.807,
+    "end": 19.933
+   },
+   {
+    "word": "investigación",
+    "start": 19.933,
+    "end": 20.754
+   },
+   {
+    "word": "real,",
+    "start": 20.754,
+    "end": 21.007
+   }
+  ]
+ },
+ {
+  "id": "S02_F007",
+  "scene": "LA PROMESA",
+  "shot": "MEDIUM SHOT",
+  "es": "que tocan tu mente, tu cuerpo, tus relaciones y hasta tu billetera.",
+  "visual": "Four small distinct icons appear briefly beside each dot: a brain, a body silhouette, two linked figures, and a small coin.",
+  "start": 21.221,
+  "end": 26.28,
+  "words": [
+   {
+    "word": "que",
+    "start": 21.436,
+    "end": 21.616
+   },
+   {
+    "word": "tocan",
+    "start": 21.616,
+    "end": 21.915
+   },
+   {
+    "word": "tu",
+    "start": 21.915,
+    "end": 22.034
+   },
+   {
+    "word": "mente,",
+    "start": 22.034,
+    "end": 22.333
+   },
+   {
+    "word": "tu",
+    "start": 22.333,
+    "end": 22.798
+   },
+   {
+    "word": "cuerpo,",
+    "start": 22.798,
+    "end": 23.789
+   },
+   {
+    "word": "tus",
+    "start": 23.789,
+    "end": 23.968
+   },
+   {
+    "word": "relaciones",
+    "start": 23.968,
+    "end": 24.566
+   },
+   {
+    "word": "y",
+    "start": 24.566,
+    "end": 24.626
+   },
+   {
+    "word": "hasta",
+    "start": 24.626,
+    "end": 24.925
+   },
+   {
+    "word": "tu",
+    "start": 24.925,
+    "end": 25.044
+   },
+   {
+    "word": "billetera.",
+    "start": 25.044,
+    "end": 25.662
+   }
+  ]
+ },
+ {
+  "id": "S02_F008",
+  "scene": "LA PROMESA",
+  "shot": "CLOSE-UP",
+  "es": "Empecemos por el que casi nadie considera un hábito.",
+  "visual": "Close-up, the first of the five dots glows brighter than the rest, figure's expression curious and inviting.",
+  "start": 26.28,
+  "end": 30.184,
+  "words": [
+   {
+    "word": "Empecemos",
+    "start": 26.897,
+    "end": 27.435
+   },
+   {
+    "word": "por",
+    "start": 27.435,
+    "end": 27.614
+   },
+   {
+    "word": "el",
+    "start": 27.614,
+    "end": 27.734
+   },
+   {
+    "word": "que",
+    "start": 27.734,
+    "end": 27.913
+   },
+   {
+    "word": "casi",
+    "start": 27.913,
+    "end": 28.152
+   },
+   {
+    "word": "nadie",
+    "start": 28.152,
+    "end": 28.451
+   },
+   {
+    "word": "considera",
+    "start": 28.451,
+    "end": 28.989
+   },
+   {
+    "word": "un",
+    "start": 28.989,
+    "end": 29.108
+   },
+   {
+    "word": "hábito.",
+    "start": 29.108,
+    "end": 29.564
+   }
+  ]
+ },
+ {
+  "id": "S03_F009",
+  "scene": "HÁBITO 1 — Tres Cosas Buenas",
+  "shot": "WIDE SHOT",
+  "es": "Hábito uno: escribe tres cosas buenas, cada noche, antes de dormir.",
+  "visual": "Figure sits at a small desk in warm evening lamp light, writing calmly in a notebook, three small glowing marks appearing on the page.",
+  "start": 30.184,
+  "end": 36.279,
+  "words": [
+   {
+    "word": "Hábito",
+    "start": 30.803,
+    "end": 31.24
+   },
+   {
+    "word": "uno:",
+    "start": 31.24,
+    "end": 31.458
+   },
+   {
+    "word": "escribe",
+    "start": 31.458,
+    "end": 32.301
+   },
+   {
+    "word": "tres",
+    "start": 32.301,
+    "end": 32.592
+   },
+   {
+    "word": "cosas",
+    "start": 32.592,
+    "end": 32.956
+   },
+   {
+    "word": "buenas,",
+    "start": 32.956,
+    "end": 33.393
+   },
+   {
+    "word": "cada",
+    "start": 33.393,
+    "end": 34.023
+   },
+   {
+    "word": "noche,",
+    "start": 34.023,
+    "end": 34.387
+   },
+   {
+    "word": "antes",
+    "start": 34.387,
+    "end": 35.088
+   },
+   {
+    "word": "de",
+    "start": 35.088,
+    "end": 35.233
+   },
+   {
+    "word": "dormir.",
+    "start": 35.233,
+    "end": 35.67
+   }
+  ]
+ },
+ {
+  "id": "S03_F010",
+  "scene": "HÁBITO 1 — Tres Cosas Buenas",
+  "shot": "MEDIUM SHOT",
+  "es": "Suena casi demasiado simple para funcionar.",
+  "visual": "Figure gives a small skeptical half-smile, head tilted slightly.",
+  "start": 36.279,
+  "end": 40.019,
+  "words": [
+   {
+    "word": "Suena",
+    "start": 36.887,
+    "end": 37.288
+   },
+   {
+    "word": "casi",
+    "start": 37.288,
+    "end": 37.549
+   },
+   {
+    "word": "demasiado",
+    "start": 37.549,
+    "end": 38.138
+   },
+   {
+    "word": "simple",
+    "start": 38.138,
+    "end": 38.53
+   },
+   {
+    "word": "para",
+    "start": 38.53,
+    "end": 38.792
+   },
+   {
+    "word": "funcionar.",
+    "start": 38.792,
+    "end": 39.381
+   }
+  ]
+ },
+ {
+  "id": "S03_F011",
+  "scene": "HÁBITO 1 — Tres Cosas Buenas",
+  "shot": "CLOSE-UP",
+  "es": "Pero el psicólogo Robert Emmons, de la Universidad de California en Davis,",
+  "visual": "Close-up, thoughtful narrating expression, a faint university-building silhouette icon glowing softly in the background.",
+  "start": 40.019,
+  "end": 45.322,
+  "words": [
+   {
+    "word": "Pero",
+    "start": 40.657,
+    "end": 40.92
+   },
+   {
+    "word": "el",
+    "start": 40.92,
+    "end": 41.051
+   },
+   {
+    "word": "psicólogo",
+    "start": 41.051,
+    "end": 41.643
+   },
+   {
+    "word": "Robert",
+    "start": 41.643,
+    "end": 42.111
+   },
+   {
+    "word": "Emmons,",
+    "start": 42.111,
+    "end": 42.865
+   },
+   {
+    "word": "de",
+    "start": 42.865,
+    "end": 42.997
+   },
+   {
+    "word": "la",
+    "start": 42.997,
+    "end": 43.128
+   },
+   {
+    "word": "Universidad",
+    "start": 43.128,
+    "end": 43.851
+   },
+   {
+    "word": "de",
+    "start": 43.851,
+    "end": 43.982
+   },
+   {
+    "word": "California",
+    "start": 43.982,
+    "end": 44.639
+   },
+   {
+    "word": "en",
+    "start": 44.639,
+    "end": 44.77
+   },
+   {
+    "word": "Davis,",
+    "start": 44.77,
+    "end": 45.099
+   }
+  ]
+ },
+ {
+  "id": "S03_F012",
+  "scene": "HÁBITO 1 — Tres Cosas Buenas",
+  "shot": "MEDIUM SHOT",
+  "es": "lleva más de veinte años estudiando esto, y sus resultados son difíciles de ignorar:",
+  "visual": "A faint glowing timeline stretches across the frame marked with two decades, figure gestures toward it with emphasis.",
+  "start": 45.322,
+  "end": 50.476,
+  "words": [
+   {
+    "word": "lleva",
+    "start": 45.545,
+    "end": 45.843
+   },
+   {
+    "word": "más",
+    "start": 45.843,
+    "end": 46.022
+   },
+   {
+    "word": "de",
+    "start": 46.022,
+    "end": 46.141
+   },
+   {
+    "word": "veinte",
+    "start": 46.141,
+    "end": 46.499
+   },
+   {
+    "word": "años",
+    "start": 46.499,
+    "end": 46.737
+   },
+   {
+    "word": "estudiando",
+    "start": 46.737,
+    "end": 47.407
+   },
+   {
+    "word": "esto,",
+    "start": 47.407,
+    "end": 48.07
+   },
+   {
+    "word": "y",
+    "start": 48.07,
+    "end": 48.129
+   },
+   {
+    "word": "sus",
+    "start": 48.129,
+    "end": 48.308
+   },
+   {
+    "word": "resultados",
+    "start": 48.308,
+    "end": 48.987
+   },
+   {
+    "word": "son",
+    "start": 48.987,
+    "end": 49.166
+   },
+   {
+    "word": "difíciles",
+    "start": 49.166,
+    "end": 49.702
+   },
+   {
+    "word": "de",
+    "start": 49.702,
+    "end": 49.821
+   },
+   {
+    "word": "ignorar:",
+    "start": 49.821,
+    "end": 50.239
+   }
+  ]
+ },
+ {
+  "id": "S03_F013",
+  "scene": "HÁBITO 1 — Tres Cosas Buenas",
+  "shot": "MEDIUM SHOT",
+  "es": "las personas que practican gratitud escrita durante solo tres semanas",
+  "visual": "A faint glowing calendar shows three weeks passing, a small warm light growing steadily brighter each week.",
+  "start": 50.476,
+  "end": 56.041,
+  "words": [
+   {
+    "word": "las",
+    "start": 50.713,
+    "end": 50.957
+   },
+   {
+    "word": "personas",
+    "start": 50.957,
+    "end": 51.608
+   },
+   {
+    "word": "que",
+    "start": 51.608,
+    "end": 51.975
+   },
+   {
+    "word": "practican",
+    "start": 51.975,
+    "end": 52.795
+   },
+   {
+    "word": "gratitud",
+    "start": 52.795,
+    "end": 53.446
+   },
+   {
+    "word": "escrita",
+    "start": 53.446,
+    "end": 54.207
+   },
+   {
+    "word": "durante",
+    "start": 54.207,
+    "end": 54.776
+   },
+   {
+    "word": "solo",
+    "start": 54.776,
+    "end": 55.102
+   },
+   {
+    "word": "tres",
+    "start": 55.102,
+    "end": 55.427
+   },
+   {
+    "word": "semanas",
+    "start": 55.427,
+    "end": 55.996
+   }
+  ]
+ },
+ {
+  "id": "S03_F014",
+  "scene": "HÁBITO 1 — Tres Cosas Buenas",
+  "shot": "CLOSE-UP",
+  "es": "reducen sus síntomas de depresión hasta en un 25%,",
+  "visual": "Close-up, a faint dark cloud shape above the figure's head shrinks noticeably smaller, relieved expression emerging.",
+  "start": 56.041,
+  "end": 58.5,
+  "words": [
+   {
+    "word": "reducen",
+    "start": 56.087,
+    "end": 56.467
+   },
+   {
+    "word": "sus",
+    "start": 56.467,
+    "end": 56.63
+   },
+   {
+    "word": "síntomas",
+    "start": 56.63,
+    "end": 57.065
+   },
+   {
+    "word": "de",
+    "start": 57.065,
+    "end": 57.173
+   },
+   {
+    "word": "depresión",
+    "start": 57.173,
+    "end": 57.662
+   },
+   {
+    "word": "hasta",
+    "start": 57.662,
+    "end": 57.934
+   },
+   {
+    "word": "en",
+    "start": 57.934,
+    "end": 58.043
+   },
+   {
+    "word": "un",
+    "start": 58.043,
+    "end": 58.231
+   },
+   {
+    "word": "25%,",
+    "start": 58.231,
+    "end": 58.339
+   }
+  ]
+ },
+ {
+  "id": "S03_F015",
+  "scene": "HÁBITO 1 — Tres Cosas Buenas",
+  "shot": "MEDIUM SHOT",
+  "es": "y duermen en promedio 90 minutos más por noche.",
+  "visual": "Figure lies peacefully in bed, a faint glowing clock shows extra time added, calm restful expression.",
+  "start": 58.5,
+  "end": 62.068,
+  "words": [
+   {
+    "word": "y",
+    "start": 58.66,
+    "end": 58.73
+   },
+   {
+    "word": "duermen",
+    "start": 58.73,
+    "end": 59.215
+   },
+   {
+    "word": "en",
+    "start": 59.215,
+    "end": 59.354
+   },
+   {
+    "word": "promedio",
+    "start": 59.354,
+    "end": 59.908
+   },
+   {
+    "word": "90",
+    "start": 59.908,
+    "end": 60.047
+   },
+   {
+    "word": "minutos",
+    "start": 60.047,
+    "end": 60.532
+   },
+   {
+    "word": "más",
+    "start": 60.532,
+    "end": 60.74
+   },
+   {
+    "word": "por",
+    "start": 60.74,
+    "end": 61.034
+   },
+   {
+    "word": "noche.",
+    "start": 61.034,
+    "end": 61.456
+   }
+  ]
+ },
+ {
+  "id": "S03_F016",
+  "scene": "HÁBITO 1 — Tres Cosas Buenas",
+  "shot": "WIDE SHOT",
+  "es": "Presta atención a esto: no se trata de sentir gratitud en abstracto.",
+  "visual": "Figure sits up, alert explanatory posture, a faint vague cloudy thought-bubble is crossed out gently with an accent-colored X.",
+  "start": 62.068,
+  "end": 67.488,
+  "words": [
+   {
+    "word": "Presta",
+    "start": 62.681,
+    "end": 63.063
+   },
+   {
+    "word": "atención",
+    "start": 63.063,
+    "end": 63.573
+   },
+   {
+    "word": "a",
+    "start": 63.573,
+    "end": 63.637
+   },
+   {
+    "word": "esto:",
+    "start": 63.637,
+    "end": 63.892
+   },
+   {
+    "word": "no",
+    "start": 63.892,
+    "end": 64.449
+   },
+   {
+    "word": "se",
+    "start": 64.449,
+    "end": 64.576
+   },
+   {
+    "word": "trata",
+    "start": 64.576,
+    "end": 64.895
+   },
+   {
+    "word": "de",
+    "start": 64.895,
+    "end": 65.022
+   },
+   {
+    "word": "sentir",
+    "start": 65.022,
+    "end": 65.405
+   },
+   {
+    "word": "gratitud",
+    "start": 65.405,
+    "end": 65.998
+   },
+   {
+    "word": "en",
+    "start": 65.998,
+    "end": 66.126
+   },
+   {
+    "word": "abstracto.",
+    "start": 66.126,
+    "end": 66.864
+   }
+  ]
+ },
+ {
+  "id": "S03_F017",
+  "scene": "HÁBITO 1 — Tres Cosas Buenas",
+  "shot": "MEDIUM SHOT",
+  "es": "Se trata de escribir cosas específicas —",
+  "visual": "The vague cloud thought-bubble is replaced by a small sharp, clearly outlined glowing detail-icon.",
+  "start": 67.488,
+  "end": 70.661,
+  "words": [
+   {
+    "word": "Se",
+    "start": 68.112,
+    "end": 68.238
+   },
+   {
+    "word": "trata",
+    "start": 68.238,
+    "end": 68.551
+   },
+   {
+    "word": "de",
+    "start": 68.551,
+    "end": 68.676
+   },
+   {
+    "word": "escribir",
+    "start": 68.676,
+    "end": 69.261
+   },
+   {
+    "word": "cosas",
+    "start": 69.261,
+    "end": 69.574
+   },
+   {
+    "word": "específicas",
+    "start": 69.574,
+    "end": 70.418
+   },
+   {
+    "word": "—",
+    "start": 70.418,
+    "end": 70.481
+   }
+  ]
+ },
+ {
+  "id": "S03_F018",
+  "scene": "HÁBITO 1 — Tres Cosas Buenas",
+  "shot": "CLOSE-UP",
+  "es": "no \"estoy agradecido por mi familia\", sino \"mi hermana me llamó justo cuando lo necesitaba\".",
+  "visual": "Close-up on the notebook page, a generic faint line fades while a specific, vivid glowing line brightens clearly beside it.",
+  "start": 70.661,
+  "end": 76.684,
+  "words": [
+   {
+    "word": "no",
+    "start": 70.84,
+    "end": 70.965
+   },
+   {
+    "word": "\"estoy",
+    "start": 70.965,
+    "end": 71.559
+   },
+   {
+    "word": "agradecido",
+    "start": 71.559,
+    "end": 72.18
+   },
+   {
+    "word": "por",
+    "start": 72.18,
+    "end": 72.366
+   },
+   {
+    "word": "mi",
+    "start": 72.366,
+    "end": 72.491
+   },
+   {
+    "word": "familia\",",
+    "start": 72.491,
+    "end": 72.925
+   },
+   {
+    "word": "sino",
+    "start": 72.925,
+    "end": 73.56
+   },
+   {
+    "word": "\"mi",
+    "start": 73.56,
+    "end": 73.684
+   },
+   {
+    "word": "hermana",
+    "start": 73.684,
+    "end": 74.119
+   },
+   {
+    "word": "me",
+    "start": 74.119,
+    "end": 74.243
+   },
+   {
+    "word": "llamó",
+    "start": 74.243,
+    "end": 74.554
+   },
+   {
+    "word": "justo",
+    "start": 74.554,
+    "end": 74.864
+   },
+   {
+    "word": "cuando",
+    "start": 74.864,
+    "end": 75.237
+   },
+   {
+    "word": "lo",
+    "start": 75.237,
+    "end": 75.361
+   },
+   {
+    "word": "necesitaba\".",
+    "start": 75.361,
+    "end": 76.068
+   }
+  ]
+ },
+ {
+  "id": "S03_F019",
+  "scene": "HÁBITO 1 — Tres Cosas Buenas",
+  "shot": "WIDE SHOT",
+  "es": "Aquí está la clave: entre más concreto el detalle, más fuerte el efecto.",
+  "visual": "Figure holds up the notebook with the bright specific line glowing strongly, satisfied confident expression.",
+  "start": 76.684,
+  "end": 82.498,
+  "words": [
+   {
+    "word": "Aquí",
+    "start": 77.3,
+    "end": 77.55
+   },
+   {
+    "word": "está",
+    "start": 77.55,
+    "end": 77.8
+   },
+   {
+    "word": "la",
+    "start": 77.8,
+    "end": 77.925
+   },
+   {
+    "word": "clave:",
+    "start": 77.925,
+    "end": 78.238
+   },
+   {
+    "word": "entre",
+    "start": 78.238,
+    "end": 78.926
+   },
+   {
+    "word": "más",
+    "start": 78.926,
+    "end": 79.113
+   },
+   {
+    "word": "concreto",
+    "start": 79.113,
+    "end": 79.613
+   },
+   {
+    "word": "el",
+    "start": 79.613,
+    "end": 79.739
+   },
+   {
+    "word": "detalle,",
+    "start": 79.739,
+    "end": 80.256
+   },
+   {
+    "word": "más",
+    "start": 80.256,
+    "end": 80.443
+   },
+   {
+    "word": "fuerte",
+    "start": 80.443,
+    "end": 81.191
+   },
+   {
+    "word": "el",
+    "start": 81.191,
+    "end": 81.316
+   },
+   {
+    "word": "efecto.",
+    "start": 81.316,
+    "end": 81.692
+   }
+  ]
+ },
+ {
+  "id": "S03_F020",
+  "scene": "HÁBITO 1 — Tres Cosas Buenas",
+  "shot": "MEDIUM SHOT",
+  "es": "Tu cerebro no responde a ideas generales.",
+  "visual": "The faint vague cloud icon dims completely into darkness, unresponsive.",
+  "start": 82.498,
+  "end": 86.082,
+  "words": [
+   {
+    "word": "Tu",
+    "start": 83.124,
+    "end": 83.257
+   },
+   {
+    "word": "cerebro",
+    "start": 83.257,
+    "end": 83.723
+   },
+   {
+    "word": "no",
+    "start": 83.723,
+    "end": 83.856
+   },
+   {
+    "word": "responde",
+    "start": 83.856,
+    "end": 84.388
+   },
+   {
+    "word": "a",
+    "start": 84.388,
+    "end": 84.454
+   },
+   {
+    "word": "ideas",
+    "start": 84.454,
+    "end": 84.787
+   },
+   {
+    "word": "generales.",
+    "start": 84.787,
+    "end": 85.464
+   }
+  ]
+ },
+ {
+  "id": "S03_F021",
+  "scene": "HÁBITO 1 — Tres Cosas Buenas",
+  "shot": "CLOSE-UP",
+  "es": "Responde a momentos reales.",
+  "visual": "Close-up, the specific glowing detail-icon pulses warmly and steadily, calm satisfied expression.",
+  "start": 86.082,
+  "end": 88.972,
+  "words": [
+   {
+    "word": "Responde",
+    "start": 86.7,
+    "end": 87.255
+   },
+   {
+    "word": "a",
+    "start": 87.255,
+    "end": 87.325
+   },
+   {
+    "word": "momentos",
+    "start": 87.325,
+    "end": 87.88
+   },
+   {
+    "word": "reales.",
+    "start": 87.88,
+    "end": 88.368
+   }
+  ]
+ },
+ {
+  "id": "S04_F022",
+  "scene": "HÁBITO 2 — Sigue Siendo Principiante",
+  "shot": "WIDE SHOT",
+  "es": "Hábito dos: aprende algo que tu cerebro no sepa hacer todavía —",
+  "visual": "Figure sits with a small musical instrument and a language book both nearby, curious open expression.",
+  "start": 88.972,
+  "end": 93.341,
+  "words": [
+   {
+    "word": "Hábito",
+    "start": 89.576,
+    "end": 89.941
+   },
+   {
+    "word": "dos:",
+    "start": 89.941,
+    "end": 90.124
+   },
+   {
+    "word": "aprende",
+    "start": 90.124,
+    "end": 90.893
+   },
+   {
+    "word": "algo",
+    "start": 90.893,
+    "end": 91.137
+   },
+   {
+    "word": "que",
+    "start": 91.137,
+    "end": 91.32
+   },
+   {
+    "word": "tu",
+    "start": 91.32,
+    "end": 91.441
+   },
+   {
+    "word": "cerebro",
+    "start": 91.441,
+    "end": 91.946
+   },
+   {
+    "word": "no",
+    "start": 91.946,
+    "end": 92.068
+   },
+   {
+    "word": "sepa",
+    "start": 92.068,
+    "end": 92.312
+   },
+   {
+    "word": "hacer",
+    "start": 92.312,
+    "end": 92.616
+   },
+   {
+    "word": "todavía",
+    "start": 92.616,
+    "end": 93.157
+   },
+   {
+    "word": "—",
+    "start": 93.157,
+    "end": 93.218
+   }
+  ]
+ },
+ {
+  "id": "S04_F023",
+  "scene": "HÁBITO 2 — Sigue Siendo Principiante",
+  "shot": "MEDIUM SHOT",
+  "es": "un idioma, un instrumento, una habilidad manual.",
+  "visual": "Three faint glowing icons float briefly beside the figure: a speech bubble, a musical note, and a small tool.",
+  "start": 93.341,
+  "end": 97.162,
+  "words": [
+   {
+    "word": "un",
+    "start": 93.465,
+    "end": 93.587
+   },
+   {
+    "word": "idioma,",
+    "start": 93.587,
+    "end": 93.955
+   },
+   {
+    "word": "un",
+    "start": 93.955,
+    "end": 94.078
+   },
+   {
+    "word": "instrumento,",
+    "start": 94.078,
+    "end": 95.157
+   },
+   {
+    "word": "una",
+    "start": 95.157,
+    "end": 95.629
+   },
+   {
+    "word": "habilidad",
+    "start": 95.629,
+    "end": 96.181
+   },
+   {
+    "word": "manual.",
+    "start": 96.181,
+    "end": 96.549
+   }
+  ]
+ },
+ {
+  "id": "S04_F024",
+  "scene": "HÁBITO 2 — Sigue Siendo Principiante",
+  "shot": "CLOSE-UP",
+  "es": "El psiquiatra Norman Doidge, autor de \"El Cerebro Se Cambia a Sí Mismo\",",
+  "visual": "Close-up, thoughtful narrating expression, a faint glowing brain icon with soft shifting light patterns across it.",
+  "start": 97.162,
+  "end": 102.145,
+  "words": [
+   {
+    "word": "El",
+    "start": 97.775,
+    "end": 97.908
+   },
+   {
+    "word": "psiquiatra",
+    "start": 97.908,
+    "end": 98.573
+   },
+   {
+    "word": "Norman",
+    "start": 98.573,
+    "end": 98.972
+   },
+   {
+    "word": "Doidge,",
+    "start": 98.972,
+    "end": 99.594
+   },
+   {
+    "word": "autor",
+    "start": 99.594,
+    "end": 99.926
+   },
+   {
+    "word": "de",
+    "start": 99.926,
+    "end": 100.059
+   },
+   {
+    "word": "\"El",
+    "start": 100.059,
+    "end": 100.353
+   },
+   {
+    "word": "Cerebro",
+    "start": 100.353,
+    "end": 100.818
+   },
+   {
+    "word": "Se",
+    "start": 100.818,
+    "end": 100.951
+   },
+   {
+    "word": "Cambia",
+    "start": 100.951,
+    "end": 101.433
+   },
+   {
+    "word": "a",
+    "start": 101.433,
+    "end": 101.5
+   },
+   {
+    "word": "Sí",
+    "start": 101.5,
+    "end": 101.633
+   },
+   {
+    "word": "Mismo\",",
+    "start": 101.633,
+    "end": 101.965
+   }
+  ]
+ },
+ {
+  "id": "S04_F025",
+  "scene": "HÁBITO 2 — Sigue Siendo Principiante",
+  "shot": "MEDIUM SHOT",
+  "es": "documentó décadas de casos donde el cerebro adulto seguía formando conexiones nuevas",
+  "visual": "The glowing brain icon shows small new connecting lines forming steadily across it, figure watches with interest.",
+  "start": 102.145,
+  "end": 107.49,
+  "words": [
+   {
+    "word": "documentó",
+    "start": 102.326,
+    "end": 102.943
+   },
+   {
+    "word": "décadas",
+    "start": 102.943,
+    "end": 103.423
+   },
+   {
+    "word": "de",
+    "start": 103.423,
+    "end": 103.56
+   },
+   {
+    "word": "casos",
+    "start": 103.56,
+    "end": 103.903
+   },
+   {
+    "word": "donde",
+    "start": 103.903,
+    "end": 104.246
+   },
+   {
+    "word": "el",
+    "start": 104.246,
+    "end": 104.383
+   },
+   {
+    "word": "cerebro",
+    "start": 104.383,
+    "end": 104.863
+   },
+   {
+    "word": "adulto",
+    "start": 104.863,
+    "end": 105.379
+   },
+   {
+    "word": "seguía",
+    "start": 105.379,
+    "end": 105.79
+   },
+   {
+    "word": "formando",
+    "start": 105.79,
+    "end": 106.339
+   },
+   {
+    "word": "conexiones",
+    "start": 106.339,
+    "end": 107.025
+   },
+   {
+    "word": "nuevas",
+    "start": 107.025,
+    "end": 107.436
+   }
+  ]
+ },
+ {
+  "id": "S04_F026",
+  "scene": "HÁBITO 2 — Sigue Siendo Principiante",
+  "shot": "WIDE SHOT",
+  "es": "mucho después de la edad en que la ciencia asumía que ya era imposible.",
+  "visual": "A faint ghost-outline of an older figure stands confidently beside the glowing brain icon, disproving an old outdated assumption icon fading nearby.",
+  "start": 107.49,
+  "end": 111.036,
+  "words": [
+   {
+    "word": "mucho",
+    "start": 107.544,
+    "end": 107.776
+   },
+   {
+    "word": "después",
+    "start": 107.776,
+    "end": 108.178
+   },
+   {
+    "word": "de",
+    "start": 108.178,
+    "end": 108.271
+   },
+   {
+    "word": "la",
+    "start": 108.271,
+    "end": 108.363
+   },
+   {
+    "word": "edad",
+    "start": 108.363,
+    "end": 108.549
+   },
+   {
+    "word": "en",
+    "start": 108.549,
+    "end": 108.642
+   },
+   {
+    "word": "que",
+    "start": 108.642,
+    "end": 108.781
+   },
+   {
+    "word": "la",
+    "start": 108.781,
+    "end": 108.874
+   },
+   {
+    "word": "ciencia",
+    "start": 108.874,
+    "end": 109.199
+   },
+   {
+    "word": "asumía",
+    "start": 109.199,
+    "end": 109.549
+   },
+   {
+    "word": "que",
+    "start": 109.549,
+    "end": 109.688
+   },
+   {
+    "word": "ya",
+    "start": 109.688,
+    "end": 109.781
+   },
+   {
+    "word": "era",
+    "start": 109.781,
+    "end": 110.001
+   },
+   {
+    "word": "imposible.",
+    "start": 110.001,
+    "end": 110.419
+   }
+  ]
+ },
+ {
+  "id": "S04_F027",
+  "scene": "HÁBITO 2 — Sigue Siendo Principiante",
+  "shot": "MEDIUM SHOT",
+  "es": "Esto es lo que nadie te dice: tu cerebro no deja de ser moldeable",
+  "visual": "Figure gestures toward the brain icon which stays soft and flexible-looking rather than rigid, reassuring expression.",
+  "start": 111.036,
+  "end": 116.378,
+  "words": [
+   {
+    "word": "Esto",
+    "start": 111.653,
+    "end": 111.959
+   },
+   {
+    "word": "es",
+    "start": 111.959,
+    "end": 112.112
+   },
+   {
+    "word": "lo",
+    "start": 112.112,
+    "end": 112.264
+   },
+   {
+    "word": "que",
+    "start": 112.264,
+    "end": 112.494
+   },
+   {
+    "word": "nadie",
+    "start": 112.494,
+    "end": 112.876
+   },
+   {
+    "word": "te",
+    "start": 112.876,
+    "end": 113.029
+   },
+   {
+    "word": "dice:",
+    "start": 113.029,
+    "end": 113.775
+   },
+   {
+    "word": "tu",
+    "start": 113.775,
+    "end": 113.928
+   },
+   {
+    "word": "cerebro",
+    "start": 113.928,
+    "end": 114.463
+   },
+   {
+    "word": "no",
+    "start": 114.463,
+    "end": 114.616
+   },
+   {
+    "word": "deja",
+    "start": 114.616,
+    "end": 114.922
+   },
+   {
+    "word": "de",
+    "start": 114.922,
+    "end": 115.075
+   },
+   {
+    "word": "ser",
+    "start": 115.075,
+    "end": 115.304
+   },
+   {
+    "word": "moldeable",
+    "start": 115.304,
+    "end": 116.164
+   }
+  ]
+ },
+ {
+  "id": "S04_F028",
+  "scene": "HÁBITO 2 — Sigue Siendo Principiante",
+  "shot": "CLOSE-UP",
+  "es": "a los treinta, los cuarenta, ni los setenta años.",
+  "visual": "Close-up, three faint age-markers (30, 40, 70 shown as simple dot progressions, not literal numerals) pass by with the brain icon staying equally bright at each.",
+  "start": 116.378,
+  "end": 119.62,
+  "words": [
+   {
+    "word": "a",
+    "start": 116.592,
+    "end": 116.642
+   },
+   {
+    "word": "los",
+    "start": 116.642,
+    "end": 116.792
+   },
+   {
+    "word": "treinta,",
+    "start": 116.792,
+    "end": 117.221
+   },
+   {
+    "word": "los",
+    "start": 117.221,
+    "end": 117.743
+   },
+   {
+    "word": "cuarenta,",
+    "start": 117.743,
+    "end": 118.144
+   },
+   {
+    "word": "ni",
+    "start": 118.144,
+    "end": 118.244
+   },
+   {
+    "word": "los",
+    "start": 118.244,
+    "end": 118.394
+   },
+   {
+    "word": "setenta",
+    "start": 118.394,
+    "end": 118.82
+   },
+   {
+    "word": "años.",
+    "start": 118.82,
+    "end": 119.02
+   }
+  ]
+ },
+ {
+  "id": "S04_F029",
+  "scene": "HÁBITO 2 — Sigue Siendo Principiante",
+  "shot": "MEDIUM SHOT",
+  "es": "Deja de moldearse cuando dejas de exigirle algo nuevo.",
+  "visual": "The brain icon dims only when the figure turns away from the instrument/book icons, disinterested posture briefly shown.",
+  "start": 119.62,
+  "end": 123.666,
+  "words": [
+   {
+    "word": "Deja",
+    "start": 120.22,
+    "end": 120.468
+   },
+   {
+    "word": "de",
+    "start": 120.468,
+    "end": 120.593
+   },
+   {
+    "word": "moldearse",
+    "start": 120.593,
+    "end": 121.152
+   },
+   {
+    "word": "cuando",
+    "start": 121.152,
+    "end": 121.524
+   },
+   {
+    "word": "dejas",
+    "start": 121.524,
+    "end": 121.835
+   },
+   {
+    "word": "de",
+    "start": 121.835,
+    "end": 121.959
+   },
+   {
+    "word": "exigirle",
+    "start": 121.959,
+    "end": 122.456
+   },
+   {
+    "word": "algo",
+    "start": 122.456,
+    "end": 122.704
+   },
+   {
+    "word": "nuevo.",
+    "start": 122.704,
+    "end": 123.015
+   }
+  ]
+ },
+ {
+  "id": "S04_F030",
+  "scene": "HÁBITO 2 — Sigue Siendo Principiante",
+  "shot": "WIDE SHOT",
+  "es": "Aquí está la clave: no necesitas dominarlo.",
+  "visual": "Figure picks the instrument back up, imperfect but engaged posture, calm accepting expression.",
+  "start": 123.666,
+  "end": 127.685,
+  "words": [
+   {
+    "word": "Aquí",
+    "start": 124.316,
+    "end": 124.572
+   },
+   {
+    "word": "está",
+    "start": 124.572,
+    "end": 124.829
+   },
+   {
+    "word": "la",
+    "start": 124.829,
+    "end": 124.957
+   },
+   {
+    "word": "clave:",
+    "start": 124.957,
+    "end": 125.348
+   },
+   {
+    "word": "no",
+    "start": 125.348,
+    "end": 125.897
+   },
+   {
+    "word": "necesitas",
+    "start": 125.897,
+    "end": 126.474
+   },
+   {
+    "word": "dominarlo.",
+    "start": 126.474,
+    "end": 127.051
+   }
+  ]
+ },
+ {
+  "id": "S04_F031",
+  "scene": "HÁBITO 2 — Sigue Siendo Principiante",
+  "shot": "MEDIUM SHOT",
+  "es": "Necesitas seguir siendo principiante en algo, a propósito, el resto de tu vida.",
+  "visual": "The brain icon glows steadily brighter the longer the figure practices clumsily but persistently, determined content expression.",
+  "start": 127.685,
+  "end": 133.957,
+  "words": [
+   {
+    "word": "Necesitas",
+    "start": 128.318,
+    "end": 128.901
+   },
+   {
+    "word": "seguir",
+    "start": 128.901,
+    "end": 129.289
+   },
+   {
+    "word": "siendo",
+    "start": 129.289,
+    "end": 129.677
+   },
+   {
+    "word": "principiante",
+    "start": 129.677,
+    "end": 130.454
+   },
+   {
+    "word": "en",
+    "start": 130.454,
+    "end": 130.584
+   },
+   {
+    "word": "algo,",
+    "start": 130.584,
+    "end": 131.19
+   },
+   {
+    "word": "a",
+    "start": 131.19,
+    "end": 131.254
+   },
+   {
+    "word": "propósito,",
+    "start": 131.254,
+    "end": 132.006
+   },
+   {
+    "word": "el",
+    "start": 132.006,
+    "end": 132.501
+   },
+   {
+    "word": "resto",
+    "start": 132.501,
+    "end": 132.825
+   },
+   {
+    "word": "de",
+    "start": 132.825,
+    "end": 132.955
+   },
+   {
+    "word": "tu",
+    "start": 132.955,
+    "end": 133.084
+   },
+   {
+    "word": "vida.",
+    "start": 133.084,
+    "end": 133.343
+   }
+  ]
+ },
+ {
+  "id": "S04_F032",
+  "scene": "HÁBITO 2 — Sigue Siendo Principiante",
+  "shot": "CLOSE-UP",
+  "es": "Esa incomodidad de no saber es exactamente la señal de que tu cerebro está creciendo.",
+  "visual": "Close-up, a slightly awkward but genuinely pleased expression, the new connecting lines on the brain icon glow warmly in accent color.",
+  "start": 133.957,
+  "end": 139.695,
+  "words": [
+   {
+    "word": "Esa",
+    "start": 134.572,
+    "end": 134.757
+   },
+   {
+    "word": "incomodidad",
+    "start": 134.757,
+    "end": 135.435
+   },
+   {
+    "word": "de",
+    "start": 135.435,
+    "end": 135.558
+   },
+   {
+    "word": "no",
+    "start": 135.558,
+    "end": 135.681
+   },
+   {
+    "word": "saber",
+    "start": 135.681,
+    "end": 135.989
+   },
+   {
+    "word": "es",
+    "start": 135.989,
+    "end": 136.113
+   },
+   {
+    "word": "exactamente",
+    "start": 136.113,
+    "end": 136.9
+   },
+   {
+    "word": "la",
+    "start": 136.9,
+    "end": 137.023
+   },
+   {
+    "word": "señal",
+    "start": 137.023,
+    "end": 137.331
+   },
+   {
+    "word": "de",
+    "start": 137.331,
+    "end": 137.454
+   },
+   {
+    "word": "que",
+    "start": 137.454,
+    "end": 137.639
+   },
+   {
+    "word": "tu",
+    "start": 137.639,
+    "end": 137.837
+   },
+   {
+    "word": "cerebro",
+    "start": 137.837,
+    "end": 138.269
+   },
+   {
+    "word": "está",
+    "start": 138.269,
+    "end": 138.515
+   },
+   {
+    "word": "creciendo.",
+    "start": 138.515,
+    "end": 139.07
+   }
+  ]
+ },
+ {
+  "id": "S05_F033",
+  "scene": "HÁBITO 3 — Veinte Minutos de Movimiento",
+  "shot": "WIDE SHOT",
+  "es": "Hábito tres: mueve tu cuerpo con intensidad, aunque sean veinte minutos.",
+  "visual": "Figure mid-run outdoors at sunrise, determined energetic expression, a faint glowing twenty-minute timer arc beside them.",
+  "start": 139.695,
+  "end": 145.566,
+  "words": [
+   {
+    "word": "Hábito",
+    "start": 140.32,
+    "end": 140.772
+   },
+   {
+    "word": "tres:",
+    "start": 140.772,
+    "end": 141.025
+   },
+   {
+    "word": "mueve",
+    "start": 141.025,
+    "end": 141.714
+   },
+   {
+    "word": "tu",
+    "start": 141.714,
+    "end": 141.841
+   },
+   {
+    "word": "cuerpo",
+    "start": 141.841,
+    "end": 142.296
+   },
+   {
+    "word": "con",
+    "start": 142.296,
+    "end": 142.485
+   },
+   {
+    "word": "intensidad,",
+    "start": 142.485,
+    "end": 143.116
+   },
+   {
+    "word": "aunque",
+    "start": 143.116,
+    "end": 143.793
+   },
+   {
+    "word": "sean",
+    "start": 143.793,
+    "end": 144.046
+   },
+   {
+    "word": "veinte",
+    "start": 144.046,
+    "end": 144.425
+   },
+   {
+    "word": "minutos.",
+    "start": 144.425,
+    "end": 144.957
+   }
+  ]
+ },
+ {
+  "id": "S05_F034",
+  "scene": "HÁBITO 3 — Veinte Minutos de Movimiento",
+  "shot": "MEDIUM SHOT",
+  "es": "El psiquiatra John Ratey, de Harvard, lo resume en su libro \"Spark\":",
+  "visual": "Close-up shift, thoughtful narrating expression, a faint glowing open-book icon with a small spark/flame mark rising from its pages.",
+  "start": 145.566,
+  "end": 150.764,
+  "words": [
+   {
+    "word": "El",
+    "start": 146.176,
+    "end": 146.3
+   },
+   {
+    "word": "psiquiatra",
+    "start": 146.3,
+    "end": 146.92
+   },
+   {
+    "word": "John",
+    "start": 146.92,
+    "end": 147.169
+   },
+   {
+    "word": "Ratey,",
+    "start": 147.169,
+    "end": 147.845
+   },
+   {
+    "word": "de",
+    "start": 147.845,
+    "end": 147.969
+   },
+   {
+    "word": "Harvard,",
+    "start": 147.969,
+    "end": 148.403
+   },
+   {
+    "word": "lo",
+    "start": 148.403,
+    "end": 148.901
+   },
+   {
+    "word": "resume",
+    "start": 148.901,
+    "end": 149.273
+   },
+   {
+    "word": "en",
+    "start": 149.273,
+    "end": 149.398
+   },
+   {
+    "word": "su",
+    "start": 149.398,
+    "end": 149.522
+   },
+   {
+    "word": "libro",
+    "start": 149.522,
+    "end": 149.832
+   },
+   {
+    "word": "\"Spark\":",
+    "start": 149.832,
+    "end": 150.449
+   }
+  ]
+ },
+ {
+  "id": "S05_F035",
+  "scene": "HÁBITO 3 — Veinte Minutos de Movimiento",
+  "shot": "CLOSE-UP",
+  "es": "el ejercicio no solo cambia tu cuerpo, cambia literalmente la química de tu cerebro —",
+  "visual": "Close-up, the brain icon from earlier reappears, now with small glowing sparks flickering actively across it.",
+  "start": 150.764,
+  "end": 155.94,
+  "words": [
+   {
+    "word": "el",
+    "start": 150.968,
+    "end": 151.078
+   },
+   {
+    "word": "ejercicio",
+    "start": 151.078,
+    "end": 151.576
+   },
+   {
+    "word": "no",
+    "start": 151.576,
+    "end": 151.686
+   },
+   {
+    "word": "solo",
+    "start": 151.686,
+    "end": 151.907
+   },
+   {
+    "word": "cambia",
+    "start": 151.907,
+    "end": 152.238
+   },
+   {
+    "word": "tu",
+    "start": 152.238,
+    "end": 152.349
+   },
+   {
+    "word": "cuerpo,",
+    "start": 152.349,
+    "end": 152.764
+   },
+   {
+    "word": "cambia",
+    "start": 152.764,
+    "end": 153.682
+   },
+   {
+    "word": "literalmente",
+    "start": 153.682,
+    "end": 154.345
+   },
+   {
+    "word": "la",
+    "start": 154.345,
+    "end": 154.456
+   },
+   {
+    "word": "química",
+    "start": 154.456,
+    "end": 154.99
+   },
+   {
+    "word": "de",
+    "start": 154.99,
+    "end": 155.101
+   },
+   {
+    "word": "tu",
+    "start": 155.101,
+    "end": 155.294
+   },
+   {
+    "word": "cerebro",
+    "start": 155.294,
+    "end": 155.681
+   },
+   {
+    "word": "—",
+    "start": 155.681,
+    "end": 155.736
+   }
+  ]
+ },
+ {
+  "id": "S05_F036",
+  "scene": "HÁBITO 3 — Veinte Minutos de Movimiento",
+  "shot": "MEDIUM SHOT",
+  "es": "libera proteínas como el BDNF, que ayudan a formar nuevas neuronas,",
+  "visual": "Small glowing particle-like dots spread outward from the sparking brain icon, forming tiny new connecting nodes.",
+  "start": 155.94,
+  "end": 160.848,
+  "words": [
+   {
+    "word": "libera",
+    "start": 156.145,
+    "end": 156.649
+   },
+   {
+    "word": "proteínas",
+    "start": 156.649,
+    "end": 157.443
+   },
+   {
+    "word": "como",
+    "start": 157.443,
+    "end": 157.731
+   },
+   {
+    "word": "el",
+    "start": 157.731,
+    "end": 157.876
+   },
+   {
+    "word": "BDNF,",
+    "start": 157.876,
+    "end": 158.165
+   },
+   {
+    "word": "que",
+    "start": 158.165,
+    "end": 158.711
+   },
+   {
+    "word": "ayudan",
+    "start": 158.711,
+    "end": 159.144
+   },
+   {
+    "word": "a",
+    "start": 159.144,
+    "end": 159.216
+   },
+   {
+    "word": "formar",
+    "start": 159.216,
+    "end": 159.65
+   },
+   {
+    "word": "nuevas",
+    "start": 159.65,
+    "end": 160.083
+   },
+   {
+    "word": "neuronas,",
+    "start": 160.083,
+    "end": 160.661
+   }
+  ]
+ },
+ {
+  "id": "S05_F037",
+  "scene": "HÁBITO 3 — Veinte Minutos de Movimiento",
+  "shot": "WIDE SHOT",
+  "es": "sobre todo en las zonas relacionadas con la memoria y el estado de ánimo.",
+  "visual": "Two specific regions of the glowing brain icon brighten more than the rest, figure continues running steadily in the foreground.",
+  "start": 160.848,
+  "end": 165.26,
+  "words": [
+   {
+    "word": "sobre",
+    "start": 161.035,
+    "end": 161.412
+   },
+   {
+    "word": "todo",
+    "start": 161.412,
+    "end": 161.65
+   },
+   {
+    "word": "en",
+    "start": 161.65,
+    "end": 161.769
+   },
+   {
+    "word": "las",
+    "start": 161.769,
+    "end": 161.948
+   },
+   {
+    "word": "zonas",
+    "start": 161.948,
+    "end": 162.246
+   },
+   {
+    "word": "relacionadas",
+    "start": 162.246,
+    "end": 162.96
+   },
+   {
+    "word": "con",
+    "start": 162.96,
+    "end": 163.139
+   },
+   {
+    "word": "la",
+    "start": 163.139,
+    "end": 163.258
+   },
+   {
+    "word": "memoria",
+    "start": 163.258,
+    "end": 163.675
+   },
+   {
+    "word": "y",
+    "start": 163.675,
+    "end": 163.735
+   },
+   {
+    "word": "el",
+    "start": 163.735,
+    "end": 163.854
+   },
+   {
+    "word": "estado",
+    "start": 163.854,
+    "end": 164.211
+   },
+   {
+    "word": "de",
+    "start": 164.211,
+    "end": 164.33
+   },
+   {
+    "word": "ánimo.",
+    "start": 164.33,
+    "end": 164.628
+   }
+  ]
+ },
+ {
+  "id": "S05_F038",
+  "scene": "HÁBITO 3 — Veinte Minutos de Movimiento",
+  "shot": "MEDIUM SHOT",
+  "es": "Pero espera — todavía hay más:",
+  "visual": "Figure slows to a steady jog, anticipatory expression, warm rim lighting.",
+  "start": 165.26,
+  "end": 167.894,
+  "words": [
+   {
+    "word": "Pero",
+    "start": 165.892,
+    "end": 166.13
+   },
+   {
+    "word": "espera",
+    "start": 166.13,
+    "end": 166.567
+   },
+   {
+    "word": "—",
+    "start": 166.567,
+    "end": 166.927
+   },
+   {
+    "word": "todavía",
+    "start": 166.927,
+    "end": 167.343
+   },
+   {
+    "word": "hay",
+    "start": 167.343,
+    "end": 167.521
+   },
+   {
+    "word": "más:",
+    "start": 167.521,
+    "end": 167.699
+   }
+  ]
+ },
+ {
+  "id": "S05_F039",
+  "scene": "HÁBITO 3 — Veinte Minutos de Movimiento",
+  "shot": "CLOSE-UP",
+  "es": "sus pacientes con ansiedad y depresión mostraron mejoras comparables a las de algunos medicamentos,",
+  "visual": "Close-up, a faint dark cloud icon (anxiety/depression) shrinks steadily as the sparking brain glow grows, hopeful expression.",
+  "start": 167.894,
+  "end": 173.801,
+  "words": [
+   {
+    "word": "sus",
+    "start": 168.088,
+    "end": 168.358
+   },
+   {
+    "word": "pacientes",
+    "start": 168.358,
+    "end": 168.899
+   },
+   {
+    "word": "con",
+    "start": 168.899,
+    "end": 169.079
+   },
+   {
+    "word": "ansiedad",
+    "start": 169.079,
+    "end": 169.559
+   },
+   {
+    "word": "y",
+    "start": 169.559,
+    "end": 169.725
+   },
+   {
+    "word": "depresión",
+    "start": 169.725,
+    "end": 170.341
+   },
+   {
+    "word": "mostraron",
+    "start": 170.341,
+    "end": 170.881
+   },
+   {
+    "word": "mejoras",
+    "start": 170.881,
+    "end": 171.301
+   },
+   {
+    "word": "comparables",
+    "start": 171.301,
+    "end": 171.962
+   },
+   {
+    "word": "a",
+    "start": 171.962,
+    "end": 172.022
+   },
+   {
+    "word": "las",
+    "start": 172.022,
+    "end": 172.202
+   },
+   {
+    "word": "de",
+    "start": 172.202,
+    "end": 172.322
+   },
+   {
+    "word": "algunos",
+    "start": 172.322,
+    "end": 172.742
+   },
+   {
+    "word": "medicamentos,",
+    "start": 172.742,
+    "end": 173.618
+   }
+  ]
+ },
+ {
+  "id": "S05_F040",
+  "scene": "HÁBITO 3 — Veinte Minutos de Movimiento",
+  "shot": "MEDIUM SHOT",
+  "es": "solo con ejercicio regular.",
+  "visual": "The dark cloud icon dissolves completely, figure stands upright, relieved and energized expression.",
+  "start": 173.801,
+  "end": 176.065,
+  "words": [
+   {
+    "word": "solo",
+    "start": 173.984,
+    "end": 174.232
+   },
+   {
+    "word": "con",
+    "start": 174.232,
+    "end": 174.418
+   },
+   {
+    "word": "ejercicio",
+    "start": 174.418,
+    "end": 174.976
+   },
+   {
+    "word": "regular.",
+    "start": 174.976,
+    "end": 175.41
+   }
+  ]
+ },
+ {
+  "id": "S05_F041",
+  "scene": "HÁBITO 3 — Veinte Minutos de Movimiento",
+  "shot": "WIDE SHOT",
+  "es": "Aquí está la clave: no hace falta un gimnasio ni una hora.",
+  "visual": "A faint ghost-outline gym building and a full clock face both fade away, figure runs freely in an open outdoor space instead.",
+  "start": 176.065,
+  "end": 180.68,
+  "words": [
+   {
+    "word": "Aquí",
+    "start": 176.719,
+    "end": 176.976
+   },
+   {
+    "word": "está",
+    "start": 176.976,
+    "end": 177.233
+   },
+   {
+    "word": "la",
+    "start": 177.233,
+    "end": 177.361
+   },
+   {
+    "word": "clave:",
+    "start": 177.361,
+    "end": 177.682
+   },
+   {
+    "word": "no",
+    "start": 177.682,
+    "end": 178.187
+   },
+   {
+    "word": "hace",
+    "start": 178.187,
+    "end": 178.444
+   },
+   {
+    "word": "falta",
+    "start": 178.444,
+    "end": 178.851
+   },
+   {
+    "word": "un",
+    "start": 178.851,
+    "end": 178.979
+   },
+   {
+    "word": "gimnasio",
+    "start": 178.979,
+    "end": 179.493
+   },
+   {
+    "word": "ni",
+    "start": 179.493,
+    "end": 179.621
+   },
+   {
+    "word": "una",
+    "start": 179.621,
+    "end": 179.814
+   },
+   {
+    "word": "hora.",
+    "start": 179.814,
+    "end": 180.071
+   }
+  ]
+ },
+ {
+  "id": "S05_F042",
+  "scene": "HÁBITO 3 — Veinte Minutos de Movimiento",
+  "shot": "MEDIUM SHOT",
+  "es": "Veinte minutos que te dejen sin aliento, la mayoría de los días,",
+  "visual": "The twenty-minute timer arc from the first frame glows steadily complete, figure breathing hard but standing proud.",
+  "start": 180.68,
+  "end": 185.413,
+  "words": [
+   {
+    "word": "Veinte",
+    "start": 181.288,
+    "end": 181.685
+   },
+   {
+    "word": "minutos",
+    "start": 181.685,
+    "end": 182.148
+   },
+   {
+    "word": "que",
+    "start": 182.148,
+    "end": 182.347
+   },
+   {
+    "word": "te",
+    "start": 182.347,
+    "end": 182.479
+   },
+   {
+    "word": "dejen",
+    "start": 182.479,
+    "end": 182.81
+   },
+   {
+    "word": "sin",
+    "start": 182.81,
+    "end": 183.008
+   },
+   {
+    "word": "aliento,",
+    "start": 183.008,
+    "end": 184.042
+   },
+   {
+    "word": "la",
+    "start": 184.042,
+    "end": 184.174
+   },
+   {
+    "word": "mayoría",
+    "start": 184.174,
+    "end": 184.638
+   },
+   {
+    "word": "de",
+    "start": 184.638,
+    "end": 184.77
+   },
+   {
+    "word": "los",
+    "start": 184.77,
+    "end": 184.968
+   },
+   {
+    "word": "días,",
+    "start": 184.968,
+    "end": 185.233
+   }
+  ]
+ },
+ {
+  "id": "S05_F043",
+  "scene": "HÁBITO 3 — Veinte Minutos de Movimiento",
+  "shot": "CLOSE-UP",
+  "es": "hacen más por tu mente de lo que la mayoría de la gente cree posible.",
+  "visual": "Close-up, calm confident satisfied expression, the sparking brain icon glowing warmly and steadily.",
+  "start": 185.413,
+  "end": 189.472,
+  "words": [
+   {
+    "word": "hacen",
+    "start": 185.593,
+    "end": 185.859
+   },
+   {
+    "word": "más",
+    "start": 185.859,
+    "end": 186.019
+   },
+   {
+    "word": "por",
+    "start": 186.019,
+    "end": 186.324
+   },
+   {
+    "word": "tu",
+    "start": 186.324,
+    "end": 186.43
+   },
+   {
+    "word": "mente",
+    "start": 186.43,
+    "end": 186.697
+   },
+   {
+    "word": "de",
+    "start": 186.697,
+    "end": 186.803
+   },
+   {
+    "word": "lo",
+    "start": 186.803,
+    "end": 186.983
+   },
+   {
+    "word": "que",
+    "start": 186.983,
+    "end": 187.142
+   },
+   {
+    "word": "la",
+    "start": 187.142,
+    "end": 187.249
+   },
+   {
+    "word": "mayoría",
+    "start": 187.249,
+    "end": 187.622
+   },
+   {
+    "word": "de",
+    "start": 187.622,
+    "end": 187.728
+   },
+   {
+    "word": "la",
+    "start": 187.728,
+    "end": 187.835
+   },
+   {
+    "word": "gente",
+    "start": 187.835,
+    "end": 188.179
+   },
+   {
+    "word": "cree",
+    "start": 188.179,
+    "end": 188.478
+   },
+   {
+    "word": "posible.",
+    "start": 188.478,
+    "end": 188.851
+   }
+  ]
+ },
+ {
+  "id": "S06_F044",
+  "scene": "HÁBITO 4 — Relaciones Reales",
+  "shot": "WIDE SHOT",
+  "es": "Hábito cuatro: invierte tiempo real, cara a cara, en al menos una relación cercana esta semana.",
+  "visual": "Figure sits across a small table from a faint ghost-outline second figure, warm attentive expression, no phones visible on the table.",
+  "start": 189.472,
+  "end": 196.899,
+  "words": [
+   {
+    "word": "Hábito",
+    "start": 190.094,
+    "end": 190.542
+   },
+   {
+    "word": "cuatro:",
+    "start": 190.542,
+    "end": 191.264
+   },
+   {
+    "word": "invierte",
+    "start": 191.264,
+    "end": 191.761
+   },
+   {
+    "word": "tiempo",
+    "start": 191.761,
+    "end": 192.133
+   },
+   {
+    "word": "real,",
+    "start": 192.133,
+    "end": 192.381
+   },
+   {
+    "word": "cara",
+    "start": 192.381,
+    "end": 193.084
+   },
+   {
+    "word": "a",
+    "start": 193.084,
+    "end": 193.146
+   },
+   {
+    "word": "cara,",
+    "start": 193.146,
+    "end": 193.487
+   },
+   {
+    "word": "en",
+    "start": 193.487,
+    "end": 194.005
+   },
+   {
+    "word": "al",
+    "start": 194.005,
+    "end": 194.129
+   },
+   {
+    "word": "menos",
+    "start": 194.129,
+    "end": 194.439
+   },
+   {
+    "word": "una",
+    "start": 194.439,
+    "end": 194.625
+   },
+   {
+    "word": "relación",
+    "start": 194.625,
+    "end": 195.121
+   },
+   {
+    "word": "cercana",
+    "start": 195.121,
+    "end": 195.639
+   },
+   {
+    "word": "esta",
+    "start": 195.639,
+    "end": 195.887
+   },
+   {
+    "word": "semana.",
+    "start": 195.887,
+    "end": 196.259
+   }
+  ]
+ },
+ {
+  "id": "S06_F045",
+  "scene": "HÁBITO 4 — Relaciones Reales",
+  "shot": "MEDIUM SHOT",
+  "es": "El psiquiatra Robert Waldinger dirige el Estudio de Desarrollo de Adultos de Harvard —",
+  "visual": "Close-up shift, thoughtful narrating expression, a faint glowing timeline stretching far into the background, suggesting a very long study.",
+  "start": 196.899,
+  "end": 202.079,
+  "words": [
+   {
+    "word": "El",
+    "start": 197.54,
+    "end": 197.654
+   },
+   {
+    "word": "psiquiatra",
+    "start": 197.654,
+    "end": 198.224
+   },
+   {
+    "word": "Robert",
+    "start": 198.224,
+    "end": 198.566
+   },
+   {
+    "word": "Waldinger",
+    "start": 198.566,
+    "end": 199.176
+   },
+   {
+    "word": "dirige",
+    "start": 199.176,
+    "end": 199.518
+   },
+   {
+    "word": "el",
+    "start": 199.518,
+    "end": 199.632
+   },
+   {
+    "word": "Estudio",
+    "start": 199.632,
+    "end": 200.031
+   },
+   {
+    "word": "de",
+    "start": 200.031,
+    "end": 200.145
+   },
+   {
+    "word": "Desarrollo",
+    "start": 200.145,
+    "end": 200.715
+   },
+   {
+    "word": "de",
+    "start": 200.715,
+    "end": 200.828
+   },
+   {
+    "word": "Adultos",
+    "start": 200.828,
+    "end": 201.31
+   },
+   {
+    "word": "de",
+    "start": 201.31,
+    "end": 201.424
+   },
+   {
+    "word": "Harvard",
+    "start": 201.424,
+    "end": 201.823
+   },
+   {
+    "word": "—",
+    "start": 201.823,
+    "end": 201.88
+   }
+  ]
+ },
+ {
+  "id": "S06_F046",
+  "scene": "HÁBITO 4 — Relaciones Reales",
+  "shot": "MEDIUM SHOT",
+  "es": "el estudio más largo sobre la felicidad humana, con casi ochenta años siguiendo a las mismas personas.",
+  "visual": "The timeline shows many small figures walking along it across decades, the same few figures tracked consistently through each stage.",
+  "start": 202.079,
+  "end": 208.524,
+  "words": [
+   {
+    "word": "el",
+    "start": 202.279,
+    "end": 202.402
+   },
+   {
+    "word": "estudio",
+    "start": 202.402,
+    "end": 202.831
+   },
+   {
+    "word": "más",
+    "start": 202.831,
+    "end": 203.016
+   },
+   {
+    "word": "largo",
+    "start": 203.016,
+    "end": 203.322
+   },
+   {
+    "word": "sobre",
+    "start": 203.322,
+    "end": 203.629
+   },
+   {
+    "word": "la",
+    "start": 203.629,
+    "end": 203.752
+   },
+   {
+    "word": "felicidad",
+    "start": 203.752,
+    "end": 204.305
+   },
+   {
+    "word": "humana,",
+    "start": 204.305,
+    "end": 204.673
+   },
+   {
+    "word": "con",
+    "start": 204.673,
+    "end": 205.166
+   },
+   {
+    "word": "casi",
+    "start": 205.166,
+    "end": 205.412
+   },
+   {
+    "word": "ochenta",
+    "start": 205.412,
+    "end": 205.841
+   },
+   {
+    "word": "años",
+    "start": 205.841,
+    "end": 206.087
+   },
+   {
+    "word": "siguiendo",
+    "start": 206.087,
+    "end": 206.639
+   },
+   {
+    "word": "a",
+    "start": 206.639,
+    "end": 206.701
+   },
+   {
+    "word": "las",
+    "start": 206.701,
+    "end": 206.885
+   },
+   {
+    "word": "mismas",
+    "start": 206.885,
+    "end": 207.327
+   },
+   {
+    "word": "personas.",
+    "start": 207.327,
+    "end": 207.913
+   }
+  ]
+ },
+ {
+  "id": "S06_F047",
+  "scene": "HÁBITO 4 — Relaciones Reales",
+  "shot": "WIDE SHOT",
+  "es": "Su conclusión, después de todo ese tiempo y todo ese dinero invertido en investigación, es sorprendentemente simple:",
+  "visual": "Figure gestures toward a large glowing question mark that resolves into a simple small icon, narrating anticipatory tone.",
+  "start": 208.524,
+  "end": 216.367,
+  "words": [
+   {
+    "word": "Su",
+    "start": 209.134,
+    "end": 209.252
+   },
+   {
+    "word": "conclusión,",
+    "start": 209.252,
+    "end": 209.845
+   },
+   {
+    "word": "después",
+    "start": 209.845,
+    "end": 210.609
+   },
+   {
+    "word": "de",
+    "start": 210.609,
+    "end": 210.797
+   },
+   {
+    "word": "todo",
+    "start": 210.797,
+    "end": 211.105
+   },
+   {
+    "word": "ese",
+    "start": 211.105,
+    "end": 211.283
+   },
+   {
+    "word": "tiempo",
+    "start": 211.283,
+    "end": 211.638
+   },
+   {
+    "word": "y",
+    "start": 211.638,
+    "end": 211.698
+   },
+   {
+    "word": "todo",
+    "start": 211.698,
+    "end": 212.029
+   },
+   {
+    "word": "ese",
+    "start": 212.029,
+    "end": 212.206
+   },
+   {
+    "word": "dinero",
+    "start": 212.206,
+    "end": 212.562
+   },
+   {
+    "word": "invertido",
+    "start": 212.562,
+    "end": 213.166
+   },
+   {
+    "word": "en",
+    "start": 213.166,
+    "end": 213.285
+   },
+   {
+    "word": "investigación,",
+    "start": 213.285,
+    "end": 214.055
+   },
+   {
+    "word": "es",
+    "start": 214.055,
+    "end": 214.575
+   },
+   {
+    "word": "sorprendentemente",
+    "start": 214.575,
+    "end": 215.733
+   },
+   {
+    "word": "simple:",
+    "start": 215.733,
+    "end": 216.165
+   }
+  ]
+ },
+ {
+  "id": "S06_F048",
+  "scene": "HÁBITO 4 — Relaciones Reales",
+  "shot": "MEDIUM SHOT",
+  "es": "ni la fama, ni el dinero, ni el éxito profesional predijeron quién envejecía feliz y sano.",
+  "visual": "Three faint ghost-outline icons (a trophy, a stack of coins, a briefcase) dim and fade one by one, unreliable predictors.",
+  "start": 216.367,
+  "end": 222.892,
+  "words": [
+   {
+    "word": "ni",
+    "start": 216.568,
+    "end": 216.706
+   },
+   {
+    "word": "la",
+    "start": 216.706,
+    "end": 216.843
+   },
+   {
+    "word": "fama,",
+    "start": 216.843,
+    "end": 217.119
+   },
+   {
+    "word": "ni",
+    "start": 217.119,
+    "end": 217.257
+   },
+   {
+    "word": "el",
+    "start": 217.257,
+    "end": 217.719
+   },
+   {
+    "word": "dinero,",
+    "start": 217.719,
+    "end": 218.133
+   },
+   {
+    "word": "ni",
+    "start": 218.133,
+    "end": 218.27
+   },
+   {
+    "word": "el",
+    "start": 218.27,
+    "end": 218.73
+   },
+   {
+    "word": "éxito",
+    "start": 218.73,
+    "end": 219.074
+   },
+   {
+    "word": "profesional",
+    "start": 219.074,
+    "end": 219.832
+   },
+   {
+    "word": "predijeron",
+    "start": 219.832,
+    "end": 220.616
+   },
+   {
+    "word": "quién",
+    "start": 220.616,
+    "end": 220.961
+   },
+   {
+    "word": "envejecía",
+    "start": 220.961,
+    "end": 221.58
+   },
+   {
+    "word": "feliz",
+    "start": 221.58,
+    "end": 221.925
+   },
+   {
+    "word": "y",
+    "start": 221.925,
+    "end": 221.994
+   },
+   {
+    "word": "sano.",
+    "start": 221.994,
+    "end": 222.269
+   }
+  ]
+ },
+ {
+  "id": "S06_F049",
+  "scene": "HÁBITO 4 — Relaciones Reales",
+  "shot": "CLOSE-UP",
+  "es": "Fue la calidad de sus relaciones cercanas.",
+  "visual": "Close-up, the two linked-figure icon from the table scene glows warmly bright, calm content expression.",
+  "start": 222.892,
+  "end": 226.338,
+  "words": [
+   {
+    "word": "Fue",
+    "start": 223.515,
+    "end": 223.696
+   },
+   {
+    "word": "la",
+    "start": 223.696,
+    "end": 223.816
+   },
+   {
+    "word": "calidad",
+    "start": 223.816,
+    "end": 224.237
+   },
+   {
+    "word": "de",
+    "start": 224.237,
+    "end": 224.357
+   },
+   {
+    "word": "sus",
+    "start": 224.357,
+    "end": 224.538
+   },
+   {
+    "word": "relaciones",
+    "start": 224.538,
+    "end": 225.14
+   },
+   {
+    "word": "cercanas.",
+    "start": 225.14,
+    "end": 225.726
+   }
+  ]
+ },
+ {
+  "id": "S06_F050",
+  "scene": "HÁBITO 4 — Relaciones Reales",
+  "shot": "MEDIUM SHOT",
+  "es": "Esto es lo que cambia todo: no se trata de tener más contactos.",
+  "visual": "A faint cluster of many small dim contact-icons appears, unremarkable and scattered, figure looks unimpressed by the quantity.",
+  "start": 226.338,
+  "end": 231.327,
+  "words": [
+   {
+    "word": "Esto",
+    "start": 226.95,
+    "end": 227.197
+   },
+   {
+    "word": "es",
+    "start": 227.197,
+    "end": 227.32
+   },
+   {
+    "word": "lo",
+    "start": 227.32,
+    "end": 227.443
+   },
+   {
+    "word": "que",
+    "start": 227.443,
+    "end": 227.628
+   },
+   {
+    "word": "cambia",
+    "start": 227.628,
+    "end": 228.075
+   },
+   {
+    "word": "todo:",
+    "start": 228.075,
+    "end": 228.778
+   },
+   {
+    "word": "no",
+    "start": 228.778,
+    "end": 228.901
+   },
+   {
+    "word": "se",
+    "start": 228.901,
+    "end": 229.025
+   },
+   {
+    "word": "trata",
+    "start": 229.025,
+    "end": 229.333
+   },
+   {
+    "word": "de",
+    "start": 229.333,
+    "end": 229.457
+   },
+   {
+    "word": "tener",
+    "start": 229.457,
+    "end": 229.765
+   },
+   {
+    "word": "más",
+    "start": 229.765,
+    "end": 229.95
+   },
+   {
+    "word": "contactos.",
+    "start": 229.95,
+    "end": 230.716
+   }
+  ]
+ },
+ {
+  "id": "S06_F051",
+  "scene": "HÁBITO 4 — Relaciones Reales",
+  "shot": "WIDE SHOT",
+  "es": "Se trata de la profundidad de unas pocas relaciones reales.",
+  "visual": "The scattered dim icons fade, replaced by a single, deeply glowing pair of linked figures standing close together.",
+  "start": 231.327,
+  "end": 235.702,
+  "words": [
+   {
+    "word": "Se",
+    "start": 231.939,
+    "end": 232.055
+   },
+   {
+    "word": "trata",
+    "start": 232.055,
+    "end": 232.347
+   },
+   {
+    "word": "de",
+    "start": 232.347,
+    "end": 232.463
+   },
+   {
+    "word": "la",
+    "start": 232.463,
+    "end": 232.58
+   },
+   {
+    "word": "profundidad",
+    "start": 232.58,
+    "end": 233.22
+   },
+   {
+    "word": "de",
+    "start": 233.22,
+    "end": 233.337
+   },
+   {
+    "word": "unas",
+    "start": 233.337,
+    "end": 233.655
+   },
+   {
+    "word": "pocas",
+    "start": 233.655,
+    "end": 233.946
+   },
+   {
+    "word": "relaciones",
+    "start": 233.946,
+    "end": 234.529
+   },
+   {
+    "word": "reales.",
+    "start": 234.529,
+    "end": 234.878
+   }
+  ]
+ },
+ {
+  "id": "S06_F052",
+  "scene": "HÁBITO 4 — Relaciones Reales",
+  "shot": "MEDIUM SHOT",
+  "es": "Aquí está la clave: una llamada real, no un mensaje.",
+  "visual": "A faint text-message icon dims and is replaced by a warmly glowing phone-call icon, figure holds it with genuine warmth.",
+  "start": 235.702,
+  "end": 240.463,
+  "words": [
+   {
+    "word": "Aquí",
+    "start": 236.309,
+    "end": 236.586
+   },
+   {
+    "word": "está",
+    "start": 236.586,
+    "end": 236.863
+   },
+   {
+    "word": "la",
+    "start": 236.863,
+    "end": 237.002
+   },
+   {
+    "word": "clave:",
+    "start": 237.002,
+    "end": 237.348
+   },
+   {
+    "word": "una",
+    "start": 237.348,
+    "end": 237.909
+   },
+   {
+    "word": "llamada",
+    "start": 237.909,
+    "end": 238.394
+   },
+   {
+    "word": "real,",
+    "start": 238.394,
+    "end": 238.671
+   },
+   {
+    "word": "no",
+    "start": 238.671,
+    "end": 239.235
+   },
+   {
+    "word": "un",
+    "start": 239.235,
+    "end": 239.373
+   },
+   {
+    "word": "mensaje.",
+    "start": 239.373,
+    "end": 239.858
+   }
+  ]
+ },
+ {
+  "id": "S06_F053",
+  "scene": "HÁBITO 4 — Relaciones Reales",
+  "shot": "CLOSE-UP",
+  "es": "Una comida sin teléfono en la mesa.",
+  "visual": "Close-up on the table from the first frame, a faint smartphone icon is gently set aside, face-down and forgotten.",
+  "start": 240.463,
+  "end": 243.517,
+  "words": [
+   {
+    "word": "Una",
+    "start": 241.068,
+    "end": 241.264
+   },
+   {
+    "word": "comida",
+    "start": 241.264,
+    "end": 241.655
+   },
+   {
+    "word": "sin",
+    "start": 241.655,
+    "end": 241.851
+   },
+   {
+    "word": "teléfono",
+    "start": 241.851,
+    "end": 242.373
+   },
+   {
+    "word": "en",
+    "start": 242.373,
+    "end": 242.504
+   },
+   {
+    "word": "la",
+    "start": 242.504,
+    "end": 242.634
+   },
+   {
+    "word": "mesa.",
+    "start": 242.634,
+    "end": 242.895
+   }
+  ]
+ },
+ {
+  "id": "S06_F054",
+  "scene": "HÁBITO 4 — Relaciones Reales",
+  "shot": "MEDIUM SHOT",
+  "es": "Ese es el hábito que casi nadie prioriza —",
+  "visual": "Figure looks directly and warmly at the ghost-outline second figure across the table, genuine present expression.",
+  "start": 243.517,
+  "end": 246.419,
+  "words": [
+   {
+    "word": "Ese",
+    "start": 244.138,
+    "end": 244.318
+   },
+   {
+    "word": "es",
+    "start": 244.318,
+    "end": 244.438
+   },
+   {
+    "word": "el",
+    "start": 244.438,
+    "end": 244.559
+   },
+   {
+    "word": "hábito",
+    "start": 244.559,
+    "end": 244.919
+   },
+   {
+    "word": "que",
+    "start": 244.919,
+    "end": 245.099
+   },
+   {
+    "word": "casi",
+    "start": 245.099,
+    "end": 245.34
+   },
+   {
+    "word": "nadie",
+    "start": 245.34,
+    "end": 245.64
+   },
+   {
+    "word": "prioriza",
+    "start": 245.64,
+    "end": 246.212
+   },
+   {
+    "word": "—",
+    "start": 246.212,
+    "end": 246.272
+   }
+  ]
+ },
+ {
+  "id": "S06_F055",
+  "scene": "HÁBITO 4 — Relaciones Reales",
+  "shot": "WIDE SHOT",
+  "es": "y el que más predice una vida larga y satisfecha.",
+  "visual": "Wide shot, the two figures at the table glow warmly together, the long timeline from earlier extends peacefully into the far distance behind them.",
+  "start": 246.419,
+  "end": 249.617,
+  "words": [
+   {
+    "word": "y",
+    "start": 246.566,
+    "end": 246.623
+   },
+   {
+    "word": "el",
+    "start": 246.623,
+    "end": 246.808
+   },
+   {
+    "word": "que",
+    "start": 246.808,
+    "end": 246.978
+   },
+   {
+    "word": "más",
+    "start": 246.978,
+    "end": 247.229
+   },
+   {
+    "word": "predice",
+    "start": 247.229,
+    "end": 247.626
+   },
+   {
+    "word": "una",
+    "start": 247.626,
+    "end": 247.796
+   },
+   {
+    "word": "vida",
+    "start": 247.796,
+    "end": 248.023
+   },
+   {
+    "word": "larga",
+    "start": 248.023,
+    "end": 248.307
+   },
+   {
+    "word": "y",
+    "start": 248.307,
+    "end": 248.364
+   },
+   {
+    "word": "satisfecha.",
+    "start": 248.364,
+    "end": 248.931
+   }
+  ]
+ },
+ {
+  "id": "S07_F056",
+  "scene": "HÁBITO 5 — Ahorra Más Mañana",
+  "shot": "WIDE SHOT",
+  "es": "Y hábito cinco — el que casi nunca aparece en estos videos:",
+  "visual": "Figure stands beside a faint glowing wallet/coin icon, slightly wry knowing expression, acknowledging an unusual topic.",
+  "start": 249.617,
+  "end": 254.046,
+  "words": [
+   {
+    "word": "Y",
+    "start": 250.303,
+    "end": 250.37
+   },
+   {
+    "word": "hábito",
+    "start": 250.37,
+    "end": 250.77
+   },
+   {
+    "word": "cinco",
+    "start": 250.77,
+    "end": 251.179
+   },
+   {
+    "word": "—",
+    "start": 251.179,
+    "end": 251.601
+   },
+   {
+    "word": "el",
+    "start": 251.601,
+    "end": 251.734
+   },
+   {
+    "word": "que",
+    "start": 251.734,
+    "end": 251.934
+   },
+   {
+    "word": "casi",
+    "start": 251.934,
+    "end": 252.201
+   },
+   {
+    "word": "nunca",
+    "start": 252.201,
+    "end": 252.534
+   },
+   {
+    "word": "aparece",
+    "start": 252.534,
+    "end": 253.001
+   },
+   {
+    "word": "en",
+    "start": 253.001,
+    "end": 253.135
+   },
+   {
+    "word": "estos",
+    "start": 253.135,
+    "end": 253.468
+   },
+   {
+    "word": "videos:",
+    "start": 253.468,
+    "end": 253.868
+   }
+  ]
+ },
+ {
+  "id": "S07_F057",
+  "scene": "HÁBITO 5 — Ahorra Más Mañana",
+  "shot": "MEDIUM SHOT",
+  "es": "automatiza un pequeño porcentaje de tus ingresos hacia el ahorro,",
+  "visual": "A small glowing coin steadily and automatically diverts from a larger income-stream icon into a separate jar icon.",
+  "start": 254.046,
+  "end": 257.879,
+  "words": [
+   {
+    "word": "automatiza",
+    "start": 254.225,
+    "end": 254.837
+   },
+   {
+    "word": "un",
+    "start": 254.837,
+    "end": 254.96
+   },
+   {
+    "word": "pequeño",
+    "start": 254.96,
+    "end": 255.388
+   },
+   {
+    "word": "porcentaje",
+    "start": 255.388,
+    "end": 256.0
+   },
+   {
+    "word": "de",
+    "start": 256.0,
+    "end": 256.123
+   },
+   {
+    "word": "tus",
+    "start": 256.123,
+    "end": 256.38
+   },
+   {
+    "word": "ingresos",
+    "start": 256.38,
+    "end": 256.87
+   },
+   {
+    "word": "hacia",
+    "start": 256.87,
+    "end": 257.176
+   },
+   {
+    "word": "el",
+    "start": 257.176,
+    "end": 257.299
+   },
+   {
+    "word": "ahorro,",
+    "start": 257.299,
+    "end": 257.666
+   }
+  ]
+ },
+ {
+  "id": "S07_F058",
+  "scene": "HÁBITO 5 — Ahorra Más Mañana",
+  "shot": "CLOSE-UP",
+  "es": "antes de que el dinero llegue a tu cuenta.",
+  "visual": "Close-up on the diversion happening right at the source, before reaching the main account icon, calm deliberate expression.",
+  "start": 257.879,
+  "end": 260.615,
+  "words": [
+   {
+    "word": "antes",
+    "start": 258.091,
+    "end": 258.369
+   },
+   {
+    "word": "de",
+    "start": 258.369,
+    "end": 258.481
+   },
+   {
+    "word": "que",
+    "start": 258.481,
+    "end": 258.648
+   },
+   {
+    "word": "el",
+    "start": 258.648,
+    "end": 258.759
+   },
+   {
+    "word": "dinero",
+    "start": 258.759,
+    "end": 259.093
+   },
+   {
+    "word": "llegue",
+    "start": 259.093,
+    "end": 259.427
+   },
+   {
+    "word": "a",
+    "start": 259.427,
+    "end": 259.483
+   },
+   {
+    "word": "tu",
+    "start": 259.483,
+    "end": 259.594
+   },
+   {
+    "word": "cuenta.",
+    "start": 259.594,
+    "end": 260.009
+   }
+  ]
+ },
+ {
+  "id": "S07_F059",
+  "scene": "HÁBITO 5 — Ahorra Más Mañana",
+  "shot": "MEDIUM SHOT",
+  "es": "El economista Richard Thaler, premio Nobel, junto con Shlomo Benartzi,",
+  "visual": "Thoughtful narrating expression, a faint glowing medal/award icon appears briefly beside the figure.",
+  "start": 260.615,
+  "end": 265.964,
+  "words": [
+   {
+    "word": "El",
+    "start": 261.22,
+    "end": 261.345
+   },
+   {
+    "word": "economista",
+    "start": 261.345,
+    "end": 261.969
+   },
+   {
+    "word": "Richard",
+    "start": 261.969,
+    "end": 262.407
+   },
+   {
+    "word": "Thaler,",
+    "start": 262.407,
+    "end": 262.879
+   },
+   {
+    "word": "premio",
+    "start": 262.879,
+    "end": 263.676
+   },
+   {
+    "word": "Nobel,",
+    "start": 263.676,
+    "end": 263.988
+   },
+   {
+    "word": "junto",
+    "start": 263.988,
+    "end": 264.702
+   },
+   {
+    "word": "con",
+    "start": 264.702,
+    "end": 264.89
+   },
+   {
+    "word": "Shlomo",
+    "start": 264.89,
+    "end": 265.264
+   },
+   {
+    "word": "Benartzi,",
+    "start": 265.264,
+    "end": 265.764
+   }
+  ]
+ },
+ {
+  "id": "S07_F060",
+  "scene": "HÁBITO 5 — Ahorra Más Mañana",
+  "shot": "CLOSE-UP",
+  "es": "diseñó un programa llamado \"Ahorra Más Mañana\":",
+  "visual": "Close-up, a faint glowing calendar icon shows a page turning forward to a future date, hopeful anticipatory expression.",
+  "start": 265.964,
+  "end": 269.011,
+  "words": [
+   {
+    "word": "diseñó",
+    "start": 266.164,
+    "end": 266.548
+   },
+   {
+    "word": "un",
+    "start": 266.548,
+    "end": 266.676
+   },
+   {
+    "word": "programa",
+    "start": 266.676,
+    "end": 267.187
+   },
+   {
+    "word": "llamado",
+    "start": 267.187,
+    "end": 267.863
+   },
+   {
+    "word": "\"Ahorra",
+    "start": 267.863,
+    "end": 268.246
+   },
+   {
+    "word": "Más",
+    "start": 268.246,
+    "end": 268.438
+   },
+   {
+    "word": "Mañana\":",
+    "start": 268.438,
+    "end": 268.822
+   }
+  ]
+ },
+ {
+  "id": "S07_F061",
+  "scene": "HÁBITO 5 — Ahorra Más Mañana",
+  "shot": "WIDE SHOT",
+  "es": "en lugar de pedirle a la gente que ahorre más hoy — algo que casi nadie hace —",
+  "visual": "A faint ghost-outline figure resists reaching toward a savings jar today, reluctant expression, jar staying nearly empty.",
+  "start": 269.011,
+  "end": 273.209,
+  "words": [
+   {
+    "word": "en",
+    "start": 269.2,
+    "end": 269.316
+   },
+   {
+    "word": "lugar",
+    "start": 269.316,
+    "end": 269.607
+   },
+   {
+    "word": "de",
+    "start": 269.607,
+    "end": 269.724
+   },
+   {
+    "word": "pedirle",
+    "start": 269.724,
+    "end": 270.214
+   },
+   {
+    "word": "a",
+    "start": 270.214,
+    "end": 270.272
+   },
+   {
+    "word": "la",
+    "start": 270.272,
+    "end": 270.389
+   },
+   {
+    "word": "gente",
+    "start": 270.389,
+    "end": 270.68
+   },
+   {
+    "word": "que",
+    "start": 270.68,
+    "end": 270.854
+   },
+   {
+    "word": "ahorre",
+    "start": 270.854,
+    "end": 271.203
+   },
+   {
+    "word": "más",
+    "start": 271.203,
+    "end": 271.378
+   },
+   {
+    "word": "hoy",
+    "start": 271.378,
+    "end": 271.796
+   },
+   {
+    "word": "—",
+    "start": 271.796,
+    "end": 271.854
+   },
+   {
+    "word": "algo",
+    "start": 271.854,
+    "end": 272.087
+   },
+   {
+    "word": "que",
+    "start": 272.087,
+    "end": 272.261
+   },
+   {
+    "word": "casi",
+    "start": 272.261,
+    "end": 272.494
+   },
+   {
+    "word": "nadie",
+    "start": 272.494,
+    "end": 272.785
+   },
+   {
+    "word": "hace",
+    "start": 272.785,
+    "end": 273.018
+   },
+   {
+    "word": "—",
+    "start": 273.018,
+    "end": 273.076
+   }
+  ]
+ },
+ {
+  "id": "S07_F062",
+  "scene": "HÁBITO 5 — Ahorra Más Mañana",
+  "shot": "MEDIUM SHOT",
+  "es": "el programa aumenta automáticamente el porcentaje de ahorro cada vez que la persona recibe un aumento de sueldo.",
+  "visual": "Each time a small glowing raise-icon appears above the figure, a proportionally larger coin automatically diverts into the jar without resistance.",
+  "start": 273.209,
+  "end": 279.789,
+  "words": [
+   {
+    "word": "el",
+    "start": 273.341,
+    "end": 273.454
+   },
+   {
+    "word": "programa",
+    "start": 273.454,
+    "end": 273.991
+   },
+   {
+    "word": "aumenta",
+    "start": 273.991,
+    "end": 274.464
+   },
+   {
+    "word": "automáticamente",
+    "start": 274.464,
+    "end": 275.315
+   },
+   {
+    "word": "el",
+    "start": 275.315,
+    "end": 275.502
+   },
+   {
+    "word": "porcentaje",
+    "start": 275.502,
+    "end": 276.147
+   },
+   {
+    "word": "de",
+    "start": 276.147,
+    "end": 276.26
+   },
+   {
+    "word": "ahorro",
+    "start": 276.26,
+    "end": 276.689
+   },
+   {
+    "word": "cada",
+    "start": 276.689,
+    "end": 276.916
+   },
+   {
+    "word": "vez",
+    "start": 276.916,
+    "end": 277.086
+   },
+   {
+    "word": "que",
+    "start": 277.086,
+    "end": 277.336
+   },
+   {
+    "word": "la",
+    "start": 277.336,
+    "end": 277.449
+   },
+   {
+    "word": "persona",
+    "start": 277.449,
+    "end": 277.846
+   },
+   {
+    "word": "recibe",
+    "start": 277.846,
+    "end": 278.187
+   },
+   {
+    "word": "un",
+    "start": 278.187,
+    "end": 278.3
+   },
+   {
+    "word": "aumento",
+    "start": 278.3,
+    "end": 278.697
+   },
+   {
+    "word": "de",
+    "start": 278.697,
+    "end": 278.811
+   },
+   {
+    "word": "sueldo.",
+    "start": 278.811,
+    "end": 279.151
+   }
+  ]
+ },
+ {
+  "id": "S07_F063",
+  "scene": "HÁBITO 5 — Ahorra Más Mañana",
+  "shot": "WIDE SHOT",
+  "es": "Aquí está la clave: los empleados que usaron este sistema casi cuadruplicaron su tasa de ahorro en pocos años,",
+  "visual": "The savings jar grows dramatically larger and brighter over a few passing calendar pages, figure watches with quiet satisfaction.",
+  "start": 279.789,
+  "end": 286.993,
+  "words": [
+   {
+    "word": "Aquí",
+    "start": 280.428,
+    "end": 280.682
+   },
+   {
+    "word": "está",
+    "start": 280.682,
+    "end": 280.936
+   },
+   {
+    "word": "la",
+    "start": 280.936,
+    "end": 281.063
+   },
+   {
+    "word": "clave:",
+    "start": 281.063,
+    "end": 281.455
+   },
+   {
+    "word": "los",
+    "start": 281.455,
+    "end": 282.062
+   },
+   {
+    "word": "empleados",
+    "start": 282.062,
+    "end": 282.634
+   },
+   {
+    "word": "que",
+    "start": 282.634,
+    "end": 282.824
+   },
+   {
+    "word": "usaron",
+    "start": 282.824,
+    "end": 283.205
+   },
+   {
+    "word": "este",
+    "start": 283.205,
+    "end": 283.459
+   },
+   {
+    "word": "sistema",
+    "start": 283.459,
+    "end": 283.904
+   },
+   {
+    "word": "casi",
+    "start": 283.904,
+    "end": 284.158
+   },
+   {
+    "word": "cuadruplicaron",
+    "start": 284.158,
+    "end": 285.047
+   },
+   {
+    "word": "su",
+    "start": 285.047,
+    "end": 285.248
+   },
+   {
+    "word": "tasa",
+    "start": 285.248,
+    "end": 285.502
+   },
+   {
+    "word": "de",
+    "start": 285.502,
+    "end": 285.629
+   },
+   {
+    "word": "ahorro",
+    "start": 285.629,
+    "end": 286.087
+   },
+   {
+    "word": "en",
+    "start": 286.087,
+    "end": 286.214
+   },
+   {
+    "word": "pocos",
+    "start": 286.214,
+    "end": 286.532
+   },
+   {
+    "word": "años,",
+    "start": 286.532,
+    "end": 286.786
+   }
+  ]
+ },
+ {
+  "id": "S07_F064",
+  "scene": "HÁBITO 5 — Ahorra Más Mañana",
+  "shot": "MEDIUM SHOT",
+  "es": "sin sentir que perdían nada, porque nunca llegaron a ver ese dinero en su cuenta.",
+  "visual": "Figure shrugs comfortably, unbothered expression, the main account icon staying visually unchanged and untouched throughout.",
+  "start": 286.993,
+  "end": 292.255,
+  "words": [
+   {
+    "word": "sin",
+    "start": 287.199,
+    "end": 287.37
+   },
+   {
+    "word": "sentir",
+    "start": 287.37,
+    "end": 287.712
+   },
+   {
+    "word": "que",
+    "start": 287.712,
+    "end": 287.966
+   },
+   {
+    "word": "perdían",
+    "start": 287.966,
+    "end": 288.436
+   },
+   {
+    "word": "nada,",
+    "start": 288.436,
+    "end": 288.664
+   },
+   {
+    "word": "porque",
+    "start": 288.664,
+    "end": 289.437
+   },
+   {
+    "word": "nunca",
+    "start": 289.437,
+    "end": 289.723
+   },
+   {
+    "word": "llegaron",
+    "start": 289.723,
+    "end": 290.179
+   },
+   {
+    "word": "a",
+    "start": 290.179,
+    "end": 290.236
+   },
+   {
+    "word": "ver",
+    "start": 290.236,
+    "end": 290.407
+   },
+   {
+    "word": "ese",
+    "start": 290.407,
+    "end": 290.578
+   },
+   {
+    "word": "dinero",
+    "start": 290.578,
+    "end": 290.921
+   },
+   {
+    "word": "en",
+    "start": 290.921,
+    "end": 291.035
+   },
+   {
+    "word": "su",
+    "start": 291.035,
+    "end": 291.149
+   },
+   {
+    "word": "cuenta.",
+    "start": 291.149,
+    "end": 291.65
+   }
+  ]
+ },
+ {
+  "id": "S07_F065",
+  "scene": "HÁBITO 5 — Ahorra Más Mañana",
+  "shot": "CLOSE-UP",
+  "es": "La disciplina financiera, como cualquier otra, funciona mejor cuando no depende de la fuerza de voluntad.",
+  "visual": "Close-up, calm knowing expression, the glowing savings jar sits steady and full beside the figure, no visible strain or effort implied.",
+  "start": 292.255,
+  "end": 299.495,
+  "words": [
+   {
+    "word": "La",
+    "start": 292.861,
+    "end": 292.976
+   },
+   {
+    "word": "disciplina",
+    "start": 292.976,
+    "end": 293.549
+   },
+   {
+    "word": "financiera,",
+    "start": 293.549,
+    "end": 294.122
+   },
+   {
+    "word": "como",
+    "start": 294.122,
+    "end": 294.714
+   },
+   {
+    "word": "cualquier",
+    "start": 294.714,
+    "end": 295.306
+   },
+   {
+    "word": "otra,",
+    "start": 295.306,
+    "end": 295.535
+   },
+   {
+    "word": "funciona",
+    "start": 295.535,
+    "end": 296.348
+   },
+   {
+    "word": "mejor",
+    "start": 296.348,
+    "end": 296.634
+   },
+   {
+    "word": "cuando",
+    "start": 296.634,
+    "end": 297.077
+   },
+   {
+    "word": "no",
+    "start": 297.077,
+    "end": 297.192
+   },
+   {
+    "word": "depende",
+    "start": 297.192,
+    "end": 297.669
+   },
+   {
+    "word": "de",
+    "start": 297.669,
+    "end": 297.783
+   },
+   {
+    "word": "la",
+    "start": 297.783,
+    "end": 297.898
+   },
+   {
+    "word": "fuerza",
+    "start": 297.898,
+    "end": 298.242
+   },
+   {
+    "word": "de",
+    "start": 298.242,
+    "end": 298.357
+   },
+   {
+    "word": "voluntad.",
+    "start": 298.357,
+    "end": 298.929
+   }
+  ]
+ },
+ {
+  "id": "S08_F066",
+  "scene": "EL CIERRE",
+  "shot": "CLOSE-UP",
+  "es": "Cinco hábitos.",
+  "visual": "Close-up, calm direct gaze toward camera, the five glowing dots from the opening arranged in a small steady arc beside the head.",
+  "start": 299.495,
+  "end": 301.603,
+  "words": [
+   {
+    "word": "Cinco",
+    "start": 300.061,
+    "end": 300.42
+   },
+   {
+    "word": "hábitos.",
+    "start": 300.42,
+    "end": 300.997
+   }
+  ]
+ },
+ {
+  "id": "S08_F067",
+  "scene": "EL CIERRE",
+  "shot": "MEDIUM SHOT",
+  "es": "Ninguno necesita que cambie el calendario —",
+  "visual": "The faint calendar page motif from the very first frame reappears, unimportant and set gently aside.",
+  "start": 301.603,
+  "end": 304.601,
+  "words": [
+   {
+    "word": "Ninguno",
+    "start": 302.209,
+    "end": 302.613
+   },
+   {
+    "word": "necesita",
+    "start": 302.613,
+    "end": 303.075
+   },
+   {
+    "word": "que",
+    "start": 303.075,
+    "end": 303.248
+   },
+   {
+    "word": "cambie",
+    "start": 303.248,
+    "end": 303.594
+   },
+   {
+    "word": "el",
+    "start": 303.594,
+    "end": 303.709
+   },
+   {
+    "word": "calendario",
+    "start": 303.709,
+    "end": 304.37
+   },
+   {
+    "word": "—",
+    "start": 304.37,
+    "end": 304.428
+   }
+  ]
+ },
+ {
+  "id": "S08_F068",
+  "scene": "EL CIERRE",
+  "shot": "WIDE SHOT",
+  "es": "solo que empieces hoy, cualquier día que sea hoy.",
+  "visual": "Figure stands tall in warm steady light, the five dots glowing evenly, calm resolute expression.",
+  "start": 304.601,
+  "end": 308.093,
+  "words": [
+   {
+    "word": "solo",
+    "start": 304.773,
+    "end": 305.009
+   },
+   {
+    "word": "que",
+    "start": 305.009,
+    "end": 305.187
+   },
+   {
+    "word": "empieces",
+    "start": 305.187,
+    "end": 305.659
+   },
+   {
+    "word": "hoy,",
+    "start": 305.659,
+    "end": 305.836
+   },
+   {
+    "word": "cualquier",
+    "start": 305.836,
+    "end": 306.768
+   },
+   {
+    "word": "día",
+    "start": 306.768,
+    "end": 306.945
+   },
+   {
+    "word": "que",
+    "start": 306.945,
+    "end": 307.123
+   },
+   {
+    "word": "sea",
+    "start": 307.123,
+    "end": 307.3
+   },
+   {
+    "word": "hoy.",
+    "start": 307.3,
+    "end": 307.477
+   }
+  ]
+ },
+ {
+  "id": "S08_F069",
+  "scene": "EL CIERRE",
+  "shot": "MEDIUM SHOT",
+  "es": "Escribe en los comentarios cuál de los cinco vas a empezar esta semana, no el próximo enero.",
+  "visual": "Figure points directly toward the camera/viewer, warm inviting expression, a faint speech-bubble icon glowing softly in accent color.",
+  "start": 308.093,
+  "end": 314.367,
+  "words": [
+   {
+    "word": "Escribe",
+    "start": 308.709,
+    "end": 309.136
+   },
+   {
+    "word": "en",
+    "start": 309.136,
+    "end": 309.259
+   },
+   {
+    "word": "los",
+    "start": 309.259,
+    "end": 309.442
+   },
+   {
+    "word": "comentarios",
+    "start": 309.442,
+    "end": 310.114
+   },
+   {
+    "word": "cuál",
+    "start": 310.114,
+    "end": 310.358
+   },
+   {
+    "word": "de",
+    "start": 310.358,
+    "end": 310.48
+   },
+   {
+    "word": "los",
+    "start": 310.48,
+    "end": 310.663
+   },
+   {
+    "word": "cinco",
+    "start": 310.663,
+    "end": 310.969
+   },
+   {
+    "word": "vas",
+    "start": 310.969,
+    "end": 311.152
+   },
+   {
+    "word": "a",
+    "start": 311.152,
+    "end": 311.213
+   },
+   {
+    "word": "empezar",
+    "start": 311.213,
+    "end": 311.64
+   },
+   {
+    "word": "esta",
+    "start": 311.64,
+    "end": 311.885
+   },
+   {
+    "word": "semana,",
+    "start": 311.885,
+    "end": 312.251
+   },
+   {
+    "word": "no",
+    "start": 312.251,
+    "end": 312.815
+   },
+   {
+    "word": "el",
+    "start": 312.815,
+    "end": 312.937
+   },
+   {
+    "word": "próximo",
+    "start": 312.937,
+    "end": 313.438
+   },
+   {
+    "word": "enero.",
+    "start": 313.438,
+    "end": 313.743
+   }
+  ]
+ },
+ {
+  "id": "S08_F070",
+  "scene": "EL CIERRE",
+  "shot": "MEDIUM SHOT",
+  "es": "Si este video te sirvió, dale like y suscríbete —",
+  "visual": "Figure gives a genuine thumbs-up gesture with a warm smile, a faint bell icon glows softly beside them.",
+  "start": 314.367,
+  "end": 318.61,
+  "words": [
+   {
+    "word": "Si",
+    "start": 314.991,
+    "end": 315.135
+   },
+   {
+    "word": "este",
+    "start": 315.135,
+    "end": 315.423
+   },
+   {
+    "word": "video",
+    "start": 315.423,
+    "end": 315.782
+   },
+   {
+    "word": "te",
+    "start": 315.782,
+    "end": 315.926
+   },
+   {
+    "word": "sirvió,",
+    "start": 315.926,
+    "end": 316.358
+   },
+   {
+    "word": "dale",
+    "start": 316.358,
+    "end": 316.985
+   },
+   {
+    "word": "like",
+    "start": 316.985,
+    "end": 317.273
+   },
+   {
+    "word": "y",
+    "start": 317.273,
+    "end": 317.345
+   },
+   {
+    "word": "suscríbete",
+    "start": 317.345,
+    "end": 318.316
+   },
+   {
+    "word": "—",
+    "start": 318.316,
+    "end": 318.388
+   }
+  ]
+ },
+ {
+  "id": "S08_F071",
+  "scene": "EL CIERRE",
+  "shot": "WIDE SHOT",
+  "es": "la disciplina no hace ruido.",
+  "visual": "Figure stands calm and still in the quiet dark space, faint warm rim light outlining their silhouette, serene composed expression.",
+  "start": 318.61,
+  "end": 321.26,
+  "words": [
+   {
+    "word": "la",
+    "start": 318.831,
+    "end": 318.941
+   },
+   {
+    "word": "disciplina",
+    "start": 318.941,
+    "end": 319.57
+   },
+   {
+    "word": "no",
+    "start": 319.57,
+    "end": 319.68
+   },
+   {
+    "word": "hace",
+    "start": 319.68,
+    "end": 319.9
+   },
+   {
+    "word": "ruido.",
+    "start": 319.9,
+    "end": 320.175
+   }
+  ]
+ }
+]
