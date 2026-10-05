@@ -1,0 +1,4324 @@
+[
+ {
+  "id": "S01_F001",
+  "scene": "EL GANCHO",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Hay algo que predice quién termina y quién abandona",
+  "visual": "Dark still lighting, figure stands at the base of a steep uphill path, contemplative expression, faint ghost-outline fork in the road ahead.",
+  "start": 0.0,
+  "end": 3.089,
+  "words": [
+   {
+    "word": "Hay",
+    "start": 0.248,
+    "end": 0.442
+   },
+   {
+    "word": "algo",
+    "start": 0.442,
+    "end": 0.702
+   },
+   {
+    "word": "que",
+    "start": 0.702,
+    "end": 0.896
+   },
+   {
+    "word": "predice",
+    "start": 0.896,
+    "end": 1.35
+   },
+   {
+    "word": "quién",
+    "start": 1.35,
+    "end": 1.675
+   },
+   {
+    "word": "termina",
+    "start": 1.675,
+    "end": 2.129
+   },
+   {
+    "word": "y",
+    "start": 2.129,
+    "end": 2.194
+   },
+   {
+    "word": "quién",
+    "start": 2.194,
+    "end": 2.518
+   },
+   {
+    "word": "abandona",
+    "start": 2.518,
+    "end": 3.037
+   }
+  ]
+ },
+ {
+  "id": "S01_F002",
+  "scene": "EL GANCHO",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "mejor que el talento, el coeficiente intelectual o la condición física.",
+  "visual": "Three faint ghost-outline icons (a star for talent, a brain for IQ, a muscle for fitness) fade and dim one by one.",
+  "start": 3.089,
+  "end": 7.681,
+  "words": [
+   {
+    "word": "mejor",
+    "start": 3.14,
+    "end": 3.49
+   },
+   {
+    "word": "que",
+    "start": 3.49,
+    "end": 3.643
+   },
+   {
+    "word": "el",
+    "start": 3.643,
+    "end": 3.842
+   },
+   {
+    "word": "talento,",
+    "start": 3.842,
+    "end": 4.663
+   },
+   {
+    "word": "el",
+    "start": 4.663,
+    "end": 4.764
+   },
+   {
+    "word": "coeficiente",
+    "start": 4.764,
+    "end": 5.323
+   },
+   {
+    "word": "intelectual",
+    "start": 5.323,
+    "end": 6.02
+   },
+   {
+    "word": "o",
+    "start": 6.02,
+    "end": 6.15
+   },
+   {
+    "word": "la",
+    "start": 6.15,
+    "end": 6.252
+   },
+   {
+    "word": "condición",
+    "start": 6.252,
+    "end": 6.709
+   },
+   {
+    "word": "física.",
+    "start": 6.709,
+    "end": 7.11
+   }
+  ]
+ },
+ {
+  "id": "S01_F003",
+  "scene": "EL GANCHO",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "No es glamoroso.",
+  "visual": "Close-up, plain matter-of-fact expression, no dramatic lighting, deliberately understated.",
+  "start": 7.681,
+  "end": 9.793,
+  "words": [
+   {
+    "word": "No",
+    "start": 8.251,
+    "end": 8.391
+   },
+   {
+    "word": "es",
+    "start": 8.391,
+    "end": 8.531
+   },
+   {
+    "word": "glamoroso.",
+    "start": 8.531,
+    "end": 9.159
+   }
+  ]
+ },
+ {
+  "id": "S01_F004",
+  "scene": "EL GANCHO",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Se llama grit — y la mayoría de la gente lo malentiende por completo.",
+  "visual": "A single small glowing accent-colored word-shape (an abstract flame-like mark, not literal text) appears steadily above the figure's head, calm knowing expression.",
+  "start": 9.793,
+  "end": 14.665,
+  "words": [
+   {
+    "word": "Se",
+    "start": 10.428,
+    "end": 10.534
+   },
+   {
+    "word": "llama",
+    "start": 10.534,
+    "end": 10.8
+   },
+   {
+    "word": "grit",
+    "start": 10.8,
+    "end": 11.013
+   },
+   {
+    "word": "—",
+    "start": 11.013,
+    "end": 11.066
+   },
+   {
+    "word": "y",
+    "start": 11.066,
+    "end": 11.455
+   },
+   {
+    "word": "la",
+    "start": 11.455,
+    "end": 11.562
+   },
+   {
+    "word": "mayoría",
+    "start": 11.562,
+    "end": 11.934
+   },
+   {
+    "word": "de",
+    "start": 11.934,
+    "end": 12.04
+   },
+   {
+    "word": "la",
+    "start": 12.04,
+    "end": 12.147
+   },
+   {
+    "word": "gente",
+    "start": 12.147,
+    "end": 12.413
+   },
+   {
+    "word": "lo",
+    "start": 12.413,
+    "end": 12.519
+   },
+   {
+    "word": "malentiende",
+    "start": 12.519,
+    "end": 13.175
+   },
+   {
+    "word": "por",
+    "start": 13.175,
+    "end": 13.413
+   },
+   {
+    "word": "completo.",
+    "start": 13.413,
+    "end": 13.926
+   }
+  ]
+ },
+ {
+  "id": "S02_F005",
+  "scene": "LA PROMESA",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Hoy te explico qué es el grit de verdad, según la investigación real detrás del término —",
+  "visual": "Figure stands facing forward, calm explanatory posture, the glowing flame-mark from before steady and centered beside them.",
+  "start": 14.665,
+  "end": 20.289,
+  "words": [
+   {
+    "word": "Hoy",
+    "start": 15.298,
+    "end": 15.476
+   },
+   {
+    "word": "te",
+    "start": 15.476,
+    "end": 15.595
+   },
+   {
+    "word": "explico",
+    "start": 15.595,
+    "end": 16.011
+   },
+   {
+    "word": "qué",
+    "start": 16.011,
+    "end": 16.189
+   },
+   {
+    "word": "es",
+    "start": 16.189,
+    "end": 16.308
+   },
+   {
+    "word": "el",
+    "start": 16.308,
+    "end": 16.427
+   },
+   {
+    "word": "grit",
+    "start": 16.427,
+    "end": 16.665
+   },
+   {
+    "word": "de",
+    "start": 16.665,
+    "end": 16.784
+   },
+   {
+    "word": "verdad,",
+    "start": 16.784,
+    "end": 17.14
+   },
+   {
+    "word": "según",
+    "start": 17.14,
+    "end": 17.863
+   },
+   {
+    "word": "la",
+    "start": 17.863,
+    "end": 17.982
+   },
+   {
+    "word": "investigación",
+    "start": 17.982,
+    "end": 18.754
+   },
+   {
+    "word": "real",
+    "start": 18.754,
+    "end": 18.992
+   },
+   {
+    "word": "detrás",
+    "start": 18.992,
+    "end": 19.348
+   },
+   {
+    "word": "del",
+    "start": 19.348,
+    "end": 19.527
+   },
+   {
+    "word": "término",
+    "start": 19.527,
+    "end": 20.043
+   },
+   {
+    "word": "—",
+    "start": 20.043,
+    "end": 20.103
+   }
+  ]
+ },
+ {
+  "id": "S02_F006",
+  "scene": "LA PROMESA",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "no la versión motivacional vacía de \"nunca te rindas\" —",
+  "visual": "A faint ghost-outline generic motivational poster/lightbulb icon appears and is crossed out with a small accent-colored X.",
+  "start": 20.289,
+  "end": 23.689,
+  "words": [
+   {
+    "word": "no",
+    "start": 20.476,
+    "end": 20.608
+   },
+   {
+    "word": "la",
+    "start": 20.608,
+    "end": 20.741
+   },
+   {
+    "word": "versión",
+    "start": 20.741,
+    "end": 21.205
+   },
+   {
+    "word": "motivacional",
+    "start": 21.205,
+    "end": 22.001
+   },
+   {
+    "word": "vacía",
+    "start": 22.001,
+    "end": 22.332
+   },
+   {
+    "word": "de",
+    "start": 22.332,
+    "end": 22.627
+   },
+   {
+    "word": "\"nunca",
+    "start": 22.627,
+    "end": 22.958
+   },
+   {
+    "word": "te",
+    "start": 22.958,
+    "end": 23.091
+   },
+   {
+    "word": "rindas\"",
+    "start": 23.091,
+    "end": 23.488
+   },
+   {
+    "word": "—",
+    "start": 23.488,
+    "end": 23.555
+   }
+  ]
+ },
+ {
+  "id": "S02_F007",
+  "scene": "LA PROMESA",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "y cómo se construye, paso a paso, incluso si sientes que no naciste con él.",
+  "visual": "Figure begins climbing the uphill path from the first frame, one small deliberate step at a time, determined calm expression.",
+  "start": 23.689,
+  "end": 29.026,
+  "words": [
+   {
+    "word": "y",
+    "start": 23.823,
+    "end": 23.968
+   },
+   {
+    "word": "cómo",
+    "start": 23.968,
+    "end": 24.228
+   },
+   {
+    "word": "se",
+    "start": 24.228,
+    "end": 24.358
+   },
+   {
+    "word": "construye,",
+    "start": 24.358,
+    "end": 24.943
+   },
+   {
+    "word": "paso",
+    "start": 24.943,
+    "end": 25.573
+   },
+   {
+    "word": "a",
+    "start": 25.573,
+    "end": 25.722
+   },
+   {
+    "word": "paso,",
+    "start": 25.722,
+    "end": 25.982
+   },
+   {
+    "word": "incluso",
+    "start": 25.982,
+    "end": 26.722
+   },
+   {
+    "word": "si",
+    "start": 26.722,
+    "end": 26.852
+   },
+   {
+    "word": "sientes",
+    "start": 26.852,
+    "end": 27.306
+   },
+   {
+    "word": "que",
+    "start": 27.306,
+    "end": 27.501
+   },
+   {
+    "word": "no",
+    "start": 27.501,
+    "end": 27.631
+   },
+   {
+    "word": "naciste",
+    "start": 27.631,
+    "end": 28.086
+   },
+   {
+    "word": "con",
+    "start": 28.086,
+    "end": 28.281
+   },
+   {
+    "word": "él.",
+    "start": 28.281,
+    "end": 28.411
+   }
+  ]
+ },
+ {
+  "id": "S03_F008",
+  "scene": "MÓDULO 1 — El Estudio de West Point",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "La psicóloga Angela Duckworth siguió a 2.441 cadetes de la academia militar de West Point,",
+  "visual": "Wide shot, a large faint ghost-outline formation of many identical small figures standing in rows under harsh training light, narrating tone.",
+  "start": 29.026,
+  "end": 35.976,
+  "words": [
+   {
+    "word": "La",
+    "start": 29.64,
+    "end": 29.786
+   },
+   {
+    "word": "psicóloga",
+    "start": 29.786,
+    "end": 30.518
+   },
+   {
+    "word": "Angela",
+    "start": 30.518,
+    "end": 31.078
+   },
+   {
+    "word": "Duckworth",
+    "start": 31.078,
+    "end": 31.735
+   },
+   {
+    "word": "siguió",
+    "start": 31.735,
+    "end": 32.265
+   },
+   {
+    "word": "a",
+    "start": 32.265,
+    "end": 32.338
+   },
+   {
+    "word": "2.441",
+    "start": 32.338,
+    "end": 32.629
+   },
+   {
+    "word": "cadetes",
+    "start": 32.629,
+    "end": 33.14
+   },
+   {
+    "word": "de",
+    "start": 33.14,
+    "end": 33.285
+   },
+   {
+    "word": "la",
+    "start": 33.285,
+    "end": 33.508
+   },
+   {
+    "word": "academia",
+    "start": 33.508,
+    "end": 34.164
+   },
+   {
+    "word": "militar",
+    "start": 34.164,
+    "end": 34.674
+   },
+   {
+    "word": "de",
+    "start": 34.674,
+    "end": 34.907
+   },
+   {
+    "word": "West",
+    "start": 34.907,
+    "end": 35.199
+   },
+   {
+    "word": "Point,",
+    "start": 35.199,
+    "end": 35.686
+   }
+  ]
+ },
+ {
+  "id": "S03_F009",
+  "scene": "MÓDULO 1 — El Estudio de West Point",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "durante el verano más brutal de su entrenamiento — el que ellos mismos llaman \"la Bestia\".",
+  "visual": "One figure from the formation struggles up a steep muddy incline, strained exhausted expression, harsh dramatic side lighting.",
+  "start": 35.976,
+  "end": 41.691,
+  "words": [
+   {
+    "word": "durante",
+    "start": 36.155,
+    "end": 36.55
+   },
+   {
+    "word": "el",
+    "start": 36.55,
+    "end": 36.663
+   },
+   {
+    "word": "verano",
+    "start": 36.663,
+    "end": 37.002
+   },
+   {
+    "word": "más",
+    "start": 37.002,
+    "end": 37.172
+   },
+   {
+    "word": "brutal",
+    "start": 37.172,
+    "end": 37.592
+   },
+   {
+    "word": "de",
+    "start": 37.592,
+    "end": 37.705
+   },
+   {
+    "word": "su",
+    "start": 37.705,
+    "end": 37.818
+   },
+   {
+    "word": "entrenamiento",
+    "start": 37.818,
+    "end": 38.645
+   },
+   {
+    "word": "—",
+    "start": 38.645,
+    "end": 39.053
+   },
+   {
+    "word": "el",
+    "start": 39.053,
+    "end": 39.239
+   },
+   {
+    "word": "que",
+    "start": 39.239,
+    "end": 39.409
+   },
+   {
+    "word": "ellos",
+    "start": 39.409,
+    "end": 39.691
+   },
+   {
+    "word": "mismos",
+    "start": 39.691,
+    "end": 40.03
+   },
+   {
+    "word": "llaman",
+    "start": 40.03,
+    "end": 40.644
+   },
+   {
+    "word": "\"la",
+    "start": 40.644,
+    "end": 40.757
+   },
+   {
+    "word": "Bestia\".",
+    "start": 40.757,
+    "end": 41.096
+   }
+  ]
+ },
+ {
+  "id": "S03_F010",
+  "scene": "MÓDULO 1 — El Estudio de West Point",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Antes de empezar, midió calificaciones académicas, condición física,",
+  "visual": "Close-up on a faint glowing clipboard icon with checkmarks for grades and fitness, narrating thoughtful expression.",
+  "start": 41.691,
+  "end": 47.336,
+  "words": [
+   {
+    "word": "Antes",
+    "start": 42.286,
+    "end": 42.626
+   },
+   {
+    "word": "de",
+    "start": 42.626,
+    "end": 42.762
+   },
+   {
+    "word": "empezar,",
+    "start": 42.762,
+    "end": 43.667
+   },
+   {
+    "word": "midió",
+    "start": 43.667,
+    "end": 44.007
+   },
+   {
+    "word": "calificaciones",
+    "start": 44.007,
+    "end": 44.96
+   },
+   {
+    "word": "académicas,",
+    "start": 44.96,
+    "end": 45.716
+   },
+   {
+    "word": "condición",
+    "start": 45.716,
+    "end": 46.652
+   },
+   {
+    "word": "física,",
+    "start": 46.652,
+    "end": 47.147
+   }
+  ]
+ },
+ {
+  "id": "S03_F011",
+  "scene": "MÓDULO 1 — El Estudio de West Point",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "y una escala que ella misma diseñó para medir algo distinto: la constancia del esfuerzo a largo plazo.",
+  "visual": "A third glowing accent-colored gauge/dial icon appears on the clipboard, distinct from the other two, figure looks at it with focused interest.",
+  "start": 47.336,
+  "end": 53.811,
+  "words": [
+   {
+    "word": "y",
+    "start": 47.525,
+    "end": 47.584
+   },
+   {
+    "word": "una",
+    "start": 47.584,
+    "end": 47.761
+   },
+   {
+    "word": "escala",
+    "start": 47.761,
+    "end": 48.116
+   },
+   {
+    "word": "que",
+    "start": 48.116,
+    "end": 48.294
+   },
+   {
+    "word": "ella",
+    "start": 48.294,
+    "end": 48.53
+   },
+   {
+    "word": "misma",
+    "start": 48.53,
+    "end": 48.826
+   },
+   {
+    "word": "diseñó",
+    "start": 48.826,
+    "end": 49.181
+   },
+   {
+    "word": "para",
+    "start": 49.181,
+    "end": 49.501
+   },
+   {
+    "word": "medir",
+    "start": 49.501,
+    "end": 49.797
+   },
+   {
+    "word": "algo",
+    "start": 49.797,
+    "end": 50.033
+   },
+   {
+    "word": "distinto:",
+    "start": 50.033,
+    "end": 50.588
+   },
+   {
+    "word": "la",
+    "start": 50.588,
+    "end": 51.172
+   },
+   {
+    "word": "constancia",
+    "start": 51.172,
+    "end": 51.764
+   },
+   {
+    "word": "del",
+    "start": 51.764,
+    "end": 51.941
+   },
+   {
+    "word": "esfuerzo",
+    "start": 51.941,
+    "end": 52.414
+   },
+   {
+    "word": "a",
+    "start": 52.414,
+    "end": 52.474
+   },
+   {
+    "word": "largo",
+    "start": 52.474,
+    "end": 52.769
+   },
+   {
+    "word": "plazo.",
+    "start": 52.769,
+    "end": 53.174
+   }
+  ]
+ },
+ {
+  "id": "S03_F012",
+  "scene": "MÓDULO 1 — El Estudio de West Point",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Presta atención a esto: cuando terminó el verano,",
+  "visual": "Close-up, eyebrows raised in emphasis, a faint calendar icon flips to its final page.",
+  "start": 53.811,
+  "end": 57.472,
+  "words": [
+   {
+    "word": "Presta",
+    "start": 54.449,
+    "end": 54.816
+   },
+   {
+    "word": "atención",
+    "start": 54.816,
+    "end": 55.305
+   },
+   {
+    "word": "a",
+    "start": 55.305,
+    "end": 55.366
+   },
+   {
+    "word": "esto:",
+    "start": 55.366,
+    "end": 55.61
+   },
+   {
+    "word": "cuando",
+    "start": 55.61,
+    "end": 56.351
+   },
+   {
+    "word": "terminó",
+    "start": 56.351,
+    "end": 56.779
+   },
+   {
+    "word": "el",
+    "start": 56.779,
+    "end": 56.901
+   },
+   {
+    "word": "verano,",
+    "start": 56.901,
+    "end": 57.268
+   }
+  ]
+ },
+ {
+  "id": "S03_F013",
+  "scene": "MÓDULO 1 — El Estudio de West Point",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "ni las notas ni la condición física predijeron quién abandonaba y quién seguía.",
+  "visual": "The grades and fitness icons from the clipboard dim and fade to gray, unreliable, figure shakes head slightly.",
+  "start": 57.472,
+  "end": 62.319,
+  "words": [
+   {
+    "word": "ni",
+    "start": 57.677,
+    "end": 57.792
+   },
+   {
+    "word": "las",
+    "start": 57.792,
+    "end": 57.964
+   },
+   {
+    "word": "notas",
+    "start": 57.964,
+    "end": 58.251
+   },
+   {
+    "word": "ni",
+    "start": 58.251,
+    "end": 58.366
+   },
+   {
+    "word": "la",
+    "start": 58.366,
+    "end": 58.481
+   },
+   {
+    "word": "condición",
+    "start": 58.481,
+    "end": 59.079
+   },
+   {
+    "word": "física",
+    "start": 59.079,
+    "end": 59.424
+   },
+   {
+    "word": "predijeron",
+    "start": 59.424,
+    "end": 60.078
+   },
+   {
+    "word": "quién",
+    "start": 60.078,
+    "end": 60.365
+   },
+   {
+    "word": "abandonaba",
+    "start": 60.365,
+    "end": 60.94
+   },
+   {
+    "word": "y",
+    "start": 60.94,
+    "end": 60.997
+   },
+   {
+    "word": "quién",
+    "start": 60.997,
+    "end": 61.357
+   },
+   {
+    "word": "seguía.",
+    "start": 61.357,
+    "end": 61.702
+   }
+  ]
+ },
+ {
+  "id": "S03_F014",
+  "scene": "MÓDULO 1 — El Estudio de West Point",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Lo que sí predijo la deserción, mejor que cualquier otra medida, fue esa escala de grit.",
+  "visual": "The third glowing gauge icon brightens strongly, standing out clearly against the dimmed others, figure nods with quiet confirmation.",
+  "start": 62.319,
+  "end": 68.55,
+  "words": [
+   {
+    "word": "Lo",
+    "start": 62.937,
+    "end": 63.053
+   },
+   {
+    "word": "que",
+    "start": 63.053,
+    "end": 63.228
+   },
+   {
+    "word": "sí",
+    "start": 63.228,
+    "end": 63.344
+   },
+   {
+    "word": "predijo",
+    "start": 63.344,
+    "end": 63.752
+   },
+   {
+    "word": "la",
+    "start": 63.752,
+    "end": 63.868
+   },
+   {
+    "word": "deserción,",
+    "start": 63.868,
+    "end": 64.392
+   },
+   {
+    "word": "mejor",
+    "start": 64.392,
+    "end": 65.11
+   },
+   {
+    "word": "que",
+    "start": 65.11,
+    "end": 65.285
+   },
+   {
+    "word": "cualquier",
+    "start": 65.285,
+    "end": 65.886
+   },
+   {
+    "word": "otra",
+    "start": 65.886,
+    "end": 66.119
+   },
+   {
+    "word": "medida,",
+    "start": 66.119,
+    "end": 66.468
+   },
+   {
+    "word": "fue",
+    "start": 66.468,
+    "end": 66.968
+   },
+   {
+    "word": "esa",
+    "start": 66.968,
+    "end": 67.143
+   },
+   {
+    "word": "escala",
+    "start": 67.143,
+    "end": 67.492
+   },
+   {
+    "word": "de",
+    "start": 67.492,
+    "end": 67.608
+   },
+   {
+    "word": "grit.",
+    "start": 67.608,
+    "end": 67.841
+   }
+  ]
+ },
+ {
+  "id": "S03_F015",
+  "scene": "MÓDULO 1 — El Estudio de West Point",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Aquí está la clave: no eran los cadetes más fuertes ni los más inteligentes los que sobrevivían a \"la Bestia\".",
+  "visual": "Close-up, determined narrating expression, the earlier formation of identical figures now shows most fading away except a scattered few still glowing.",
+  "start": 68.55,
+  "end": 76.094,
+  "words": [
+   {
+    "word": "Aquí",
+    "start": 69.26,
+    "end": 69.504
+   },
+   {
+    "word": "está",
+    "start": 69.504,
+    "end": 69.747
+   },
+   {
+    "word": "la",
+    "start": 69.747,
+    "end": 69.869
+   },
+   {
+    "word": "clave:",
+    "start": 69.869,
+    "end": 70.174
+   },
+   {
+    "word": "no",
+    "start": 70.174,
+    "end": 70.296
+   },
+   {
+    "word": "eran",
+    "start": 70.296,
+    "end": 70.93
+   },
+   {
+    "word": "los",
+    "start": 70.93,
+    "end": 71.113
+   },
+   {
+    "word": "cadetes",
+    "start": 71.113,
+    "end": 71.612
+   },
+   {
+    "word": "más",
+    "start": 71.612,
+    "end": 71.794
+   },
+   {
+    "word": "fuertes",
+    "start": 71.794,
+    "end": 72.3
+   },
+   {
+    "word": "ni",
+    "start": 72.3,
+    "end": 72.422
+   },
+   {
+    "word": "los",
+    "start": 72.422,
+    "end": 72.605
+   },
+   {
+    "word": "más",
+    "start": 72.605,
+    "end": 72.788
+   },
+   {
+    "word": "inteligentes",
+    "start": 72.788,
+    "end": 73.593
+   },
+   {
+    "word": "los",
+    "start": 73.593,
+    "end": 73.776
+   },
+   {
+    "word": "que",
+    "start": 73.776,
+    "end": 73.959
+   },
+   {
+    "word": "sobrevivían",
+    "start": 73.959,
+    "end": 74.946
+   },
+   {
+    "word": "a",
+    "start": 74.946,
+    "end": 75.007
+   },
+   {
+    "word": "\"la",
+    "start": 75.007,
+    "end": 75.129
+   },
+   {
+    "word": "Bestia\".",
+    "start": 75.129,
+    "end": 75.495
+   }
+  ]
+ },
+ {
+  "id": "S03_F016",
+  "scene": "MÓDULO 1 — El Estudio de West Point",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Eran los que seguían presentándose, día siete, día doce, día veinte,",
+  "visual": "One glowing figure keeps climbing the muddy incline across several faint overlapping day-markers (7, 12, 20), steady determined expression.",
+  "start": 76.094,
+  "end": 81.796,
+  "words": [
+   {
+    "word": "Eran",
+    "start": 76.694,
+    "end": 76.976
+   },
+   {
+    "word": "los",
+    "start": 76.976,
+    "end": 77.187
+   },
+   {
+    "word": "que",
+    "start": 77.187,
+    "end": 77.399
+   },
+   {
+    "word": "seguían",
+    "start": 77.399,
+    "end": 77.893
+   },
+   {
+    "word": "presentándose,",
+    "start": 77.893,
+    "end": 79.21
+   },
+   {
+    "word": "día",
+    "start": 79.21,
+    "end": 79.421
+   },
+   {
+    "word": "siete,",
+    "start": 79.421,
+    "end": 80.123
+   },
+   {
+    "word": "día",
+    "start": 80.123,
+    "end": 80.335
+   },
+   {
+    "word": "doce,",
+    "start": 80.335,
+    "end": 80.617
+   },
+   {
+    "word": "día",
+    "start": 80.617,
+    "end": 81.095
+   },
+   {
+    "word": "veinte,",
+    "start": 81.095,
+    "end": 81.601
+   }
+  ]
+ },
+ {
+  "id": "S03_F017",
+  "scene": "MÓDULO 1 — El Estudio de West Point",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "aunque cada músculo les pidiera parar.",
+  "visual": "Wide shot, figure at the top of the incline, visibly exhausted but still upright, muscles trembling implied by posture, resolute expression.",
+  "start": 81.796,
+  "end": 84.465,
+  "words": [
+   {
+    "word": "aunque",
+    "start": 81.991,
+    "end": 82.292
+   },
+   {
+    "word": "cada",
+    "start": 82.292,
+    "end": 82.494
+   },
+   {
+    "word": "músculo",
+    "start": 82.494,
+    "end": 82.92
+   },
+   {
+    "word": "les",
+    "start": 82.92,
+    "end": 83.071
+   },
+   {
+    "word": "pidiera",
+    "start": 83.071,
+    "end": 83.582
+   },
+   {
+    "word": "parar.",
+    "start": 83.582,
+    "end": 83.834
+   }
+  ]
+ },
+ {
+  "id": "S04_F018",
+  "scene": "MÓDULO 2 — La Fórmula del Esfuerzo",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Esto es lo que nadie te dice sobre el talento: en su libro \"Grit\", Duckworth propone una fórmula incómoda.",
+  "visual": "Figure stands beside a faint glowing open-book icon, thoughtful expression, a simple equation-shape (not literal text) forming in light beside it.",
+  "start": 84.465,
+  "end": 91.931,
+  "words": [
+   {
+    "word": "Esto",
+    "start": 85.096,
+    "end": 85.331
+   },
+   {
+    "word": "es",
+    "start": 85.331,
+    "end": 85.448
+   },
+   {
+    "word": "lo",
+    "start": 85.448,
+    "end": 85.566
+   },
+   {
+    "word": "que",
+    "start": 85.566,
+    "end": 85.742
+   },
+   {
+    "word": "nadie",
+    "start": 85.742,
+    "end": 86.036
+   },
+   {
+    "word": "te",
+    "start": 86.036,
+    "end": 86.153
+   },
+   {
+    "word": "dice",
+    "start": 86.153,
+    "end": 86.388
+   },
+   {
+    "word": "sobre",
+    "start": 86.388,
+    "end": 86.682
+   },
+   {
+    "word": "el",
+    "start": 86.682,
+    "end": 86.886
+   },
+   {
+    "word": "talento:",
+    "start": 86.886,
+    "end": 87.401
+   },
+   {
+    "word": "en",
+    "start": 87.401,
+    "end": 87.923
+   },
+   {
+    "word": "su",
+    "start": 87.923,
+    "end": 88.04
+   },
+   {
+    "word": "libro",
+    "start": 88.04,
+    "end": 88.334
+   },
+   {
+    "word": "\"Grit\",",
+    "start": 88.334,
+    "end": 88.686
+   },
+   {
+    "word": "Duckworth",
+    "start": 88.686,
+    "end": 89.697
+   },
+   {
+    "word": "propone",
+    "start": 89.697,
+    "end": 90.185
+   },
+   {
+    "word": "una",
+    "start": 90.185,
+    "end": 90.361
+   },
+   {
+    "word": "fórmula",
+    "start": 90.361,
+    "end": 90.772
+   },
+   {
+    "word": "incómoda.",
+    "start": 90.772,
+    "end": 91.315
+   }
+  ]
+ },
+ {
+  "id": "S04_F019",
+  "scene": "MÓDULO 2 — La Fórmula del Esfuerzo",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Talento por esfuerzo es igual a habilidad.",
+  "visual": "Two small glowing icons (a star for talent, a rising arrow for effort) merge into a single glowing gear icon (skill).",
+  "start": 91.931,
+  "end": 95.126,
+  "words": [
+   {
+    "word": "Talento",
+    "start": 92.547,
+    "end": 92.939
+   },
+   {
+    "word": "por",
+    "start": 92.939,
+    "end": 93.107
+   },
+   {
+    "word": "esfuerzo",
+    "start": 93.107,
+    "end": 93.555
+   },
+   {
+    "word": "es",
+    "start": 93.555,
+    "end": 93.667
+   },
+   {
+    "word": "igual",
+    "start": 93.667,
+    "end": 93.947
+   },
+   {
+    "word": "a",
+    "start": 93.947,
+    "end": 94.002
+   },
+   {
+    "word": "habilidad.",
+    "start": 94.002,
+    "end": 94.506
+   }
+  ]
+ },
+ {
+  "id": "S04_F020",
+  "scene": "MÓDULO 2 — La Fórmula del Esfuerzo",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Pero habilidad por esfuerzo es igual a logro.",
+  "visual": "The gear icon merges again with a second rising-arrow effort icon into a glowing trophy-free star-burst icon (achievement).",
+  "start": 95.126,
+  "end": 98.304,
+  "words": [
+   {
+    "word": "Pero",
+    "start": 95.747,
+    "end": 95.949
+   },
+   {
+    "word": "habilidad",
+    "start": 95.949,
+    "end": 96.48
+   },
+   {
+    "word": "por",
+    "start": 96.48,
+    "end": 96.632
+   },
+   {
+    "word": "esfuerzo",
+    "start": 96.632,
+    "end": 97.036
+   },
+   {
+    "word": "es",
+    "start": 97.036,
+    "end": 97.137
+   },
+   {
+    "word": "igual",
+    "start": 97.137,
+    "end": 97.39
+   },
+   {
+    "word": "a",
+    "start": 97.39,
+    "end": 97.441
+   },
+   {
+    "word": "logro.",
+    "start": 97.441,
+    "end": 97.693
+   }
+  ]
+ },
+ {
+  "id": "S04_F021",
+  "scene": "MÓDULO 2 — La Fórmula del Esfuerzo",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "¿Notas el patrón? El esfuerzo aparece dos veces, el talento solo una.",
+  "visual": "Close-up, eyebrows raised, pointing at the two effort-arrow icons highlighted in accent color against the single dim talent-star.",
+  "start": 98.304,
+  "end": 105.132,
+  "words": [
+   {
+    "word": "¿Notas",
+    "start": 98.915,
+    "end": 99.273
+   },
+   {
+    "word": "el",
+    "start": 99.273,
+    "end": 99.417
+   },
+   {
+    "word": "patrón?",
+    "start": 99.417,
+    "end": 101.07
+   },
+   {
+    "word": "El",
+    "start": 101.07,
+    "end": 101.214
+   },
+   {
+    "word": "esfuerzo",
+    "start": 101.214,
+    "end": 101.787
+   },
+   {
+    "word": "aparece",
+    "start": 101.787,
+    "end": 102.289
+   },
+   {
+    "word": "dos",
+    "start": 102.289,
+    "end": 102.504
+   },
+   {
+    "word": "veces,",
+    "start": 102.504,
+    "end": 102.862
+   },
+   {
+    "word": "el",
+    "start": 102.862,
+    "end": 103.006
+   },
+   {
+    "word": "talento",
+    "start": 103.006,
+    "end": 104.031
+   },
+   {
+    "word": "solo",
+    "start": 104.031,
+    "end": 104.318
+   },
+   {
+    "word": "una.",
+    "start": 104.318,
+    "end": 104.533
+   }
+  ]
+ },
+ {
+  "id": "S04_F022",
+  "scene": "MÓDULO 2 — La Fórmula del Esfuerzo",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Aquí está la clave: dos personas con el mismo talento, pero una se esfuerza el doble,",
+  "visual": "Two identical faint ghost-outline figures stand side by side with the same talent-star glowing above each, one figure's effort-arrow glowing twice as bright.",
+  "start": 105.132,
+  "end": 111.12,
+  "words": [
+   {
+    "word": "Aquí",
+    "start": 105.73,
+    "end": 105.988
+   },
+   {
+    "word": "está",
+    "start": 105.988,
+    "end": 106.246
+   },
+   {
+    "word": "la",
+    "start": 106.246,
+    "end": 106.375
+   },
+   {
+    "word": "clave:",
+    "start": 106.375,
+    "end": 106.698
+   },
+   {
+    "word": "dos",
+    "start": 106.698,
+    "end": 107.249
+   },
+   {
+    "word": "personas",
+    "start": 107.249,
+    "end": 107.766
+   },
+   {
+    "word": "con",
+    "start": 107.766,
+    "end": 107.959
+   },
+   {
+    "word": "el",
+    "start": 107.959,
+    "end": 108.088
+   },
+   {
+    "word": "mismo",
+    "start": 108.088,
+    "end": 108.411
+   },
+   {
+    "word": "talento,",
+    "start": 108.411,
+    "end": 108.862
+   },
+   {
+    "word": "pero",
+    "start": 108.862,
+    "end": 109.62
+   },
+   {
+    "word": "una",
+    "start": 109.62,
+    "end": 109.813
+   },
+   {
+    "word": "se",
+    "start": 109.813,
+    "end": 109.942
+   },
+   {
+    "word": "esfuerza",
+    "start": 109.942,
+    "end": 110.458
+   },
+   {
+    "word": "el",
+    "start": 110.458,
+    "end": 110.587
+   },
+   {
+    "word": "doble,",
+    "start": 110.587,
+    "end": 110.91
+   }
+  ]
+ },
+ {
+  "id": "S04_F023",
+  "scene": "MÓDULO 2 — La Fórmula del Esfuerzo",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "no terminan empatadas.",
+  "visual": "Close-up on the two figures' final achievement star-burst icons, one noticeably larger and brighter than the other.",
+  "start": 111.12,
+  "end": 113.27,
+  "words": [
+   {
+    "word": "no",
+    "start": 111.331,
+    "end": 111.453
+   },
+   {
+    "word": "terminan",
+    "start": 111.453,
+    "end": 112.017
+   },
+   {
+    "word": "empatadas.",
+    "start": 112.017,
+    "end": 112.655
+   }
+  ]
+ },
+ {
+  "id": "S04_F024",
+  "scene": "MÓDULO 2 — La Fórmula del Esfuerzo",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "La que se esfuerza más termina con más del doble de logro real,",
+  "visual": "The figure with the brighter effort-arrow stands confidently beside their large glowing achievement icon, calm satisfied expression.",
+  "start": 113.27,
+  "end": 117.238,
+  "words": [
+   {
+    "word": "La",
+    "start": 113.885,
+    "end": 114.007
+   },
+   {
+    "word": "que",
+    "start": 114.007,
+    "end": 114.19
+   },
+   {
+    "word": "se",
+    "start": 114.19,
+    "end": 114.312
+   },
+   {
+    "word": "esfuerza",
+    "start": 114.312,
+    "end": 114.8
+   },
+   {
+    "word": "más",
+    "start": 114.8,
+    "end": 114.983
+   },
+   {
+    "word": "termina",
+    "start": 114.983,
+    "end": 115.484
+   },
+   {
+    "word": "con",
+    "start": 115.484,
+    "end": 115.667
+   },
+   {
+    "word": "más",
+    "start": 115.667,
+    "end": 115.85
+   },
+   {
+    "word": "del",
+    "start": 115.85,
+    "end": 116.033
+   },
+   {
+    "word": "doble",
+    "start": 116.033,
+    "end": 116.338
+   },
+   {
+    "word": "de",
+    "start": 116.338,
+    "end": 116.46
+   },
+   {
+    "word": "logro",
+    "start": 116.46,
+    "end": 116.765
+   },
+   {
+    "word": "real,",
+    "start": 116.765,
+    "end": 117.009
+   }
+  ]
+ },
+ {
+  "id": "S04_F025",
+  "scene": "MÓDULO 2 — La Fórmula del Esfuerzo",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "porque el esfuerzo construye la habilidad, y después vuelve a construir el resultado sobre esa habilidad.",
+  "visual": "The equation-shape from the first frame plays out fully across the frame: star, arrow, gear, arrow, star-burst, in a clear glowing sequence.",
+  "start": 117.238,
+  "end": 123.221,
+  "words": [
+   {
+    "word": "porque",
+    "start": 117.467,
+    "end": 117.775
+   },
+   {
+    "word": "el",
+    "start": 117.775,
+    "end": 117.878
+   },
+   {
+    "word": "esfuerzo",
+    "start": 117.878,
+    "end": 118.288
+   },
+   {
+    "word": "construye",
+    "start": 118.288,
+    "end": 118.75
+   },
+   {
+    "word": "la",
+    "start": 118.75,
+    "end": 118.853
+   },
+   {
+    "word": "habilidad,",
+    "start": 118.853,
+    "end": 119.315
+   },
+   {
+    "word": "y",
+    "start": 119.315,
+    "end": 119.366
+   },
+   {
+    "word": "después",
+    "start": 119.366,
+    "end": 120.161
+   },
+   {
+    "word": "vuelve",
+    "start": 120.161,
+    "end": 120.469
+   },
+   {
+    "word": "a",
+    "start": 120.469,
+    "end": 120.602
+   },
+   {
+    "word": "construir",
+    "start": 120.602,
+    "end": 121.064
+   },
+   {
+    "word": "el",
+    "start": 121.064,
+    "end": 121.166
+   },
+   {
+    "word": "resultado",
+    "start": 121.166,
+    "end": 121.73
+   },
+   {
+    "word": "sobre",
+    "start": 121.73,
+    "end": 121.987
+   },
+   {
+    "word": "esa",
+    "start": 121.987,
+    "end": 122.141
+   },
+   {
+    "word": "habilidad.",
+    "start": 122.141,
+    "end": 122.603
+   }
+  ]
+ },
+ {
+  "id": "S04_F026",
+  "scene": "MÓDULO 2 — La Fórmula del Esfuerzo",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "El talento decide qué tan rápido aprendes algo.",
+  "visual": "Figure gestures toward the talent-star icon, which flickers briefly and quickly, thoughtful narrating expression.",
+  "start": 123.221,
+  "end": 127.072,
+  "words": [
+   {
+    "word": "El",
+    "start": 123.84,
+    "end": 123.961
+   },
+   {
+    "word": "talento",
+    "start": 123.961,
+    "end": 124.471
+   },
+   {
+    "word": "decide",
+    "start": 124.471,
+    "end": 124.835
+   },
+   {
+    "word": "qué",
+    "start": 124.835,
+    "end": 125.09
+   },
+   {
+    "word": "tan",
+    "start": 125.09,
+    "end": 125.272
+   },
+   {
+    "word": "rápido",
+    "start": 125.272,
+    "end": 125.723
+   },
+   {
+    "word": "aprendes",
+    "start": 125.723,
+    "end": 126.208
+   },
+   {
+    "word": "algo.",
+    "start": 126.208,
+    "end": 126.451
+   }
+  ]
+ },
+ {
+  "id": "S04_F027",
+  "scene": "MÓDULO 2 — La Fórmula del Esfuerzo",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "El esfuerzo decide si ese aprendizaje se convierte en algo que el mundo puede ver.",
+  "visual": "Close-up, the effort-arrow icon glows steadily and grows larger, calm confident expression, the achievement star-burst solidifying clearly.",
+  "start": 127.072,
+  "end": 132.463,
+  "words": [
+   {
+    "word": "El",
+    "start": 127.693,
+    "end": 127.809
+   },
+   {
+    "word": "esfuerzo",
+    "start": 127.809,
+    "end": 128.275
+   },
+   {
+    "word": "decide",
+    "start": 128.275,
+    "end": 128.624
+   },
+   {
+    "word": "si",
+    "start": 128.624,
+    "end": 128.74
+   },
+   {
+    "word": "ese",
+    "start": 128.74,
+    "end": 128.914
+   },
+   {
+    "word": "aprendizaje",
+    "start": 128.914,
+    "end": 129.554
+   },
+   {
+    "word": "se",
+    "start": 129.554,
+    "end": 129.671
+   },
+   {
+    "word": "convierte",
+    "start": 129.671,
+    "end": 130.194
+   },
+   {
+    "word": "en",
+    "start": 130.194,
+    "end": 130.39
+   },
+   {
+    "word": "algo",
+    "start": 130.39,
+    "end": 130.623
+   },
+   {
+    "word": "que",
+    "start": 130.623,
+    "end": 130.876
+   },
+   {
+    "word": "el",
+    "start": 130.876,
+    "end": 130.992
+   },
+   {
+    "word": "mundo",
+    "start": 130.992,
+    "end": 131.283
+   },
+   {
+    "word": "puede",
+    "start": 131.283,
+    "end": 131.647
+   },
+   {
+    "word": "ver.",
+    "start": 131.647,
+    "end": 131.821
+   }
+  ]
+ },
+ {
+  "id": "S05_F028",
+  "scene": "MÓDULO 3 — El Sesgo de lo Natural",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Pero espera — todavía hay más, y esto es contraintuitivo:",
+  "visual": "Figure leans in slightly, anticipatory raised-eyebrow expression, warm rim lighting.",
+  "start": 132.463,
+  "end": 136.811,
+  "words": [
+   {
+    "word": "Pero",
+    "start": 133.104,
+    "end": 133.34
+   },
+   {
+    "word": "espera",
+    "start": 133.34,
+    "end": 133.78
+   },
+   {
+    "word": "—",
+    "start": 133.78,
+    "end": 134.187
+   },
+   {
+    "word": "todavía",
+    "start": 134.187,
+    "end": 134.6
+   },
+   {
+    "word": "hay",
+    "start": 134.6,
+    "end": 134.777
+   },
+   {
+    "word": "más,",
+    "start": 134.777,
+    "end": 134.953
+   },
+   {
+    "word": "y",
+    "start": 134.953,
+    "end": 135.255
+   },
+   {
+    "word": "esto",
+    "start": 135.255,
+    "end": 135.491
+   },
+   {
+    "word": "es",
+    "start": 135.491,
+    "end": 135.609
+   },
+   {
+    "word": "contraintuitivo:",
+    "start": 135.609,
+    "end": 136.577
+   }
+  ]
+ },
+ {
+  "id": "S05_F029",
+  "scene": "MÓDULO 3 — El Sesgo de lo Natural",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "la investigadora Chia-Jung Tsay, de la Universidad de Columbia,",
+  "visual": "Close-up shift to thoughtful narrating expression, a faint glowing university-building silhouette icon in the background.",
+  "start": 136.811,
+  "end": 140.868,
+  "words": [
+   {
+    "word": "la",
+    "start": 137.046,
+    "end": 137.171
+   },
+   {
+    "word": "investigadora",
+    "start": 137.171,
+    "end": 137.986
+   },
+   {
+    "word": "Chia-Jung",
+    "start": 137.986,
+    "end": 138.488
+   },
+   {
+    "word": "Tsay,",
+    "start": 138.488,
+    "end": 138.739
+   },
+   {
+    "word": "de",
+    "start": 138.739,
+    "end": 139.225
+   },
+   {
+    "word": "la",
+    "start": 139.225,
+    "end": 139.35
+   },
+   {
+    "word": "Universidad",
+    "start": 139.35,
+    "end": 140.04
+   },
+   {
+    "word": "de",
+    "start": 140.04,
+    "end": 140.165
+   },
+   {
+    "word": "Columbia,",
+    "start": 140.165,
+    "end": 140.667
+   }
+  ]
+ },
+ {
+  "id": "S05_F030",
+  "scene": "MÓDULO 3 — El Sesgo de lo Natural",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "descubrió que preferimos sistemáticamente a los \"naturales\" sobre quienes se esfuerzan —",
+  "visual": "Two faint ghost-outline figures stand side by side, a glowing accent-colored spotlight favoring one of them unfairly, figure watching with a knowing look.",
+  "start": 140.868,
+  "end": 146.318,
+  "words": [
+   {
+    "word": "descubrió",
+    "start": 141.07,
+    "end": 141.619
+   },
+   {
+    "word": "que",
+    "start": 141.619,
+    "end": 141.873
+   },
+   {
+    "word": "preferimos",
+    "start": 141.873,
+    "end": 142.483
+   },
+   {
+    "word": "sistemáticamente",
+    "start": 142.483,
+    "end": 143.459
+   },
+   {
+    "word": "a",
+    "start": 143.459,
+    "end": 143.52
+   },
+   {
+    "word": "los",
+    "start": 143.52,
+    "end": 143.83
+   },
+   {
+    "word": "\"naturales\"",
+    "start": 143.83,
+    "end": 144.379
+   },
+   {
+    "word": "sobre",
+    "start": 144.379,
+    "end": 145.047
+   },
+   {
+    "word": "quienes",
+    "start": 145.047,
+    "end": 145.474
+   },
+   {
+    "word": "se",
+    "start": 145.474,
+    "end": 145.596
+   },
+   {
+    "word": "esfuerzan",
+    "start": 145.596,
+    "end": 146.145
+   },
+   {
+    "word": "—",
+    "start": 146.145,
+    "end": 146.206
+   }
+  ]
+ },
+ {
+  "id": "S05_F031",
+  "scene": "MÓDULO 3 — El Sesgo de lo Natural",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "incluso cuando el resultado final es idéntico.",
+  "visual": "Both figures' outcome-icons above their heads are shown perfectly identical in size and glow, despite the unequal spotlight.",
+  "start": 146.318,
+  "end": 149.544,
+  "words": [
+   {
+    "word": "incluso",
+    "start": 146.43,
+    "end": 146.892
+   },
+   {
+    "word": "cuando",
+    "start": 146.892,
+    "end": 147.222
+   },
+   {
+    "word": "el",
+    "start": 147.222,
+    "end": 147.332
+   },
+   {
+    "word": "resultado",
+    "start": 147.332,
+    "end": 147.924
+   },
+   {
+    "word": "final",
+    "start": 147.924,
+    "end": 148.199
+   },
+   {
+    "word": "es",
+    "start": 148.199,
+    "end": 148.309
+   },
+   {
+    "word": "idéntico.",
+    "start": 148.309,
+    "end": 148.923
+   }
+  ]
+ },
+ {
+  "id": "S05_F032",
+  "scene": "MÓDULO 3 — El Sesgo de lo Natural",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "En sus estudios, mostró a evaluadores dos versiones de la misma interpretación musical:",
+  "visual": "A faint glowing musical note/instrument icon appears twice, identical, side by side, narrating explanatory tone.",
+  "start": 149.544,
+  "end": 155.563,
+  "words": [
+   {
+    "word": "En",
+    "start": 150.165,
+    "end": 150.293
+   },
+   {
+    "word": "sus",
+    "start": 150.293,
+    "end": 150.485
+   },
+   {
+    "word": "estudios,",
+    "start": 150.485,
+    "end": 150.997
+   },
+   {
+    "word": "mostró",
+    "start": 150.997,
+    "end": 151.693
+   },
+   {
+    "word": "a",
+    "start": 151.693,
+    "end": 151.757
+   },
+   {
+    "word": "evaluadores",
+    "start": 151.757,
+    "end": 152.461
+   },
+   {
+    "word": "dos",
+    "start": 152.461,
+    "end": 152.653
+   },
+   {
+    "word": "versiones",
+    "start": 152.653,
+    "end": 153.304
+   },
+   {
+    "word": "de",
+    "start": 153.304,
+    "end": 153.432
+   },
+   {
+    "word": "la",
+    "start": 153.432,
+    "end": 153.56
+   },
+   {
+    "word": "misma",
+    "start": 153.56,
+    "end": 153.88
+   },
+   {
+    "word": "interpretación",
+    "start": 153.88,
+    "end": 154.856
+   },
+   {
+    "word": "musical:",
+    "start": 154.856,
+    "end": 155.385
+   }
+  ]
+ },
+ {
+  "id": "S05_F033",
+  "scene": "MÓDULO 3 — El Sesgo de lo Natural",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "una etiquetada como \"talento natural\", otra como \"años de práctica\".",
+  "visual": "A small star icon labels one musical note, a small clock/calendar icon labels the other, both notes still visually identical.",
+  "start": 155.563,
+  "end": 160.685,
+  "words": [
+   {
+    "word": "una",
+    "start": 155.741,
+    "end": 155.923
+   },
+   {
+    "word": "etiquetada",
+    "start": 155.923,
+    "end": 156.61
+   },
+   {
+    "word": "como",
+    "start": 156.61,
+    "end": 157.177
+   },
+   {
+    "word": "\"talento",
+    "start": 157.177,
+    "end": 157.602
+   },
+   {
+    "word": "natural\",",
+    "start": 157.602,
+    "end": 158.026
+   },
+   {
+    "word": "otra",
+    "start": 158.026,
+    "end": 158.534
+   },
+   {
+    "word": "como",
+    "start": 158.534,
+    "end": 158.777
+   },
+   {
+    "word": "\"años",
+    "start": 158.777,
+    "end": 159.171
+   },
+   {
+    "word": "de",
+    "start": 159.171,
+    "end": 159.293
+   },
+   {
+    "word": "práctica\".",
+    "start": 159.293,
+    "end": 160.074
+   }
+  ]
+ },
+ {
+  "id": "S05_F034",
+  "scene": "MÓDULO 3 — El Sesgo de lo Natural",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "La interpretación \"natural\" fue calificada como mejor —",
+  "visual": "Close-up, mildly ironic knowing expression, the star-labeled note glows brighter than the clock-labeled one despite being identical.",
+  "start": 160.685,
+  "end": 165.062,
+  "words": [
+   {
+    "word": "La",
+    "start": 161.296,
+    "end": 161.428
+   },
+   {
+    "word": "interpretación",
+    "start": 161.428,
+    "end": 162.611
+   },
+   {
+    "word": "\"natural\"",
+    "start": 162.611,
+    "end": 163.072
+   },
+   {
+    "word": "fue",
+    "start": 163.072,
+    "end": 163.554
+   },
+   {
+    "word": "calificada",
+    "start": 163.554,
+    "end": 164.285
+   },
+   {
+    "word": "como",
+    "start": 164.285,
+    "end": 164.548
+   },
+   {
+    "word": "mejor",
+    "start": 164.548,
+    "end": 164.877
+   },
+   {
+    "word": "—",
+    "start": 164.877,
+    "end": 164.943
+   }
+  ]
+ },
+ {
+  "id": "S05_F035",
+  "scene": "MÓDULO 3 — El Sesgo de lo Natural",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "aunque literalmente era la misma grabación.",
+  "visual": "Both musical notes merge back into one single note, revealing they were always the same, figure gives a small wry head-shake.",
+  "start": 165.062,
+  "end": 167.98,
+  "words": [
+   {
+    "word": "aunque",
+    "start": 165.181,
+    "end": 165.534
+   },
+   {
+    "word": "literalmente",
+    "start": 165.534,
+    "end": 166.239
+   },
+   {
+    "word": "era",
+    "start": 166.239,
+    "end": 166.415
+   },
+   {
+    "word": "la",
+    "start": 166.415,
+    "end": 166.532
+   },
+   {
+    "word": "misma",
+    "start": 166.532,
+    "end": 166.826
+   },
+   {
+    "word": "grabación.",
+    "start": 166.826,
+    "end": 167.355
+   }
+  ]
+ },
+ {
+  "id": "S05_F036",
+  "scene": "MÓDULO 3 — El Sesgo de lo Natural",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Esto es lo que cambia todo: el talento natural es más fácil de admirar,",
+  "visual": "Figure gestures toward the bright star icon with open admiration, warm but measured expression.",
+  "start": 167.98,
+  "end": 172.947,
+  "words": [
+   {
+    "word": "Esto",
+    "start": 168.604,
+    "end": 168.853
+   },
+   {
+    "word": "es",
+    "start": 168.853,
+    "end": 168.978
+   },
+   {
+    "word": "lo",
+    "start": 168.978,
+    "end": 169.103
+   },
+   {
+    "word": "que",
+    "start": 169.103,
+    "end": 169.29
+   },
+   {
+    "word": "cambia",
+    "start": 169.29,
+    "end": 169.741
+   },
+   {
+    "word": "todo:",
+    "start": 169.741,
+    "end": 170.376
+   },
+   {
+    "word": "el",
+    "start": 170.376,
+    "end": 170.578
+   },
+   {
+    "word": "talento",
+    "start": 170.578,
+    "end": 171.095
+   },
+   {
+    "word": "natural",
+    "start": 171.095,
+    "end": 171.532
+   },
+   {
+    "word": "es",
+    "start": 171.532,
+    "end": 171.657
+   },
+   {
+    "word": "más",
+    "start": 171.657,
+    "end": 171.844
+   },
+   {
+    "word": "fácil",
+    "start": 171.844,
+    "end": 172.156
+   },
+   {
+    "word": "de",
+    "start": 172.156,
+    "end": 172.28
+   },
+   {
+    "word": "admirar,",
+    "start": 172.28,
+    "end": 172.717
+   }
+  ]
+ },
+ {
+  "id": "S05_F037",
+  "scene": "MÓDULO 3 — El Sesgo de lo Natural",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "pero el esfuerzo constante es el único de los dos que tú puedes elegir tener mañana.",
+  "visual": "Figure turns toward the clock/effort icon instead, placing a hand on it deliberately, resolute determined expression.",
+  "start": 172.947,
+  "end": 177.813,
+  "words": [
+   {
+    "word": "pero",
+    "start": 173.176,
+    "end": 173.391
+   },
+   {
+    "word": "el",
+    "start": 173.391,
+    "end": 173.499
+   },
+   {
+    "word": "esfuerzo",
+    "start": 173.499,
+    "end": 173.929
+   },
+   {
+    "word": "constante",
+    "start": 173.929,
+    "end": 174.483
+   },
+   {
+    "word": "es",
+    "start": 174.483,
+    "end": 174.591
+   },
+   {
+    "word": "el",
+    "start": 174.591,
+    "end": 174.698
+   },
+   {
+    "word": "único",
+    "start": 174.698,
+    "end": 175.037
+   },
+   {
+    "word": "de",
+    "start": 175.037,
+    "end": 175.145
+   },
+   {
+    "word": "los",
+    "start": 175.145,
+    "end": 175.306
+   },
+   {
+    "word": "dos",
+    "start": 175.306,
+    "end": 175.468
+   },
+   {
+    "word": "que",
+    "start": 175.468,
+    "end": 175.629
+   },
+   {
+    "word": "tú",
+    "start": 175.629,
+    "end": 175.737
+   },
+   {
+    "word": "puedes",
+    "start": 175.737,
+    "end": 176.169
+   },
+   {
+    "word": "elegir",
+    "start": 176.169,
+    "end": 176.602
+   },
+   {
+    "word": "tener",
+    "start": 176.602,
+    "end": 176.871
+   },
+   {
+    "word": "mañana.",
+    "start": 176.871,
+    "end": 177.194
+   }
+  ]
+ },
+ {
+  "id": "S05_F038",
+  "scene": "MÓDULO 3 — El Sesgo de lo Natural",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Admira lo que quieras.",
+  "visual": "Close-up, calm accepting expression, a small shrug, the star icon still glowing softly in the background, unresented.",
+  "start": 177.813,
+  "end": 180.268,
+  "words": [
+   {
+    "word": "Admira",
+    "start": 178.433,
+    "end": 178.818
+   },
+   {
+    "word": "lo",
+    "start": 178.818,
+    "end": 178.946
+   },
+   {
+    "word": "que",
+    "start": 178.946,
+    "end": 179.209
+   },
+   {
+    "word": "quieras.",
+    "start": 179.209,
+    "end": 179.658
+   }
+  ]
+ },
+ {
+  "id": "S05_F039",
+  "scene": "MÓDULO 3 — El Sesgo de lo Natural",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Pero construye a partir de lo que sí depende de ti.",
+  "visual": "Wide shot, figure walks forward with the effort/clock icon glowing steadily beside them, calm purposeful stride.",
+  "start": 180.268,
+  "end": 184.017,
+  "words": [
+   {
+    "word": "Pero",
+    "start": 180.878,
+    "end": 181.114
+   },
+   {
+    "word": "construye",
+    "start": 181.114,
+    "end": 181.644
+   },
+   {
+    "word": "a",
+    "start": 181.644,
+    "end": 181.703
+   },
+   {
+    "word": "partir",
+    "start": 181.703,
+    "end": 182.056
+   },
+   {
+    "word": "de",
+    "start": 182.056,
+    "end": 182.174
+   },
+   {
+    "word": "lo",
+    "start": 182.174,
+    "end": 182.292
+   },
+   {
+    "word": "que",
+    "start": 182.292,
+    "end": 182.468
+   },
+   {
+    "word": "sí",
+    "start": 182.468,
+    "end": 182.586
+   },
+   {
+    "word": "depende",
+    "start": 182.586,
+    "end": 183.077
+   },
+   {
+    "word": "de",
+    "start": 183.077,
+    "end": 183.291
+   },
+   {
+    "word": "ti.",
+    "start": 183.291,
+    "end": 183.409
+   }
+  ]
+ },
+ {
+  "id": "S06_F040",
+  "scene": "MÓDULO 4 — Consistencia de Intereses",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Lección cuatro: grit no significa trabajar duro esta semana.",
+  "visual": "Figure stands beside a single week marked on a calendar, unremarkable neutral expression.",
+  "start": 184.017,
+  "end": 189.123,
+  "words": [
+   {
+    "word": "Lección",
+    "start": 184.624,
+    "end": 185.169
+   },
+   {
+    "word": "cuatro:",
+    "start": 185.169,
+    "end": 185.569
+   },
+   {
+    "word": "grit",
+    "start": 185.569,
+    "end": 186.306
+   },
+   {
+    "word": "no",
+    "start": 186.306,
+    "end": 186.439
+   },
+   {
+    "word": "significa",
+    "start": 186.439,
+    "end": 187.039
+   },
+   {
+    "word": "trabajar",
+    "start": 187.039,
+    "end": 187.572
+   },
+   {
+    "word": "duro",
+    "start": 187.572,
+    "end": 187.838
+   },
+   {
+    "word": "esta",
+    "start": 187.838,
+    "end": 188.104
+   },
+   {
+    "word": "semana.",
+    "start": 188.104,
+    "end": 188.504
+   }
+  ]
+ },
+ {
+  "id": "S06_F041",
+  "scene": "MÓDULO 4 — Consistencia de Intereses",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Significa mantener el mismo interés, la misma dirección, durante años — no meses.",
+  "visual": "The calendar expands dramatically to show many years stretching into the distance, figure's path glowing steadily along a single straight line through all of them.",
+  "start": 189.123,
+  "end": 196.235,
+  "words": [
+   {
+    "word": "Significa",
+    "start": 189.741,
+    "end": 190.393
+   },
+   {
+    "word": "mantener",
+    "start": 190.393,
+    "end": 190.972
+   },
+   {
+    "word": "el",
+    "start": 190.972,
+    "end": 191.117
+   },
+   {
+    "word": "mismo",
+    "start": 191.117,
+    "end": 191.48
+   },
+   {
+    "word": "interés,",
+    "start": 191.48,
+    "end": 192.418
+   },
+   {
+    "word": "la",
+    "start": 192.418,
+    "end": 192.562
+   },
+   {
+    "word": "misma",
+    "start": 192.562,
+    "end": 192.925
+   },
+   {
+    "word": "dirección,",
+    "start": 192.925,
+    "end": 193.898
+   },
+   {
+    "word": "durante",
+    "start": 193.898,
+    "end": 194.405
+   },
+   {
+    "word": "años",
+    "start": 194.405,
+    "end": 195.049
+   },
+   {
+    "word": "—",
+    "start": 195.049,
+    "end": 195.122
+   },
+   {
+    "word": "no",
+    "start": 195.122,
+    "end": 195.267
+   },
+   {
+    "word": "meses.",
+    "start": 195.267,
+    "end": 195.629
+   }
+  ]
+ },
+ {
+  "id": "S06_F042",
+  "scene": "MÓDULO 4 — Consistencia de Intereses",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Duckworth lo llama \"consistencia de intereses a largo plazo\",",
+  "visual": "Close-up, thoughtful narrating expression, a faint glowing compass icon steadily pointing in one fixed direction.",
+  "start": 196.235,
+  "end": 200.536,
+  "words": [
+   {
+    "word": "Duckworth",
+    "start": 196.841,
+    "end": 197.41
+   },
+   {
+    "word": "lo",
+    "start": 197.41,
+    "end": 197.537
+   },
+   {
+    "word": "llama",
+    "start": 197.537,
+    "end": 197.853
+   },
+   {
+    "word": "\"consistencia",
+    "start": 197.853,
+    "end": 198.865
+   },
+   {
+    "word": "de",
+    "start": 198.865,
+    "end": 198.992
+   },
+   {
+    "word": "intereses",
+    "start": 198.992,
+    "end": 199.561
+   },
+   {
+    "word": "a",
+    "start": 199.561,
+    "end": 199.624
+   },
+   {
+    "word": "largo",
+    "start": 199.624,
+    "end": 200.034
+   },
+   {
+    "word": "plazo\",",
+    "start": 200.034,
+    "end": 200.35
+   }
+  ]
+ },
+ {
+  "id": "S06_F043",
+  "scene": "MÓDULO 4 — Consistencia de Intereses",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "y es la parte que casi nadie quiere escuchar, porque no suena tan atractiva como \"nunca te rindas\".",
+  "visual": "Figure gives a small knowing, slightly rueful smile, the generic motivational poster/lightbulb icon from the gancho reappears faintly, still crossed out.",
+  "start": 200.536,
+  "end": 206.75,
+  "words": [
+   {
+    "word": "y",
+    "start": 200.723,
+    "end": 200.782
+   },
+   {
+    "word": "es",
+    "start": 200.782,
+    "end": 200.9
+   },
+   {
+    "word": "la",
+    "start": 200.9,
+    "end": 201.017
+   },
+   {
+    "word": "parte",
+    "start": 201.017,
+    "end": 201.456
+   },
+   {
+    "word": "que",
+    "start": 201.456,
+    "end": 201.633
+   },
+   {
+    "word": "casi",
+    "start": 201.633,
+    "end": 201.868
+   },
+   {
+    "word": "nadie",
+    "start": 201.868,
+    "end": 202.163
+   },
+   {
+    "word": "quiere",
+    "start": 202.163,
+    "end": 202.516
+   },
+   {
+    "word": "escuchar,",
+    "start": 202.516,
+    "end": 203.399
+   },
+   {
+    "word": "porque",
+    "start": 203.399,
+    "end": 203.753
+   },
+   {
+    "word": "no",
+    "start": 203.753,
+    "end": 203.87
+   },
+   {
+    "word": "suena",
+    "start": 203.87,
+    "end": 204.164
+   },
+   {
+    "word": "tan",
+    "start": 204.164,
+    "end": 204.341
+   },
+   {
+    "word": "atractiva",
+    "start": 204.341,
+    "end": 205.067
+   },
+   {
+    "word": "como",
+    "start": 205.067,
+    "end": 205.376
+   },
+   {
+    "word": "\"nunca",
+    "start": 205.376,
+    "end": 205.67
+   },
+   {
+    "word": "te",
+    "start": 205.67,
+    "end": 205.788
+   },
+   {
+    "word": "rindas\".",
+    "start": 205.788,
+    "end": 206.141
+   }
+  ]
+ },
+ {
+  "id": "S06_F044",
+  "scene": "MÓDULO 4 — Consistencia de Intereses",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Aquí está la clave: las personas con más grit no son las que sienten pasión intensa todos los días.",
+  "visual": "Figure walks along the long straight path, expression calm and unremarkable rather than visibly excited, steady even pace.",
+  "start": 206.75,
+  "end": 213.609,
+  "words": [
+   {
+    "word": "Aquí",
+    "start": 207.359,
+    "end": 207.605
+   },
+   {
+    "word": "está",
+    "start": 207.605,
+    "end": 207.851
+   },
+   {
+    "word": "la",
+    "start": 207.851,
+    "end": 207.974
+   },
+   {
+    "word": "clave:",
+    "start": 207.974,
+    "end": 208.282
+   },
+   {
+    "word": "las",
+    "start": 208.282,
+    "end": 208.901
+   },
+   {
+    "word": "personas",
+    "start": 208.901,
+    "end": 209.477
+   },
+   {
+    "word": "con",
+    "start": 209.477,
+    "end": 209.662
+   },
+   {
+    "word": "más",
+    "start": 209.662,
+    "end": 209.847
+   },
+   {
+    "word": "grit",
+    "start": 209.847,
+    "end": 210.093
+   },
+   {
+    "word": "no",
+    "start": 210.093,
+    "end": 210.317
+   },
+   {
+    "word": "son",
+    "start": 210.317,
+    "end": 210.501
+   },
+   {
+    "word": "las",
+    "start": 210.501,
+    "end": 210.686
+   },
+   {
+    "word": "que",
+    "start": 210.686,
+    "end": 210.87
+   },
+   {
+    "word": "sienten",
+    "start": 210.87,
+    "end": 211.301
+   },
+   {
+    "word": "pasión",
+    "start": 211.301,
+    "end": 211.67
+   },
+   {
+    "word": "intensa",
+    "start": 211.67,
+    "end": 212.101
+   },
+   {
+    "word": "todos",
+    "start": 212.101,
+    "end": 212.499
+   },
+   {
+    "word": "los",
+    "start": 212.499,
+    "end": 212.684
+   },
+   {
+    "word": "días.",
+    "start": 212.684,
+    "end": 213.009
+   }
+  ]
+ },
+ {
+  "id": "S06_F045",
+  "scene": "MÓDULO 4 — Consistencia de Intereses",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Son las que siguen apareciendo en los días donde esa pasión se siente completamente apagada.",
+  "visual": "The compass icon dims to a faint flicker on a particularly dark stretch of the path, yet the figure keeps walking through it regardless, tired but steady expression.",
+  "start": 213.609,
+  "end": 219.428,
+  "words": [
+   {
+    "word": "Son",
+    "start": 214.209,
+    "end": 214.383
+   },
+   {
+    "word": "las",
+    "start": 214.383,
+    "end": 214.557
+   },
+   {
+    "word": "que",
+    "start": 214.557,
+    "end": 214.731
+   },
+   {
+    "word": "siguen",
+    "start": 214.731,
+    "end": 215.079
+   },
+   {
+    "word": "apareciendo",
+    "start": 215.079,
+    "end": 215.716
+   },
+   {
+    "word": "en",
+    "start": 215.716,
+    "end": 215.832
+   },
+   {
+    "word": "los",
+    "start": 215.832,
+    "end": 216.006
+   },
+   {
+    "word": "días",
+    "start": 216.006,
+    "end": 216.238
+   },
+   {
+    "word": "donde",
+    "start": 216.238,
+    "end": 216.528
+   },
+   {
+    "word": "esa",
+    "start": 216.528,
+    "end": 216.774
+   },
+   {
+    "word": "pasión",
+    "start": 216.774,
+    "end": 217.122
+   },
+   {
+    "word": "se",
+    "start": 217.122,
+    "end": 217.238
+   },
+   {
+    "word": "siente",
+    "start": 217.238,
+    "end": 217.586
+   },
+   {
+    "word": "completamente",
+    "start": 217.586,
+    "end": 218.339
+   },
+   {
+    "word": "apagada.",
+    "start": 218.339,
+    "end": 218.828
+   }
+  ]
+ },
+ {
+  "id": "S06_F046",
+  "scene": "MÓDULO 4 — Consistencia de Intereses",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Cambiar de dirección cada pocos meses, persiguiendo la próxima idea emocionante,",
+  "visual": "Several faint ghost-outline branching paths split off in different directions from the main line, each looking bright and tempting.",
+  "start": 219.428,
+  "end": 225.069,
+  "words": [
+   {
+    "word": "Cambiar",
+    "start": 220.029,
+    "end": 220.442
+   },
+   {
+    "word": "de",
+    "start": 220.442,
+    "end": 220.559
+   },
+   {
+    "word": "dirección",
+    "start": 220.559,
+    "end": 221.171
+   },
+   {
+    "word": "cada",
+    "start": 221.171,
+    "end": 221.566
+   },
+   {
+    "word": "pocos",
+    "start": 221.566,
+    "end": 221.86
+   },
+   {
+    "word": "meses,",
+    "start": 221.86,
+    "end": 222.155
+   },
+   {
+    "word": "persiguiendo",
+    "start": 222.155,
+    "end": 223.298
+   },
+   {
+    "word": "la",
+    "start": 223.298,
+    "end": 223.498
+   },
+   {
+    "word": "próxima",
+    "start": 223.498,
+    "end": 223.911
+   },
+   {
+    "word": "idea",
+    "start": 223.911,
+    "end": 224.147
+   },
+   {
+    "word": "emocionante,",
+    "start": 224.147,
+    "end": 224.885
+   }
+  ]
+ },
+ {
+  "id": "S06_F047",
+  "scene": "MÓDULO 4 — Consistencia de Intereses",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "es precisamente lo opuesto al grit — aunque se sienta como progreso.",
+  "visual": "Wide shot, a faint ghost-outline figure jumps between the branching paths, ending up scattered and going nowhere, contrasted with the main figure still steady on the single long path.",
+  "start": 225.069,
+  "end": 229.461,
+  "words": [
+   {
+    "word": "es",
+    "start": 225.252,
+    "end": 225.358
+   },
+   {
+    "word": "precisamente",
+    "start": 225.358,
+    "end": 226.073
+   },
+   {
+    "word": "lo",
+    "start": 226.073,
+    "end": 226.178
+   },
+   {
+    "word": "opuesto",
+    "start": 226.178,
+    "end": 226.67
+   },
+   {
+    "word": "al",
+    "start": 226.67,
+    "end": 226.775
+   },
+   {
+    "word": "grit",
+    "start": 226.775,
+    "end": 227.337
+   },
+   {
+    "word": "—",
+    "start": 227.337,
+    "end": 227.39
+   },
+   {
+    "word": "aunque",
+    "start": 227.39,
+    "end": 227.707
+   },
+   {
+    "word": "se",
+    "start": 227.707,
+    "end": 227.812
+   },
+   {
+    "word": "sienta",
+    "start": 227.812,
+    "end": 228.129
+   },
+   {
+    "word": "como",
+    "start": 228.129,
+    "end": 228.413
+   },
+   {
+    "word": "progreso.",
+    "start": 228.413,
+    "end": 228.835
+   }
+  ]
+ },
+ {
+  "id": "S07_F048",
+  "scene": "MÓDULO 5 — La Regla de la Cosa Difícil",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Y aquí está algo que Duckworth aplica en su propia casa, no solo en su investigación:",
+  "visual": "Figure stands in a warm home-like setting (a few minimal furniture shapes), calm explanatory posture.",
+  "start": 229.461,
+  "end": 235.057,
+  "words": [
+   {
+    "word": "Y",
+    "start": 230.087,
+    "end": 230.145
+   },
+   {
+    "word": "aquí",
+    "start": 230.145,
+    "end": 230.378
+   },
+   {
+    "word": "está",
+    "start": 230.378,
+    "end": 230.61
+   },
+   {
+    "word": "algo",
+    "start": 230.61,
+    "end": 230.843
+   },
+   {
+    "word": "que",
+    "start": 230.843,
+    "end": 231.017
+   },
+   {
+    "word": "Duckworth",
+    "start": 231.017,
+    "end": 231.626
+   },
+   {
+    "word": "aplica",
+    "start": 231.626,
+    "end": 232.051
+   },
+   {
+    "word": "en",
+    "start": 232.051,
+    "end": 232.167
+   },
+   {
+    "word": "su",
+    "start": 232.167,
+    "end": 232.356
+   },
+   {
+    "word": "propia",
+    "start": 232.356,
+    "end": 232.851
+   },
+   {
+    "word": "casa,",
+    "start": 232.851,
+    "end": 233.476
+   },
+   {
+    "word": "no",
+    "start": 233.476,
+    "end": 233.592
+   },
+   {
+    "word": "solo",
+    "start": 233.592,
+    "end": 233.825
+   },
+   {
+    "word": "en",
+    "start": 233.825,
+    "end": 233.941
+   },
+   {
+    "word": "su",
+    "start": 233.941,
+    "end": 234.057
+   },
+   {
+    "word": "investigación:",
+    "start": 234.057,
+    "end": 234.813
+   }
+  ]
+ },
+ {
+  "id": "S07_F049",
+  "scene": "MÓDULO 5 — La Regla de la Cosa Difícil",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "la \"regla de la cosa difícil\".",
+  "visual": "A single glowing accent-colored icon of a simple weight/dumbbell shape appears steadily in the center of the frame.",
+  "start": 235.057,
+  "end": 237.401,
+  "words": [
+   {
+    "word": "la",
+    "start": 235.301,
+    "end": 235.429
+   },
+   {
+    "word": "\"regla",
+    "start": 235.429,
+    "end": 235.75
+   },
+   {
+    "word": "de",
+    "start": 235.75,
+    "end": 235.878
+   },
+   {
+    "word": "la",
+    "start": 235.878,
+    "end": 236.084
+   },
+   {
+    "word": "cosa",
+    "start": 236.084,
+    "end": 236.34
+   },
+   {
+    "word": "difícil\".",
+    "start": 236.34,
+    "end": 236.789
+   }
+  ]
+ },
+ {
+  "id": "S07_F050",
+  "scene": "MÓDULO 5 — La Regla de la Cosa Difícil",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Cada persona de la familia — incluida ella — debe practicar algo que requiera esfuerzo diario y práctica deliberada.",
+  "visual": "Close-up, several small faint ghost-outline figures of different sizes (family members) each holding their own small glowing practice-icon, determined shared expression.",
+  "start": 237.401,
+  "end": 245.296,
+  "words": [
+   {
+    "word": "Cada",
+    "start": 238.013,
+    "end": 238.235
+   },
+   {
+    "word": "persona",
+    "start": 238.235,
+    "end": 238.624
+   },
+   {
+    "word": "de",
+    "start": 238.624,
+    "end": 238.735
+   },
+   {
+    "word": "la",
+    "start": 238.735,
+    "end": 238.846
+   },
+   {
+    "word": "familia",
+    "start": 238.846,
+    "end": 239.235
+   },
+   {
+    "word": "—",
+    "start": 239.235,
+    "end": 239.291
+   },
+   {
+    "word": "incluida",
+    "start": 239.291,
+    "end": 240.106
+   },
+   {
+    "word": "ella",
+    "start": 240.106,
+    "end": 240.328
+   },
+   {
+    "word": "—",
+    "start": 240.328,
+    "end": 240.384
+   },
+   {
+    "word": "debe",
+    "start": 240.384,
+    "end": 240.959
+   },
+   {
+    "word": "practicar",
+    "start": 240.959,
+    "end": 241.719
+   },
+   {
+    "word": "algo",
+    "start": 241.719,
+    "end": 241.941
+   },
+   {
+    "word": "que",
+    "start": 241.941,
+    "end": 242.108
+   },
+   {
+    "word": "requiera",
+    "start": 242.108,
+    "end": 242.552
+   },
+   {
+    "word": "esfuerzo",
+    "start": 242.552,
+    "end": 242.996
+   },
+   {
+    "word": "diario",
+    "start": 242.996,
+    "end": 243.33
+   },
+   {
+    "word": "y",
+    "start": 243.33,
+    "end": 243.385
+   },
+   {
+    "word": "práctica",
+    "start": 243.385,
+    "end": 244.117
+   },
+   {
+    "word": "deliberada.",
+    "start": 244.117,
+    "end": 244.672
+   }
+  ]
+ },
+ {
+  "id": "S07_F051",
+  "scene": "MÓDULO 5 — La Regla de la Cosa Difícil",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Pueden elegir esa actividad.",
+  "visual": "Each small figure's practice-icon is different (a book, a musical note, a running shoe), figure gestures openly toward the variety.",
+  "start": 245.296,
+  "end": 247.892,
+  "words": [
+   {
+    "word": "Pueden",
+    "start": 245.92,
+    "end": 246.228
+   },
+   {
+    "word": "elegir",
+    "start": 246.228,
+    "end": 246.536
+   },
+   {
+    "word": "esa",
+    "start": 246.536,
+    "end": 246.689
+   },
+   {
+    "word": "actividad.",
+    "start": 246.689,
+    "end": 247.277
+   }
+  ]
+ },
+ {
+  "id": "S07_F052",
+  "scene": "MÓDULO 5 — La Regla de la Cosa Difícil",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Pero no pueden abandonarla a mitad de un compromiso,",
+  "visual": "One small figure reaches to drop their practice-icon mid-way, a firm but gentle glowing barrier stops the hand.",
+  "start": 247.892,
+  "end": 251.265,
+  "words": [
+   {
+    "word": "Pero",
+    "start": 248.508,
+    "end": 248.74
+   },
+   {
+    "word": "no",
+    "start": 248.74,
+    "end": 248.857
+   },
+   {
+    "word": "pueden",
+    "start": 248.857,
+    "end": 249.205
+   },
+   {
+    "word": "abandonarla",
+    "start": 249.205,
+    "end": 249.844
+   },
+   {
+    "word": "a",
+    "start": 249.844,
+    "end": 249.902
+   },
+   {
+    "word": "mitad",
+    "start": 249.902,
+    "end": 250.267
+   },
+   {
+    "word": "de",
+    "start": 250.267,
+    "end": 250.383
+   },
+   {
+    "word": "un",
+    "start": 250.383,
+    "end": 250.499
+   },
+   {
+    "word": "compromiso,",
+    "start": 250.499,
+    "end": 251.08
+   }
+  ]
+ },
+ {
+  "id": "S07_F053",
+  "scene": "MÓDULO 5 — La Regla de la Cosa Difícil",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "solo en los puntos naturales de término — al final de la temporada, al final del semestre.",
+  "visual": "A faint glowing calendar shows clear marked endpoints (season's end, semester's end) where the barrier briefly opens, allowing a graceful stop.",
+  "start": 251.265,
+  "end": 257.271,
+  "words": [
+   {
+    "word": "solo",
+    "start": 251.45,
+    "end": 251.689
+   },
+   {
+    "word": "en",
+    "start": 251.689,
+    "end": 251.808
+   },
+   {
+    "word": "los",
+    "start": 251.808,
+    "end": 252.089
+   },
+   {
+    "word": "puntos",
+    "start": 252.089,
+    "end": 252.447
+   },
+   {
+    "word": "naturales",
+    "start": 252.447,
+    "end": 253.062
+   },
+   {
+    "word": "de",
+    "start": 253.062,
+    "end": 253.181
+   },
+   {
+    "word": "término",
+    "start": 253.181,
+    "end": 253.96
+   },
+   {
+    "word": "—",
+    "start": 253.96,
+    "end": 254.02
+   },
+   {
+    "word": "al",
+    "start": 254.02,
+    "end": 254.139
+   },
+   {
+    "word": "final",
+    "start": 254.139,
+    "end": 254.438
+   },
+   {
+    "word": "de",
+    "start": 254.438,
+    "end": 254.558
+   },
+   {
+    "word": "la",
+    "start": 254.558,
+    "end": 254.677
+   },
+   {
+    "word": "temporada,",
+    "start": 254.677,
+    "end": 255.592
+   },
+   {
+    "word": "al",
+    "start": 255.592,
+    "end": 255.711
+   },
+   {
+    "word": "final",
+    "start": 255.711,
+    "end": 256.01
+   },
+   {
+    "word": "del",
+    "start": 256.01,
+    "end": 256.189
+   },
+   {
+    "word": "semestre.",
+    "start": 256.189,
+    "end": 256.667
+   }
+  ]
+ },
+ {
+  "id": "S07_F054",
+  "scene": "MÓDULO 5 — La Regla de la Cosa Difícil",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Esto es lo que nadie te dice: el grit no se construye evitando la dificultad.",
+  "visual": "Close-up, thoughtful firm expression, a faint jagged obstacle-line glows steadily rather than being avoided.",
+  "start": 257.271,
+  "end": 262.833,
+  "words": [
+   {
+    "word": "Esto",
+    "start": 257.876,
+    "end": 258.121
+   },
+   {
+    "word": "es",
+    "start": 258.121,
+    "end": 258.244
+   },
+   {
+    "word": "lo",
+    "start": 258.244,
+    "end": 258.366
+   },
+   {
+    "word": "que",
+    "start": 258.366,
+    "end": 258.55
+   },
+   {
+    "word": "nadie",
+    "start": 258.55,
+    "end": 258.856
+   },
+   {
+    "word": "te",
+    "start": 258.856,
+    "end": 258.979
+   },
+   {
+    "word": "dice:",
+    "start": 258.979,
+    "end": 259.224
+   },
+   {
+    "word": "el",
+    "start": 259.224,
+    "end": 259.767
+   },
+   {
+    "word": "grit",
+    "start": 259.767,
+    "end": 260.012
+   },
+   {
+    "word": "no",
+    "start": 260.012,
+    "end": 260.208
+   },
+   {
+    "word": "se",
+    "start": 260.208,
+    "end": 260.33
+   },
+   {
+    "word": "construye",
+    "start": 260.33,
+    "end": 260.882
+   },
+   {
+    "word": "evitando",
+    "start": 260.882,
+    "end": 261.372
+   },
+   {
+    "word": "la",
+    "start": 261.372,
+    "end": 261.494
+   },
+   {
+    "word": "dificultad.",
+    "start": 261.494,
+    "end": 262.219
+   }
+  ]
+ },
+ {
+  "id": "S07_F055",
+  "scene": "MÓDULO 5 — La Regla de la Cosa Difícil",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Se construye decidiendo, de antemano, en qué momentos exactos SÍ está permitido parar —",
+  "visual": "The calendar's marked endpoints glow clearly and deliberately, decided well in advance, figure pointing to them with calm clarity.",
+  "start": 262.833,
+  "end": 269.252,
+  "words": [
+   {
+    "word": "Se",
+    "start": 263.448,
+    "end": 263.572
+   },
+   {
+    "word": "construye",
+    "start": 263.572,
+    "end": 264.128
+   },
+   {
+    "word": "decidiendo,",
+    "start": 264.128,
+    "end": 264.746
+   },
+   {
+    "word": "de",
+    "start": 264.746,
+    "end": 264.87
+   },
+   {
+    "word": "antemano,",
+    "start": 264.87,
+    "end": 265.8
+   },
+   {
+    "word": "en",
+    "start": 265.8,
+    "end": 265.923
+   },
+   {
+    "word": "qué",
+    "start": 265.923,
+    "end": 266.49
+   },
+   {
+    "word": "momentos",
+    "start": 266.49,
+    "end": 266.985
+   },
+   {
+    "word": "exactos",
+    "start": 266.985,
+    "end": 267.417
+   },
+   {
+    "word": "SÍ",
+    "start": 267.417,
+    "end": 267.541
+   },
+   {
+    "word": "está",
+    "start": 267.541,
+    "end": 267.895
+   },
+   {
+    "word": "permitido",
+    "start": 267.895,
+    "end": 268.603
+   },
+   {
+    "word": "parar",
+    "start": 268.603,
+    "end": 268.992
+   },
+   {
+    "word": "—",
+    "start": 268.992,
+    "end": 269.054
+   }
+  ]
+ },
+ {
+  "id": "S07_F056",
+  "scene": "MÓDULO 5 — La Regla de la Cosa Difícil",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "para que la dificultad del día de hoy no sea una de esas excusas.",
+  "visual": "Wide shot, figure stands firmly at the obstacle-line, undeterred by today's difficulty, resolute grounded expression, the marked calendar endpoints glowing far ahead.",
+  "start": 269.252,
+  "end": 273.546,
+  "words": [
+   {
+    "word": "para",
+    "start": 269.451,
+    "end": 269.775
+   },
+   {
+    "word": "que",
+    "start": 269.775,
+    "end": 269.959
+   },
+   {
+    "word": "la",
+    "start": 269.959,
+    "end": 270.081
+   },
+   {
+    "word": "dificultad",
+    "start": 270.081,
+    "end": 270.78
+   },
+   {
+    "word": "del",
+    "start": 270.78,
+    "end": 270.964
+   },
+   {
+    "word": "día",
+    "start": 270.964,
+    "end": 271.148
+   },
+   {
+    "word": "de",
+    "start": 271.148,
+    "end": 271.27
+   },
+   {
+    "word": "hoy",
+    "start": 271.27,
+    "end": 271.454
+   },
+   {
+    "word": "no",
+    "start": 271.454,
+    "end": 271.577
+   },
+   {
+    "word": "sea",
+    "start": 271.577,
+    "end": 271.76
+   },
+   {
+    "word": "una",
+    "start": 271.76,
+    "end": 271.944
+   },
+   {
+    "word": "de",
+    "start": 271.944,
+    "end": 272.066
+   },
+   {
+    "word": "esas",
+    "start": 272.066,
+    "end": 272.311
+   },
+   {
+    "word": "excusas.",
+    "start": 272.311,
+    "end": 272.74
+   }
+  ]
+ },
+ {
+  "id": "S08_F057",
+  "scene": "EL CIERRE",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "El talento abre la puerta.",
+  "visual": "Close-up, calm direct gaze toward camera, a faint glowing door icon opening gently beside the figure.",
+  "start": 273.546,
+  "end": 276.245,
+  "words": [
+   {
+    "word": "El",
+    "start": 274.202,
+    "end": 274.312
+   },
+   {
+    "word": "talento",
+    "start": 274.312,
+    "end": 274.773
+   },
+   {
+    "word": "abre",
+    "start": 274.773,
+    "end": 274.993
+   },
+   {
+    "word": "la",
+    "start": 274.993,
+    "end": 275.103
+   },
+   {
+    "word": "puerta.",
+    "start": 275.103,
+    "end": 275.628
+   }
+  ]
+ },
+ {
+  "id": "S08_F058",
+  "scene": "EL CIERRE",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "El grit es lo único que te mantiene caminando después de que la novedad desaparece.",
+  "visual": "Figure walks steadily through the open door into a long dim hallway, the initial bright doorway light fading behind them, determined calm expression.",
+  "start": 276.245,
+  "end": 281.548,
+  "words": [
+   {
+    "word": "El",
+    "start": 276.863,
+    "end": 276.978
+   },
+   {
+    "word": "grit",
+    "start": 276.978,
+    "end": 277.209
+   },
+   {
+    "word": "es",
+    "start": 277.209,
+    "end": 277.325
+   },
+   {
+    "word": "lo",
+    "start": 277.325,
+    "end": 277.44
+   },
+   {
+    "word": "único",
+    "start": 277.44,
+    "end": 277.728
+   },
+   {
+    "word": "que",
+    "start": 277.728,
+    "end": 277.901
+   },
+   {
+    "word": "te",
+    "start": 277.901,
+    "end": 278.017
+   },
+   {
+    "word": "mantiene",
+    "start": 278.017,
+    "end": 278.478
+   },
+   {
+    "word": "caminando",
+    "start": 278.478,
+    "end": 278.998
+   },
+   {
+    "word": "después",
+    "start": 278.998,
+    "end": 279.482
+   },
+   {
+    "word": "de",
+    "start": 279.482,
+    "end": 279.598
+   },
+   {
+    "word": "que",
+    "start": 279.598,
+    "end": 279.771
+   },
+   {
+    "word": "la",
+    "start": 279.771,
+    "end": 279.886
+   },
+   {
+    "word": "novedad",
+    "start": 279.886,
+    "end": 280.29
+   },
+   {
+    "word": "desaparece.",
+    "start": 280.29,
+    "end": 280.947
+   }
+  ]
+ },
+ {
+  "id": "S08_F059",
+  "scene": "EL CIERRE",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Escribe en los comentarios cuál \"cosa difícil\" vas a sostener este mes, pase lo que pase.",
+  "visual": "Figure points directly toward the camera/viewer, warm inviting expression, a faint speech-bubble icon glowing softly in accent color.",
+  "start": 281.548,
+  "end": 288.24,
+  "words": [
+   {
+    "word": "Escribe",
+    "start": 282.148,
+    "end": 282.671
+   },
+   {
+    "word": "en",
+    "start": 282.671,
+    "end": 282.801
+   },
+   {
+    "word": "los",
+    "start": 282.801,
+    "end": 282.995
+   },
+   {
+    "word": "comentarios",
+    "start": 282.995,
+    "end": 283.777
+   },
+   {
+    "word": "cuál",
+    "start": 283.777,
+    "end": 284.252
+   },
+   {
+    "word": "\"cosa",
+    "start": 284.252,
+    "end": 284.51
+   },
+   {
+    "word": "difícil\"",
+    "start": 284.51,
+    "end": 285.103
+   },
+   {
+    "word": "vas",
+    "start": 285.103,
+    "end": 285.297
+   },
+   {
+    "word": "a",
+    "start": 285.297,
+    "end": 285.361
+   },
+   {
+    "word": "sostener",
+    "start": 285.361,
+    "end": 285.878
+   },
+   {
+    "word": "este",
+    "start": 285.878,
+    "end": 286.137
+   },
+   {
+    "word": "mes,",
+    "start": 286.137,
+    "end": 286.331
+   },
+   {
+    "word": "pase",
+    "start": 286.331,
+    "end": 286.955
+   },
+   {
+    "word": "lo",
+    "start": 286.955,
+    "end": 287.085
+   },
+   {
+    "word": "que",
+    "start": 287.085,
+    "end": 287.278
+   },
+   {
+    "word": "pase.",
+    "start": 287.278,
+    "end": 287.617
+   }
+  ]
+ },
+ {
+  "id": "S08_F060",
+  "scene": "EL CIERRE",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Si este video te sirvió, dale like y suscríbete —",
+  "visual": "Figure gives a genuine thumbs-up gesture with a warm smile, a faint bell icon glows softly beside them.",
+  "start": 288.24,
+  "end": 292.481,
+  "words": [
+   {
+    "word": "Si",
+    "start": 288.864,
+    "end": 289.012
+   },
+   {
+    "word": "este",
+    "start": 289.012,
+    "end": 289.307
+   },
+   {
+    "word": "video",
+    "start": 289.307,
+    "end": 289.676
+   },
+   {
+    "word": "te",
+    "start": 289.676,
+    "end": 289.824
+   },
+   {
+    "word": "sirvió,",
+    "start": 289.824,
+    "end": 290.267
+   },
+   {
+    "word": "dale",
+    "start": 290.267,
+    "end": 290.9
+   },
+   {
+    "word": "like",
+    "start": 290.9,
+    "end": 291.195
+   },
+   {
+    "word": "y",
+    "start": 291.195,
+    "end": 291.352
+   },
+   {
+    "word": "suscríbete",
+    "start": 291.352,
+    "end": 292.185
+   },
+   {
+    "word": "—",
+    "start": 292.185,
+    "end": 292.259
+   }
+  ]
+ },
+ {
+  "id": "S08_F061",
+  "scene": "EL CIERRE",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "la disciplina no hace ruido.",
+  "visual": "Figure stands calm and still in the quiet dark space, faint warm rim light outlining their silhouette, serene composed expression.",
+  "start": 292.481,
+  "end": 295.15,
+  "words": [
+   {
+    "word": "la",
+    "start": 292.703,
+    "end": 292.813
+   },
+   {
+    "word": "disciplina",
+    "start": 292.813,
+    "end": 293.441
+   },
+   {
+    "word": "no",
+    "start": 293.441,
+    "end": 293.551
+   },
+   {
+    "word": "hace",
+    "start": 293.551,
+    "end": 293.771
+   },
+   {
+    "word": "ruido.",
+    "start": 293.771,
+    "end": 294.046
+   }
+  ]
+ }
+]

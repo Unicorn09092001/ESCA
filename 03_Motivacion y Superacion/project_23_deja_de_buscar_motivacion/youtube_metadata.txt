@@ -1,0 +1,199 @@
+================================================================================
+PROJECT 23 — Chủ đề #23 (20-chu-de-video-tiep-theo-2026-09.md)
+Trụ cột: Motivación y Superación (25% cộng dồn) — Câu hỏi trực tiếp
+Playlist Folder: 03_Motivacion y Superacion  |  Màu nhấn: #FF3B78
+================================================================================
+
+## GHI CHÚ TRÁNH TRÙNG LẶP
+
+Chủ đề gốc đúng tinh thần "Sin motivación vacía" của Productividad Real —
+phản biện trực tiếp khái niệm "cần cảm thấy có động lực mới hành động". Cả
+2 nguồn (Jeff Haden, Teresa Amabile) hoàn toàn mới, chưa dùng ở video 01-31.
+
+## BƯỚC 2 — NGUỒN ĐÃ VERIFY QUA WEBSEARCH (2 tác giả tên cụ thể)
+
+1. Jeff Haden — nhà văn, tác giả "The Motivation Myth" (Mito de la
+   Motivación, 2018): phỏng vấn hàng chục người thành công và phát hiện
+   không ai trong số họ cảm thấy có động lực TRƯỚC khi bắt đầu việc khó —
+   động lực xuất hiện SAU bước đầu tiên, như kết quả của hành động, không
+   phải nguyên nhân.
+2. Teresa Amabile — Harvard Business School, đồng tác giả "The Progress
+   Principle" (cùng Steven Kramer): phân tích hàng nghìn nhật ký công việc
+   và phát hiện yếu tố tạo động lực mạnh nhất trong ngày làm việc không phải
+   tiền thưởng hay lời khen, mà là TIẾN ĐỘ NHÌN THẤY ĐƯỢC, dù nhỏ.
+
+Cả 2 nguồn CHƯA từng dùng ở các video 01-31 trong kênh.
+
+## BƯỚC 1 — TITLES
+
+1. [RECOMENDADO] ¿Buscas Motivación? Deja De Buscarla y Haz Esto (49 ký tự)
+2. Deja de Buscar Motivación y Haz Esto en Su Lugar (49 ký tự)
+3. La Motivación No Existe Antes de Empezar (Ciencia) (51 ký tự)
+
+## BƯỚC 1 — PLAYLIST
+
+03_Motivacion y Superacion (màu nhấn #FF3B78)
+
+## BƯỚC 1 — THUMBNAIL PROMPTS (đúng 1 Mẫu B + 1 Mẫu C, dùng CHUNG 1 headline)
+
+Headline dùng chung: "SIN MOTIVACION" (từ nhấn "MOTIVACION" màu #FF3B78 —
+bỏ dấu theo quy tắc ký tự an toàn 1.3). Cỡ chữ 29-34% chiều cao ảnh.
+
+{NHÂN_VẬT_CỐ_ĐỊNH} = a young adult male anime character, athletic lean
+build, short dark messy hair, calm-intense neutral expression by default,
+wearing dark casual streetwear (hoodie or henley, muted charcoal/black)
+with exactly ONE accent-colored detail (drawstring, zipper, or small
+patch) in #FF3B78. Detailed anime illustration style with clean line
+art and cel-shading, fully rendered face with clear eyes, nose, and mouth.
+This exact character design must repeat identically across every
+thumbnail — only pose, facial expression, camera angle, and background
+change per video.
+
+### THUMBNAIL B — Triptych 3 khung
+
+```
+A YouTube thumbnail, 16:9. Three-panel triptych layout, thin dark vertical
+dividers between panels. Each panel shows the character performing ONE
+specific, concrete action/habit — the three panels are NOT a linear story
+(no "problem/climax/result" roles) — and each panel has a DIFFERENT
+background lighting/tone matching its own action, so the three panels are
+instantly distinguishable even at small size.
+
+panel 1 (left): {NHÂN_VẬT_CỐ_ĐỊNH}, shown putting on workout clothes
+without waiting to feel ready, with a determined facial expression, set
+against a background/lighting that fits this specific action (#0B0B0C
+base with a subtle tint suited to the scene).
+
+panel 2 (center): {NHÂN_VẬT_CỐ_ĐỊNH}, shown writing a single paragraph
+on an otherwise blank page as the smallest possible version of a bigger
+task, with a focused facial expression, set against a background/
+lighting that fits this specific action, clearly distinct in tone from
+panel 1 and panel 3.
+
+panel 3 (right): {NHÂN_VẬT_CỐ_ĐỊNH}, shown crossing off one small
+completed task on a short list, with a satisfied facial expression, set
+against a background/lighting that fits this specific action, clearly
+distinct in tone from the other two panels. One small accent object in
+solid flat #FF3B78 may appear in this panel only.
+
+Bold cinematic anime illustration style throughout, clean line art,
+NO photorealistic rendering, NO real photograph, NO 3D render, NO stick
+figure. The character's face, hair, and outfit must look IDENTICAL across
+all three panels — only pose, expression, camera angle, and background
+tone change.
+
+Below the three panels, bold ultra-condensed sans-serif headline text in
+warm white, reading exactly "SIN MOTIVACION", all capital letters, with
+the word "MOTIVACION" in #FF3B78, sitting on a soft dark gradient scrim
+for legibility, positioned in the lower-middle area, text height about
+29-34% of the image height, perfectly legible when shrunk to 160x90 px.
+A small circular badge in the top-left corner containing a simple white
+mountain-peak icon on a dark circle.
+
+--ar 16:9 --no bright background, light background, cream background,
+yellow banner, gradient glow, extra text, additional words, captions,
+subtitles, watermark, small lettering, gibberish text, photorealistic
+face, real photograph, 3D render, stick figure, identical flat background
+across all three panels, inconsistent character design
+```
+
+### THUMBNAIL C — Lưới 6 khung
+
+```
+A YouTube thumbnail, 16:9. A grid of six small panels arranged 2 rows by
+3 columns, each panel separated by a thin dark border (2-3px, #0B0B0C),
+filling the entire frame edge-to-edge with no outer margin, all six panels
+equal size.
+
+{NHÂN_VẬT_CỐ_ĐỊNH} appears in most panels — the character's FACE,
+HAIRSTYLE, and BODY BUILD stay perfectly identical to the reference design
+in every panel that includes them, but the OUTFIT and pose change per
+panel to match that panel's own beat, always staying within the same
+dark/muted color family as the base design.
+
+panel 1: sitting passively waiting for an unlit spark icon, frustrated
+expression, wearing a plain hoodie (esperando sentirse listo). panel 2: a
+close-up still-life of a small glowing footprint appearing before a spark
+lights up behind it, moodily lit, no character present (la accion antes
+que la motivacion). panel 3: crossing out a tiny completed task on a short
+list, focused satisfied expression, wearing a plain shirt (el progreso
+pequeno). panel 4: setting a small glowing ten-minute timer with
+determined expression, wearing a plain jacket (la version mas pequena).
+panel 5: a close-up still-life of a phone showing motivational videos on
+a loop, going nowhere, moodily lit, no character present (la trampa de
+buscar motivacion). panel 6: standing energized mid-motion, spark glowing
+steadily behind him, wearing a plain jacket (payoff/cierre).
+
+Each panel has its own dark, moody lighting appropriate to its own
+activity/setting, but all six panels keep the same bold cinematic anime
+illustration style and the same overall dark color grading (#0B0B0C-based)
+so the grid reads as ONE cohesive poster, not six unrelated pictures. NO
+photorealistic rendering, NO real photograph, NO 3D render, NO stick
+figure, in any panel.
+
+Bold ultra-condensed sans-serif headline text overlaid ACROSS the grid
+(spanning over several panels, not confined inside a single panel),
+reading exactly "SIN MOTIVACION", all capital letters, with the word
+"MOTIVACION" in #FF3B78, sitting on a soft dark gradient scrim across the
+panels it overlaps for legibility, positioned in the lower-middle area,
+text height about 29-34% of the image height, perfectly legible when
+shrunk to 160x90 px.
+
+A small circular badge in the top-left corner containing a simple white
+mountain-peak icon on a dark circle.
+
+--ar 16:9 --no bright background, light background, cream background,
+yellow banner, gradient glow, extra text, additional words, captions,
+subtitles, watermark, small lettering, gibberish text, photorealistic
+face, real photograph, 3D render, stick figure, inconsistent character
+design across panels, uneven panel sizes, thick white borders, panels
+in completely different art styles
+```
+
+## BƯỚC 2.9 — DESCRIPTION (tiếng Tây Ban Nha, ~150 từ)
+
+¿Sigues esperando sentirte motivado para empezar? Puedes seguir esperando
+años, porque la motivación no funciona como crees.
+
+En este video te explico por qué buscar motivación es exactamente lo que
+te mantiene atascado: el escritor Jeff Haden, autor de "The Motivation
+Myth", descubrió que ninguna persona de alto rendimiento sintió motivación
+ANTES de empezar algo difícil — la sintieron después, como consecuencia de
+la acción. Y la investigadora Teresa Amabile (Harvard Business School)
+encontró que el progreso pequeño y visible genera más motivación real que
+cualquier discurso inspirador.
+
+También te doy el ejercicio práctico de los diez minutos para dejar de
+esperar sentirte listo y empezar hoy mismo.
+
+No necesitas motivación para empezar. Necesitas empezar para tener
+motivación.
+
+## HASHTAGS (12)
+
+#motivacion #disciplina #desarrollopersonal #crecimientopersonal
+#superacionpersonal #productividad #mentalidad #habitos
+#exito #autodisciplina #psicologia #bienestar
+
+## CHAPTERS (timestamp ƯỚC TÍNH — 2,5 từ/giây, tổng ≈ 4:23 phút — THAY BẰNG
+## TIMESTAMP THẬT từ .srt ngay khi có audio edge-tts thật)
+
+0:00 Introducción
+0:29 El Orden al Revés (Jeff Haden)
+1:06 El Progreso Pequeño (Teresa Amabile)
+1:53 Qué Hacer en la Práctica
+2:55 La Trampa de Buscar Motivación
+3:48 Cierre
+
+## CHECKLIST METADATA
+
+- [x] Description >= 120 từ
+- [x] >= 10 hashtags lowercase (12), không dùng hashtag giật gân
+- [x] 3 titles <= 60 ký tự
+- [x] Đã gán Playlist Folder (03_Motivacion y Superacion)
+- [x] 2 thumbnail prompts — đúng 1 Mẫu B + 1 Mẫu C, dùng
+      {NHÂN_VẬT_CỐ_ĐỊNH}, màu nhấn #FF3B78, cỡ chữ 29-34%
+- [x] Chapters >= 3 mốc, dòng đầu 0:00, timestamp ƯỚC TÍNH
+- [x] wc -w script.txt = 658 từ (trong khoảng 650-1.100)
+- [x] 2 nguồn tên cụ thể đã verify qua WebSearch (Jeff Haden, Teresa
+      Amabile) — chưa từng dùng ở video 01-31

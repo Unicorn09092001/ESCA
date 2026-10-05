@@ -1,0 +1,1171 @@
+################################################################################
+# TRANSCRIPT & VISUALS - Project 14: 5 Life-Changing Habits (Evergreen)
+# Playlist Folder: 01_Disciplina y Habitos  |  Video frame style: dark stick-figure
+# line-art WITH full face (eyes/nose/mouth) and per-frame expression
+# Cach dung: Copy khoi [VISUAL DESCRIPTION] + [STYLE RULES] vao cong cu tao anh AI cho tung Frame.
+# Chia Frame theo phuong phap Buoc 5.3 (cau/menh de hoan chinh, khong cat giua cau theo so tu).
+# Tong: 8 Scenes / 71 Frames  |  Script: 771 tu ~ 5.1 phut  |  Nguong 15 tu/Frame (2.5 tu/giay x 6s)
+# Anh xa file anh: Frame N  ->  images/img_{N:03d}.png  (kiem bang: ls images | wc -l  =  71)
+# Frame 001 tai hien Y TUONG cua canh thumbnail (anime) nhung VE LAI theo
+# phong cach nguoi que cua Buoc 5 - xem Buoc 2.5.D.
+################################################################################
+
+================================================================================
+## ESCENA 1: EL GANCHO
+================================================================================
+[FRAME ID]: S01_F001   ->  images/img_001.png
+[SHOT TYPE]: WIDE SHOT
+[ES]: No hace falta que sea enero para cambiar tu vida.
+[VI]: Không cần phải là tháng Giêng để thay đổi cuộc đời bạn.
+[VISUAL DESCRIPTION]:
+Dark still lighting, figure stands calmly beside a faint ghost-outline calendar page floating in the air, unbothered neutral expression.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S01_F002   ->  images/img_002.png
+[SHOT TYPE]: MEDIUM SHOT
+[ES]: La fecha en el calendario no tiene ningún poder —
+[VI]: Ngày tháng trên lịch chẳng có quyền năng gì cả —
+[VISUAL DESCRIPTION]:
+The calendar page dissolves into faint dust, figure watches it fade with a calm dismissive gesture.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S01_F003   ->  images/img_003.png
+[SHOT TYPE]: CLOSE-UP
+[ES]: pero estos cinco hábitos sí.
+[VI]: nhưng năm thói quen này thì có.
+[VISUAL DESCRIPTION]:
+Close-up, five small glowing dots arranged in an arc appear steadily beside the figure's head, calm confident expression.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S01_F004   ->  images/img_004.png
+[SHOT TYPE]: MEDIUM SHOT
+[ES]: Y la ciencia detrás de cada uno explica exactamente por qué.
+[VI]: Và khoa học đằng sau mỗi thói quen giải thích chính xác vì sao.
+[VISUAL DESCRIPTION]:
+Figure gestures toward the five dots, thoughtful explanatory posture, warm steady light.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+================================================================================
+## ESCENA 2: LA PROMESA
+================================================================================
+[FRAME ID]: S02_F005   ->  images/img_005.png
+[SHOT TYPE]: WIDE SHOT
+[ES]: No son trucos nuevos ni motivación vacía.
+[VI]: Đây không phải mẹo mới hay động lực sáo rỗng.
+[VISUAL DESCRIPTION]:
+A faint ghost-outline lightbulb/gimmick icon is crossed out with a small accent-colored X beside the figure.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S02_F006   ->  images/img_006.png
+[SHOT TYPE]: MEDIUM SHOT
+[ES]: Son cinco hábitos respaldados por décadas de investigación real,
+[VI]: Đây là năm thói quen được hàng chục năm nghiên cứu thực sự hậu thuẫn,
+[VISUAL DESCRIPTION]:
+The five dots each glow steadily, a faint stack of book/paper icons appears beneath them, narrating tone.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S02_F007   ->  images/img_007.png
+[SHOT TYPE]: MEDIUM SHOT
+[ES]: que tocan tu mente, tu cuerpo, tus relaciones y hasta tu billetera.
+[VI]: chạm đến tâm trí, cơ thể, các mối quan hệ và cả ví tiền của bạn.
+[VISUAL DESCRIPTION]:
+Four small distinct icons appear briefly beside each dot: a brain, a body silhouette, two linked figures, and a small coin.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S02_F008   ->  images/img_008.png
+[SHOT TYPE]: CLOSE-UP
+[ES]: Empecemos por el que casi nadie considera un hábito.
+[VI]: Hãy bắt đầu với điều mà hầu như không ai coi là một thói quen.
+[VISUAL DESCRIPTION]:
+Close-up, the first of the five dots glows brighter than the rest, figure's expression curious and inviting.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+================================================================================
+## ESCENA 3: HÁBITO 1 — Tres Cosas Buenas
+================================================================================
+[FRAME ID]: S03_F009   ->  images/img_009.png
+[SHOT TYPE]: WIDE SHOT
+[ES]: Hábito uno: escribe tres cosas buenas, cada noche, antes de dormir.
+[VI]: Thói quen một: viết ra ba điều tốt đẹp, mỗi tối, trước khi ngủ.
+[VISUAL DESCRIPTION]:
+Figure sits at a small desk in warm evening lamp light, writing calmly in a notebook, three small glowing marks appearing on the page.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S03_F010   ->  images/img_010.png
+[SHOT TYPE]: MEDIUM SHOT
+[ES]: Suena casi demasiado simple para funcionar.
+[VI]: Nghe có vẻ đơn giản đến mức khó tin là nó hiệu quả.
+[VISUAL DESCRIPTION]:
+Figure gives a small skeptical half-smile, head tilted slightly.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S03_F011   ->  images/img_011.png
+[SHOT TYPE]: CLOSE-UP
+[ES]: Pero el psicólogo Robert Emmons, de la Universidad de California en Davis,
+[VI]: Nhưng nhà tâm lý học Robert Emmons, thuộc Đại học California tại Davis,
+[VISUAL DESCRIPTION]:
+Close-up, thoughtful narrating expression, a faint university-building silhouette icon glowing softly in the background.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S03_F012   ->  images/img_012.png
+[SHOT TYPE]: MEDIUM SHOT
+[ES]: lleva más de veinte años estudiando esto, y sus resultados son difíciles de ignorar:
+[VI]: đã nghiên cứu điều này hơn hai mươi năm, và kết quả của ông khó mà bỏ qua:
+[VISUAL DESCRIPTION]:
+A faint glowing timeline stretches across the frame marked with two decades, figure gestures toward it with emphasis.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S03_F013   ->  images/img_013.png
+[SHOT TYPE]: MEDIUM SHOT
+[ES]: las personas que practican gratitud escrita durante solo tres semanas
+[VI]: những người thực hành viết lòng biết ơn chỉ trong ba tuần
+[VISUAL DESCRIPTION]:
+A faint glowing calendar shows three weeks passing, a small warm light growing steadily brighter each week.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S03_F014   ->  images/img_014.png
+[SHOT TYPE]: CLOSE-UP
+[ES]: reducen sus síntomas de depresión hasta en un 25%,
+[VI]: giảm triệu chứng trầm cảm tới 25%,
+[VISUAL DESCRIPTION]:
+Close-up, a faint dark cloud shape above the figure's head shrinks noticeably smaller, relieved expression emerging.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S03_F015   ->  images/img_015.png
+[SHOT TYPE]: MEDIUM SHOT
+[ES]: y duermen en promedio 90 minutos más por noche.
+[VI]: và ngủ trung bình nhiều hơn 90 phút mỗi đêm.
+[VISUAL DESCRIPTION]:
+Figure lies peacefully in bed, a faint glowing clock shows extra time added, calm restful expression.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S03_F016   ->  images/img_016.png
+[SHOT TYPE]: WIDE SHOT
+[ES]: Presta atención a esto: no se trata de sentir gratitud en abstracto.
+[VI]: Chú ý điều này: đây không phải là cảm thấy biết ơn một cách chung chung.
+[VISUAL DESCRIPTION]:
+Figure sits up, alert explanatory posture, a faint vague cloudy thought-bubble is crossed out gently with an accent-colored X.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S03_F017   ->  images/img_017.png
+[SHOT TYPE]: MEDIUM SHOT
+[ES]: Se trata de escribir cosas específicas —
+[VI]: Mà là viết ra những điều cụ thể —
+[VISUAL DESCRIPTION]:
+The vague cloud thought-bubble is replaced by a small sharp, clearly outlined glowing detail-icon.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S03_F018   ->  images/img_018.png
+[SHOT TYPE]: CLOSE-UP
+[ES]: no "estoy agradecido por mi familia", sino "mi hermana me llamó justo cuando lo necesitaba".
+[VI]: không phải "tôi biết ơn gia đình mình", mà là "chị tôi gọi điện đúng lúc tôi cần".
+[VISUAL DESCRIPTION]:
+Close-up on the notebook page, a generic faint line fades while a specific, vivid glowing line brightens clearly beside it.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S03_F019   ->  images/img_019.png
+[SHOT TYPE]: WIDE SHOT
+[ES]: Aquí está la clave: entre más concreto el detalle, más fuerte el efecto.
+[VI]: Đây là điểm mấu chốt: chi tiết càng cụ thể, hiệu ứng càng mạnh.
+[VISUAL DESCRIPTION]:
+Figure holds up the notebook with the bright specific line glowing strongly, satisfied confident expression.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S03_F020   ->  images/img_020.png
+[SHOT TYPE]: MEDIUM SHOT
+[ES]: Tu cerebro no responde a ideas generales.
+[VI]: Não bộ của bạn không phản ứng với những ý tưởng chung chung.
+[VISUAL DESCRIPTION]:
+The faint vague cloud icon dims completely into darkness, unresponsive.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S03_F021   ->  images/img_021.png
+[SHOT TYPE]: CLOSE-UP
+[ES]: Responde a momentos reales.
+[VI]: Nó phản ứng với những khoảnh khắc có thật.
+[VISUAL DESCRIPTION]:
+Close-up, the specific glowing detail-icon pulses warmly and steadily, calm satisfied expression.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+================================================================================
+## ESCENA 4: HÁBITO 2 — Sigue Siendo Principiante
+================================================================================
+[FRAME ID]: S04_F022   ->  images/img_022.png
+[SHOT TYPE]: WIDE SHOT
+[ES]: Hábito dos: aprende algo que tu cerebro no sepa hacer todavía —
+[VI]: Thói quen hai: học một điều mà não bộ bạn chưa biết làm —
+[VISUAL DESCRIPTION]:
+Figure sits with a small musical instrument and a language book both nearby, curious open expression.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S04_F023   ->  images/img_023.png
+[SHOT TYPE]: MEDIUM SHOT
+[ES]: un idioma, un instrumento, una habilidad manual.
+[VI]: một ngôn ngữ, một nhạc cụ, một kỹ năng thủ công.
+[VISUAL DESCRIPTION]:
+Three faint glowing icons float briefly beside the figure: a speech bubble, a musical note, and a small tool.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S04_F024   ->  images/img_024.png
+[SHOT TYPE]: CLOSE-UP
+[ES]: El psiquiatra Norman Doidge, autor de "El Cerebro Se Cambia a Sí Mismo",
+[VI]: Bác sĩ tâm thần Norman Doidge, tác giả cuốn sách về bộ não có thể tự thay đổi,
+[VISUAL DESCRIPTION]:
+Close-up, thoughtful narrating expression, a faint glowing brain icon with soft shifting light patterns across it.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S04_F025   ->  images/img_025.png
+[SHOT TYPE]: MEDIUM SHOT
+[ES]: documentó décadas de casos donde el cerebro adulto seguía formando conexiones nuevas
+[VI]: đã ghi lại hàng chục năm các trường hợp mà não bộ người trưởng thành vẫn tiếp tục hình thành kết nối mới
+[VISUAL DESCRIPTION]:
+The glowing brain icon shows small new connecting lines forming steadily across it, figure watches with interest.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S04_F026   ->  images/img_026.png
+[SHOT TYPE]: WIDE SHOT
+[ES]: mucho después de la edad en que la ciencia asumía que ya era imposible.
+[VI]: rất lâu sau độ tuổi mà khoa học từng cho là không thể nữa.
+[VISUAL DESCRIPTION]:
+A faint ghost-outline of an older figure stands confidently beside the glowing brain icon, disproving an old outdated assumption icon fading nearby.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S04_F027   ->  images/img_027.png
+[SHOT TYPE]: MEDIUM SHOT
+[ES]: Esto es lo que nadie te dice: tu cerebro no deja de ser moldeable
+[VI]: Đây là điều không ai nói với bạn: não bộ của bạn không ngừng có thể uốn nắn được
+[VISUAL DESCRIPTION]:
+Figure gestures toward the brain icon which stays soft and flexible-looking rather than rigid, reassuring expression.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S04_F028   ->  images/img_028.png
+[SHOT TYPE]: CLOSE-UP
+[ES]: a los treinta, los cuarenta, ni los setenta años.
+[VI]: ở tuổi ba mươi, bốn mươi, hay bảy mươi.
+[VISUAL DESCRIPTION]:
+Close-up, three faint age-markers (30, 40, 70 shown as simple dot progressions, not literal numerals) pass by with the brain icon staying equally bright at each.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S04_F029   ->  images/img_029.png
+[SHOT TYPE]: MEDIUM SHOT
+[ES]: Deja de moldearse cuando dejas de exigirle algo nuevo.
+[VI]: Nó chỉ ngừng uốn nắn khi bạn ngừng đòi hỏi nó điều gì đó mới.
+[VISUAL DESCRIPTION]:
+The brain icon dims only when the figure turns away from the instrument/book icons, disinterested posture briefly shown.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S04_F030   ->  images/img_030.png
+[SHOT TYPE]: WIDE SHOT
+[ES]: Aquí está la clave: no necesitas dominarlo.
+[VI]: Đây là điểm mấu chốt: bạn không cần phải thành thạo nó.
+[VISUAL DESCRIPTION]:
+Figure picks the instrument back up, imperfect but engaged posture, calm accepting expression.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S04_F031   ->  images/img_031.png
+[SHOT TYPE]: MEDIUM SHOT
+[ES]: Necesitas seguir siendo principiante en algo, a propósito, el resto de tu vida.
+[VI]: Bạn cần tiếp tục là người mới bắt đầu ở một điều gì đó, một cách có chủ đích, suốt phần đời còn lại.
+[VISUAL DESCRIPTION]:
+The brain icon glows steadily brighter the longer the figure practices clumsily but persistently, determined content expression.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S04_F032   ->  images/img_032.png
+[SHOT TYPE]: CLOSE-UP
+[ES]: Esa incomodidad de no saber es exactamente la señal de que tu cerebro está creciendo.
+[VI]: Sự khó chịu vì không biết chính là dấu hiệu cho thấy não bộ bạn đang phát triển.
+[VISUAL DESCRIPTION]:
+Close-up, a slightly awkward but genuinely pleased expression, the new connecting lines on the brain icon glow warmly in accent color.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+================================================================================
+## ESCENA 5: HÁBITO 3 — Veinte Minutos de Movimiento
+================================================================================
+[FRAME ID]: S05_F033   ->  images/img_033.png
+[SHOT TYPE]: WIDE SHOT
+[ES]: Hábito tres: mueve tu cuerpo con intensidad, aunque sean veinte minutos.
+[VI]: Thói quen ba: vận động cơ thể với cường độ cao, dù chỉ hai mươi phút.
+[VISUAL DESCRIPTION]:
+Figure mid-run outdoors at sunrise, determined energetic expression, a faint glowing twenty-minute timer arc beside them.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S05_F034   ->  images/img_034.png
+[SHOT TYPE]: MEDIUM SHOT
+[ES]: El psiquiatra John Ratey, de Harvard, lo resume en su libro "Spark":
+[VI]: Bác sĩ tâm thần John Ratey, thuộc Harvard, tóm gọn điều này trong sách của ông:
+[VISUAL DESCRIPTION]:
+Close-up shift, thoughtful narrating expression, a faint glowing open-book icon with a small spark/flame mark rising from its pages.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S05_F035   ->  images/img_035.png
+[SHOT TYPE]: CLOSE-UP
+[ES]: el ejercicio no solo cambia tu cuerpo, cambia literalmente la química de tu cerebro —
+[VI]: tập thể dục không chỉ thay đổi cơ thể bạn, nó thực sự thay đổi hóa học trong não bộ —
+[VISUAL DESCRIPTION]:
+Close-up, the brain icon from earlier reappears, now with small glowing sparks flickering actively across it.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S05_F036   ->  images/img_036.png
+[SHOT TYPE]: MEDIUM SHOT
+[ES]: libera proteínas como el BDNF, que ayudan a formar nuevas neuronas,
+[VI]: giải phóng các protein như BDNF, giúp hình thành các tế bào thần kinh mới,
+[VISUAL DESCRIPTION]:
+Small glowing particle-like dots spread outward from the sparking brain icon, forming tiny new connecting nodes.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S05_F037   ->  images/img_037.png
+[SHOT TYPE]: WIDE SHOT
+[ES]: sobre todo en las zonas relacionadas con la memoria y el estado de ánimo.
+[VI]: đặc biệt ở những vùng liên quan đến trí nhớ và tâm trạng.
+[VISUAL DESCRIPTION]:
+Two specific regions of the glowing brain icon brighten more than the rest, figure continues running steadily in the foreground.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S05_F038   ->  images/img_038.png
+[SHOT TYPE]: MEDIUM SHOT
+[ES]: Pero espera — todavía hay más:
+[VI]: Nhưng khoan — vẫn còn nữa:
+[VISUAL DESCRIPTION]:
+Figure slows to a steady jog, anticipatory expression, warm rim lighting.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S05_F039   ->  images/img_039.png
+[SHOT TYPE]: CLOSE-UP
+[ES]: sus pacientes con ansiedad y depresión mostraron mejoras comparables a las de algunos medicamentos,
+[VI]: bệnh nhân của ông bị lo âu và trầm cảm cho thấy cải thiện tương đương với một số loại thuốc,
+[VISUAL DESCRIPTION]:
+Close-up, a faint dark cloud icon (anxiety/depression) shrinks steadily as the sparking brain glow grows, hopeful expression.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S05_F040   ->  images/img_040.png
+[SHOT TYPE]: MEDIUM SHOT
+[ES]: solo con ejercicio regular.
+[VI]: chỉ nhờ tập thể dục đều đặn.
+[VISUAL DESCRIPTION]:
+The dark cloud icon dissolves completely, figure stands upright, relieved and energized expression.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S05_F041   ->  images/img_041.png
+[SHOT TYPE]: WIDE SHOT
+[ES]: Aquí está la clave: no hace falta un gimnasio ni una hora.
+[VI]: Đây là điểm mấu chốt: không cần phòng gym, cũng không cần một giờ đồng hồ.
+[VISUAL DESCRIPTION]:
+A faint ghost-outline gym building and a full clock face both fade away, figure runs freely in an open outdoor space instead.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S05_F042   ->  images/img_042.png
+[SHOT TYPE]: MEDIUM SHOT
+[ES]: Veinte minutos que te dejen sin aliento, la mayoría de los días,
+[VI]: Hai mươi phút khiến bạn hụt hơi, hầu hết các ngày,
+[VISUAL DESCRIPTION]:
+The twenty-minute timer arc from the first frame glows steadily complete, figure breathing hard but standing proud.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S05_F043   ->  images/img_043.png
+[SHOT TYPE]: CLOSE-UP
+[ES]: hacen más por tu mente de lo que la mayoría de la gente cree posible.
+[VI]: làm được nhiều điều cho tâm trí bạn hơn những gì hầu hết mọi người nghĩ là có thể.
+[VISUAL DESCRIPTION]:
+Close-up, calm confident satisfied expression, the sparking brain icon glowing warmly and steadily.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+================================================================================
+## ESCENA 6: HÁBITO 4 — Relaciones Reales
+================================================================================
+[FRAME ID]: S06_F044   ->  images/img_044.png
+[SHOT TYPE]: WIDE SHOT
+[ES]: Hábito cuatro: invierte tiempo real, cara a cara, en al menos una relación cercana esta semana.
+[VI]: Thói quen bốn: dành thời gian thật, gặp mặt trực tiếp, cho ít nhất một mối quan hệ thân thiết trong tuần này.
+[VISUAL DESCRIPTION]:
+Figure sits across a small table from a faint ghost-outline second figure, warm attentive expression, no phones visible on the table.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S06_F045   ->  images/img_045.png
+[SHOT TYPE]: MEDIUM SHOT
+[ES]: El psiquiatra Robert Waldinger dirige el Estudio de Desarrollo de Adultos de Harvard —
+[VI]: Bác sĩ tâm thần Robert Waldinger đứng đầu Nghiên cứu Phát triển Người trưởng thành của Harvard —
+[VISUAL DESCRIPTION]:
+Close-up shift, thoughtful narrating expression, a faint glowing timeline stretching far into the background, suggesting a very long study.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S06_F046   ->  images/img_046.png
+[SHOT TYPE]: MEDIUM SHOT
+[ES]: el estudio más largo sobre la felicidad humana, con casi ochenta años siguiendo a las mismas personas.
+[VI]: nghiên cứu dài nhất về hạnh phúc con người, với gần tám mươi năm theo dõi cùng những con người đó.
+[VISUAL DESCRIPTION]:
+The timeline shows many small figures walking along it across decades, the same few figures tracked consistently through each stage.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S06_F047   ->  images/img_047.png
+[SHOT TYPE]: WIDE SHOT
+[ES]: Su conclusión, después de todo ese tiempo y todo ese dinero invertido en investigación, es sorprendentemente simple:
+[VI]: Kết luận của ông, sau tất cả thời gian và tiền bạc đầu tư vào nghiên cứu, lại đơn giản đến bất ngờ:
+[VISUAL DESCRIPTION]:
+Figure gestures toward a large glowing question mark that resolves into a simple small icon, narrating anticipatory tone.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S06_F048   ->  images/img_048.png
+[SHOT TYPE]: MEDIUM SHOT
+[ES]: ni la fama, ni el dinero, ni el éxito profesional predijeron quién envejecía feliz y sano.
+[VI]: không phải danh tiếng, tiền bạc, hay thành công sự nghiệp dự đoán được ai sẽ già đi hạnh phúc và khỏe mạnh.
+[VISUAL DESCRIPTION]:
+Three faint ghost-outline icons (a trophy, a stack of coins, a briefcase) dim and fade one by one, unreliable predictors.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S06_F049   ->  images/img_049.png
+[SHOT TYPE]: CLOSE-UP
+[ES]: Fue la calidad de sus relaciones cercanas.
+[VI]: Đó là chất lượng của những mối quan hệ thân thiết.
+[VISUAL DESCRIPTION]:
+Close-up, the two linked-figure icon from the table scene glows warmly bright, calm content expression.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S06_F050   ->  images/img_050.png
+[SHOT TYPE]: MEDIUM SHOT
+[ES]: Esto es lo que cambia todo: no se trata de tener más contactos.
+[VI]: Đây là điều thay đổi tất cả: vấn đề không phải là có nhiều mối quan hệ hơn.
+[VISUAL DESCRIPTION]:
+A faint cluster of many small dim contact-icons appears, unremarkable and scattered, figure looks unimpressed by the quantity.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S06_F051   ->  images/img_051.png
+[SHOT TYPE]: WIDE SHOT
+[ES]: Se trata de la profundidad de unas pocas relaciones reales.
+[VI]: Mà là chiều sâu của một vài mối quan hệ thực sự.
+[VISUAL DESCRIPTION]:
+The scattered dim icons fade, replaced by a single, deeply glowing pair of linked figures standing close together.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S06_F052   ->  images/img_052.png
+[SHOT TYPE]: MEDIUM SHOT
+[ES]: Aquí está la clave: una llamada real, no un mensaje.
+[VI]: Đây là điểm mấu chốt: một cuộc gọi thật, không phải một tin nhắn.
+[VISUAL DESCRIPTION]:
+A faint text-message icon dims and is replaced by a warmly glowing phone-call icon, figure holds it with genuine warmth.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S06_F053   ->  images/img_053.png
+[SHOT TYPE]: CLOSE-UP
+[ES]: Una comida sin teléfono en la mesa.
+[VI]: Một bữa ăn không có điện thoại trên bàn.
+[VISUAL DESCRIPTION]:
+Close-up on the table from the first frame, a faint smartphone icon is gently set aside, face-down and forgotten.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S06_F054   ->  images/img_054.png
+[SHOT TYPE]: MEDIUM SHOT
+[ES]: Ese es el hábito que casi nadie prioriza —
+[VI]: Đó là thói quen mà hầu như không ai ưu tiên —
+[VISUAL DESCRIPTION]:
+Figure looks directly and warmly at the ghost-outline second figure across the table, genuine present expression.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S06_F055   ->  images/img_055.png
+[SHOT TYPE]: WIDE SHOT
+[ES]: y el que más predice una vida larga y satisfecha.
+[VI]: và cũng là thói quen dự đoán tốt nhất một cuộc sống dài lâu và mãn nguyện.
+[VISUAL DESCRIPTION]:
+Wide shot, the two figures at the table glow warmly together, the long timeline from earlier extends peacefully into the far distance behind them.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+================================================================================
+## ESCENA 7: HÁBITO 5 — Ahorra Más Mañana
+================================================================================
+[FRAME ID]: S07_F056   ->  images/img_056.png
+[SHOT TYPE]: WIDE SHOT
+[ES]: Y hábito cinco — el que casi nunca aparece en estos videos:
+[VI]: Và thói quen năm — điều hiếm khi xuất hiện trong những video như thế này:
+[VISUAL DESCRIPTION]:
+Figure stands beside a faint glowing wallet/coin icon, slightly wry knowing expression, acknowledging an unusual topic.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S07_F057   ->  images/img_057.png
+[SHOT TYPE]: MEDIUM SHOT
+[ES]: automatiza un pequeño porcentaje de tus ingresos hacia el ahorro,
+[VI]: tự động hóa một phần nhỏ thu nhập của bạn để tiết kiệm,
+[VISUAL DESCRIPTION]:
+A small glowing coin steadily and automatically diverts from a larger income-stream icon into a separate jar icon.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S07_F058   ->  images/img_058.png
+[SHOT TYPE]: CLOSE-UP
+[ES]: antes de que el dinero llegue a tu cuenta.
+[VI]: trước khi số tiền đó chạm tới tài khoản của bạn.
+[VISUAL DESCRIPTION]:
+Close-up on the diversion happening right at the source, before reaching the main account icon, calm deliberate expression.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S07_F059   ->  images/img_059.png
+[SHOT TYPE]: MEDIUM SHOT
+[ES]: El economista Richard Thaler, premio Nobel, junto con Shlomo Benartzi,
+[VI]: Nhà kinh tế học đoạt giải Nobel Richard Thaler, cùng với Shlomo Benartzi,
+[VISUAL DESCRIPTION]:
+Thoughtful narrating expression, a faint glowing medal/award icon appears briefly beside the figure.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S07_F060   ->  images/img_060.png
+[SHOT TYPE]: CLOSE-UP
+[ES]: diseñó un programa llamado "Ahorra Más Mañana":
+[VI]: đã thiết kế một chương trình mang tên "Tiết Kiệm Nhiều Hơn Vào Ngày Mai":
+[VISUAL DESCRIPTION]:
+Close-up, a faint glowing calendar icon shows a page turning forward to a future date, hopeful anticipatory expression.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S07_F061   ->  images/img_061.png
+[SHOT TYPE]: WIDE SHOT
+[ES]: en lugar de pedirle a la gente que ahorre más hoy — algo que casi nadie hace —
+[VI]: thay vì yêu cầu mọi người tiết kiệm nhiều hơn ngay hôm nay — điều mà hầu như không ai làm —
+[VISUAL DESCRIPTION]:
+A faint ghost-outline figure resists reaching toward a savings jar today, reluctant expression, jar staying nearly empty.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S07_F062   ->  images/img_062.png
+[SHOT TYPE]: MEDIUM SHOT
+[ES]: el programa aumenta automáticamente el porcentaje de ahorro cada vez que la persona recibe un aumento de sueldo.
+[VI]: chương trình tự động tăng phần trăm tiết kiệm mỗi khi người đó được tăng lương.
+[VISUAL DESCRIPTION]:
+Each time a small glowing raise-icon appears above the figure, a proportionally larger coin automatically diverts into the jar without resistance.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S07_F063   ->  images/img_063.png
+[SHOT TYPE]: WIDE SHOT
+[ES]: Aquí está la clave: los empleados que usaron este sistema casi cuadruplicaron su tasa de ahorro en pocos años,
+[VI]: Đây là điểm mấu chốt: những nhân viên sử dụng hệ thống này đã tăng gần gấp bốn lần tỷ lệ tiết kiệm chỉ trong vài năm,
+[VISUAL DESCRIPTION]:
+The savings jar grows dramatically larger and brighter over a few passing calendar pages, figure watches with quiet satisfaction.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S07_F064   ->  images/img_064.png
+[SHOT TYPE]: MEDIUM SHOT
+[ES]: sin sentir que perdían nada, porque nunca llegaron a ver ese dinero en su cuenta.
+[VI]: mà không cảm thấy mất mát gì, vì họ chưa bao giờ thấy số tiền đó trong tài khoản của mình.
+[VISUAL DESCRIPTION]:
+Figure shrugs comfortably, unbothered expression, the main account icon staying visually unchanged and untouched throughout.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S07_F065   ->  images/img_065.png
+[SHOT TYPE]: CLOSE-UP
+[ES]: La disciplina financiera, como cualquier otra, funciona mejor cuando no depende de la fuerza de voluntad.
+[VI]: Kỷ luật tài chính, cũng như mọi loại kỷ luật khác, hoạt động tốt nhất khi không phụ thuộc vào ý chí.
+[VISUAL DESCRIPTION]:
+Close-up, calm knowing expression, the glowing savings jar sits steady and full beside the figure, no visible strain or effort implied.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+================================================================================
+## ESCENA 8: EL CIERRE
+================================================================================
+[FRAME ID]: S08_F066   ->  images/img_066.png
+[SHOT TYPE]: CLOSE-UP
+[ES]: Cinco hábitos.
+[VI]: Năm thói quen.
+[VISUAL DESCRIPTION]:
+Close-up, calm direct gaze toward camera, the five glowing dots from the opening arranged in a small steady arc beside the head.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S08_F067   ->  images/img_067.png
+[SHOT TYPE]: MEDIUM SHOT
+[ES]: Ninguno necesita que cambie el calendario —
+[VI]: Không cái nào cần đến việc đổi lịch —
+[VISUAL DESCRIPTION]:
+The faint calendar page motif from the very first frame reappears, unimportant and set gently aside.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S08_F068   ->  images/img_068.png
+[SHOT TYPE]: WIDE SHOT
+[ES]: solo que empieces hoy, cualquier día que sea hoy.
+[VI]: chỉ cần bạn bắt đầu từ hôm nay, bất kể hôm nay là ngày nào.
+[VISUAL DESCRIPTION]:
+Figure stands tall in warm steady light, the five dots glowing evenly, calm resolute expression.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S08_F069   ->  images/img_069.png
+[SHOT TYPE]: MEDIUM SHOT
+[ES]: Escribe en los comentarios cuál de los cinco vas a empezar esta semana, no el próximo enero.
+[VI]: Hãy viết trong phần bình luận thói quen nào trong năm điều bạn sẽ bắt đầu tuần này, không phải tháng Giêng năm sau.
+[VISUAL DESCRIPTION]:
+Figure points directly toward the camera/viewer, warm inviting expression, a faint speech-bubble icon glowing softly in accent color.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S08_F070   ->  images/img_070.png
+[SHOT TYPE]: MEDIUM SHOT
+[ES]: Si este video te sirvió, dale like y suscríbete —
+[VI]: Nếu video này hữu ích, hãy nhấn thích và đăng ký kênh —
+[VISUAL DESCRIPTION]:
+Figure gives a genuine thumbs-up gesture with a warm smile, a faint bell icon glows softly beside them.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.
+
+[FRAME ID]: S08_F071   ->  images/img_071.png
+[SHOT TYPE]: WIDE SHOT
+[ES]: la disciplina no hace ruido.
+[VI]: kỷ luật không ồn ào.
+[VISUAL DESCRIPTION]:
+Figure stands calm and still in the quiet dark space, faint warm rim light outlining their silhouette, serene composed expression.
+[STYLE RULES - DO NOT MODIFY]:
+- Aspect ratio: strictly 16:9 (widescreen, suitable for YouTube).
+- Art style: Minimalist stick figure illustration, bold flat shapes, thick rounded strokes. NO detailed anime/manga rendering, NO photorealistic face, NO cross-hatching.
+- Color: Solid dark background (#0B0B0C). Character and linework in warm white (#F5F5F0). The ONLY accent color allowed is #FF5A36 for one metaphorical object/highlight per frame — everything else stays black/warm-white ink tones.
+- Character Design: The main character is a minimalist stick figure — round head, thick rounded warm-white strokes (stroke width >= 8px), simple straight limbs. The face is fully drawn using the same simple thick-stroke style: two small dot or short-line eyes, a small dot or short vertical line nose, and a mouth drawn as one simple curved or straight line. The eyebrows/eyes/mouth shape MUST change to match this frame's emotional beat (e.g., downward-curved mouth + slanted eyebrow lines for frustration or sadness, upward-curved mouth + relaxed eyes for calm/confidence, wide-open round mouth for surprise/effort, flat neutral line for matter-of-fact narration). The character's body proportions, head shape, and stroke style must look IDENTICAL in every frame — ONLY the facial expression and pose change.
+- Background: Clean, mostly empty dark space. NO complex scenery backgrounds. If context is needed, use MINIMAL flat shapes only, keeping the background sparse and uncluttered.
+- Composition: Centered or slightly off-center. The main subject occupies 50-70% of the frame height.
+- Text: NO text inside the frame — this is a body-content frame, not the thumbnail.
+- FORBIDDEN: Absolutely NO watermarks, NO signatures, NO dates, NO borders, and NO extra text/captions anywhere in the image.

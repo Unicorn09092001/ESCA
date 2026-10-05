@@ -1,0 +1,211 @@
+================================================================================
+PROJECT 18 — Chủ đề #18 (20-chu-de-video-tiep-theo-2026-09.md)
+Trụ cột: Disciplina y Hábitos (40%) — Khuôn D + F
+Playlist Folder: 01_Disciplina y Habitos  |  Màu nhấn: #FF5A36
+================================================================================
+
+## GHI CHÚ TRÁNH TRÙNG LẶP
+
+File gốc yêu cầu KHÔNG dùng "los estudios dicen" chung chung hay chỉ nhắc
+tên Wim Hof mơ hồ — bắt buộc tìm 1 nhà nghiên cứu/nghiên cứu cụ thể. Andrew
+Huberman đã dùng ở video trước (duplicate-check list 11 video đầu) — CHỦ
+ĐỘNG KHÔNG dùng lại để đa dạng nguồn (dù Huberman có nói về cold exposure,
+đã có video khác dùng ông). Cả 2 nguồn dùng ở video này (Petr Sramek,
+Nikolai Shevchuk) hoàn toàn mới, chưa dùng ở video 01-31.
+
+## BƯỚC 2 — NGUỒN ĐÃ VERIFY QUA WEBSEARCH (2 tác giả/nghiên cứu tên cụ thể,
+## KHÔNG dùng Wim Hof mơ hồ như file gốc cảnh báo tránh)
+
+1. Petr Sramek và nhóm nghiên cứu — nghiên cứu "Human physiological
+   responses to immersion into water of different temperatures" (European
+   Journal of Applied Physiology, 2000): đo nồng độ noradrenaline khi ngâm
+   người trong nước ở các nhiệt độ khác nhau, phát hiện nước lạnh làm tăng
+   noradrenaline 200-300% so với nước ấm.
+2. Nikolai Shevchuk — bác sĩ, tác giả giả thuyết "Adapted cold shower as a
+   potential treatment for depression" (Medical Hypotheses, 2008): đề xuất
+   tắm nước lạnh có kiểm soát, tăng dần, có thể hỗ trợ điều trị triệu chứng
+   trầm cảm qua cơ chế kích hoạt hệ thần kinh giao cảm + giải phóng
+   noradrenaline/endorphin.
+
+Cả 2 nguồn CHƯA từng dùng ở các video 01-31 trong kênh, và là nghiên cứu cụ
+thể có tên tác giả thật — đúng yêu cầu tránh "các nghiên cứu nói" chung
+chung của file gốc.
+
+## BƯỚC 1 — TITLES
+
+1. [RECOMENDADO] Por Qué la Ducha Fría Cambia Tu Disciplina (44 ký tự)
+2. Las Duchas Frías y Tu Disciplina (Ciencia Real) (48 ký tự)
+3. Lo Que la Ducha Fría le Hace a Tu Cerebro (Ciencia) (52 ký tự)
+
+(Lưu ý: tiêu đề gốc trong file chủ đề — "Por Qué las Duchas Frías Cambian
+Tu Disciplina (Ciencia, No Motivación)" — dài 74 ký tự, VƯỢT giới hạn 60 ký
+tự. Đã rút gọn còn 3 phương án trên, giữ đúng tinh thần "khoa học, không
+phải trào lưu".)
+
+## BƯỚC 1 — PLAYLIST
+
+01_Disciplina y Habitos (màu nhấn #FF5A36)
+
+## BƯỚC 1 — THUMBNAIL PROMPTS (đúng 1 Mẫu B + 1 Mẫu C, dùng CHUNG 1 headline)
+
+Headline dùng chung: "DUCHAS FRIAS" (từ nhấn "FRIAS" màu #FF5A36 — bỏ dấu
+theo quy tắc ký tự an toàn 1.3). Cỡ chữ 29-34% chiều cao ảnh.
+
+{NHÂN_VẬT_CỐ_ĐỊNH} = a young adult male anime character, athletic lean
+build, short dark messy hair, calm-intense neutral expression by default,
+wearing dark casual streetwear (hoodie or henley, muted charcoal/black)
+with exactly ONE accent-colored detail (drawstring, zipper, or small
+patch) in #FF5A36. Detailed anime illustration style with clean line
+art and cel-shading, fully rendered face with clear eyes, nose, and mouth.
+This exact character design must repeat identically across every
+thumbnail — only pose, facial expression, camera angle, and background
+change per video.
+
+### THUMBNAIL B — Triptych 3 khung
+
+```
+A YouTube thumbnail, 16:9. Three-panel triptych layout, thin dark vertical
+dividers between panels. Each panel shows the character performing ONE
+specific, concrete action/habit — the three panels are NOT a linear story
+(no "problem/climax/result" roles) — and each panel has a DIFFERENT
+background lighting/tone matching its own action, so the three panels are
+instantly distinguishable even at small size.
+
+panel 1 (left): {NHÂN_VẬT_CỐ_ĐỊNH}, shown checking a small glowing timer
+showing "30 segundos" before stepping into the shower, with a calm and
+intentional facial expression, set against a background/lighting that
+fits this specific action (#0B0B0C base with a subtle cool tint suited
+to the scene).
+
+panel 2 (center): {NHÂN_VẬT_CỐ_ĐỊNH}, shown standing under the shower at
+the exact moment the cold stream hits, with an alert but controlled
+facial expression, set against a background/lighting that fits this
+specific action, clearly distinct in tone from panel 1 and panel 3.
+
+panel 3 (right): {NHÂN_VẬT_CỐ_ĐỊNH}, shown standing outdoors afterward
+in daylight, with a clear-eyed and energized facial expression, set
+against a background/lighting that fits this specific action, clearly
+distinct in tone from the other two panels. One small accent object in
+solid flat #FF5A36 may appear in this panel only.
+
+Bold cinematic anime illustration style throughout, clean line art,
+NO photorealistic rendering, NO real photograph, NO 3D render, NO stick
+figure. The character's face, hair, and outfit must look IDENTICAL across
+all three panels — only pose, expression, camera angle, and background
+tone change.
+
+Below the three panels, bold ultra-condensed sans-serif headline text in
+warm white, reading exactly "DUCHAS FRIAS", all capital letters, with
+the word "FRIAS" in #FF5A36, sitting on a soft dark gradient scrim for
+legibility, positioned in the lower-middle area, text height about
+29-34% of the image height, perfectly legible when shrunk to 160x90 px.
+A small circular badge in the top-left corner containing a simple white
+mountain-peak icon on a dark circle.
+
+--ar 16:9 --no bright background, light background, cream background,
+yellow banner, gradient glow, extra text, additional words, captions,
+subtitles, watermark, small lettering, gibberish text, photorealistic
+face, real photograph, 3D render, stick figure, identical flat background
+across all three panels, inconsistent character design
+```
+
+### THUMBNAIL C — Lưới 6 khung
+
+```
+A YouTube thumbnail, 16:9. A grid of six small panels arranged 2 rows by
+3 columns, each panel separated by a thin dark border (2-3px, #0B0B0C),
+filling the entire frame edge-to-edge with no outer margin, all six panels
+equal size.
+
+{NHÂN_VẬT_CỐ_ĐỊNH} appears in most panels — the character's FACE,
+HAIRSTYLE, and BODY BUILD stay perfectly identical to the reference design
+in every panel that includes them, but the OUTFIT and pose change per
+panel to match that panel's own beat, always staying within the same
+dark/muted color family as the base design.
+
+panel 1: a close-up still-life of a glowing thermometer icon beside a
+small lightning-bolt, moodily lit, no character present (la noradrenalina,
+Sramek). panel 2: standing calm with a small glowing mood/brain icon
+beside him, wearing a plain hoodie (el animo, Shevchuk). panel 3: gripping
+a shower handle with visible internal resistance, tense determined
+expression, wearing a plain shirt (la decision incomoda). panel 4:
+standing under the cold stream with a bright lightning-bolt flash at chest
+level, wearing a plain jacket (el entrenamiento real). panel 5: a
+close-up still-life of a shower timer showing thirty seconds, moodily lit,
+no character present (empezar pequeno, no extremo). panel 6: standing
+calm and alert just after the shower, satisfied expression, wearing a
+plain jacket (payoff/cierre).
+
+Each panel has its own dark, moody lighting appropriate to its own
+activity/setting, but all six panels keep the same bold cinematic anime
+illustration style and the same overall dark color grading (#0B0B0C-based)
+so the grid reads as ONE cohesive poster, not six unrelated pictures. NO
+photorealistic rendering, NO real photograph, NO 3D render, NO stick
+figure, in any panel.
+
+Bold ultra-condensed sans-serif headline text overlaid ACROSS the grid
+(spanning over several panels, not confined inside a single panel),
+reading exactly "DUCHAS FRIAS", all capital letters, with the word
+"FRIAS" in #FF5A36, sitting on a soft dark gradient scrim across the
+panels it overlaps for legibility, positioned in the lower-middle area,
+text height about 29-34% of the image height, perfectly legible when
+shrunk to 160x90 px.
+
+A small circular badge in the top-left corner containing a simple white
+mountain-peak icon on a dark circle.
+
+--ar 16:9 --no bright background, light background, cream background,
+yellow banner, gradient glow, extra text, additional words, captions,
+subtitles, watermark, small lettering, gibberish text, photorealistic
+face, real photograph, 3D render, stick figure, inconsistent character
+design across panels, uneven panel sizes, thick white borders, panels
+in completely different art styles
+```
+
+## BƯỚC 2.9 — DESCRIPTION (tiếng Tây Ban Nha, ~150 từ)
+
+Esto no es sobre agua fría. Es sobre lo que pasa en tu cerebro los primeros
+treinta segundos después de decidir hacer algo incómodo a propósito.
+
+En este video te explico la ciencia real, no la moda: el investigador Petr
+Sramek y su equipo midieron un aumento de noradrenalina de 200-300% al
+sumergirse en agua fría; y el médico Nikolai Shevchuk propuso, en la
+revista Medical Hypotheses, que las duchas frías graduales podrían apoyar
+el tratamiento de síntomas depresivos por este mismo mecanismo.
+
+Pero lo más importante no es la temperatura — es que la ducha fría es una
+de las formas más simples de entrenar, todos los días, la decisión de
+hacer algo incómodo. También te explico por qué la mayoría abandona en la
+primera semana, y cómo empezar sin convertirlo en un sufrimiento extremo.
+
+No necesitas ser un atleta del frío. Necesitas treinta segundos.
+
+## HASHTAGS (12)
+
+#disciplina #habitos #duchafria #desarrollopersonal #crecimientopersonal
+#autodisciplina #bienestar #saludmental #productividad #mentalidad
+#habitossaludables #motivacion
+
+## CHAPTERS (timestamp ƯỚC TÍNH — 2,5 từ/giây, tổng ≈ 4:20 phút — THAY BẰNG
+## TIMESTAMP THẬT từ .srt ngay khi có audio edge-tts thật)
+
+0:00 Introducción
+0:34 La Noradrenalina (Petr Sramek)
+1:22 El Ánimo (Nikolai Shevchuk)
+2:12 La Conexión con la Disciplina
+3:00 Por Qué la Mayoría Abandona
+3:47 Cierre
+
+## CHECKLIST METADATA
+
+- [x] Description >= 120 từ
+- [x] >= 10 hashtags lowercase (12), không dùng hashtag giật gân
+- [x] 3 titles <= 60 ký tự (đã rút gọn từ tiêu đề gốc 74 ký tự trong file chủ đề)
+- [x] Đã gán Playlist Folder (01_Disciplina y Habitos)
+- [x] 2 thumbnail prompts — đúng 1 Mẫu B + 1 Mẫu C, dùng
+      {NHÂN_VẬT_CỐ_ĐỊNH}, màu nhấn #FF5A36, cỡ chữ 29-34%
+- [x] Chapters >= 3 mốc, dòng đầu 0:00, timestamp ƯỚC TÍNH
+- [x] wc -w script.txt = 651 từ (trong khoảng 650-1.100)
+- [x] 2 nguồn tên cụ thể đã verify qua WebSearch (Petr Sramek, Nikolai
+      Shevchuk) — KHÔNG dùng "los estudios dicen" chung chung hay Wim Hof
+      mơ hồ, đúng yêu cầu file gốc

@@ -1,0 +1,533 @@
+================================================================================
+PROJECT 29 — 6 Señales de Mentalidad de Crecimiento (Y No Lo Sabías)
+Playlist: 05_Autoconocimiento
+ACCENT = #8B6CFF
+================================================================================
+
+
+### ESCENA 1: EL GANCHO
+
+[FRAME S01_F001 -> images/img_001.png]
+[SHOT TYPE]: Wide shot
+[ES]: La mentalidad de crecimiento no se trata de repetirte frases positivas frente al espejo cada mañana.
+[VI]: Tư duy phát triển không phải là việc tự nhắc bản thân những câu tích cực trước gương mỗi sáng.
+[VISUAL DESCRIPTION]: Wide shot of a stick figure standing in front of a simple mirror icon, a faint speech-bubble with a crossed-out positive-quote icon fading away.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S01_F002 -> images/img_002.png]
+[SHOT TYPE]: Medium shot
+[ES]: Es un patrón de reacciones automáticas, tan sutil que la mayoría de las personas que la tienen ni siquiera saben que la tienen.
+[VI]: Đó là một khuôn mẫu phản ứng tự động, tinh tế đến mức hầu hết những người có nó thậm chí không biết mình có.
+[VISUAL DESCRIPTION]: Medium shot of a small glowing sprout-and-brain icon quietly present beside the stick figure, #8B6CFF glow subtle and easy to miss.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S01_F003 -> images/img_003.png]
+[SHOT TYPE]: Wide shot
+[ES]: Hoy te muestro 6 señales concretas, respaldadas por investigación real.
+[VI]: Hôm nay mình sẽ chỉ ra 6 dấu hiệu cụ thể, dựa trên nghiên cứu thật.
+[VISUAL DESCRIPTION]: Wide shot of six small dim number-tiles (1-6) arranged in an arc, a small research-paper icon glowing faintly nearby.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S01_F004 -> images/img_004.png]
+[SHOT TYPE]: Direct address
+[ES]: Cuenta cuántas reconoces en ti mismo antes de sacar ninguna conclusión apresurada.
+[VI]: Hãy đếm xem bạn nhận ra bao nhiêu điều ở chính mình trước khi vội kết luận.
+[VISUAL DESCRIPTION]: Direct-address medium shot of the stick figure gesturing toward the viewer, the six number-tiles now glowing steadily.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+
+### ESCENA 2: SENAL 1 - Los Errores Te Interesan (Jason Moser)
+
+[FRAME S02_F005 -> images/img_005.png]
+[SHOT TYPE]: Text card / title
+[ES]: Uno: te interesan más tus errores que evitar cometerlos.
+[VI]: Một: bạn quan tâm đến lỗi sai của mình hơn là việc tránh phạm lỗi.
+[VISUAL DESCRIPTION]: Minimal title card, number tile '1' glowing #8B6CFF, a small glowing error-mark icon beside it being examined rather than hidden.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S02_F006 -> images/img_006.png]
+[SHOT TYPE]: Medium shot
+[ES]: El psicólogo Jason Moser, de Michigan State University, midió la actividad cerebral de personas justo después de cometer un error
+[VI]: Nhà tâm lý học Jason Moser, Đại học Bang Michigan, đo hoạt động não bộ của mọi người ngay sau khi phạm lỗi
+[VISUAL DESCRIPTION]: Stick figure standing beside a distinct academic-building icon and a small EEG/brain-wave icon, different silhouette from other university icons used in prior videos.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S02_F007 -> images/img_007.png]
+[SHOT TYPE]: Wide shot
+[ES]: y encontró algo revelador: quienes tenían mentalidad de crecimiento mostraban una respuesta cerebral más fuerte e inmediata ante el error,
+[VI]: và phát hiện điều đáng chú ý: người có tư duy phát triển có phản ứng não bộ mạnh mẽ và tức thì hơn trước lỗi sai,
+[VISUAL DESCRIPTION]: Wide shot of two simplified brain icons side by side reacting to the same error-mark, one showing a small faint pulse, the other showing a large bright pulse in #8B6CFF.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S02_F008 -> images/img_008.png]
+[SHOT TYPE]: Medium shot
+[ES]: como si el cerebro le prestara más atención a "qué salió mal" para corregirlo.
+[VI]: như thể não đang chú ý nhiều hơn đến "điều gì đã sai" để sửa chữa.
+[VISUAL DESCRIPTION]: Medium shot of the brightly-pulsing brain icon zooming its attention onto the error-mark, a small magnifying-glass icon appearing over it.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S02_F009 -> images/img_009.png]
+[SHOT TYPE]: Wide shot
+[ES]: Presta atención a esto: no es que te guste fallar.
+[VI]: Chú ý điều này: không phải là bạn thích thất bại.
+[VISUAL DESCRIPTION]: Wide shot of the stick figure with a calm, non-distressed expression beside the error-mark, clearly not enjoying it but not fearing it either.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S02_F010 -> images/img_010.png]
+[SHOT TYPE]: Wide shot
+[ES]: Es que tu cerebro trata el error como información útil, no como una amenaza que hay que esconder rápido.
+[VI]: Mà là não bạn xử lý lỗi như thông tin hữu ích, không phải mối đe doạ cần giấu đi thật nhanh.
+[VISUAL DESCRIPTION]: Wide shot of the error-mark icon transforming into a small glowing information/note icon instead of being hidden or buried.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+
+### ESCENA 3: SENAL 2 - Prefieres Feedback Honesto (Mueller y Dweck)
+
+[FRAME S03_F011 -> images/img_011.png]
+[SHOT TYPE]: Text card / title
+[ES]: Dos: prefieres feedback honesto sobre tu trabajo, aunque duela, en vez de un cumplido vacío.
+[VI]: Hai: bạn thích phản hồi trung thực về công việc của mình, dù có đau, hơn là một lời khen sáo rỗng.
+[VISUAL DESCRIPTION]: Minimal title card, number tile '2' glowing #8B6CFF, a small honest-note icon beside a crossed-out empty-compliment bubble icon.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S03_F012 -> images/img_012.png]
+[SHOT TYPE]: Medium shot
+[ES]: Las psicólogas Claudia Mueller y Carol Dweck, en un estudio con niños de la Universidad de Columbia,
+[VI]: Các nhà tâm lý học Claudia Mueller và Carol Dweck, trong một nghiên cứu với trẻ em tại Đại học Columbia,
+[VISUAL DESCRIPTION]: Stick figure standing beside a distinct academic-building icon (visually different from Michigan State icon) and small child-silhouette icons.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S03_F013 -> images/img_013.png]
+[SHOT TYPE]: Wide shot
+[ES]: descubrieron que elogiar la inteligencia de alguien ("eres muy inteligente") los hacía evitar después los desafíos difíciles,
+[VI]: phát hiện rằng khen ai đó thông minh ("con rất thông minh") khiến họ sau đó né tránh những thử thách khó,
+[VISUAL DESCRIPTION]: Wide shot of a small child-silhouette receiving a glowing 'inteligente' compliment-bubble, then turning away from a difficult-task icon nearby.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S03_F014 -> images/img_014.png]
+[SHOT TYPE]: Medium shot
+[ES]: mientras que elogiar el esfuerzo específico los hacía buscar tareas más exigentes.
+[VI]: trong khi khen nỗ lực cụ thể lại khiến họ tìm kiếm những nhiệm vụ khó hơn.
+[VISUAL DESCRIPTION]: Medium shot of a different child-silhouette receiving a glowing 'esfuerzo' compliment-bubble, then moving toward the difficult-task icon in #8B6CFF.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S03_F015 -> images/img_015.png]
+[SHOT TYPE]: Wide shot
+[ES]: Aquí está la clave: si prefieres que te digan exactamente qué mejorar en lugar de que te digan lo talentoso que eres,
+[VI]: Đây là điểm mấu chốt: nếu bạn thích được chỉ ra chính xác điều cần cải thiện hơn là được khen là tài năng,
+[VISUAL DESCRIPTION]: Wide shot of the stick figure choosing a specific improvement-note icon over a generic talent-compliment icon, deliberate selection shown clearly.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S03_F016 -> images/img_016.png]
+[SHOT TYPE]: Wide shot
+[ES]: tu cerebro ya está calibrado para el crecimiento, no para proteger una imagen.
+[VI]: não bạn đã được điều chỉnh để phát triển, không phải để bảo vệ một hình ảnh.
+[VISUAL DESCRIPTION]: Wide shot of the simplified brain icon glowing steadily, a small fragile-image/mask icon nearby shown dim and untouched, not being protected.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+
+### ESCENA 4: SENAL 3 - Te Atrae lo Dificil
+
+[FRAME S04_F017 -> images/img_017.png]
+[SHOT TYPE]: Text card / title
+[ES]: Tres: te sientes atraído por tareas que no dominas todavía, no solo por las que ya sabes hacer bien.
+[VI]: Ba: bạn cảm thấy bị hút vào những nhiệm vụ mình chưa thành thạo, không chỉ những gì mình đã làm tốt.
+[VISUAL DESCRIPTION]: Minimal title card, number tile '3' glowing #8B6CFF, a small glowing unfamiliar-task icon beside a dimmer familiar-task icon.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S04_F018 -> images/img_018.png]
+[SHOT TYPE]: Medium shot
+[ES]: La comodidad de lo conocido es agradable, y es completamente normal disfrutar hacer bien lo que ya dominas.
+[VI]: Sự thoải mái của điều quen thuộc là dễ chịu, và hoàn toàn bình thường khi thích làm tốt điều mình đã thành thạo.
+[VISUAL DESCRIPTION]: Medium shot of the stick figure comfortably engaged with a familiar-task icon, calm and at ease, no judgment implied.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S04_F019 -> images/img_019.png]
+[SHOT TYPE]: Wide shot
+[ES]: Pero si notas una curiosidad genuina — no solo tolerancia forzada, sino curiosidad real — hacia algo en lo que eres principiante,
+[VI]: Nhưng nếu bạn nhận thấy sự tò mò thật sự — không chỉ là chịu đựng gượng ép, mà là tò mò thật — với điều gì đó bạn còn là người mới,
+[VISUAL DESCRIPTION]: Wide shot of the stick figure's gaze turning toward the unfamiliar-task icon with a small glowing curiosity-spark in #8B6CFF, genuine rather than reluctant.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S04_F020 -> images/img_020.png]
+[SHOT TYPE]: Wide shot
+[ES]: algo en lo que probablemente te vas a ver torpe frente a otros durante un tiempo, esa atracción específica hacia lo difícil es una señal, no una casualidad ni una excentricidad tuya.
+[VI]: điều mà bạn có thể sẽ trông vụng về trước người khác trong một thời gian, sự hút vào cái khó đó là một dấu hiệu, không phải ngẫu nhiên hay tính cách kỳ lạ của bạn.
+[VISUAL DESCRIPTION]: Wide shot of the stick figure stepping toward the unfamiliar-task icon despite small faint 'looking clumsy' onlooker-silhouettes nearby, undeterred.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+
+### ESCENA 5: SENAL 4 - La Palabra Todavia
+
+[FRAME S05_F021 -> images/img_021.png]
+[SHOT TYPE]: Text card / title
+[ES]: Cuatro: usas la palabra "todavía" cuando algo no te sale.
+[VI]: Bốn: bạn dùng từ "chưa" khi điều gì đó không thành công.
+[VISUAL DESCRIPTION]: Minimal title card, number tile '4' glowing #8B6CFF, a small speech-bubble containing a single glowing word-shape.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S05_F022 -> images/img_022.png]
+[SHOT TYPE]: Medium shot
+[ES]: "No sé hacer esto" y "no sé hacer esto todavía" no son la misma frase, aunque se parezcan casi idénticas en el resto de la oración.
+[VI]: "Tôi không biết làm điều này" và "tôi chưa biết làm điều này" không phải là cùng một câu, dù phần còn lại gần như giống hệt nhau.
+[VISUAL DESCRIPTION]: Medium shot of two nearly identical speech-bubbles side by side, one ending in a closed/dead-end mark, the other ending in a small glowing open-arrow mark.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S05_F023 -> images/img_023.png]
+[SHOT TYPE]: Wide shot
+[ES]: Esto es lo que nadie te dice: esa palabra pequeña, casi invisible cuando la dices en voz alta,
+[VI]: Đây là điều không ai nói với bạn: từ nhỏ đó, gần như vô hình khi bạn nói ra,
+[VISUAL DESCRIPTION]: Wide shot of the small glowing word-shape from the title card, easy to overlook, highlighted subtly against the rest of the sentence.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S05_F024 -> images/img_024.png]
+[SHOT TYPE]: Wide shot
+[ES]: cambia por completo si tu cerebro interpreta la dificultad actual como un estado permanente y fijo, o como un punto cualquiera en un proceso que sigue en marcha y que todavía no ha terminado.
+[VI]: thay đổi hoàn toàn việc não bạn hiểu khó khăn hiện tại là một trạng thái cố định vĩnh viễn, hay chỉ là một điểm bất kỳ trong một quá trình vẫn đang tiếp diễn và chưa kết thúc.
+[VISUAL DESCRIPTION]: Wide shot split into two paths: one ending abruptly at a closed-door icon (permanente), one continuing forward along a glowing dotted path in #8B6CFF (proceso en marcha).
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+
+### ESCENA 6: SENAL 5 - El Exito Ajeno No Amenaza
+
+[FRAME S06_F025 -> images/img_025.png]
+[SHOT TYPE]: Text card / title
+[ES]: Cinco: el éxito ajeno no te amenaza, te da información.
+[VI]: Năm: thành công của người khác không đe doạ bạn, mà cho bạn thông tin.
+[VISUAL DESCRIPTION]: Minimal title card, number tile '5' glowing #8B6CFF, a small glowing achievement-star icon beside an information/note icon rather than a threat icon.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S06_F026 -> images/img_026.png]
+[SHOT TYPE]: Medium shot
+[ES]: Cuando alguien logra algo que tú también quieres — un ascenso, un proyecto terminado, un cuerpo más fuerte —,
+[VI]: Khi ai đó đạt được điều mà bạn cũng muốn — một sự thăng chức, một dự án hoàn thành, một cơ thể khoẻ hơn —,
+[VISUAL DESCRIPTION]: Medium shot of a second small stick-figure silhouette holding a glowing achievement-star (a promotion icon, a finished-project icon, a fitness icon shown in quick succession).
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S06_F027 -> images/img_027.png]
+[SHOT TYPE]: Wide shot
+[ES]: tu primera reacción interna, la genuina, antes de cualquier reacción social educada que muestres hacia afuera,
+[VI]: phản ứng bên trong đầu tiên của bạn, phản ứng thật, trước bất kỳ phản ứng xã hội lịch sự nào bạn thể hiện ra ngoài,
+[VISUAL DESCRIPTION]: Wide shot of the stick figure's outer polite-smile expression shown as a thin mask layer, with a genuine inner reaction visible just beneath it.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S06_F028 -> images/img_028.png]
+[SHOT TYPE]: Wide shot
+[ES]: es más cercana a "¿cómo lo hizo, qué hizo distinto?" que a "eso a mí no me va a pasar nunca, esa persona tuvo suerte".
+[VI]: gần với "người đó đã làm thế nào, đã làm khác đi điều gì?" hơn là "điều đó sẽ không bao giờ xảy ra với mình, người đó chỉ may mắn thôi".
+[VISUAL DESCRIPTION]: Wide shot of two small thought-bubble options above the stick figure — a glowing question-mark bubble in #8B6CFF (cómo lo hizo) and a dim crossed-out luck-icon bubble (tuvo suerte) — the question-mark bubble clearly the active one.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+
+### ESCENA 7: SENAL 6 - Ya No Necesitas Ser el Mejor
+
+[FRAME S07_F029 -> images/img_029.png]
+[SHOT TYPE]: Text card / title
+[ES]: Y seis: dejaste de necesitar ser "el mejor" en algo para seguir intentándolo.
+[VI]: Và sáu: bạn không còn cần phải là "giỏi nhất" ở điều gì đó để tiếp tục cố gắng.
+[VISUAL DESCRIPTION]: Minimal title card, number tile '6' glowing brightest of all, a small trophy icon shown fading gently, replaced by a simple ongoing-practice icon.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S07_F030 -> images/img_030.png]
+[SHOT TYPE]: Medium shot
+[ES]: Pero espera, todavía hay más: esta es la señal más difícil de notar en uno mismo, porque no se siente como un logro, sino como ausencia de un impulso que antes sí tenías.
+[VI]: Nhưng khoan đã, còn nữa: đây là dấu hiệu khó nhận ra nhất ở bản thân, vì nó không cảm thấy như một thành tựu, mà như sự vắng mặt của một thôi thúc từng có trước đây.
+[VISUAL DESCRIPTION]: Medium shot of a faint outline where a competitive-drive icon used to be, now simply empty space, no dramatic marker indicating its absence.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S07_F031 -> images/img_031.png]
+[SHOT TYPE]: Wide shot
+[ES]: Si puedes disfrutar mejorar en algo sin la necesidad constante de compararte y ganar, sin que eso apague tu motivación para seguir practicando,
+[VI]: Nếu bạn có thể tận hưởng việc tiến bộ mà không cần liên tục so sánh và chiến thắng, mà điều đó không làm tắt động lực tiếp tục luyện tập của bạn,
+[VISUAL DESCRIPTION]: Wide shot of the stick figure practicing a skill calmly, a small steady glowing progress-icon in #8B6CFF beside them, no scoreboard or comparison icon present anywhere in frame.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S07_F032 -> images/img_032.png]
+[SHOT TYPE]: Wide shot
+[ES]: esa ausencia específica es en sí misma la señal.
+[VI]: chính sự vắng mặt cụ thể đó là dấu hiệu.
+[VISUAL DESCRIPTION]: Wide shot pulling back to show the calm practice scene as a complete, quiet picture — the absence itself framed as the meaningful detail.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+
+### ESCENA 8: EL CIERRE
+
+[FRAME S08_F033 -> images/img_033.png]
+[SHOT TYPE]: Direct address
+[ES]: ¿Cuántas de estas seis reconociste en ti mismo?
+[VI]: Bạn nhận ra bao nhiêu trong số sáu điều này ở chính mình?
+[VISUAL DESCRIPTION]: Direct-address medium shot of the stick figure gesturing toward the viewer, all six number-tiles now glowing steadily in an arc behind them.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S08_F034 -> images/img_034.png]
+[SHOT TYPE]: Medium shot
+[ES]: Escribe el número exacto en los comentarios, y cuál de las seis te costó más admitir.
+[VI]: Hãy viết con số chính xác ở phần bình luận, và điều nào trong sáu điều đó khó thừa nhận nhất với bạn.
+[VISUAL DESCRIPTION]: Medium shot of a small glowing comment-bubble icon appearing beside the stick figure, one of the six tiles shown slightly dimmer, harder to fully admit.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S08_F035 -> images/img_035.png]
+[SHOT TYPE]: Wide shot
+[ES]: Ninguna de estas señales aparece de un día para otro — se construyen con la repetición, señal por señal, exactamente igual que cualquier otro hábito real.
+[VI]: Không dấu hiệu nào trong số này xuất hiện chỉ sau một đêm — chúng được xây dựng qua sự lặp lại, từng dấu hiệu một, giống hệt như bất kỳ thói quen thật nào khác.
+[VISUAL DESCRIPTION]: Wide shot of the six number-tiles settling into a calm, steady glow, #8B6CFF highlight showing them built gradually rather than appearing all at once.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S08_F036 -> images/img_036.png]
+[SHOT TYPE]: Wide shot
+[ES]: Si este video te sirvió, dale like y suscríbete — la disciplina no hace ruido, ni siquiera cuando reconstruye la forma en que tu mente entiende sus propios límites.
+[VI]: Nếu video này hữu ích, hãy nhấn thích và đăng ký — kỷ luật không ồn ào, kể cả khi nó tái định hình cách tâm trí bạn hiểu về giới hạn của chính mình.
+[VISUAL DESCRIPTION]: Final wide shot of the stick figure standing calm in soft dim light, small subscribe-bell and thumbs-up icons glowing gently in #8B6CFF in the corner, the sprout-and-brain icon from the Gancho glowing softly and completely behind them.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #8B6CFF used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.

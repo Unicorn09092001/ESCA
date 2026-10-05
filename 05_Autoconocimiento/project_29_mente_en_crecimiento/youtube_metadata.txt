@@ -1,0 +1,210 @@
+================================================================================
+PROJECT 29 — Chủ đề #29 (20-chu-de-video-tiep-theo-2026-09.md)
+Trụ cột: Autoconocimiento (15%, thử nghiệm) — Câu hỏi + đếm
+Playlist Folder: 05_Autoconocimiento  |  Màu nhấn: #8B6CFF
+================================================================================
+
+## GHI CHÚ TRÁNH TRÙNG LẶP
+
+Carol Dweck (growth mindset) đã dùng ở V07 (7 Señales de Disciplina
+Silenciosa) như MỘT trong 7 dấu hiệu, góc chung chung. Video này đào sâu
+RIÊNG chủ đề growth mindset, và dùng nghiên cứu CỤ THỂ khác hẳn: Mueller &
+Dweck (1998, praise-effort-vs-intelligence study) thay vì nhắc Dweck chung
+chung như V07. Bổ sung 1 nguồn HOÀN TOÀN MỚI (Jason Moser) để không phụ
+thuộc lại vào Dweck là nguồn duy nhất.
+
+## BƯỚC 2 — NGUỒN ĐÃ VERIFY QUA WEBSEARCH (2 tác giả/nghiên cứu tên cụ thể)
+
+1. Jason Moser — nhà tâm lý học, Michigan State University, nghiên cứu
+   "Mind Your Errors" (2011, Psychological Science): đo hoạt động điện não
+   (ERP) ngay sau khi phạm lỗi, phát hiện người có growth mindset có phản
+   ứng não bộ mạnh và nhanh hơn với lỗi sai — não xử lý lỗi như thông tin
+   hữu ích, không phải mối đe doạ. Nguồn hoàn toàn mới.
+2. Claudia Mueller & Carol Dweck — nghiên cứu "Praise for Intelligence Can
+   Undermine Children's Motivation and Performance" (1998, Đại học
+   Columbia): khen trí thông minh khiến trẻ né tránh thử thách khó hơn sau
+   đó, trong khi khen nỗ lực cụ thể khiến trẻ tìm kiếm nhiệm vụ khó hơn.
+   TÁI DÙNG Dweck nhưng với nghiên cứu cụ thể khác hẳn cách nhắc chung
+   chung ở V07.
+
+## BƯỚC 1 — TITLES
+
+1. [RECOMENDADO] 6 Señales de Mentalidad de Crecimiento (Y No Lo Sabías) (57 ký tự)
+2. ¿Tienes Mentalidad de Crecimiento? 6 Señales Reales (53 ký tự)
+3. 6 Señales Ocultas de Mentalidad de Crecimiento (47 ký tự)
+
+(Lưu ý: tiêu đề gốc trong file chủ đề — "6 Señales de Que Tienes Mentalidad
+de Crecimiento (Y No Lo Sabías)" — dài 68 ký tự, VƯỢT giới hạn 60 ký tự. Đã
+rút gọn còn 3 phương án trên, giữ đúng tinh thần "câu hỏi + đếm".)
+
+## BƯỚC 1 — PLAYLIST
+
+05_Autoconocimiento (màu nhấn #8B6CFF)
+
+## BƯỚC 1 — THUMBNAIL PROMPTS (đúng 1 Mẫu B + 1 Mẫu C, dùng CHUNG 1 headline)
+
+Headline dùng chung: "MENTE EN CRECIMIENTO" (từ nhấn "CRECIMIENTO" màu
+#8B6CFF — bỏ dấu theo quy tắc ký tự an toàn 1.3). Cỡ chữ 29-34% chiều cao ảnh.
+
+{NHÂN_VẬT_CỐ_ĐỊNH} = a young adult male anime character, athletic lean
+build, short dark messy hair, calm-intense neutral expression by default,
+wearing dark casual streetwear (hoodie or henley, muted charcoal/black)
+with exactly ONE accent-colored detail (drawstring, zipper, or small
+patch) in #8B6CFF. Detailed anime illustration style with clean line
+art and cel-shading, fully rendered face with clear eyes, nose, and mouth.
+This exact character design must repeat identically across every
+thumbnail — only pose, facial expression, camera angle, and background
+change per video.
+
+### THUMBNAIL B — Triptych 3 khung
+
+```
+A YouTube thumbnail, 16:9. Three-panel triptych layout, thin dark vertical
+dividers between panels. Each panel shows the character performing ONE
+specific, concrete action/habit — the three panels are NOT a linear story
+(no "problem/climax/result" roles) — and each panel has a DIFFERENT
+background lighting/tone matching its own action, so the three panels are
+instantly distinguishable even at small size.
+
+panel 1 (left): {NHÂN_VẬT_CỐ_ĐỊNH}, shown looking calmly and
+analytically at a glowing error-mark icon without flinching, with a
+calm and analytical facial expression, set against a background/lighting
+that fits this specific action (#0B0B0C base with a subtle cool tint
+suited to the scene).
+
+panel 2 (center): {NHÂN_VẬT_CỐ_ĐỊNH}, shown receiving a small glowing
+honest-feedback note with genuine open interest rather than defensiveness,
+with a curious and receptive facial expression, set against a
+background/lighting that fits this specific action, clearly distinct in
+tone from panel 1 and panel 3.
+
+panel 3 (right): {NHÂN_VẬT_CỐ_ĐỊNH}, shown reaching toward a task icon
+clearly beyond his current skill, with a genuinely curious facial
+expression, set against a background/lighting that fits this specific
+action, clearly distinct in tone from the other two panels. One small
+accent object in solid flat #8B6CFF may appear in this panel only.
+
+Bold cinematic anime illustration style throughout, clean line art,
+NO photorealistic rendering, NO real photograph, NO 3D render, NO stick
+figure. The character's face, hair, and outfit must look IDENTICAL across
+all three panels — only pose, expression, camera angle, and background
+tone change.
+
+Below the three panels, bold ultra-condensed sans-serif headline text in
+warm white, reading exactly "MENTE EN CRECIMIENTO", all capital letters,
+with the word "CRECIMIENTO" in #8B6CFF, sitting on a soft dark gradient
+scrim for legibility, positioned in the lower-middle area, text height
+about 29-34% of the image height, perfectly legible when shrunk to
+160x90 px. A small circular badge in the top-left corner containing a
+simple white mountain-peak icon on a dark circle.
+
+--ar 16:9 --no bright background, light background, cream background,
+yellow banner, gradient glow, extra text, additional words, captions,
+subtitles, watermark, small lettering, gibberish text, photorealistic
+face, real photograph, 3D render, stick figure, identical flat background
+across all three panels, inconsistent character design
+```
+
+### THUMBNAIL C — Lưới 6 khung
+
+```
+A YouTube thumbnail, 16:9. A grid of six small panels arranged 2 rows by
+3 columns, each panel separated by a thin dark border (2-3px, #0B0B0C),
+filling the entire frame edge-to-edge with no outer margin, all six panels
+equal size.
+
+{NHÂN_VẬT_CỐ_ĐỊNH} appears in most panels — the character's FACE,
+HAIRSTYLE, and BODY BUILD stay perfectly identical to the reference design
+in every panel that includes them, but the OUTFIT and pose change per
+panel to match that panel's own beat, always staying within the same
+dark/muted color family as the base design.
+
+panel 1: looking calmly at a glowing error-mark without flinching,
+analytical expression, wearing a plain hoodie (interes en los errores,
+Moser). panel 2: receiving a small glowing honest-feedback note with
+genuine interest, wearing a plain shirt (feedback honesto, Mueller-Dweck).
+panel 3: reaching toward a task icon slightly beyond his skill, curious
+expression, wearing a plain jacket (atraido por lo dificil). panel 4: a
+close-up still-life of a speech-bubble showing the word shape changing
+from a closed shape to an open one, moodily lit, no character present (la
+palabra todavia). panel 5: watching another figure's small glowing
+achievement-star with an interested, unthreatened expression, wearing a
+plain hoodie (el exito ajeno no amenaza). panel 6: practicing a skill
+calmly without a scoreboard or comparison icon nearby, satisfied
+expression, wearing a plain jacket (payoff/cierre).
+
+Each panel has its own dark, moody lighting appropriate to its own
+activity/setting, but all six panels keep the same bold cinematic anime
+illustration style and the same overall dark color grading (#0B0B0C-based)
+so the grid reads as ONE cohesive poster, not six unrelated pictures. NO
+photorealistic rendering, NO real photograph, NO 3D render, NO stick
+figure, in any panel.
+
+Bold ultra-condensed sans-serif headline text overlaid ACROSS the grid
+(spanning over several panels, not confined inside a single panel),
+reading exactly "MENTE EN CRECIMIENTO", all capital letters, with the word
+"CRECIMIENTO" in #8B6CFF, sitting on a soft dark gradient scrim across the
+panels it overlaps for legibility, positioned in the lower-middle area,
+text height about 29-34% of the image height, perfectly legible when
+shrunk to 160x90 px.
+
+A small circular badge in the top-left corner containing a simple white
+mountain-peak icon on a dark circle.
+
+--ar 16:9 --no bright background, light background, cream background,
+yellow banner, gradient glow, extra text, additional words, captions,
+subtitles, watermark, small lettering, gibberish text, photorealistic
+face, real photograph, 3D render, stick figure, inconsistent character
+design across panels, uneven panel sizes, thick white borders, panels
+in completely different art styles
+```
+
+## BƯỚC 2.9 — DESCRIPTION (tiếng Tây Ban Nha, ~150 từ)
+
+La mentalidad de crecimiento no se trata de repetirte frases positivas
+frente al espejo. Es un patrón de reacciones automáticas, tan sutil que la
+mayoría de las personas que la tienen ni siquiera saben que la tienen.
+
+En este video te muestro 6 señales concretas: desde cómo reacciona tu
+cerebro ante un error (según el psicólogo Jason Moser, de Michigan State
+University, y su estudio de actividad cerebral "Mind Your Errors"), hasta
+por qué prefieres feedback honesto en lugar de cumplidos vacíos (según el
+estudio clásico de Claudia Mueller y Carol Dweck en la Universidad de
+Columbia sobre elogiar el esfuerzo versus la inteligencia), pasando por el
+uso de la palabra "todavía" y tu reacción real ante el éxito de otras
+personas.
+
+Cuenta cuántas de estas 6 señales reconoces en ti mismo, sin sacar
+conclusiones apresuradas.
+
+## HASHTAGS (12)
+
+#mentalidaddecrecimiento #desarrollopersonal #crecimientopersonal
+#autoconocimiento #psicologia #mentalidad #disciplina
+#inteligenciaemocional #superacionpersonal #habitos #bienestar #exito
+
+## CHAPTERS (timestamp ƯỚC TÍNH — 2,5 từ/giây, tổng ≈ 4:20 phút — THAY BẰNG
+## TIMESTAMP THẬT từ .srt ngay khi có audio edge-tts thật)
+
+0:00 Introducción
+0:24 Señal 1 — Los Errores Te Interesan (Jason Moser)
+1:01 Señal 2 — Prefieres Feedback Honesto (Mueller & Dweck)
+1:40 Señal 3 — Te Atrae lo Difícil
+2:16 Señal 4 — La Palabra "Todavía"
+2:51 Señal 5 — El Éxito Ajeno No Amenaza
+3:19 Señal 6 — Ya No Necesitas Ser el Mejor
+3:50 Cierre
+
+## CHECKLIST METADATA
+
+- [x] Description >= 120 từ
+- [x] >= 10 hashtags lowercase (12), không dùng hashtag giật gân
+- [x] 3 titles <= 60 ký tự (đã rút gọn từ tiêu đề gốc 68 ký tự trong file chủ đề)
+- [x] Đã gán Playlist Folder (05_Autoconocimiento)
+- [x] 2 thumbnail prompts — đúng 1 Mẫu B + 1 Mẫu C, dùng
+      {NHÂN_VẬT_CỐ_ĐỊNH}, màu nhấn #8B6CFF, cỡ chữ 29-34%
+- [x] Chapters >= 3 mốc, dòng đầu 0:00, timestamp ƯỚC TÍNH
+- [x] wc -w script.txt = 650 từ (trong khoảng 650-1.100)
+- [x] 2 nguồn tên cụ thể đã verify qua WebSearch (Jason Moser — hoàn toàn
+      mới; Mueller & Dweck — tái dùng Dweck với nghiên cứu cụ thể khác hẳn
+      cách nhắc chung chung ở V07)

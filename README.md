@@ -1,92 +1,66 @@
-# Esca Web
+# Cúspide Silenciosa — Kênh mới Tiếng Tây Ban Nha
 
+Dự án kênh YouTube **Cúspide Silenciosa (El Camino Disciplinado)**: nội dung về kỷ luật và phát triển bản thân bằng tiếng Tây Ban Nha (Mỹ Latinh), phong cách hoạt hình người que.
 
+> *"La disciplina no hace ruido."*
 
-## Getting started
+Kênh giúp người xem hiểu cơ chế tâm lý đằng sau kỷ luật, thói quen và động lực, rồi áp dụng được ngay. Kênh còn mới, chưa có video nào.
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+## Nội dung repo
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+| Đường dẫn | Mô tả |
+|---|---|
+| `docs/flujo-produccion-el-camino-disciplinado.md` | Quy trình tự động hóa sản xuất kênh (v1.0) |
+| `docs/README_SUBTITLES.md` | Hướng dẫn công cụ tạo và gắn phụ đề |
+| `add_subtitles.py` | Script tạo phụ đề (Whisper, ASS/SRT/VTT, hardsub) |
+| `demo/demo_jorge_raw.mp3` | Giọng đọc demo "Jorge" (bản thô) |
+| `demo/demo_jorge_pro_studio_30s.mp3` | Giọng đọc demo "Jorge" (bản studio, 30 giây) |
+| `tools/align_frames.py` | Căn thời gian từng Frame theo audio (dò khoảng lặng, không cần Whisper) |
+| `tools/sticklib.py`, `tools/draw_frames.py` | Vẽ ảnh người que từng Frame bằng code (SVG → PNG) |
+| `tools/render_video.py` | Ghép ảnh tĩnh (zoom nhẹ) + giọng đọc + phụ đề karaoke (Anton) → MP4 1080p30 |
+| `tools/animate_video.py` | Bản motion graphics: từng lớp bật ra lần lượt, vật nhấn đập nhịp, nhân vật "thở", camera trôi → MP4 |
+| `tools/make_thumbnails.py` | Thumbnail Mẫu B (triptych) và Mẫu C (lưới 6 khung) |
+| `tools/make_chapters.py` | Chapters với timestamp thật theo audio |
+| `fonts/Anton-Regular.ttf` | Font Anton (SIL OFL, xem `fonts/OFL-Anton.txt`) |
+| `05_Autoconocimiento/project_28_7_senales_autosabotaje/` | Video "7 Señales de Autosabotaje": script, visuals, metadata, giọng Gonzalo, ảnh, phụ đề, thumbnail, video |
 
-## Add your files
+## Workflow dựng video graphic (mọi project)
 
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
+Mỗi project nằm trong `<playlist>/project_<NN>_<slug>/` với `script.txt`, `transcript_and_visuals.txt`,
+`youtube_metadata.txt` (chứa *Màu nhấn* và *Headline dùng chung*), `voz_gonzalo.mp3` và **`scenes.py`**:
+kịch bản hình bằng code, gồm `build_layers(n, shot)` cho từng Frame và `thumb_b()` / `thumb_c()` cho thumbnail.
+Phần dùng chung nằm trong `tools/` (`sticklib.py`, `scenekit.py`, `thumbkit.py`, `projectkit.py`).
 
+```bash
+pip install cairosvg pillow
+P="01_Disciplina y Habitos/project_14_5_habitos_cambian_todo"
+python3 tools/align_frames.py    --project "$P" --audio voz_gonzalo.mp3   # căn thời gian Frame theo giọng đọc
+python3 tools/draw_frames.py     --project "$P"                           # ảnh tĩnh images/img_NNN.png
+python3 tools/make_thumbnails.py --project "$P"                           # thumbnail Mẫu B + C
+python3 tools/make_chapters.py   --project "$P"                           # chapters.txt (timestamp thật)
+python3 tools/animate_video.py   --project "$P" --audio voz_gonzalo.mp3 --title <ten_video>_motion  # video motion graphics
 ```
-cd existing_repo
-git remote add origin https://gitlab.com/fut-group/esca-web.git
-git branch -M main
-git push -uf origin main
-```
 
-## Integrate with your tools
+| Project | Playlist | Video |
+|---|---|---|
+| 28 — 7 Señales de Autosabotaje | 05_Autoconocimiento (`#8B6CFF`) | `7_senales_autosabotaje_motion.mp4` |
+| 14 — 5 Hábitos Que Cambian Todo | 01_Disciplina y Habitos (`#FF5A36`) | `5_habitos_cambian_todo_motion.mp4` |
+| 15 — El Efecto Dominó | 01_Disciplina y Habitos (`#FF5A36`) | `efecto_domino_motion.mp4` |
+| 16 — Tu Entorno Decide | 01_Disciplina y Habitos (`#FF5A36`) | `tu_entorno_decide_motion.mp4` |
+| 17 — La Regla de las 2 Horas | 01_Disciplina y Habitos (`#FF5A36`) | `regla_2_horas_motion.mp4` |
+| 18 — Por Qué la Ducha Fría Cambia Tu Disciplina | 01_Disciplina y Habitos (`#FF5A36`) | `ducha_fria_motion.mp4` |
+| 19 — No Es Talento, Es GRIT | 02_Mentalidad y Exito (`#E8A23C`) | `no_es_talento_grit_motion.mp4` |
+| 20 — 7 Habilidades Que Toda Persona Debe Dominar | 02_Mentalidad y Exito (`#E8A23C`) | `7_habilidades_clave_motion.mp4` |
+| 21 — 5 Lecciones de Vida Que Aprendí Demasiado Tarde | 03_Motivacion y Superacion (`#FF3B78`) | `aprendi_demasiado_tarde_motion.mp4` |
+| 22 — 5 Retos Que Muy Pocas Personas Se Atreven a Completar | 03_Motivacion y Superacion (`#FF3B78`) | `5_retos_extremos_motion.mp4` |
+| 23 — ¿Buscas Motivación? Deja De Buscarla y Haz Esto | 03_Motivacion y Superacion (`#FF3B78`) | `deja_de_buscar_motivacion_motion.mp4` |
+| 25 — Detox Digital de 7 Días: Recupera Tu Cerebro del Scroll | 04_Productividad Practica (`#3BA7C9`) | `detox_digital_7_dias_motion.mp4` |
+| 26 — La Técnica Pomodoro Real (No la Versión de tu App) | 04_Productividad Practica (`#3BA7C9`) | `pomodoro_real_motion.mp4` |
+| 27 — Por Qué el Multitasking Te Hace Más Lento (Ciencia) | 04_Productividad Practica (`#3BA7C9`) | `multitasking_falso_motion.mp4` |
+| 29 — 6 Señales de Mentalidad de Crecimiento (Y No Lo Sabías) | 05_Autoconocimiento (`#8B6CFF`) | `mente_en_crecimiento_motion.mp4` |
+| 30 — ¿Por Qué Nunca Sientes Que Es Suficiente? (Perfeccionismo) | 05_Autoconocimiento (`#8B6CFF`) | `perfeccion_silenciosa_motion.mp4` |
+| 31 — 7 Hábitos Ocultos de la Gente Mentalmente Fuerte | 05_Autoconocimiento (`#8B6CFF`) | `mente_fuerte_motion.mp4` |
 
-- [ ] [Set up project integrations](https://gitlab.com/fut-group/esca-web/-/settings/integrations)
+## Lưu ý
 
-## Collaborate with your team
-
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-- [ ] [Automatically merge when pipeline succeeds](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
-
-## Test and Deploy
-
-Use the built-in continuous integration in GitLab.
-
-- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/index.html)
-- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing(SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
-- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
-
-***
-
-# Editing this README
-
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thank you to [makeareadme.com](https://www.makeareadme.com/) for this template.
-
-## Suggestions for a good README
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
-
-## Name
-Choose a self-explaining name for your project.
-
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
-
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
-
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
-
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
-
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
-
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
-
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
-
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
-
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
-
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
-
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
-
-## License
-For open source projects, say how it is licensed.
-
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+`add_subtitles.py` import package `tools/` (`config`, `transcriber`, `ass_generator`, `srt_generator`, `video_renderer`, `video_assembler`, `xoa_watermark`). Package này chưa có trong repo, nên script chưa chạy được cho đến khi bổ sung.

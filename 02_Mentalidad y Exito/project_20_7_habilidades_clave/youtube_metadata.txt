@@ -1,0 +1,209 @@
+================================================================================
+PROJECT 20 — Chủ đề #20 (20-chu-de-video-tiep-theo-2026-09.md)
+Trụ cột: Mentalidad y Éxito (10%) — Khuôn A (danh sách kỹ năng)
+Playlist Folder: 02_Mentalidad y Exito  |  Màu nhấn: #E8A23C
+================================================================================
+
+## QUYẾT ĐỊNH ĐÃ CHỐT (theo ghi chú "cần quyết định trước khi viết script"
+## trong file gốc)
+
+File gốc lưu ý cần chọn giữa khung nam giới ("todo hombre", khớp outlier gốc
+"20 Skills Every Man Must Master") hoặc trung tính hoá ("toda persona"). Vì
+không có phản hồi trực tiếp từ người dùng về điểm này và kênh Cúspide
+Silenciosa không định vị riêng cho nam giới ở bất kỳ video nào khác trong 29
+video đã làm, tôi CHỌN bản TRUNG TÍNH ("toda persona") để tối đa hoá đối
+tượng khán giả tiềm năng — quyết định này có thể đảo ngược dễ dàng nếu người
+dùng muốn bản nam giới hoá sau này (chỉ cần đổi "toda persona"/"quien" và
+few ví dụ, không cần viết lại toàn bộ script).
+
+## GHI CHÚ THÍCH ỨNG SỐ LƯỢNG
+
+Chủ đề gốc "20 Skills Every Man Must Master" → giảm còn **7 kỹ năng** để đạt
+độ sâu 4 lớp/kỹ năng (mô tả/ví dụ cụ thể/tại sao quan trọng/mẹo hành động)
+trong ngân sách 650-1.100 từ — đúng tiền lệ V05/V14/V21/V22.
+
+## BƯỚC 2 — NGUỒN ĐÃ VERIFY QUA WEBSEARCH (2 tác giả tên cụ thể)
+
+1. Elizabeth Warren — cựu thượng nghị sĩ Mỹ, đồng tác giả sách "All Your
+   Worth", phổ biến quy tắc ngân sách 50/30/20 (50% nhu cầu thiết yếu, 30%
+   mong muốn cá nhân, 20% tiết kiệm/trả nợ). Dùng cho Habilidad 3.
+2. Chris Voss — cựu đặc vụ FBI chuyên đàm phán con tin, tác giả "Never
+   Split the Difference", phổ biến kỹ thuật "câu hỏi hiệu chỉnh" (calibrated
+   questions) bắt đầu bằng "cómo"/"qué". Dùng cho Habilidad 6.
+
+Cả 2 nguồn CHƯA từng dùng ở các video 01-28 trong kênh.
+
+## BƯỚC 1 — TITLES
+
+1. [RECOMENDADO] 7 Habilidades Que Toda Persona Debe Dominar (43 ký tự)
+2. 7 Habilidades Esenciales Que Nadie Te Enseña (45 ký tự)
+3. Domina Estas 7 Habilidades Antes de los 30 (42 ký tự)
+
+## BƯỚC 1 — PLAYLIST
+
+02_Mentalidad y Exito (màu nhấn #E8A23C)
+
+## BƯỚC 1 — THUMBNAIL PROMPTS (đúng 1 Mẫu B + 1 Mẫu C, dùng CHUNG 1 headline)
+
+Headline dùng chung: "7 HABILIDADES CLAVE" (từ nhấn "CLAVE" màu #E8A23C —
+bỏ dấu theo quy tắc ký tự an toàn 1.3). Cỡ chữ 29-34% chiều cao ảnh.
+
+{NHÂN_VẬT_CỐ_ĐỊNH} = a young adult male anime character, athletic lean
+build, short dark messy hair, calm-intense neutral expression by default,
+wearing dark casual streetwear (hoodie or henley, muted charcoal/black)
+with exactly ONE accent-colored detail (drawstring, zipper, or small
+patch) in #E8A23C. Detailed anime illustration style with clean line
+art and cel-shading, fully rendered face with clear eyes, nose, and mouth.
+This exact character design must repeat identically across every
+thumbnail — only pose, facial expression, camera angle, and background
+change per video.
+
+### THUMBNAIL B — Triptych 3 khung
+
+```
+A YouTube thumbnail, 16:9. Three-panel triptych layout, thin dark vertical
+dividers between panels. Each panel shows the character performing ONE
+specific, concrete action/habit — the three panels are NOT a linear story
+(no "problem/climax/result" roles) — and each panel has a DIFFERENT
+background lighting/tone matching its own action, so the three panels are
+instantly distinguishable even at small size.
+
+panel 1 (left): {NHÂN_VẬT_CỐ_ĐỊNH}, shown calmly practicing basic first
+aid, hands positioned for chest compressions on a simple training
+mannequin, with a focused and steady facial expression, set against a
+background/lighting that fits this specific action (#0B0B0C base with a
+subtle tint suited to the scene).
+
+panel 2 (center): {NHÂN_VẬT_CỐ_ĐỊNH}, shown speaking to a small group
+with one hand gesturing calmly despite visible nerves, with a
+determined-but-slightly-nervous facial expression, set against a
+background/lighting that fits this specific action, clearly distinct in
+tone from panel 1 and panel 3.
+
+panel 3 (right): {NHÂN_VẬT_CỐ_ĐỊNH}, shown crossing out unnecessary
+words on a short handwritten note to make it clearer, with a calm and
+precise facial expression, set against a background/lighting that fits
+this specific action, clearly distinct in tone from the other two
+panels. One small accent object in solid flat #E8A23C may appear in
+this panel only.
+
+Bold cinematic anime illustration style throughout, clean line art,
+NO photorealistic rendering, NO real photograph, NO 3D render, NO stick
+figure. The character's face, hair, and outfit must look IDENTICAL across
+all three panels — only pose, expression, camera angle, and background
+tone change.
+
+Below the three panels, bold ultra-condensed sans-serif headline text in
+warm white, reading exactly "7 HABILIDADES CLAVE", all capital letters,
+with the word "CLAVE" in #E8A23C, sitting on a soft dark gradient scrim
+for legibility, positioned in the lower-middle area, text height about
+29-34% of the image height, perfectly legible when shrunk to 160x90 px.
+A small circular badge in the top-left corner containing a simple white
+mountain-peak icon on a dark circle.
+
+--ar 16:9 --no bright background, light background, cream background,
+yellow banner, gradient glow, extra text, additional words, captions,
+subtitles, watermark, small lettering, gibberish text, photorealistic
+face, real photograph, 3D render, stick figure, identical flat background
+across all three panels, inconsistent character design
+```
+
+### THUMBNAIL C — Lưới 6 khung
+
+```
+A YouTube thumbnail, 16:9. A grid of six small panels arranged 2 rows by
+3 columns, each panel separated by a thin dark border (2-3px, #0B0B0C),
+filling the entire frame edge-to-edge with no outer margin, all six panels
+equal size.
+
+{NHÂN_VẬT_CỐ_ĐỊNH} appears in most panels — the character's FACE,
+HAIRSTYLE, and BODY BUILD stay perfectly identical to the reference design
+in every panel that includes them, but the OUTFIT and pose change per
+panel to match that panel's own skill, always staying within the same
+dark/muted color family as the base design.
+
+panel 1: a close-up still-life of a small first-aid cross icon, moodily
+lit, no character present (primeros auxilios). panel 2: calmly preparing
+simple food with a couple of basic ingredients, wearing a plain apron over
+a hoodie (cocinar desde cero). panel 3: looking at a simple glowing pie
+chart divided into three parts, wearing a plain shirt (presupuestar).
+panel 4: standing confidently while speaking, one hand gesturing calmly,
+wearing a plain jacket (hablar en publico). panel 5: a close-up still-life
+of a wrench fixing a small leaking pipe icon, moodily lit, no character
+present (reparaciones basicas). panel 6: sitting calmly across from a
+faint ghost-outline second figure in a friendly negotiation posture,
+wearing a plain henley (negociar/cierre).
+
+Each panel has its own dark, moody lighting appropriate to its own
+activity/setting, but all six panels keep the same bold cinematic anime
+illustration style and the same overall dark color grading (#0B0B0C-based)
+so the grid reads as ONE cohesive poster, not six unrelated pictures. NO
+photorealistic rendering, NO real photograph, NO 3D render, NO stick
+figure, in any panel.
+
+Bold ultra-condensed sans-serif headline text overlaid ACROSS the grid
+(spanning over several panels, not confined inside a single panel),
+reading exactly "7 HABILIDADES CLAVE", all capital letters, with the word
+"CLAVE" in #E8A23C, sitting on a soft dark gradient scrim across the
+panels it overlaps for legibility, positioned in the lower-middle area,
+text height about 29-34% of the image height, perfectly legible when
+shrunk to 160x90 px.
+
+A small circular badge in the top-left corner containing a simple white
+mountain-peak icon on a dark circle.
+
+--ar 16:9 --no bright background, light background, cream background,
+yellow banner, gradient glow, extra text, additional words, captions,
+subtitles, watermark, small lettering, gibberish text, photorealistic
+face, real photograph, 3D render, stick figure, inconsistent character
+design across panels, uneven panel sizes, thick white borders, panels
+in completely different art styles
+```
+
+## BƯỚC 2.9 — DESCRIPTION (tiếng Tây Ban Nha, ~150 từ)
+
+Hay habilidades que la escuela nunca te enseñó, que terminas aprendiendo a
+los golpes, años después de cuando realmente las necesitabas.
+
+En este video te muestro 7 de ellas: primeros auxilios básicos; cocinar
+cinco platos simples desde cero; presupuestar tu dinero con la regla
+50/30/20 de Elizabeth Warren; hablar en público sin que el nervio te
+paralice; reparar lo básico en casa; negociar sin pelear, con las
+"preguntas calibradas" del ex agente del FBI Chris Voss; y escribir con
+claridad, sin relleno.
+
+Ninguna es glamorosa. Ninguna se ve bien en un currículum. Pero cada una te
+devuelve algo que casi ninguna habilidad de moda te da: capacidad real de
+resolver tu propia vida.
+
+## HASHTAGS (12)
+
+#desarrollopersonal #habilidadesparalavida #crecimientopersonal
+#superacionpersonal #disciplina #productividad #vidapractica #autonomia
+#mentalidad #habitos #exito #aprendizaje
+
+## CHAPTERS (timestamp ƯỚC TÍNH — 2,5 từ/giây, tổng ≈ 4:29 phút — THAY BẰNG
+## TIMESTAMP THẬT từ .srt ngay khi có audio edge-tts thật)
+
+0:00 Introducción
+0:21 Habilidad 1: Primeros Auxilios
+0:55 Habilidad 2: Cocinar Desde Cero
+1:24 Habilidad 3: Presupuestar (Regla 50/30/20)
+1:55 Habilidad 4: Hablar en Público
+2:24 Habilidad 5: Reparaciones Básicas
+2:52 Habilidad 6: Negociar (Chris Voss)
+3:24 Habilidad 7: Escribir con Claridad
+3:48 Cierre
+
+## CHECKLIST METADATA
+
+- [x] Description >= 120 từ
+- [x] >= 10 hashtags lowercase (12), không dùng hashtag giật gân
+- [x] 3 titles <= 60 ký tự
+- [x] Đã gán Playlist Folder (02_Mentalidad y Exito)
+- [x] 2 thumbnail prompts — đúng 1 Mẫu B + 1 Mẫu C, dùng
+      {NHÂN_VẬT_CỐ_ĐỊNH}, màu nhấn #E8A23C, cỡ chữ 29-34%
+- [x] Chapters >= 3 mốc, dòng đầu 0:00, timestamp ƯỚC TÍNH
+- [x] wc -w script.txt = 669 từ (trong khoảng 650-1.100)
+- [x] 2 nguồn tên cụ thể đã verify qua WebSearch (Warren, Voss)
+- [x] Quyết định khung trung tính ("toda persona") đã ghi rõ lý do ở đầu file

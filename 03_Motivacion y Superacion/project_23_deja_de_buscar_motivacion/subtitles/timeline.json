@@ -1,0 +1,3740 @@
+[
+ {
+  "id": "S01_F001",
+  "scene": "EL GANCHO",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "¿Sigues esperando sentirte motivado para empezar?",
+  "visual": "Wide shot of a stick figure sitting still, staring at a distant unlit spark icon that never ignites, passive posture.",
+  "start": 0.0,
+  "end": 3.448,
+  "words": [
+   {
+    "word": "¿Sigues",
+    "start": 0.261,
+    "end": 0.604
+   },
+   {
+    "word": "esperando",
+    "start": 0.604,
+    "end": 1.189
+   },
+   {
+    "word": "sentirte",
+    "start": 1.189,
+    "end": 1.646
+   },
+   {
+    "word": "motivado",
+    "start": 1.646,
+    "end": 2.104
+   },
+   {
+    "word": "para",
+    "start": 2.104,
+    "end": 2.403
+   },
+   {
+    "word": "empezar?",
+    "start": 2.403,
+    "end": 2.803
+   }
+  ]
+ },
+ {
+  "id": "S01_F002",
+  "scene": "EL GANCHO",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "Puedes seguir esperando semanas, meses, incluso años, porque la motivación no funciona como crees.",
+  "visual": "Medium shot of a calendar strip advancing rapidly through weeks, months, years, the stick figure still seated in the same passive position throughout.",
+  "start": 3.448,
+  "end": 11.382,
+  "words": [
+   {
+    "word": "Puedes",
+    "start": 4.093,
+    "end": 4.499
+   },
+   {
+    "word": "seguir",
+    "start": 4.499,
+    "end": 4.905
+   },
+   {
+    "word": "esperando",
+    "start": 4.905,
+    "end": 5.514
+   },
+   {
+    "word": "semanas,",
+    "start": 5.514,
+    "end": 6.386
+   },
+   {
+    "word": "meses,",
+    "start": 6.386,
+    "end": 6.724
+   },
+   {
+    "word": "incluso",
+    "start": 6.724,
+    "end": 7.549
+   },
+   {
+    "word": "años,",
+    "start": 7.549,
+    "end": 7.82
+   },
+   {
+    "word": "porque",
+    "start": 7.82,
+    "end": 8.575
+   },
+   {
+    "word": "la",
+    "start": 8.575,
+    "end": 8.71
+   },
+   {
+    "word": "motivación",
+    "start": 8.71,
+    "end": 9.387
+   },
+   {
+    "word": "no",
+    "start": 9.387,
+    "end": 9.523
+   },
+   {
+    "word": "funciona",
+    "start": 9.523,
+    "end": 10.064
+   },
+   {
+    "word": "como",
+    "start": 10.064,
+    "end": 10.432
+   },
+   {
+    "word": "crees.",
+    "start": 10.432,
+    "end": 10.771
+   }
+  ]
+ },
+ {
+  "id": "S01_F003",
+  "scene": "EL GANCHO",
+  "shot_raw": "Close-up",
+  "shot": "CLOSE-UP",
+  "es": "No es una chispa que aparece de la nada un día cualquiera y te empuja a actuar —",
+  "visual": "Close-up of the unlit spark icon shown completely dark and inert, no glow, floating passively in front of the stick figure.",
+  "start": 11.382,
+  "end": 15.921,
+  "words": [
+   {
+    "word": "No",
+    "start": 11.994,
+    "end": 12.1
+   },
+   {
+    "word": "es",
+    "start": 12.1,
+    "end": 12.206
+   },
+   {
+    "word": "una",
+    "start": 12.206,
+    "end": 12.365
+   },
+   {
+    "word": "chispa",
+    "start": 12.365,
+    "end": 12.684
+   },
+   {
+    "word": "que",
+    "start": 12.684,
+    "end": 12.843
+   },
+   {
+    "word": "aparece",
+    "start": 12.843,
+    "end": 13.215
+   },
+   {
+    "word": "de",
+    "start": 13.215,
+    "end": 13.321
+   },
+   {
+    "word": "la",
+    "start": 13.321,
+    "end": 13.427
+   },
+   {
+    "word": "nada",
+    "start": 13.427,
+    "end": 13.64
+   },
+   {
+    "word": "un",
+    "start": 13.64,
+    "end": 13.746
+   },
+   {
+    "word": "día",
+    "start": 13.746,
+    "end": 13.905
+   },
+   {
+    "word": "cualquiera",
+    "start": 13.905,
+    "end": 14.513
+   },
+   {
+    "word": "y",
+    "start": 14.513,
+    "end": 14.566
+   },
+   {
+    "word": "te",
+    "start": 14.566,
+    "end": 14.672
+   },
+   {
+    "word": "empuja",
+    "start": 14.672,
+    "end": 15.16
+   },
+   {
+    "word": "a",
+    "start": 15.16,
+    "end": 15.213
+   },
+   {
+    "word": "actuar",
+    "start": 15.213,
+    "end": 15.678
+   },
+   {
+    "word": "—",
+    "start": 15.678,
+    "end": 15.732
+   }
+  ]
+ },
+ {
+  "id": "S01_F004",
+  "scene": "EL GANCHO",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "y mientras sigas esperando esa chispa, vas a seguir posponiendo exactamente lo que dices que quieres hacer.",
+  "visual": "Wide shot of a glowing goal-icon sitting untouched in the distance, #FF3B78 outline around it, the stick figure not moving toward it at all.",
+  "start": 15.921,
+  "end": 22.582,
+  "words": [
+   {
+    "word": "y",
+    "start": 16.11,
+    "end": 16.165
+   },
+   {
+    "word": "mientras",
+    "start": 16.165,
+    "end": 16.604
+   },
+   {
+    "word": "sigas",
+    "start": 16.604,
+    "end": 16.879
+   },
+   {
+    "word": "esperando",
+    "start": 16.879,
+    "end": 17.448
+   },
+   {
+    "word": "esa",
+    "start": 17.448,
+    "end": 17.613
+   },
+   {
+    "word": "chispa,",
+    "start": 17.613,
+    "end": 17.942
+   },
+   {
+    "word": "vas",
+    "start": 17.942,
+    "end": 18.187
+   },
+   {
+    "word": "a",
+    "start": 18.187,
+    "end": 18.625
+   },
+   {
+    "word": "seguir",
+    "start": 18.625,
+    "end": 18.955
+   },
+   {
+    "word": "posponiendo",
+    "start": 18.955,
+    "end": 19.737
+   },
+   {
+    "word": "exactamente",
+    "start": 19.737,
+    "end": 20.45
+   },
+   {
+    "word": "lo",
+    "start": 20.45,
+    "end": 20.56
+   },
+   {
+    "word": "que",
+    "start": 20.56,
+    "end": 20.796
+   },
+   {
+    "word": "dices",
+    "start": 20.796,
+    "end": 21.07
+   },
+   {
+    "word": "que",
+    "start": 21.07,
+    "end": 21.235
+   },
+   {
+    "word": "quieres",
+    "start": 21.235,
+    "end": 21.691
+   },
+   {
+    "word": "hacer.",
+    "start": 21.691,
+    "end": 21.965
+   }
+  ]
+ },
+ {
+  "id": "S01_F005",
+  "scene": "EL GANCHO",
+  "shot_raw": "Direct address",
+  "shot": "MEDIUM SHOT",
+  "es": "Hoy te explico por qué buscarla es lo que te está frenando, y qué hacer en su lugar.",
+  "visual": "Direct-address medium shot of the stick figure turning toward the viewer, posture shifting slightly from passive to attentive.",
+  "start": 22.582,
+  "end": 28.252,
+  "words": [
+   {
+    "word": "Hoy",
+    "start": 23.2,
+    "end": 23.386
+   },
+   {
+    "word": "te",
+    "start": 23.386,
+    "end": 23.51
+   },
+   {
+    "word": "explico",
+    "start": 23.51,
+    "end": 23.945
+   },
+   {
+    "word": "por",
+    "start": 23.945,
+    "end": 24.131
+   },
+   {
+    "word": "qué",
+    "start": 24.131,
+    "end": 24.317
+   },
+   {
+    "word": "buscarla",
+    "start": 24.317,
+    "end": 24.814
+   },
+   {
+    "word": "es",
+    "start": 24.814,
+    "end": 24.938
+   },
+   {
+    "word": "lo",
+    "start": 24.938,
+    "end": 25.062
+   },
+   {
+    "word": "que",
+    "start": 25.062,
+    "end": 25.248
+   },
+   {
+    "word": "te",
+    "start": 25.248,
+    "end": 25.372
+   },
+   {
+    "word": "está",
+    "start": 25.372,
+    "end": 25.621
+   },
+   {
+    "word": "frenando,",
+    "start": 25.621,
+    "end": 26.117
+   },
+   {
+    "word": "y",
+    "start": 26.117,
+    "end": 26.179
+   },
+   {
+    "word": "qué",
+    "start": 26.179,
+    "end": 26.754
+   },
+   {
+    "word": "hacer",
+    "start": 26.754,
+    "end": 27.065
+   },
+   {
+    "word": "en",
+    "start": 27.065,
+    "end": 27.189
+   },
+   {
+    "word": "su",
+    "start": 27.189,
+    "end": 27.313
+   },
+   {
+    "word": "lugar.",
+    "start": 27.313,
+    "end": 27.623
+   }
+  ]
+ },
+ {
+  "id": "S02_F006",
+  "scene": "MODULO 1 - El Orden al Reves (Jeff Haden)",
+  "shot_raw": "Text card / title",
+  "shot": "MEDIUM SHOT",
+  "es": "Primero, el orden que casi todos tienen al revés.",
+  "visual": "Minimal title card, two simple icons — a spark and a footprint — shown in reversed order with a small #FF3B78 arrow indicating the wrong sequence.",
+  "start": 28.252,
+  "end": 32.459,
+  "words": [
+   {
+    "word": "Primero,",
+    "start": 28.88,
+    "end": 29.317
+   },
+   {
+    "word": "el",
+    "start": 29.317,
+    "end": 29.83
+   },
+   {
+    "word": "orden",
+    "start": 29.83,
+    "end": 30.142
+   },
+   {
+    "word": "que",
+    "start": 30.142,
+    "end": 30.405
+   },
+   {
+    "word": "casi",
+    "start": 30.405,
+    "end": 30.726
+   },
+   {
+    "word": "todos",
+    "start": 30.726,
+    "end": 31.038
+   },
+   {
+    "word": "tienen",
+    "start": 31.038,
+    "end": 31.413
+   },
+   {
+    "word": "al",
+    "start": 31.413,
+    "end": 31.537
+   },
+   {
+    "word": "revés.",
+    "start": 31.537,
+    "end": 31.849
+   }
+  ]
+ },
+ {
+  "id": "S02_F007",
+  "scene": "MODULO 1 - El Orden al Reves (Jeff Haden)",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "El escritor Jeff Haden, autor de \"El Mito de la Motivación\", entrevistó a decenas de personas de alto rendimiento",
+  "visual": "Stick figure standing beside a glowing book icon with a simple flame-crossed-out motif on its cover, distinct from other book icons used in prior videos.",
+  "start": 32.459,
+  "end": 39.257,
+  "words": [
+   {
+    "word": "El",
+    "start": 33.069,
+    "end": 33.177
+   },
+   {
+    "word": "escritor",
+    "start": 33.177,
+    "end": 33.677
+   },
+   {
+    "word": "Jeff",
+    "start": 33.677,
+    "end": 33.893
+   },
+   {
+    "word": "Haden,",
+    "start": 33.893,
+    "end": 34.162
+   },
+   {
+    "word": "autor",
+    "start": 34.162,
+    "end": 34.752
+   },
+   {
+    "word": "de",
+    "start": 34.752,
+    "end": 34.941
+   },
+   {
+    "word": "\"El",
+    "start": 34.941,
+    "end": 35.049
+   },
+   {
+    "word": "Mito",
+    "start": 35.049,
+    "end": 35.508
+   },
+   {
+    "word": "de",
+    "start": 35.508,
+    "end": 35.615
+   },
+   {
+    "word": "la",
+    "start": 35.615,
+    "end": 35.723
+   },
+   {
+    "word": "Motivación\",",
+    "start": 35.723,
+    "end": 36.261
+   },
+   {
+    "word": "entrevistó",
+    "start": 36.261,
+    "end": 36.799
+   },
+   {
+    "word": "a",
+    "start": 36.799,
+    "end": 36.853
+   },
+   {
+    "word": "decenas",
+    "start": 36.853,
+    "end": 37.613
+   },
+   {
+    "word": "de",
+    "start": 37.613,
+    "end": 37.72
+   },
+   {
+    "word": "personas",
+    "start": 37.72,
+    "end": 38.225
+   },
+   {
+    "word": "de",
+    "start": 38.225,
+    "end": 38.332
+   },
+   {
+    "word": "alto",
+    "start": 38.332,
+    "end": 38.62
+   },
+   {
+    "word": "rendimiento",
+    "start": 38.62,
+    "end": 39.212
+   }
+  ]
+ },
+ {
+  "id": "S02_F008",
+  "scene": "MODULO 1 - El Orden al Reves (Jeff Haden)",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "y encontró el mismo patrón una y otra vez: ninguna de ellas sintió motivación antes de empezar algo difícil.",
+  "visual": "Wide shot of several small stick-figure silhouettes each standing beside an unlit spark icon at the moment before starting a difficult task, all consistent across the row.",
+  "start": 39.257,
+  "end": 46.828,
+  "words": [
+   {
+    "word": "y",
+    "start": 39.302,
+    "end": 39.376
+   },
+   {
+    "word": "encontró",
+    "start": 39.376,
+    "end": 39.962
+   },
+   {
+    "word": "el",
+    "start": 39.962,
+    "end": 40.109
+   },
+   {
+    "word": "mismo",
+    "start": 40.109,
+    "end": 40.476
+   },
+   {
+    "word": "patrón",
+    "start": 40.476,
+    "end": 40.916
+   },
+   {
+    "word": "una",
+    "start": 40.916,
+    "end": 41.21
+   },
+   {
+    "word": "y",
+    "start": 41.21,
+    "end": 41.283
+   },
+   {
+    "word": "otra",
+    "start": 41.283,
+    "end": 41.577
+   },
+   {
+    "word": "vez:",
+    "start": 41.577,
+    "end": 41.797
+   },
+   {
+    "word": "ninguna",
+    "start": 41.797,
+    "end": 42.31
+   },
+   {
+    "word": "de",
+    "start": 42.31,
+    "end": 42.841
+   },
+   {
+    "word": "ellas",
+    "start": 42.841,
+    "end": 43.207
+   },
+   {
+    "word": "sintió",
+    "start": 43.207,
+    "end": 43.647
+   },
+   {
+    "word": "motivación",
+    "start": 43.647,
+    "end": 44.381
+   },
+   {
+    "word": "antes",
+    "start": 44.381,
+    "end": 44.747
+   },
+   {
+    "word": "de",
+    "start": 44.747,
+    "end": 44.894
+   },
+   {
+    "word": "empezar",
+    "start": 44.894,
+    "end": 45.407
+   },
+   {
+    "word": "algo",
+    "start": 45.407,
+    "end": 45.701
+   },
+   {
+    "word": "difícil.",
+    "start": 45.701,
+    "end": 46.214
+   }
+  ]
+ },
+ {
+  "id": "S02_F009",
+  "scene": "MODULO 1 - El Orden al Reves (Jeff Haden)",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "Sintieron motivación después de dar el primer paso, por pequeño que fuera, y ver que ese paso funcionaba.",
+  "visual": "Medium shot of a small glowing footprint appearing first, then the spark icon lighting up in #FF3B78 immediately after it, clear cause-and-effect sequence.",
+  "start": 46.828,
+  "end": 54.017,
+  "words": [
+   {
+    "word": "Sintieron",
+    "start": 47.441,
+    "end": 47.94
+   },
+   {
+    "word": "motivación",
+    "start": 47.94,
+    "end": 48.495
+   },
+   {
+    "word": "después",
+    "start": 48.495,
+    "end": 48.958
+   },
+   {
+    "word": "de",
+    "start": 48.958,
+    "end": 49.069
+   },
+   {
+    "word": "dar",
+    "start": 49.069,
+    "end": 49.235
+   },
+   {
+    "word": "el",
+    "start": 49.235,
+    "end": 49.432
+   },
+   {
+    "word": "primer",
+    "start": 49.432,
+    "end": 49.876
+   },
+   {
+    "word": "paso,",
+    "start": 49.876,
+    "end": 50.495
+   },
+   {
+    "word": "por",
+    "start": 50.495,
+    "end": 50.742
+   },
+   {
+    "word": "pequeño",
+    "start": 50.742,
+    "end": 51.13
+   },
+   {
+    "word": "que",
+    "start": 51.13,
+    "end": 51.296
+   },
+   {
+    "word": "fuera,",
+    "start": 51.296,
+    "end": 51.904
+   },
+   {
+    "word": "y",
+    "start": 51.904,
+    "end": 51.96
+   },
+   {
+    "word": "ver",
+    "start": 51.96,
+    "end": 52.126
+   },
+   {
+    "word": "que",
+    "start": 52.126,
+    "end": 52.364
+   },
+   {
+    "word": "ese",
+    "start": 52.364,
+    "end": 52.618
+   },
+   {
+    "word": "paso",
+    "start": 52.618,
+    "end": 52.84
+   },
+   {
+    "word": "funcionaba.",
+    "start": 52.84,
+    "end": 53.395
+   }
+  ]
+ },
+ {
+  "id": "S02_F010",
+  "scene": "MODULO 1 - El Orden al Reves (Jeff Haden)",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Presta atención a esto: no esperaron a sentirse listas. Actuaron sin sentirse listas,",
+  "visual": "Wide shot of a stick figure stepping forward despite a faint 'not ready' thought-bubble still lingering above their head, moving anyway.",
+  "start": 54.017,
+  "end": 61.485,
+  "words": [
+   {
+    "word": "Presta",
+    "start": 54.641,
+    "end": 55.059
+   },
+   {
+    "word": "atención",
+    "start": 55.059,
+    "end": 55.616
+   },
+   {
+    "word": "a",
+    "start": 55.616,
+    "end": 55.686
+   },
+   {
+    "word": "esto:",
+    "start": 55.686,
+    "end": 56.406
+   },
+   {
+    "word": "no",
+    "start": 56.406,
+    "end": 56.545
+   },
+   {
+    "word": "esperaron",
+    "start": 56.545,
+    "end": 57.248
+   },
+   {
+    "word": "a",
+    "start": 57.248,
+    "end": 57.317
+   },
+   {
+    "word": "sentirse",
+    "start": 57.317,
+    "end": 57.875
+   },
+   {
+    "word": "listas.",
+    "start": 57.875,
+    "end": 59.503
+   },
+   {
+    "word": "Actuaron",
+    "start": 59.503,
+    "end": 60.182
+   },
+   {
+    "word": "sin",
+    "start": 60.182,
+    "end": 60.391
+   },
+   {
+    "word": "sentirse",
+    "start": 60.391,
+    "end": 60.948
+   },
+   {
+    "word": "listas,",
+    "start": 60.948,
+    "end": 61.367
+   }
+  ]
+ },
+ {
+  "id": "S02_F011",
+  "scene": "MODULO 1 - El Orden al Reves (Jeff Haden)",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "y la motivación llegó como consecuencia de la acción, no como su causa.",
+  "visual": "Wide shot of the footprint-then-spark sequence shown clearly one more time, labeled implicitly by order: footprint first, spark glowing after.",
+  "start": 61.485,
+  "end": 66.305,
+  "words": [
+   {
+    "word": "y",
+    "start": 61.603,
+    "end": 61.667
+   },
+   {
+    "word": "la",
+    "start": 61.667,
+    "end": 61.793
+   },
+   {
+    "word": "motivación",
+    "start": 61.793,
+    "end": 62.426
+   },
+   {
+    "word": "llegó",
+    "start": 62.426,
+    "end": 62.743
+   },
+   {
+    "word": "como",
+    "start": 62.743,
+    "end": 62.996
+   },
+   {
+    "word": "consecuencia",
+    "start": 62.996,
+    "end": 63.756
+   },
+   {
+    "word": "de",
+    "start": 63.756,
+    "end": 63.882
+   },
+   {
+    "word": "la",
+    "start": 63.882,
+    "end": 64.009
+   },
+   {
+    "word": "acción,",
+    "start": 64.009,
+    "end": 64.789
+   },
+   {
+    "word": "no",
+    "start": 64.789,
+    "end": 64.916
+   },
+   {
+    "word": "como",
+    "start": 64.916,
+    "end": 65.169
+   },
+   {
+    "word": "su",
+    "start": 65.169,
+    "end": 65.296
+   },
+   {
+    "word": "causa.",
+    "start": 65.296,
+    "end": 65.683
+   }
+  ]
+ },
+ {
+  "id": "S03_F012",
+  "scene": "MODULO 2 - El Progreso Pequeno (Teresa Amabile)",
+  "shot_raw": "Text card / title",
+  "shot": "MEDIUM SHOT",
+  "es": "Segundo, por qué el progreso pequeño genera más motivación que cualquier discurso.",
+  "visual": "Minimal title card, a small glowing checkmark icon beside a crossed-out megaphone icon, #FF3B78 highlight on the checkmark.",
+  "start": 66.305,
+  "end": 72.263,
+  "words": [
+   {
+    "word": "Segundo,",
+    "start": 66.927,
+    "end": 67.356
+   },
+   {
+    "word": "por",
+    "start": 67.356,
+    "end": 67.943
+   },
+   {
+    "word": "qué",
+    "start": 67.943,
+    "end": 68.127
+   },
+   {
+    "word": "el",
+    "start": 68.127,
+    "end": 68.25
+   },
+   {
+    "word": "progreso",
+    "start": 68.25,
+    "end": 68.741
+   },
+   {
+    "word": "pequeño",
+    "start": 68.741,
+    "end": 69.171
+   },
+   {
+    "word": "genera",
+    "start": 69.171,
+    "end": 69.539
+   },
+   {
+    "word": "más",
+    "start": 69.539,
+    "end": 69.724
+   },
+   {
+    "word": "motivación",
+    "start": 69.724,
+    "end": 70.338
+   },
+   {
+    "word": "que",
+    "start": 70.338,
+    "end": 70.522
+   },
+   {
+    "word": "cualquier",
+    "start": 70.522,
+    "end": 71.155
+   },
+   {
+    "word": "discurso.",
+    "start": 71.155,
+    "end": 71.646
+   }
+  ]
+ },
+ {
+  "id": "S03_F013",
+  "scene": "MODULO 2 - El Progreso Pequeno (Teresa Amabile)",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "La investigadora Teresa Amabile, de Harvard Business School, analizó miles de diarios de trabajo de empleados de distintas industrias durante años",
+  "visual": "Stick figure standing beside a distinct academic-building icon and a stack of small glowing notebook/diary icons, different silhouette from icons used for other universities.",
+  "start": 72.263,
+  "end": 83.492,
+  "words": [
+   {
+    "word": "La",
+    "start": 72.879,
+    "end": 73.029
+   },
+   {
+    "word": "investigadora",
+    "start": 73.029,
+    "end": 74.074
+   },
+   {
+    "word": "Teresa",
+    "start": 74.074,
+    "end": 74.522
+   },
+   {
+    "word": "Amabile,",
+    "start": 74.522,
+    "end": 75.364
+   },
+   {
+    "word": "de",
+    "start": 75.364,
+    "end": 75.514
+   },
+   {
+    "word": "Harvard",
+    "start": 75.514,
+    "end": 76.037
+   },
+   {
+    "word": "Business",
+    "start": 76.037,
+    "end": 77.136
+   },
+   {
+    "word": "School,",
+    "start": 77.136,
+    "end": 77.585
+   },
+   {
+    "word": "analizó",
+    "start": 77.585,
+    "end": 78.108
+   },
+   {
+    "word": "miles",
+    "start": 78.108,
+    "end": 78.482
+   },
+   {
+    "word": "de",
+    "start": 78.482,
+    "end": 78.632
+   },
+   {
+    "word": "diarios",
+    "start": 78.632,
+    "end": 79.155
+   },
+   {
+    "word": "de",
+    "start": 79.155,
+    "end": 79.305
+   },
+   {
+    "word": "trabajo",
+    "start": 79.305,
+    "end": 79.828
+   },
+   {
+    "word": "de",
+    "start": 79.828,
+    "end": 79.978
+   },
+   {
+    "word": "empleados",
+    "start": 79.978,
+    "end": 80.651
+   },
+   {
+    "word": "de",
+    "start": 80.651,
+    "end": 80.801
+   },
+   {
+    "word": "distintas",
+    "start": 80.801,
+    "end": 81.55
+   },
+   {
+    "word": "industrias",
+    "start": 81.55,
+    "end": 82.297
+   },
+   {
+    "word": "durante",
+    "start": 82.297,
+    "end": 82.899
+   },
+   {
+    "word": "años",
+    "start": 82.899,
+    "end": 83.277
+   }
+  ]
+ },
+ {
+  "id": "S03_F014",
+  "scene": "MODULO 2 - El Progreso Pequeno (Teresa Amabile)",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "y descubrió algo contraintuitivo: el factor individual más poderoso para sentirse motivado en un día cualquiera no era el reconocimiento, ni el dinero, ni las palabras de ánimo de un jefe.",
+  "visual": "Wide shot of three glowing icons (a trophy, a coin, a speech-bubble) each fading out one by one, shown as ruled-out factors.",
+  "start": 83.492,
+  "end": 93.533,
+  "words": [
+   {
+    "word": "y",
+    "start": 83.706,
+    "end": 83.756
+   },
+   {
+    "word": "descubrió",
+    "start": 83.756,
+    "end": 84.331
+   },
+   {
+    "word": "algo",
+    "start": 84.331,
+    "end": 84.531
+   },
+   {
+    "word": "contraintuitivo:",
+    "start": 84.531,
+    "end": 85.388
+   },
+   {
+    "word": "el",
+    "start": 85.388,
+    "end": 85.488
+   },
+   {
+    "word": "factor",
+    "start": 85.488,
+    "end": 85.885
+   },
+   {
+    "word": "individual",
+    "start": 85.885,
+    "end": 86.385
+   },
+   {
+    "word": "más",
+    "start": 86.385,
+    "end": 86.534
+   },
+   {
+    "word": "poderoso",
+    "start": 86.534,
+    "end": 86.934
+   },
+   {
+    "word": "para",
+    "start": 86.934,
+    "end": 87.134
+   },
+   {
+    "word": "sentirse",
+    "start": 87.134,
+    "end": 87.608
+   },
+   {
+    "word": "motivado",
+    "start": 87.608,
+    "end": 88.088
+   },
+   {
+    "word": "en",
+    "start": 88.088,
+    "end": 88.188
+   },
+   {
+    "word": "un",
+    "start": 88.188,
+    "end": 88.288
+   },
+   {
+    "word": "día",
+    "start": 88.288,
+    "end": 88.438
+   },
+   {
+    "word": "cualquiera",
+    "start": 88.438,
+    "end": 88.938
+   },
+   {
+    "word": "no",
+    "start": 88.938,
+    "end": 89.037
+   },
+   {
+    "word": "era",
+    "start": 89.037,
+    "end": 89.187
+   },
+   {
+    "word": "el",
+    "start": 89.187,
+    "end": 89.373
+   },
+   {
+    "word": "reconocimiento,",
+    "start": 89.373,
+    "end": 90.456
+   },
+   {
+    "word": "ni",
+    "start": 90.456,
+    "end": 90.556
+   },
+   {
+    "word": "el",
+    "start": 90.556,
+    "end": 91.06
+   },
+   {
+    "word": "dinero,",
+    "start": 91.06,
+    "end": 91.444
+   },
+   {
+    "word": "ni",
+    "start": 91.444,
+    "end": 91.544
+   },
+   {
+    "word": "las",
+    "start": 91.544,
+    "end": 91.694
+   },
+   {
+    "word": "palabras",
+    "start": 91.694,
+    "end": 92.093
+   },
+   {
+    "word": "de",
+    "start": 92.093,
+    "end": 92.193
+   },
+   {
+    "word": "ánimo",
+    "start": 92.193,
+    "end": 92.443
+   },
+   {
+    "word": "de",
+    "start": 92.443,
+    "end": 92.621
+   },
+   {
+    "word": "un",
+    "start": 92.621,
+    "end": 92.72
+   },
+   {
+    "word": "jefe.",
+    "start": 92.72,
+    "end": 92.92
+   }
+  ]
+ },
+ {
+  "id": "S03_F015",
+  "scene": "MODULO 2 - El Progreso Pequeno (Teresa Amabile)",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "Era el progreso visible, aunque fuera diminuto, en un trabajo que a la persona le importaba de verdad.",
+  "visual": "Medium shot of a tiny glowing checkmark appearing on a short task-list, #FF3B78 highlight on it, remaining bright while the three ruled-out icons stay dim in the background.",
+  "start": 93.533,
+  "end": 100.5,
+  "words": [
+   {
+    "word": "Era",
+    "start": 94.146,
+    "end": 94.315
+   },
+   {
+    "word": "el",
+    "start": 94.315,
+    "end": 94.501
+   },
+   {
+    "word": "progreso",
+    "start": 94.501,
+    "end": 94.951
+   },
+   {
+    "word": "visible,",
+    "start": 94.951,
+    "end": 95.345
+   },
+   {
+    "word": "aunque",
+    "start": 95.345,
+    "end": 96.078
+   },
+   {
+    "word": "fuera",
+    "start": 96.078,
+    "end": 96.359
+   },
+   {
+    "word": "diminuto,",
+    "start": 96.359,
+    "end": 96.809
+   },
+   {
+    "word": "en",
+    "start": 96.809,
+    "end": 97.016
+   },
+   {
+    "word": "un",
+    "start": 97.016,
+    "end": 97.534
+   },
+   {
+    "word": "trabajo",
+    "start": 97.534,
+    "end": 97.928
+   },
+   {
+    "word": "que",
+    "start": 97.928,
+    "end": 98.096
+   },
+   {
+    "word": "a",
+    "start": 98.096,
+    "end": 98.226
+   },
+   {
+    "word": "la",
+    "start": 98.226,
+    "end": 98.338
+   },
+   {
+    "word": "persona",
+    "start": 98.338,
+    "end": 98.732
+   },
+   {
+    "word": "le",
+    "start": 98.732,
+    "end": 98.844
+   },
+   {
+    "word": "importaba",
+    "start": 98.844,
+    "end": 99.438
+   },
+   {
+    "word": "de",
+    "start": 99.438,
+    "end": 99.55
+   },
+   {
+    "word": "verdad.",
+    "start": 99.55,
+    "end": 99.887
+   }
+  ]
+ },
+ {
+  "id": "S03_F016",
+  "scene": "MODULO 2 - El Progreso Pequeno (Teresa Amabile)",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Aquí está la clave: un paso pequeño que puedas ver terminado, marcado, tachado de una lista,",
+  "visual": "Wide shot of a stick figure crossing out a small item on a short glowing list with visible satisfaction, the crossed-out mark clean and clear.",
+  "start": 100.5,
+  "end": 107.363,
+  "words": [
+   {
+    "word": "Aquí",
+    "start": 101.112,
+    "end": 101.36
+   },
+   {
+    "word": "está",
+    "start": 101.36,
+    "end": 101.608
+   },
+   {
+    "word": "la",
+    "start": 101.608,
+    "end": 101.732
+   },
+   {
+    "word": "clave:",
+    "start": 101.732,
+    "end": 102.115
+   },
+   {
+    "word": "un",
+    "start": 102.115,
+    "end": 102.624
+   },
+   {
+    "word": "paso",
+    "start": 102.624,
+    "end": 102.873
+   },
+   {
+    "word": "pequeño",
+    "start": 102.873,
+    "end": 103.307
+   },
+   {
+    "word": "que",
+    "start": 103.307,
+    "end": 103.493
+   },
+   {
+    "word": "puedas",
+    "start": 103.493,
+    "end": 103.954
+   },
+   {
+    "word": "ver",
+    "start": 103.954,
+    "end": 104.218
+   },
+   {
+    "word": "terminado,",
+    "start": 104.218,
+    "end": 105.125
+   },
+   {
+    "word": "marcado,",
+    "start": 105.125,
+    "end": 106.076
+   },
+   {
+    "word": "tachado",
+    "start": 106.076,
+    "end": 106.51
+   },
+   {
+    "word": "de",
+    "start": 106.51,
+    "end": 106.634
+   },
+   {
+    "word": "una",
+    "start": 106.634,
+    "end": 106.82
+   },
+   {
+    "word": "lista,",
+    "start": 106.82,
+    "end": 107.13
+   }
+  ]
+ },
+ {
+  "id": "S03_F017",
+  "scene": "MODULO 2 - El Progreso Pequeno (Teresa Amabile)",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "genera más motivación real y duradera que cualquier charla inspiradora que escuches y olvides antes de que termine el día.",
+  "visual": "Medium shot comparing the steady glowing checkmark icon against a fading speech-bubble icon that dims out completely by the end of a small daylight-to-dusk visual cue.",
+  "start": 107.363,
+  "end": 114.584,
+  "words": [
+   {
+    "word": "genera",
+    "start": 107.597,
+    "end": 107.938
+   },
+   {
+    "word": "más",
+    "start": 107.938,
+    "end": 108.109
+   },
+   {
+    "word": "motivación",
+    "start": 108.109,
+    "end": 108.678
+   },
+   {
+    "word": "real",
+    "start": 108.678,
+    "end": 108.906
+   },
+   {
+    "word": "y",
+    "start": 108.906,
+    "end": 108.963
+   },
+   {
+    "word": "duradera",
+    "start": 108.963,
+    "end": 109.418
+   },
+   {
+    "word": "que",
+    "start": 109.418,
+    "end": 109.589
+   },
+   {
+    "word": "cualquier",
+    "start": 109.589,
+    "end": 110.328
+   },
+   {
+    "word": "charla",
+    "start": 110.328,
+    "end": 110.745
+   },
+   {
+    "word": "inspiradora",
+    "start": 110.745,
+    "end": 111.53
+   },
+   {
+    "word": "que",
+    "start": 111.53,
+    "end": 111.806
+   },
+   {
+    "word": "escuches",
+    "start": 111.806,
+    "end": 112.261
+   },
+   {
+    "word": "y",
+    "start": 112.261,
+    "end": 112.318
+   },
+   {
+    "word": "olvides",
+    "start": 112.318,
+    "end": 112.716
+   },
+   {
+    "word": "antes",
+    "start": 112.716,
+    "end": 113.001
+   },
+   {
+    "word": "de",
+    "start": 113.001,
+    "end": 113.114
+   },
+   {
+    "word": "que",
+    "start": 113.114,
+    "end": 113.285
+   },
+   {
+    "word": "termine",
+    "start": 113.285,
+    "end": 113.683
+   },
+   {
+    "word": "el",
+    "start": 113.683,
+    "end": 113.797
+   },
+   {
+    "word": "día.",
+    "start": 113.797,
+    "end": 113.968
+   }
+  ]
+ },
+ {
+  "id": "S04_F018",
+  "scene": "MODULO 3 - Que Hacer en la Practica",
+  "shot_raw": "Text card / title",
+  "shot": "MEDIUM SHOT",
+  "es": "Tercero, qué hacer con esto en la práctica, hoy mismo.",
+  "visual": "Minimal title card, a small glowing ten-minute timer icon in #FF3B78, centered in dark frame.",
+  "start": 114.584,
+  "end": 119.287,
+  "words": [
+   {
+    "word": "Tercero,",
+    "start": 115.201,
+    "end": 115.622
+   },
+   {
+    "word": "qué",
+    "start": 115.622,
+    "end": 116.158
+   },
+   {
+    "word": "hacer",
+    "start": 116.158,
+    "end": 116.459
+   },
+   {
+    "word": "con",
+    "start": 116.459,
+    "end": 116.64
+   },
+   {
+    "word": "esto",
+    "start": 116.64,
+    "end": 116.88
+   },
+   {
+    "word": "en",
+    "start": 116.88,
+    "end": 117.0
+   },
+   {
+    "word": "la",
+    "start": 117.0,
+    "end": 117.121
+   },
+   {
+    "word": "práctica,",
+    "start": 117.121,
+    "end": 118.191
+   },
+   {
+    "word": "hoy",
+    "start": 118.191,
+    "end": 118.371
+   },
+   {
+    "word": "mismo.",
+    "start": 118.371,
+    "end": 118.672
+   }
+  ]
+ },
+ {
+  "id": "S04_F019",
+  "scene": "MODULO 3 - Que Hacer en la Practica",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "Deja de preguntarte \"¿tengo ganas de hacer esto?\" y empieza a preguntarte \"¿cuál es la versión más pequeña posible de esto que puedo terminar en los próximos diez minutos?\".",
+  "visual": "Medium shot of a large question-mark icon labeled by a mood-face shrinking down and being replaced by a small glowing ten-minute timer icon instead.",
+  "start": 119.287,
+  "end": 129.457,
+  "words": [
+   {
+    "word": "Deja",
+    "start": 119.902,
+    "end": 120.122
+   },
+   {
+    "word": "de",
+    "start": 120.122,
+    "end": 120.233
+   },
+   {
+    "word": "preguntarte",
+    "start": 120.233,
+    "end": 120.923
+   },
+   {
+    "word": "\"¿tengo",
+    "start": 120.923,
+    "end": 121.473
+   },
+   {
+    "word": "ganas",
+    "start": 121.473,
+    "end": 121.749
+   },
+   {
+    "word": "de",
+    "start": 121.749,
+    "end": 121.859
+   },
+   {
+    "word": "hacer",
+    "start": 121.859,
+    "end": 122.134
+   },
+   {
+    "word": "esto?\"",
+    "start": 122.134,
+    "end": 122.355
+   },
+   {
+    "word": "y",
+    "start": 122.355,
+    "end": 122.41
+   },
+   {
+    "word": "empieza",
+    "start": 122.41,
+    "end": 123.124
+   },
+   {
+    "word": "a",
+    "start": 123.124,
+    "end": 123.179
+   },
+   {
+    "word": "preguntarte",
+    "start": 123.179,
+    "end": 123.786
+   },
+   {
+    "word": "\"¿cuál",
+    "start": 123.786,
+    "end": 124.244
+   },
+   {
+    "word": "es",
+    "start": 124.244,
+    "end": 124.354
+   },
+   {
+    "word": "la",
+    "start": 124.354,
+    "end": 124.464
+   },
+   {
+    "word": "versión",
+    "start": 124.464,
+    "end": 124.85
+   },
+   {
+    "word": "más",
+    "start": 124.85,
+    "end": 125.015
+   },
+   {
+    "word": "pequeña",
+    "start": 125.015,
+    "end": 125.401
+   },
+   {
+    "word": "posible",
+    "start": 125.401,
+    "end": 125.873
+   },
+   {
+    "word": "de",
+    "start": 125.873,
+    "end": 125.983
+   },
+   {
+    "word": "esto",
+    "start": 125.983,
+    "end": 126.203
+   },
+   {
+    "word": "que",
+    "start": 126.203,
+    "end": 126.442
+   },
+   {
+    "word": "puedo",
+    "start": 126.442,
+    "end": 126.892
+   },
+   {
+    "word": "terminar",
+    "start": 126.892,
+    "end": 127.333
+   },
+   {
+    "word": "en",
+    "start": 127.333,
+    "end": 127.443
+   },
+   {
+    "word": "los",
+    "start": 127.443,
+    "end": 127.71
+   },
+   {
+    "word": "próximos",
+    "start": 127.71,
+    "end": 128.151
+   },
+   {
+    "word": "diez",
+    "start": 128.151,
+    "end": 128.371
+   },
+   {
+    "word": "minutos?\".",
+    "start": 128.371,
+    "end": 128.849
+   }
+  ]
+ },
+ {
+  "id": "S04_F020",
+  "scene": "MODULO 3 - Que Hacer en la Practica",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Si quieres escribir, no te preguntes si tienes ganas de escribir un capítulo entero — pregúntate si puedes escribir un párrafo.",
+  "visual": "Wide shot of a large glowing book-chapter icon shrinking down into a single small glowing paragraph icon, same shape family, smaller scale.",
+  "start": 129.457,
+  "end": 137.677,
+  "words": [
+   {
+    "word": "Si",
+    "start": 130.065,
+    "end": 130.175
+   },
+   {
+    "word": "quieres",
+    "start": 130.175,
+    "end": 130.559
+   },
+   {
+    "word": "escribir,",
+    "start": 130.559,
+    "end": 130.998
+   },
+   {
+    "word": "no",
+    "start": 130.998,
+    "end": 131.108
+   },
+   {
+    "word": "te",
+    "start": 131.108,
+    "end": 131.218
+   },
+   {
+    "word": "preguntes",
+    "start": 131.218,
+    "end": 132.109
+   },
+   {
+    "word": "si",
+    "start": 132.109,
+    "end": 132.219
+   },
+   {
+    "word": "tienes",
+    "start": 132.219,
+    "end": 132.548
+   },
+   {
+    "word": "ganas",
+    "start": 132.548,
+    "end": 132.823
+   },
+   {
+    "word": "de",
+    "start": 132.823,
+    "end": 132.933
+   },
+   {
+    "word": "escribir",
+    "start": 132.933,
+    "end": 133.372
+   },
+   {
+    "word": "un",
+    "start": 133.372,
+    "end": 133.482
+   },
+   {
+    "word": "capítulo",
+    "start": 133.482,
+    "end": 133.999
+   },
+   {
+    "word": "entero",
+    "start": 133.999,
+    "end": 134.328
+   },
+   {
+    "word": "—",
+    "start": 134.328,
+    "end": 134.455
+   },
+   {
+    "word": "pregúntate",
+    "start": 134.455,
+    "end": 135.384
+   },
+   {
+    "word": "si",
+    "start": 135.384,
+    "end": 135.494
+   },
+   {
+    "word": "puedes",
+    "start": 135.494,
+    "end": 135.898
+   },
+   {
+    "word": "escribir",
+    "start": 135.898,
+    "end": 136.408
+   },
+   {
+    "word": "un",
+    "start": 136.408,
+    "end": 136.518
+   },
+   {
+    "word": "párrafo.",
+    "start": 136.518,
+    "end": 136.995
+   }
+  ]
+ },
+ {
+  "id": "S04_F021",
+  "scene": "MODULO 3 - Que Hacer en la Practica",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Si quieres entrenar, no te preguntes si tienes ganas de una rutina completa — pregúntate si puedes ponerte la ropa deportiva.",
+  "visual": "Wide shot of a full workout-routine icon shrinking down into a single small glowing gym-clothes icon, same visual logic as the previous frame.",
+  "start": 137.677,
+  "end": 146.209,
+  "words": [
+   {
+    "word": "Si",
+    "start": 138.359,
+    "end": 138.473
+   },
+   {
+    "word": "quieres",
+    "start": 138.473,
+    "end": 138.873
+   },
+   {
+    "word": "entrenar,",
+    "start": 138.873,
+    "end": 139.33
+   },
+   {
+    "word": "no",
+    "start": 139.33,
+    "end": 139.444
+   },
+   {
+    "word": "te",
+    "start": 139.444,
+    "end": 139.976
+   },
+   {
+    "word": "preguntes",
+    "start": 139.976,
+    "end": 140.49
+   },
+   {
+    "word": "si",
+    "start": 140.49,
+    "end": 140.604
+   },
+   {
+    "word": "tienes",
+    "start": 140.604,
+    "end": 140.947
+   },
+   {
+    "word": "ganas",
+    "start": 140.947,
+    "end": 141.232
+   },
+   {
+    "word": "de",
+    "start": 141.232,
+    "end": 141.346
+   },
+   {
+    "word": "una",
+    "start": 141.346,
+    "end": 141.518
+   },
+   {
+    "word": "rutina",
+    "start": 141.518,
+    "end": 141.86
+   },
+   {
+    "word": "completa",
+    "start": 141.86,
+    "end": 142.317
+   },
+   {
+    "word": "—",
+    "start": 142.317,
+    "end": 142.374
+   },
+   {
+    "word": "pregúntate",
+    "start": 142.374,
+    "end": 143.393
+   },
+   {
+    "word": "si",
+    "start": 143.393,
+    "end": 143.507
+   },
+   {
+    "word": "puedes",
+    "start": 143.507,
+    "end": 143.925
+   },
+   {
+    "word": "ponerte",
+    "start": 143.925,
+    "end": 144.479
+   },
+   {
+    "word": "la",
+    "start": 144.479,
+    "end": 144.593
+   },
+   {
+    "word": "ropa",
+    "start": 144.593,
+    "end": 144.821
+   },
+   {
+    "word": "deportiva.",
+    "start": 144.821,
+    "end": 145.59
+   }
+  ]
+ },
+ {
+  "id": "S04_F022",
+  "scene": "MODULO 3 - Que Hacer en la Practica",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "No se trata de completar el proyecto completo de una sola vez. Se trata de crear un progreso visible, por mínimo que sea,",
+  "visual": "Medium shot of the small paragraph/gym-clothes icons from before now marked with a glowing checkmark in #FF3B78, small but complete and visible.",
+  "start": 146.209,
+  "end": 154.942,
+  "words": [
+   {
+    "word": "No",
+    "start": 146.827,
+    "end": 146.952
+   },
+   {
+    "word": "se",
+    "start": 146.952,
+    "end": 147.077
+   },
+   {
+    "word": "trata",
+    "start": 147.077,
+    "end": 147.389
+   },
+   {
+    "word": "de",
+    "start": 147.389,
+    "end": 147.514
+   },
+   {
+    "word": "completar",
+    "start": 147.514,
+    "end": 148.076
+   },
+   {
+    "word": "el",
+    "start": 148.076,
+    "end": 148.281
+   },
+   {
+    "word": "proyecto",
+    "start": 148.281,
+    "end": 148.886
+   },
+   {
+    "word": "completo",
+    "start": 148.886,
+    "end": 149.385
+   },
+   {
+    "word": "de",
+    "start": 149.385,
+    "end": 149.51
+   },
+   {
+    "word": "una",
+    "start": 149.51,
+    "end": 149.697
+   },
+   {
+    "word": "sola",
+    "start": 149.697,
+    "end": 149.947
+   },
+   {
+    "word": "vez.",
+    "start": 149.947,
+    "end": 150.134
+   },
+   {
+    "word": "Se",
+    "start": 150.134,
+    "end": 151.494
+   },
+   {
+    "word": "trata",
+    "start": 151.494,
+    "end": 151.806
+   },
+   {
+    "word": "de",
+    "start": 151.806,
+    "end": 151.931
+   },
+   {
+    "word": "crear",
+    "start": 151.931,
+    "end": 152.243
+   },
+   {
+    "word": "un",
+    "start": 152.243,
+    "end": 152.368
+   },
+   {
+    "word": "progreso",
+    "start": 152.368,
+    "end": 152.868
+   },
+   {
+    "word": "visible,",
+    "start": 152.868,
+    "end": 153.305
+   },
+   {
+    "word": "por",
+    "start": 153.305,
+    "end": 153.923
+   },
+   {
+    "word": "mínimo",
+    "start": 153.923,
+    "end": 154.37
+   },
+   {
+    "word": "que",
+    "start": 154.37,
+    "end": 154.558
+   },
+   {
+    "word": "sea,",
+    "start": 154.558,
+    "end": 154.745
+   }
+  ]
+ },
+ {
+  "id": "S04_F023",
+  "scene": "MODULO 3 - Que Hacer en la Practica",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "para que tu cerebro reciba la señal de que algo ya se está moviendo.",
+  "visual": "Wide shot of the simplified brain icon receiving a small glowing pulse signal from the checkmark, lighting up gently in response.",
+  "start": 154.942,
+  "end": 159.028,
+  "words": [
+   {
+    "word": "para",
+    "start": 155.138,
+    "end": 155.371
+   },
+   {
+    "word": "que",
+    "start": 155.371,
+    "end": 155.546
+   },
+   {
+    "word": "tu",
+    "start": 155.546,
+    "end": 155.662
+   },
+   {
+    "word": "cerebro",
+    "start": 155.662,
+    "end": 156.07
+   },
+   {
+    "word": "reciba",
+    "start": 156.07,
+    "end": 156.42
+   },
+   {
+    "word": "la",
+    "start": 156.42,
+    "end": 156.537
+   },
+   {
+    "word": "señal",
+    "start": 156.537,
+    "end": 156.828
+   },
+   {
+    "word": "de",
+    "start": 156.828,
+    "end": 156.945
+   },
+   {
+    "word": "que",
+    "start": 156.945,
+    "end": 157.197
+   },
+   {
+    "word": "algo",
+    "start": 157.197,
+    "end": 157.431
+   },
+   {
+    "word": "ya",
+    "start": 157.431,
+    "end": 157.547
+   },
+   {
+    "word": "se",
+    "start": 157.547,
+    "end": 157.664
+   },
+   {
+    "word": "está",
+    "start": 157.664,
+    "end": 157.897
+   },
+   {
+    "word": "moviendo.",
+    "start": 157.897,
+    "end": 158.363
+   }
+  ]
+ },
+ {
+  "id": "S04_F024",
+  "scene": "MODULO 3 - Que Hacer en la Practica",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Esto es lo que nadie te dice: la motivación no es un interruptor que se enciende antes de trabajar. Es un efecto secundario del trabajo mismo, una vez que ya empezó, no una condición previa para poder empezar.",
+  "visual": "Wide shot of a switch/interrupter icon shown crossed out entirely, replaced by the footprint-then-spark sequence from Módulo 1 reappearing clearly.",
+  "start": 159.028,
+  "end": 173.27,
+  "words": [
+   {
+    "word": "Esto",
+    "start": 159.692,
+    "end": 159.926
+   },
+   {
+    "word": "es",
+    "start": 159.926,
+    "end": 160.043
+   },
+   {
+    "word": "lo",
+    "start": 160.043,
+    "end": 160.159
+   },
+   {
+    "word": "que",
+    "start": 160.159,
+    "end": 160.335
+   },
+   {
+    "word": "nadie",
+    "start": 160.335,
+    "end": 160.627
+   },
+   {
+    "word": "te",
+    "start": 160.627,
+    "end": 160.744
+   },
+   {
+    "word": "dice:",
+    "start": 160.744,
+    "end": 160.977
+   },
+   {
+    "word": "la",
+    "start": 160.977,
+    "end": 161.094
+   },
+   {
+    "word": "motivación",
+    "start": 161.094,
+    "end": 162.133
+   },
+   {
+    "word": "no",
+    "start": 162.133,
+    "end": 162.25
+   },
+   {
+    "word": "es",
+    "start": 162.25,
+    "end": 162.366
+   },
+   {
+    "word": "un",
+    "start": 162.366,
+    "end": 162.483
+   },
+   {
+    "word": "interruptor",
+    "start": 162.483,
+    "end": 163.246
+   },
+   {
+    "word": "que",
+    "start": 163.246,
+    "end": 163.496
+   },
+   {
+    "word": "se",
+    "start": 163.496,
+    "end": 163.613
+   },
+   {
+    "word": "enciende",
+    "start": 163.613,
+    "end": 164.081
+   },
+   {
+    "word": "antes",
+    "start": 164.081,
+    "end": 164.373
+   },
+   {
+    "word": "de",
+    "start": 164.373,
+    "end": 164.49
+   },
+   {
+    "word": "trabajar.",
+    "start": 164.49,
+    "end": 166.214
+   },
+   {
+    "word": "Es",
+    "start": 166.214,
+    "end": 166.331
+   },
+   {
+    "word": "un",
+    "start": 166.331,
+    "end": 166.448
+   },
+   {
+    "word": "efecto",
+    "start": 166.448,
+    "end": 166.889
+   },
+   {
+    "word": "secundario",
+    "start": 166.889,
+    "end": 167.474
+   },
+   {
+    "word": "del",
+    "start": 167.474,
+    "end": 167.729
+   },
+   {
+    "word": "trabajo",
+    "start": 167.729,
+    "end": 168.138
+   },
+   {
+    "word": "mismo,",
+    "start": 168.138,
+    "end": 168.43
+   },
+   {
+    "word": "una",
+    "start": 168.43,
+    "end": 168.979
+   },
+   {
+    "word": "vez",
+    "start": 168.979,
+    "end": 169.155
+   },
+   {
+    "word": "que",
+    "start": 169.155,
+    "end": 169.33
+   },
+   {
+    "word": "ya",
+    "start": 169.33,
+    "end": 169.447
+   },
+   {
+    "word": "empezó,",
+    "start": 169.447,
+    "end": 169.797
+   },
+   {
+    "word": "no",
+    "start": 169.797,
+    "end": 169.914
+   },
+   {
+    "word": "una",
+    "start": 169.914,
+    "end": 170.507
+   },
+   {
+    "word": "condición",
+    "start": 170.507,
+    "end": 171.033
+   },
+   {
+    "word": "previa",
+    "start": 171.033,
+    "end": 171.461
+   },
+   {
+    "word": "para",
+    "start": 171.461,
+    "end": 171.769
+   },
+   {
+    "word": "poder",
+    "start": 171.769,
+    "end": 172.158
+   },
+   {
+    "word": "empezar.",
+    "start": 172.158,
+    "end": 172.639
+   }
+  ]
+ },
+ {
+  "id": "S05_F025",
+  "scene": "MODULO 4 - La Trampa de Buscar Motivacion",
+  "shot_raw": "Text card / title",
+  "shot": "MEDIUM SHOT",
+  "es": "Y cuarto, la razón por la que \"buscar motivación\" te mantiene atascado.",
+  "visual": "Minimal title card, a phone icon glowing with a looping video-reel motif, stuck in a repeating circular motion.",
+  "start": 173.27,
+  "end": 179.178,
+  "words": [
+   {
+    "word": "Y",
+    "start": 173.901,
+    "end": 173.963
+   },
+   {
+    "word": "cuarto,",
+    "start": 173.963,
+    "end": 174.919
+   },
+   {
+    "word": "la",
+    "start": 174.919,
+    "end": 175.042
+   },
+   {
+    "word": "razón",
+    "start": 175.042,
+    "end": 175.351
+   },
+   {
+    "word": "por",
+    "start": 175.351,
+    "end": 175.607
+   },
+   {
+    "word": "la",
+    "start": 175.607,
+    "end": 175.73
+   },
+   {
+    "word": "que",
+    "start": 175.73,
+    "end": 175.916
+   },
+   {
+    "word": "\"buscar",
+    "start": 175.916,
+    "end": 176.465
+   },
+   {
+    "word": "motivación\"",
+    "start": 176.465,
+    "end": 177.156
+   },
+   {
+    "word": "te",
+    "start": 177.156,
+    "end": 177.279
+   },
+   {
+    "word": "mantiene",
+    "start": 177.279,
+    "end": 178.066
+   },
+   {
+    "word": "atascado.",
+    "start": 178.066,
+    "end": 178.56
+   }
+  ]
+ },
+ {
+  "id": "S05_F026",
+  "scene": "MODULO 4 - La Trampa de Buscar Motivacion",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "Cada vez que pasas tiempo buscando un video, una frase o una historia que te haga sentir motivado antes de actuar,",
+  "visual": "Medium shot of the stick figure scrolling through a phone showing a looping feed of small glowing quote/video icons, none of them leading anywhere.",
+  "start": 179.178,
+  "end": 186.127,
+  "words": [
+   {
+    "word": "Cada",
+    "start": 179.796,
+    "end": 180.033
+   },
+   {
+    "word": "vez",
+    "start": 180.033,
+    "end": 180.211
+   },
+   {
+    "word": "que",
+    "start": 180.211,
+    "end": 180.478
+   },
+   {
+    "word": "pasas",
+    "start": 180.478,
+    "end": 180.775
+   },
+   {
+    "word": "tiempo",
+    "start": 180.775,
+    "end": 181.13
+   },
+   {
+    "word": "buscando",
+    "start": 181.13,
+    "end": 181.605
+   },
+   {
+    "word": "un",
+    "start": 181.605,
+    "end": 181.723
+   },
+   {
+    "word": "video,",
+    "start": 181.723,
+    "end": 182.382
+   },
+   {
+    "word": "una",
+    "start": 182.382,
+    "end": 182.56
+   },
+   {
+    "word": "frase",
+    "start": 182.56,
+    "end": 182.856
+   },
+   {
+    "word": "o",
+    "start": 182.856,
+    "end": 182.916
+   },
+   {
+    "word": "una",
+    "start": 182.916,
+    "end": 183.094
+   },
+   {
+    "word": "historia",
+    "start": 183.094,
+    "end": 183.643
+   },
+   {
+    "word": "que",
+    "start": 183.643,
+    "end": 183.821
+   },
+   {
+    "word": "te",
+    "start": 183.821,
+    "end": 183.94
+   },
+   {
+    "word": "haga",
+    "start": 183.94,
+    "end": 184.177
+   },
+   {
+    "word": "sentir",
+    "start": 184.177,
+    "end": 184.533
+   },
+   {
+    "word": "motivado",
+    "start": 184.533,
+    "end": 185.007
+   },
+   {
+    "word": "antes",
+    "start": 185.007,
+    "end": 185.304
+   },
+   {
+    "word": "de",
+    "start": 185.304,
+    "end": 185.422
+   },
+   {
+    "word": "actuar,",
+    "start": 185.422,
+    "end": 185.915
+   }
+  ]
+ },
+ {
+  "id": "S05_F027",
+  "scene": "MODULO 4 - La Trampa de Buscar Motivacion",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "estás posponiendo el único paso que realmente genera esa motivación: empezar.",
+  "visual": "Wide shot of the unlit spark icon from the Gancho reappearing, still dark, the stick figure's attention fixed on the phone instead of the footprint path beside them.",
+  "start": 186.127,
+  "end": 191.588,
+  "words": [
+   {
+    "word": "estás",
+    "start": 186.34,
+    "end": 186.699
+   },
+   {
+    "word": "posponiendo",
+    "start": 186.699,
+    "end": 187.422
+   },
+   {
+    "word": "el",
+    "start": 187.422,
+    "end": 187.614
+   },
+   {
+    "word": "único",
+    "start": 187.614,
+    "end": 187.982
+   },
+   {
+    "word": "paso",
+    "start": 187.982,
+    "end": 188.284
+   },
+   {
+    "word": "que",
+    "start": 188.284,
+    "end": 188.457
+   },
+   {
+    "word": "realmente",
+    "start": 188.457,
+    "end": 188.976
+   },
+   {
+    "word": "genera",
+    "start": 188.976,
+    "end": 189.322
+   },
+   {
+    "word": "esa",
+    "start": 189.322,
+    "end": 189.495
+   },
+   {
+    "word": "motivación:",
+    "start": 189.495,
+    "end": 190.47
+   },
+   {
+    "word": "empezar.",
+    "start": 190.47,
+    "end": 190.953
+   }
+  ]
+ },
+ {
+  "id": "S05_F028",
+  "scene": "MODULO 4 - La Trampa de Buscar Motivacion",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "Y esa búsqueda se siente productiva — como si estuvieras avanzando — aunque en realidad solo estés retrasando el momento en que tendrías que enfrentar la incomodidad de dar el primer paso sin sentirte listo.",
+  "visual": "Medium shot of a false progress-bar icon filling up in #FF3B78 while the phone-scrolling continues, but the actual footprint path beside it stays completely unmarked and untouched.",
+  "start": 191.588,
+  "end": 203.785,
+  "words": [
+   {
+    "word": "Y",
+    "start": 192.223,
+    "end": 192.28
+   },
+   {
+    "word": "esa",
+    "start": 192.28,
+    "end": 192.451
+   },
+   {
+    "word": "búsqueda",
+    "start": 192.451,
+    "end": 192.907
+   },
+   {
+    "word": "se",
+    "start": 192.907,
+    "end": 193.021
+   },
+   {
+    "word": "siente",
+    "start": 193.021,
+    "end": 193.363
+   },
+   {
+    "word": "productiva",
+    "start": 193.363,
+    "end": 194.049
+   },
+   {
+    "word": "—",
+    "start": 194.049,
+    "end": 194.106
+   },
+   {
+    "word": "como",
+    "start": 194.106,
+    "end": 194.648
+   },
+   {
+    "word": "si",
+    "start": 194.648,
+    "end": 194.762
+   },
+   {
+    "word": "estuvieras",
+    "start": 194.762,
+    "end": 195.332
+   },
+   {
+    "word": "avanzando",
+    "start": 195.332,
+    "end": 195.845
+   },
+   {
+    "word": "—",
+    "start": 195.845,
+    "end": 195.902
+   },
+   {
+    "word": "aunque",
+    "start": 195.902,
+    "end": 196.663
+   },
+   {
+    "word": "en",
+    "start": 196.663,
+    "end": 196.777
+   },
+   {
+    "word": "realidad",
+    "start": 196.777,
+    "end": 197.233
+   },
+   {
+    "word": "solo",
+    "start": 197.233,
+    "end": 197.461
+   },
+   {
+    "word": "estés",
+    "start": 197.461,
+    "end": 197.746
+   },
+   {
+    "word": "retrasando",
+    "start": 197.746,
+    "end": 198.317
+   },
+   {
+    "word": "el",
+    "start": 198.317,
+    "end": 198.431
+   },
+   {
+    "word": "momento",
+    "start": 198.431,
+    "end": 198.83
+   },
+   {
+    "word": "en",
+    "start": 198.83,
+    "end": 198.944
+   },
+   {
+    "word": "que",
+    "start": 198.944,
+    "end": 199.115
+   },
+   {
+    "word": "tendrías",
+    "start": 199.115,
+    "end": 199.571
+   },
+   {
+    "word": "que",
+    "start": 199.571,
+    "end": 199.742
+   },
+   {
+    "word": "enfrentar",
+    "start": 199.742,
+    "end": 200.255
+   },
+   {
+    "word": "la",
+    "start": 200.255,
+    "end": 200.369
+   },
+   {
+    "word": "incomodidad",
+    "start": 200.369,
+    "end": 200.996
+   },
+   {
+    "word": "de",
+    "start": 200.996,
+    "end": 201.11
+   },
+   {
+    "word": "dar",
+    "start": 201.11,
+    "end": 201.281
+   },
+   {
+    "word": "el",
+    "start": 201.281,
+    "end": 201.473
+   },
+   {
+    "word": "primer",
+    "start": 201.473,
+    "end": 201.933
+   },
+   {
+    "word": "paso",
+    "start": 201.933,
+    "end": 202.161
+   },
+   {
+    "word": "sin",
+    "start": 202.161,
+    "end": 202.332
+   },
+   {
+    "word": "sentirte",
+    "start": 202.332,
+    "end": 202.885
+   },
+   {
+    "word": "listo.",
+    "start": 202.885,
+    "end": 203.17
+   }
+  ]
+ },
+ {
+  "id": "S05_F029",
+  "scene": "MODULO 4 - La Trampa de Buscar Motivacion",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Pero espera, todavía hay más: cuanto más tiempo pasas buscando el sentimiento correcto para empezar, más refuerzas la idea de que necesitas ese sentimiento para poder hacerlo —",
+  "visual": "Wide shot of a growing belief-icon (a thought-bubble with the unlit spark inside it) getting larger and heavier each time the phone-scrolling loop repeats.",
+  "start": 203.785,
+  "end": 214.678,
+  "words": [
+   {
+    "word": "Pero",
+    "start": 204.4,
+    "end": 204.63
+   },
+   {
+    "word": "espera,",
+    "start": 204.63,
+    "end": 205.05
+   },
+   {
+    "word": "todavía",
+    "start": 205.05,
+    "end": 205.823
+   },
+   {
+    "word": "hay",
+    "start": 205.823,
+    "end": 205.995
+   },
+   {
+    "word": "más:",
+    "start": 205.995,
+    "end": 206.168
+   },
+   {
+    "word": "cuanto",
+    "start": 206.168,
+    "end": 206.792
+   },
+   {
+    "word": "más",
+    "start": 206.792,
+    "end": 206.964
+   },
+   {
+    "word": "tiempo",
+    "start": 206.964,
+    "end": 207.31
+   },
+   {
+    "word": "pasas",
+    "start": 207.31,
+    "end": 207.597
+   },
+   {
+    "word": "buscando",
+    "start": 207.597,
+    "end": 208.128
+   },
+   {
+    "word": "el",
+    "start": 208.128,
+    "end": 208.243
+   },
+   {
+    "word": "sentimiento",
+    "start": 208.243,
+    "end": 208.876
+   },
+   {
+    "word": "correcto",
+    "start": 208.876,
+    "end": 209.456
+   },
+   {
+    "word": "para",
+    "start": 209.456,
+    "end": 209.759
+   },
+   {
+    "word": "empezar,",
+    "start": 209.759,
+    "end": 210.728
+   },
+   {
+    "word": "más",
+    "start": 210.728,
+    "end": 210.9
+   },
+   {
+    "word": "refuerzas",
+    "start": 210.9,
+    "end": 211.418
+   },
+   {
+    "word": "la",
+    "start": 211.418,
+    "end": 211.533
+   },
+   {
+    "word": "idea",
+    "start": 211.533,
+    "end": 211.763
+   },
+   {
+    "word": "de",
+    "start": 211.763,
+    "end": 211.878
+   },
+   {
+    "word": "que",
+    "start": 211.878,
+    "end": 212.05
+   },
+   {
+    "word": "necesitas",
+    "start": 212.05,
+    "end": 212.568
+   },
+   {
+    "word": "ese",
+    "start": 212.568,
+    "end": 212.741
+   },
+   {
+    "word": "sentimiento",
+    "start": 212.741,
+    "end": 213.373
+   },
+   {
+    "word": "para",
+    "start": 213.373,
+    "end": 213.678
+   },
+   {
+    "word": "poder",
+    "start": 213.678,
+    "end": 214.088
+   },
+   {
+    "word": "hacerlo",
+    "start": 214.088,
+    "end": 214.49
+   },
+   {
+    "word": "—",
+    "start": 214.49,
+    "end": 214.548
+   }
+  ]
+ },
+ {
+  "id": "S05_F030",
+  "scene": "MODULO 4 - La Trampa de Buscar Motivacion",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "y esa idea es exactamente la que te mantiene esperando indefinidamente, un video motivacional tras otro, sin que nada cambie en tu vida real.",
+  "visual": "Wide shot pulling back to reveal a long unchanged timeline of the stick figure still seated passively, the phone-scrolling loop repeating endlessly beside an untouched goal-icon far in the distance.",
+  "start": 214.678,
+  "end": 223.738,
+  "words": [
+   {
+    "word": "y",
+    "start": 214.809,
+    "end": 214.87
+   },
+   {
+    "word": "esa",
+    "start": 214.87,
+    "end": 215.054
+   },
+   {
+    "word": "idea",
+    "start": 215.054,
+    "end": 215.3
+   },
+   {
+    "word": "es",
+    "start": 215.3,
+    "end": 215.422
+   },
+   {
+    "word": "exactamente",
+    "start": 215.422,
+    "end": 216.207
+   },
+   {
+    "word": "la",
+    "start": 216.207,
+    "end": 216.33
+   },
+   {
+    "word": "que",
+    "start": 216.33,
+    "end": 216.514
+   },
+   {
+    "word": "te",
+    "start": 216.514,
+    "end": 216.636
+   },
+   {
+    "word": "mantiene",
+    "start": 216.636,
+    "end": 217.127
+   },
+   {
+    "word": "esperando",
+    "start": 217.127,
+    "end": 217.751
+   },
+   {
+    "word": "indefinidamente,",
+    "start": 217.751,
+    "end": 219.102
+   },
+   {
+    "word": "un",
+    "start": 219.102,
+    "end": 219.225
+   },
+   {
+    "word": "video",
+    "start": 219.225,
+    "end": 219.532
+   },
+   {
+    "word": "motivacional",
+    "start": 219.532,
+    "end": 220.36
+   },
+   {
+    "word": "tras",
+    "start": 220.36,
+    "end": 220.605
+   },
+   {
+    "word": "otro,",
+    "start": 220.605,
+    "end": 220.925
+   },
+   {
+    "word": "sin",
+    "start": 220.925,
+    "end": 221.522
+   },
+   {
+    "word": "que",
+    "start": 221.522,
+    "end": 221.706
+   },
+   {
+    "word": "nada",
+    "start": 221.706,
+    "end": 221.951
+   },
+   {
+    "word": "cambie",
+    "start": 221.951,
+    "end": 222.319
+   },
+   {
+    "word": "en",
+    "start": 222.319,
+    "end": 222.52
+   },
+   {
+    "word": "tu",
+    "start": 222.52,
+    "end": 222.642
+   },
+   {
+    "word": "vida",
+    "start": 222.642,
+    "end": 222.888
+   },
+   {
+    "word": "real.",
+    "start": 222.888,
+    "end": 223.133
+   }
+  ]
+ },
+ {
+  "id": "S06_F031",
+  "scene": "EL CIERRE",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Deja de buscar motivación. Elige la tarea más pequeña relacionada con lo que quieres lograr, ponle un temporizador de diez minutos,",
+  "visual": "Wide shot of the stick figure putting the phone down and picking up the small ten-minute timer icon instead, #FF3B78 highlight on the timer.",
+  "start": 223.738,
+  "end": 233.091,
+  "words": [
+   {
+    "word": "Deja",
+    "start": 224.342,
+    "end": 224.593
+   },
+   {
+    "word": "de",
+    "start": 224.593,
+    "end": 224.718
+   },
+   {
+    "word": "buscar",
+    "start": 224.718,
+    "end": 225.094
+   },
+   {
+    "word": "motivación.",
+    "start": 225.094,
+    "end": 225.721
+   },
+   {
+    "word": "Elige",
+    "start": 225.721,
+    "end": 227.258
+   },
+   {
+    "word": "la",
+    "start": 227.258,
+    "end": 227.383
+   },
+   {
+    "word": "tarea",
+    "start": 227.383,
+    "end": 227.697
+   },
+   {
+    "word": "más",
+    "start": 227.697,
+    "end": 227.885
+   },
+   {
+    "word": "pequeña",
+    "start": 227.885,
+    "end": 228.395
+   },
+   {
+    "word": "relacionada",
+    "start": 228.395,
+    "end": 229.085
+   },
+   {
+    "word": "con",
+    "start": 229.085,
+    "end": 229.273
+   },
+   {
+    "word": "lo",
+    "start": 229.273,
+    "end": 229.398
+   },
+   {
+    "word": "que",
+    "start": 229.398,
+    "end": 229.586
+   },
+   {
+    "word": "quieres",
+    "start": 229.586,
+    "end": 230.025
+   },
+   {
+    "word": "lograr,",
+    "start": 230.025,
+    "end": 230.401
+   },
+   {
+    "word": "ponle",
+    "start": 230.401,
+    "end": 231.123
+   },
+   {
+    "word": "un",
+    "start": 231.123,
+    "end": 231.248
+   },
+   {
+    "word": "temporizador",
+    "start": 231.248,
+    "end": 232.0
+   },
+   {
+    "word": "de",
+    "start": 232.0,
+    "end": 232.126
+   },
+   {
+    "word": "diez",
+    "start": 232.126,
+    "end": 232.376
+   },
+   {
+    "word": "minutos,",
+    "start": 232.376,
+    "end": 232.908
+   }
+  ]
+ },
+ {
+  "id": "S06_F032",
+  "scene": "EL CIERRE",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "y empieza ahora mismo, sin sentirte listo — la sensación de estar listo, si llega, va a llegar después, como consecuencia de haber empezado, no como requisito para hacerlo.",
+  "visual": "Medium shot of the stick figure taking the first footprint step, the spark icon beginning to glow immediately after, echoing the Módulo 1 sequence one final time.",
+  "start": 233.091,
+  "end": 245.026,
+  "words": [
+   {
+    "word": "y",
+    "start": 233.275,
+    "end": 233.337
+   },
+   {
+    "word": "empieza",
+    "start": 233.337,
+    "end": 233.767
+   },
+   {
+    "word": "ahora",
+    "start": 233.767,
+    "end": 234.075
+   },
+   {
+    "word": "mismo,",
+    "start": 234.075,
+    "end": 234.383
+   },
+   {
+    "word": "sin",
+    "start": 234.383,
+    "end": 234.974
+   },
+   {
+    "word": "sentirte",
+    "start": 234.974,
+    "end": 235.466
+   },
+   {
+    "word": "listo",
+    "start": 235.466,
+    "end": 235.848
+   },
+   {
+    "word": "—",
+    "start": 235.848,
+    "end": 235.91
+   },
+   {
+    "word": "la",
+    "start": 235.91,
+    "end": 236.363
+   },
+   {
+    "word": "sensación",
+    "start": 236.363,
+    "end": 236.917
+   },
+   {
+    "word": "de",
+    "start": 236.917,
+    "end": 237.04
+   },
+   {
+    "word": "estar",
+    "start": 237.04,
+    "end": 237.348
+   },
+   {
+    "word": "listo,",
+    "start": 237.348,
+    "end": 237.655
+   },
+   {
+    "word": "si",
+    "start": 237.655,
+    "end": 237.778
+   },
+   {
+    "word": "llega,",
+    "start": 237.778,
+    "end": 238.488
+   },
+   {
+    "word": "va",
+    "start": 238.488,
+    "end": 238.611
+   },
+   {
+    "word": "a",
+    "start": 238.611,
+    "end": 238.673
+   },
+   {
+    "word": "llegar",
+    "start": 238.673,
+    "end": 239.378
+   },
+   {
+    "word": "después,",
+    "start": 239.378,
+    "end": 239.9
+   },
+   {
+    "word": "como",
+    "start": 239.9,
+    "end": 240.146
+   },
+   {
+    "word": "consecuencia",
+    "start": 240.146,
+    "end": 241.224
+   },
+   {
+    "word": "de",
+    "start": 241.224,
+    "end": 241.347
+   },
+   {
+    "word": "haber",
+    "start": 241.347,
+    "end": 241.655
+   },
+   {
+    "word": "empezado,",
+    "start": 241.655,
+    "end": 242.224
+   },
+   {
+    "word": "no",
+    "start": 242.224,
+    "end": 242.771
+   },
+   {
+    "word": "como",
+    "start": 242.771,
+    "end": 243.102
+   },
+   {
+    "word": "requisito",
+    "start": 243.102,
+    "end": 243.656
+   },
+   {
+    "word": "para",
+    "start": 243.656,
+    "end": 243.98
+   },
+   {
+    "word": "hacerlo.",
+    "start": 243.98,
+    "end": 244.411
+   }
+  ]
+ },
+ {
+  "id": "S06_F033",
+  "scene": "EL CIERRE",
+  "shot_raw": "Direct address",
+  "shot": "MEDIUM SHOT",
+  "es": "Escribe en los comentarios cuál es esa tarea pequeña que vas a hacer en los próximos diez minutos, apenas termines de ver este video.",
+  "visual": "Direct-address medium shot of the stick figure gesturing toward the viewer, a small glowing comment-bubble icon appearing beside the ten-minute timer.",
+  "start": 245.026,
+  "end": 253.758,
+  "words": [
+   {
+    "word": "Escribe",
+    "start": 245.641,
+    "end": 246.073
+   },
+   {
+    "word": "en",
+    "start": 246.073,
+    "end": 246.197
+   },
+   {
+    "word": "los",
+    "start": 246.197,
+    "end": 246.382
+   },
+   {
+    "word": "comentarios",
+    "start": 246.382,
+    "end": 247.135
+   },
+   {
+    "word": "cuál",
+    "start": 247.135,
+    "end": 247.382
+   },
+   {
+    "word": "es",
+    "start": 247.382,
+    "end": 247.506
+   },
+   {
+    "word": "esa",
+    "start": 247.506,
+    "end": 247.691
+   },
+   {
+    "word": "tarea",
+    "start": 247.691,
+    "end": 248.0
+   },
+   {
+    "word": "pequeña",
+    "start": 248.0,
+    "end": 248.519
+   },
+   {
+    "word": "que",
+    "start": 248.519,
+    "end": 248.705
+   },
+   {
+    "word": "vas",
+    "start": 248.705,
+    "end": 248.89
+   },
+   {
+    "word": "a",
+    "start": 248.89,
+    "end": 248.952
+   },
+   {
+    "word": "hacer",
+    "start": 248.952,
+    "end": 249.261
+   },
+   {
+    "word": "en",
+    "start": 249.261,
+    "end": 249.384
+   },
+   {
+    "word": "los",
+    "start": 249.384,
+    "end": 249.651
+   },
+   {
+    "word": "próximos",
+    "start": 249.651,
+    "end": 250.146
+   },
+   {
+    "word": "diez",
+    "start": 250.146,
+    "end": 250.393
+   },
+   {
+    "word": "minutos,",
+    "start": 250.393,
+    "end": 251.39
+   },
+   {
+    "word": "apenas",
+    "start": 251.39,
+    "end": 251.761
+   },
+   {
+    "word": "termines",
+    "start": 251.761,
+    "end": 252.255
+   },
+   {
+    "word": "de",
+    "start": 252.255,
+    "end": 252.379
+   },
+   {
+    "word": "ver",
+    "start": 252.379,
+    "end": 252.564
+   },
+   {
+    "word": "este",
+    "start": 252.564,
+    "end": 252.811
+   },
+   {
+    "word": "video.",
+    "start": 252.811,
+    "end": 253.12
+   }
+  ]
+ },
+ {
+  "id": "S06_F034",
+  "scene": "EL CIERRE",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Si este video te sirvió, dale like y suscríbete — la disciplina no hace ruido, pero tampoco espera a sentir ganas para moverse.",
+  "visual": "Final wide shot of the stick figure walking forward with steady motion, the spark icon glowing brightly and consistently behind them, small subscribe-bell and thumbs-up icons glowing gently in #FF3B78 in the corner.",
+  "start": 253.758,
+  "end": 263.76,
+  "words": [
+   {
+    "word": "Si",
+    "start": 254.396,
+    "end": 254.526
+   },
+   {
+    "word": "este",
+    "start": 254.526,
+    "end": 254.785
+   },
+   {
+    "word": "video",
+    "start": 254.785,
+    "end": 255.11
+   },
+   {
+    "word": "te",
+    "start": 255.11,
+    "end": 255.24
+   },
+   {
+    "word": "sirvió,",
+    "start": 255.24,
+    "end": 255.629
+   },
+   {
+    "word": "dale",
+    "start": 255.629,
+    "end": 255.889
+   },
+   {
+    "word": "like",
+    "start": 255.889,
+    "end": 256.514
+   },
+   {
+    "word": "y",
+    "start": 256.514,
+    "end": 256.579
+   },
+   {
+    "word": "suscríbete",
+    "start": 256.579,
+    "end": 257.376
+   },
+   {
+    "word": "—",
+    "start": 257.376,
+    "end": 257.441
+   },
+   {
+    "word": "la",
+    "start": 257.441,
+    "end": 257.571
+   },
+   {
+    "word": "disciplina",
+    "start": 257.571,
+    "end": 258.814
+   },
+   {
+    "word": "no",
+    "start": 258.814,
+    "end": 258.944
+   },
+   {
+    "word": "hace",
+    "start": 258.944,
+    "end": 259.203
+   },
+   {
+    "word": "ruido,",
+    "start": 259.203,
+    "end": 259.528
+   },
+   {
+    "word": "pero",
+    "start": 259.528,
+    "end": 260.161
+   },
+   {
+    "word": "tampoco",
+    "start": 260.161,
+    "end": 260.696
+   },
+   {
+    "word": "espera",
+    "start": 260.696,
+    "end": 261.167
+   },
+   {
+    "word": "a",
+    "start": 261.167,
+    "end": 261.232
+   },
+   {
+    "word": "sentir",
+    "start": 261.232,
+    "end": 261.622
+   },
+   {
+    "word": "ganas",
+    "start": 261.622,
+    "end": 261.946
+   },
+   {
+    "word": "para",
+    "start": 261.946,
+    "end": 262.206
+   },
+   {
+    "word": "moverse.",
+    "start": 262.206,
+    "end": 262.66
+   }
+  ]
+ }
+]

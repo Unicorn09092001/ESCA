@@ -1,0 +1,739 @@
+1
+00:00:00,268 --> 00:00:01,344
+¿Sabes por qué algunas
+
+2
+00:00:01,344 --> 00:00:02,403
+personas logran en dos
+
+3
+00:00:02,403 --> 00:00:03,015
+horas lo que a
+
+4
+00:00:03,015 --> 00:00:03,795
+otras les toma un
+
+5
+00:00:03,795 --> 00:00:04,296
+día entero?
+
+6
+00:00:05,541 --> 00:00:06,473
+No es que trabajen
+
+7
+00:00:06,473 --> 00:00:07,546
+más rápido,
+
+8
+00:00:07,546 --> 00:00:09,114
+ni que sean más inteligentes.
+
+9
+00:00:10,341 --> 00:00:11,375
+Es que protegen algo
+
+10
+00:00:11,375 --> 00:00:12,682
+que casi nadie protege:
+
+11
+00:00:13,087 --> 00:00:14,277
+una franja exacta del
+
+12
+00:00:14,277 --> 00:00:14,875
+día en la que
+
+13
+00:00:14,875 --> 00:00:15,783
+su mente rinde al
+
+14
+00:00:15,783 --> 00:00:16,929
+máximo, y todo lo
+
+15
+00:00:16,929 --> 00:00:18,025
+demás espera afuera.
+
+16
+00:00:19,251 --> 00:00:20,294
+Hoy te explico la
+
+17
+00:00:20,294 --> 00:00:21,056
+regla de las 2
+
+18
+00:00:21,056 --> 00:00:22,662
+horas — una sola franja
+
+19
+00:00:22,662 --> 00:00:23,465
+del día,
+
+20
+00:00:23,465 --> 00:00:24,643
+elegida con ciencia,
+
+21
+00:00:24,643 --> 00:00:26,086
+no con motivación.
+
+22
+00:00:27,309 --> 00:00:28,171
+Vas a entender por
+
+23
+00:00:28,171 --> 00:00:29,303
+qué existe un límite
+
+24
+00:00:29,303 --> 00:00:30,471
+real a cuánto puedes
+
+25
+00:00:30,471 --> 00:00:31,390
+rendir de verdad en
+
+26
+00:00:31,390 --> 00:00:31,677
+un día,
+
+27
+00:00:32,112 --> 00:00:32,885
+por qué esas dos
+
+28
+00:00:32,885 --> 00:00:33,926
+horas deben ser las
+
+29
+00:00:33,926 --> 00:00:35,251
+primeras y no las últimas,
+
+30
+00:00:35,553 --> 00:00:36,668
+y cómo protegerlas de
+
+31
+00:00:36,668 --> 00:00:37,978
+todo lo que normalmente
+
+32
+00:00:37,978 --> 00:00:38,956
+las destruye sin que
+
+33
+00:00:38,956 --> 00:00:39,666
+te des cuenta.
+
+34
+00:00:40,867 --> 00:00:42,470
+Primero, el límite real.
+
+35
+00:00:43,756 --> 00:00:44,873
+El científico de la
+
+36
+00:00:44,873 --> 00:00:46,917
+computación Cal Newport,
+
+37
+00:00:46,917 --> 00:00:48,118
+en su libro "Deep Work",
+
+38
+00:00:48,672 --> 00:00:50,183
+explica algo que contradice
+
+39
+00:00:50,183 --> 00:00:51,150
+la cultura de las
+
+40
+00:00:51,150 --> 00:00:52,170
+diez horas de trabajo:
+
+41
+00:00:52,682 --> 00:00:53,482
+la mayoría de las
+
+42
+00:00:53,482 --> 00:00:55,075
+personas solo puede sostener
+
+43
+00:00:55,075 --> 00:00:56,068
+entre una y cuatro
+
+44
+00:00:56,068 --> 00:00:57,407
+horas de trabajo profundo
+
+45
+00:00:57,759 --> 00:00:58,356
+— el tipo de
+
+46
+00:00:58,356 --> 00:01:00,415
+concentración que produce resultados
+
+47
+00:01:00,415 --> 00:01:01,781
+que realmente importan —
+
+48
+00:01:02,165 --> 00:01:02,950
+antes de que la
+
+49
+00:01:02,950 --> 00:01:03,937
+calidad se desplome.
+
+50
+00:01:05,143 --> 00:01:06,404
+Presta atención a esto:
+
+51
+00:01:06,404 --> 00:01:07,481
+no se trata de
+
+52
+00:01:07,481 --> 00:01:08,586
+fuerza de voluntad.
+
+53
+00:01:09,809 --> 00:01:11,068
+Es un límite cognitivo
+
+54
+00:01:11,068 --> 00:01:12,244
+real, como el de
+
+55
+00:01:12,244 --> 00:01:13,567
+un músculo que se fatiga.
+
+56
+00:01:14,783 --> 00:01:15,560
+Y aquí está la
+
+57
+00:01:15,560 --> 00:01:17,086
+clave: si ese límite
+
+58
+00:01:17,086 --> 00:01:18,509
+existe de todas formas,
+
+59
+00:01:18,977 --> 00:01:20,600
+la única pregunta inteligente
+
+60
+00:01:20,600 --> 00:01:21,436
+es en qué momento
+
+61
+00:01:21,436 --> 00:01:22,092
+del día lo vas
+
+62
+00:01:22,092 --> 00:01:22,510
+a gastar.
+
+63
+00:01:23,769 --> 00:01:25,302
+Segundo, por qué las
+
+64
+00:01:25,302 --> 00:01:26,746
+primeras dos horas,
+
+65
+00:01:26,746 --> 00:01:27,668
+y no las últimas.
+
+66
+00:01:28,887 --> 00:01:30,986
+El escritor Daniel Pink,
+
+67
+00:01:30,986 --> 00:01:32,291
+en su libro "When",
+
+68
+00:01:32,291 --> 00:01:33,799
+analizó datos de miles
+
+69
+00:01:33,799 --> 00:01:34,593
+de personas
+
+70
+00:01:34,674 --> 00:01:35,485
+y encontró un patrón
+
+71
+00:01:35,485 --> 00:01:37,095
+consistente: para la mayoría,
+
+72
+00:01:37,514 --> 00:01:39,456
+el rendimiento analítico —
+
+73
+00:01:39,456 --> 00:01:40,937
+el que exige enfoque,
+
+74
+00:01:40,937 --> 00:01:43,200
+lógica, resolución de problemas —
+
+75
+00:01:43,562 --> 00:01:44,579
+alcanza su punto más
+
+76
+00:01:44,579 --> 00:01:45,660
+alto en las primeras
+
+77
+00:01:45,660 --> 00:01:47,206
+horas después de despertar,
+
+78
+00:01:47,471 --> 00:01:48,646
+y luego cae durante
+
+79
+00:01:48,646 --> 00:01:49,459
+el resto del día.
+
+80
+00:01:50,689 --> 00:01:51,293
+Esto es lo que
+
+81
+00:01:51,293 --> 00:01:51,897
+nadie te dice:
+
+82
+00:01:51,897 --> 00:01:52,777
+no es que te
+
+83
+00:01:52,777 --> 00:01:54,384
+vuelvas perezoso por la tarde.
+
+84
+00:01:55,747 --> 00:01:56,627
+Es que ya gastaste
+
+85
+00:01:56,627 --> 00:01:57,987
+tu mejor capacidad mental
+
+86
+00:01:57,987 --> 00:01:58,515
+en correos,
+
+87
+00:01:58,515 --> 00:02:00,843
+notificaciones y decisiones pequeñas
+
+88
+00:02:00,914 --> 00:02:02,454
+antes de siquiera empezar
+
+89
+00:02:02,454 --> 00:02:03,437
+lo importante.
+
+90
+00:02:04,676 --> 00:02:05,709
+Aquí está la clave:
+
+91
+00:02:05,709 --> 00:02:06,933
+la regla de las
+
+92
+00:02:06,933 --> 00:02:07,760
+2 horas no dice
+
+93
+00:02:07,760 --> 00:02:09,167
+"trabaja dos horas".
+
+94
+00:02:10,369 --> 00:02:11,615
+Dice "usa tus primeras
+
+95
+00:02:11,615 --> 00:02:12,464
+dos horas de mente
+
+96
+00:02:12,464 --> 00:02:13,541
+clara para lo único
+
+97
+00:02:13,541 --> 00:02:15,058
+que de verdad importa hoy —
+
+98
+00:02:15,389 --> 00:02:16,070
+antes de que el
+
+99
+00:02:16,070 --> 00:02:16,751
+día te las robe".
+
+100
+00:02:18,022 --> 00:02:19,891
+Tercero, cómo proteger esas
+
+101
+00:02:19,891 --> 00:02:20,414
+dos horas,
+
+102
+00:02:20,414 --> 00:02:22,765
+porque decidirlo no es suficiente.
+
+103
+00:02:24,003 --> 00:02:25,101
+Elige una sola tarea,
+
+104
+00:02:25,101 --> 00:02:26,616
+la más importante,
+
+105
+00:02:26,616 --> 00:02:28,081
+la noche anterior —
+
+106
+00:02:28,460 --> 00:02:29,160
+no en la mañana,
+
+107
+00:02:29,160 --> 00:02:30,670
+cuando ya estás cansado
+
+108
+00:02:30,670 --> 00:02:31,195
+de decidir.
+
+109
+00:02:32,437 --> 00:02:33,404
+Pon el teléfono en
+
+110
+00:02:33,404 --> 00:02:34,218
+otra habitación,
+
+111
+00:02:34,218 --> 00:02:35,526
+no en modo silencio
+
+112
+00:02:35,526 --> 00:02:36,670
+sobre tu escritorio,
+
+113
+00:02:37,132 --> 00:02:38,409
+porque incluso verlo ahí
+
+114
+00:02:38,409 --> 00:02:40,428
+reduce tu capacidad de concentración.
+
+115
+00:02:41,638 --> 00:02:42,193
+Y esto es lo
+
+116
+00:02:42,193 --> 00:02:43,509
+que cambia todo:
+
+117
+00:02:43,509 --> 00:02:44,433
+no revises correo,
+
+118
+00:02:44,433 --> 00:02:46,066
+mensajes ni redes hasta
+
+119
+00:02:46,066 --> 00:02:47,272
+que termine el bloque,
+
+120
+00:02:47,672 --> 00:02:48,630
+aunque solo sea un
+
+121
+00:02:48,630 --> 00:02:49,906
+vistazo rápido —
+
+122
+00:02:49,906 --> 00:02:51,480
+un vistazo rápido no existe,
+
+123
+00:02:51,881 --> 00:02:53,178
+siempre te cuesta minutos
+
+124
+00:02:53,178 --> 00:02:54,576
+de recuperación después.
+
+125
+00:02:55,796 --> 00:02:56,479
+Pero espera,
+
+126
+00:02:56,479 --> 00:02:57,626
+todavía hay más:
+
+127
+00:02:57,626 --> 00:02:59,450
+cierra también las pestañas
+
+128
+00:02:59,450 --> 00:03:01,089
+del navegador que no necesitas
+
+129
+00:03:01,181 --> 00:03:02,677
+para esa tarea específica.
+
+130
+00:03:03,892 --> 00:03:04,850
+Cada pestaña abierta es
+
+131
+00:03:04,850 --> 00:03:06,413
+una decisión pendiente compitiendo
+
+132
+00:03:06,413 --> 00:03:07,306
+por el mismo espacio
+
+133
+00:03:07,306 --> 00:03:08,050
+mental limitado
+
+134
+00:03:08,125 --> 00:03:09,702
+del que hablaba Newport.
+
+135
+00:03:11,042 --> 00:03:12,632
+Cuarto, qué pasa cuando
+
+136
+00:03:12,632 --> 00:03:13,492
+no las proteges.
+
+137
+00:03:14,728 --> 00:03:15,771
+Empiezas el día revisando
+
+138
+00:03:15,771 --> 00:03:16,516
+el teléfono en la
+
+139
+00:03:16,516 --> 00:03:18,209
+cama, respondes tres mensajes,
+
+140
+00:03:18,209 --> 00:03:19,252
+revisas una notificación,
+
+141
+00:03:19,689 --> 00:03:20,489
+y para cuando te
+
+142
+00:03:20,489 --> 00:03:21,802
+sientas a trabajar,
+
+143
+00:03:21,802 --> 00:03:23,052
+ya gastaste una parte
+
+144
+00:03:23,052 --> 00:03:24,907
+de esas dos horas doradas
+
+145
+00:03:24,999 --> 00:03:27,890
+en decisiones que no importaban.
+
+146
+00:03:29,114 --> 00:03:30,271
+Presta atención a esto:
+
+147
+00:03:30,271 --> 00:03:31,506
+el problema no es
+
+148
+00:03:31,506 --> 00:03:32,541
+la cantidad de horas
+
+149
+00:03:32,541 --> 00:03:33,806
+que trabajas después.
+
+150
+00:03:35,012 --> 00:03:35,838
+Es que ya usaste
+
+151
+00:03:35,838 --> 00:03:37,313
+tu mejor capacidad mental
+
+152
+00:03:37,313 --> 00:03:38,202
+en lo más trivial
+
+153
+00:03:38,202 --> 00:03:38,583
+del día,
+
+154
+00:03:38,947 --> 00:03:39,398
+y lo que te
+
+155
+00:03:39,398 --> 00:03:40,738
+queda para lo importante
+
+156
+00:03:40,738 --> 00:03:41,753
+es la versión cansada
+
+157
+00:03:41,753 --> 00:03:42,441
+de tu mente,
+
+158
+00:03:42,441 --> 00:03:44,031
+no la versión completa.
+
+159
+00:03:45,273 --> 00:03:46,275
+El resultado no es
+
+160
+00:03:46,275 --> 00:03:47,317
+que trabajes menos —
+
+161
+00:03:47,317 --> 00:03:48,857
+es que trabajas muchas
+
+162
+00:03:48,857 --> 00:03:50,356
+horas sintiéndote ocupado,
+
+163
+00:03:50,713 --> 00:03:51,800
+sin avanzar realmente en
+
+164
+00:03:51,800 --> 00:03:53,129
+lo que de verdad importa.
+
+165
+00:03:54,328 --> 00:03:55,020
+La regla de las
+
+166
+00:03:55,020 --> 00:03:55,596
+2 horas no es
+
+167
+00:03:55,596 --> 00:03:57,057
+sobre disciplina extrema ni
+
+168
+00:03:57,057 --> 00:03:58,409
+sobre madrugar como monje.
+
+169
+00:03:59,773 --> 00:04:01,022
+Es sobre reconocer que
+
+170
+00:04:01,022 --> 00:04:01,890
+tu mente tiene un
+
+171
+00:04:01,890 --> 00:04:03,409
+momento de máxima claridad
+
+172
+00:04:03,409 --> 00:04:03,843
+cada día,
+
+173
+00:04:04,178 --> 00:04:04,690
+y decidir,
+
+174
+00:04:04,690 --> 00:04:06,162
+de forma deliberada,
+
+175
+00:04:06,162 --> 00:04:08,200
+qué merece recibirlo primero.
+
+176
+00:04:09,514 --> 00:04:10,368
+Empieza mañana:
+
+177
+00:04:10,368 --> 00:04:11,936
+elige esa tarea esta
+
+178
+00:04:11,936 --> 00:04:13,533
+noche, protege las dos
+
+179
+00:04:13,533 --> 00:04:15,401
+horas, y mira cuánto cambia.
+
+180
+00:04:16,635 --> 00:04:17,578
+Si este video te
+
+181
+00:04:17,578 --> 00:04:20,071
+sirvió, dale like y suscríbete —
+
+182
+00:04:20,494 --> 00:04:21,602
+la disciplina no hace
+
+183
+00:04:21,602 --> 00:04:23,026
+ruido, ni siquiera en
+
+184
+00:04:23,026 --> 00:04:23,827
+las dos horas más
+
+185
+00:04:23,827 --> 00:04:24,928
+silenciosas de tu día.

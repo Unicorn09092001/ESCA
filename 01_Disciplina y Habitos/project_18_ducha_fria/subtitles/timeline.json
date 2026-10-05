@@ -1,0 +1,3673 @@
+[
+ {
+  "id": "S01_F001",
+  "scene": "EL GANCHO",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Esto no es sobre agua fría.",
+  "visual": "Wide shot of a stick figure standing in a dark space, a faint shower-stream icon barely visible in the background, deliberately understated.",
+  "start": 0.0,
+  "end": 2.268,
+  "words": [
+   {
+    "word": "Esto",
+    "start": 0.251,
+    "end": 0.52
+   },
+   {
+    "word": "no",
+    "start": 0.52,
+    "end": 0.655
+   },
+   {
+    "word": "es",
+    "start": 0.655,
+    "end": 0.789
+   },
+   {
+    "word": "sobre",
+    "start": 0.789,
+    "end": 1.125
+   },
+   {
+    "word": "agua",
+    "start": 1.125,
+    "end": 1.394
+   },
+   {
+    "word": "fría.",
+    "start": 1.394,
+    "end": 1.663
+   }
+  ]
+ },
+ {
+  "id": "S01_F002",
+  "scene": "EL GANCHO",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "Es sobre lo que pasa en tu cerebro los primeros treinta segundos después de que decides hacer algo incómodo a propósito,",
+  "visual": "Medium shot of the simplified brain icon lighting up gently, a small glowing thirty-second timer icon appearing beside it.",
+  "start": 2.268,
+  "end": 9.15,
+  "words": [
+   {
+    "word": "Es",
+    "start": 2.874,
+    "end": 2.983
+   },
+   {
+    "word": "sobre",
+    "start": 2.983,
+    "end": 3.254
+   },
+   {
+    "word": "lo",
+    "start": 3.254,
+    "end": 3.362
+   },
+   {
+    "word": "que",
+    "start": 3.362,
+    "end": 3.525
+   },
+   {
+    "word": "pasa",
+    "start": 3.525,
+    "end": 3.817
+   },
+   {
+    "word": "en",
+    "start": 3.817,
+    "end": 3.925
+   },
+   {
+    "word": "tu",
+    "start": 3.925,
+    "end": 4.104
+   },
+   {
+    "word": "cerebro",
+    "start": 4.104,
+    "end": 4.483
+   },
+   {
+    "word": "los",
+    "start": 4.483,
+    "end": 4.646
+   },
+   {
+    "word": "primeros",
+    "start": 4.646,
+    "end": 5.175
+   },
+   {
+    "word": "treinta",
+    "start": 5.175,
+    "end": 5.554
+   },
+   {
+    "word": "segundos",
+    "start": 5.554,
+    "end": 5.988
+   },
+   {
+    "word": "después",
+    "start": 5.988,
+    "end": 6.459
+   },
+   {
+    "word": "de",
+    "start": 6.459,
+    "end": 6.567
+   },
+   {
+    "word": "que",
+    "start": 6.567,
+    "end": 6.73
+   },
+   {
+    "word": "decides",
+    "start": 6.73,
+    "end": 7.109
+   },
+   {
+    "word": "hacer",
+    "start": 7.109,
+    "end": 7.38
+   },
+   {
+    "word": "algo",
+    "start": 7.38,
+    "end": 7.597
+   },
+   {
+    "word": "incómodo",
+    "start": 7.597,
+    "end": 8.11
+   },
+   {
+    "word": "a",
+    "start": 8.11,
+    "end": 8.164
+   },
+   {
+    "word": "propósito,",
+    "start": 8.164,
+    "end": 8.927
+   }
+  ]
+ },
+ {
+  "id": "S01_F003",
+  "scene": "EL GANCHO",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "sin que nadie te obligue y sin ninguna recompensa inmediata visible,",
+  "visual": "Wide shot of the stick figure standing alone, no external figures or reward icons present, emphasizing the decision is entirely self-directed.",
+  "start": 9.15,
+  "end": 13.174,
+  "words": [
+   {
+    "word": "sin",
+    "start": 9.372,
+    "end": 9.555
+   },
+   {
+    "word": "que",
+    "start": 9.555,
+    "end": 9.738
+   },
+   {
+    "word": "nadie",
+    "start": 9.738,
+    "end": 10.043
+   },
+   {
+    "word": "te",
+    "start": 10.043,
+    "end": 10.165
+   },
+   {
+    "word": "obligue",
+    "start": 10.165,
+    "end": 10.592
+   },
+   {
+    "word": "y",
+    "start": 10.592,
+    "end": 10.653
+   },
+   {
+    "word": "sin",
+    "start": 10.653,
+    "end": 10.836
+   },
+   {
+    "word": "ninguna",
+    "start": 10.836,
+    "end": 11.263
+   },
+   {
+    "word": "recompensa",
+    "start": 11.263,
+    "end": 11.967
+   },
+   {
+    "word": "inmediata",
+    "start": 11.967,
+    "end": 12.591
+   },
+   {
+    "word": "visible,",
+    "start": 12.591,
+    "end": 13.018
+   }
+  ]
+ },
+ {
+  "id": "S01_F004",
+  "scene": "EL GANCHO",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "y por qué ese mecanismo específico entrena tu disciplina más que casi cualquier otra cosa que hagas en el día.",
+  "visual": "Medium shot of a small glowing gear/training icon in #FF5A36 turning steadily beside the stick figure, suggesting an internal mechanism being trained.",
+  "start": 13.174,
+  "end": 19.639,
+  "words": [
+   {
+    "word": "y",
+    "start": 13.331,
+    "end": 13.386
+   },
+   {
+    "word": "por",
+    "start": 13.386,
+    "end": 13.705
+   },
+   {
+    "word": "qué",
+    "start": 13.705,
+    "end": 13.871
+   },
+   {
+    "word": "ese",
+    "start": 13.871,
+    "end": 14.037
+   },
+   {
+    "word": "mecanismo",
+    "start": 14.037,
+    "end": 14.534
+   },
+   {
+    "word": "específico",
+    "start": 14.534,
+    "end": 15.162
+   },
+   {
+    "word": "entrena",
+    "start": 15.162,
+    "end": 15.549
+   },
+   {
+    "word": "tu",
+    "start": 15.549,
+    "end": 15.66
+   },
+   {
+    "word": "disciplina",
+    "start": 15.66,
+    "end": 16.375
+   },
+   {
+    "word": "más",
+    "start": 16.375,
+    "end": 16.54
+   },
+   {
+    "word": "que",
+    "start": 16.54,
+    "end": 16.706
+   },
+   {
+    "word": "casi",
+    "start": 16.706,
+    "end": 16.927
+   },
+   {
+    "word": "cualquier",
+    "start": 16.927,
+    "end": 17.59
+   },
+   {
+    "word": "otra",
+    "start": 17.59,
+    "end": 17.897
+   },
+   {
+    "word": "cosa",
+    "start": 17.897,
+    "end": 18.188
+   },
+   {
+    "word": "que",
+    "start": 18.188,
+    "end": 18.354
+   },
+   {
+    "word": "hagas",
+    "start": 18.354,
+    "end": 18.63
+   },
+   {
+    "word": "en",
+    "start": 18.63,
+    "end": 18.741
+   },
+   {
+    "word": "el",
+    "start": 18.741,
+    "end": 18.851
+   },
+   {
+    "word": "día.",
+    "start": 18.851,
+    "end": 19.017
+   }
+  ]
+ },
+ {
+  "id": "S01_F005",
+  "scene": "EL GANCHO",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "No es una moda pasajera de bienestar que viste en redes sociales. Es un mecanismo medible, con un nombre científico y con números concretos detrás de él.",
+  "visual": "Wide shot of a trendy phone-icon with a shower hashtag fading out, replaced by a solid glowing data-chart icon, shifting from trend to science.",
+  "start": 19.639,
+  "end": 30.399,
+  "words": [
+   {
+    "word": "No",
+    "start": 20.261,
+    "end": 20.386
+   },
+   {
+    "word": "es",
+    "start": 20.386,
+    "end": 20.51
+   },
+   {
+    "word": "una",
+    "start": 20.51,
+    "end": 20.697
+   },
+   {
+    "word": "moda",
+    "start": 20.697,
+    "end": 20.946
+   },
+   {
+    "word": "pasajera",
+    "start": 20.946,
+    "end": 21.445
+   },
+   {
+    "word": "de",
+    "start": 21.445,
+    "end": 21.57
+   },
+   {
+    "word": "bienestar",
+    "start": 21.57,
+    "end": 22.218
+   },
+   {
+    "word": "que",
+    "start": 22.218,
+    "end": 22.405
+   },
+   {
+    "word": "viste",
+    "start": 22.405,
+    "end": 22.716
+   },
+   {
+    "word": "en",
+    "start": 22.716,
+    "end": 22.841
+   },
+   {
+    "word": "redes",
+    "start": 22.841,
+    "end": 23.153
+   },
+   {
+    "word": "sociales.",
+    "start": 23.153,
+    "end": 24.981
+   },
+   {
+    "word": "Es",
+    "start": 24.981,
+    "end": 25.105
+   },
+   {
+    "word": "un",
+    "start": 25.105,
+    "end": 25.23
+   },
+   {
+    "word": "mecanismo",
+    "start": 25.23,
+    "end": 25.791
+   },
+   {
+    "word": "medible,",
+    "start": 25.791,
+    "end": 26.227
+   },
+   {
+    "word": "con",
+    "start": 26.227,
+    "end": 26.789
+   },
+   {
+    "word": "un",
+    "start": 26.789,
+    "end": 26.914
+   },
+   {
+    "word": "nombre",
+    "start": 26.914,
+    "end": 27.288
+   },
+   {
+    "word": "científico",
+    "start": 27.288,
+    "end": 27.911
+   },
+   {
+    "word": "y",
+    "start": 27.911,
+    "end": 27.973
+   },
+   {
+    "word": "con",
+    "start": 27.973,
+    "end": 28.16
+   },
+   {
+    "word": "números",
+    "start": 28.16,
+    "end": 28.596
+   },
+   {
+    "word": "concretos",
+    "start": 28.596,
+    "end": 29.157
+   },
+   {
+    "word": "detrás",
+    "start": 29.157,
+    "end": 29.531
+   },
+   {
+    "word": "de",
+    "start": 29.531,
+    "end": 29.656
+   },
+   {
+    "word": "él.",
+    "start": 29.656,
+    "end": 29.78
+   }
+  ]
+ },
+ {
+  "id": "S02_F006",
+  "scene": "MODULO 1 - La Noradrenalina (Petr Sramek)",
+  "shot_raw": "Text card / title",
+  "shot": "MEDIUM SHOT",
+  "es": "Primero, qué pasa exactamente en tu cuerpo.",
+  "visual": "Minimal title card, a simple glowing lightning-bolt icon in #FF5A36 beside a water-droplet icon, centered in dark frame.",
+  "start": 30.399,
+  "end": 34.26,
+  "words": [
+   {
+    "word": "Primero,",
+    "start": 31.018,
+    "end": 31.366
+   },
+   {
+    "word": "qué",
+    "start": 31.366,
+    "end": 31.884
+   },
+   {
+    "word": "pasa",
+    "start": 31.884,
+    "end": 32.082
+   },
+   {
+    "word": "exactamente",
+    "start": 32.082,
+    "end": 32.73
+   },
+   {
+    "word": "en",
+    "start": 32.73,
+    "end": 32.829
+   },
+   {
+    "word": "tu",
+    "start": 32.829,
+    "end": 32.999
+   },
+   {
+    "word": "cuerpo.",
+    "start": 32.999,
+    "end": 33.473
+   }
+  ]
+ },
+ {
+  "id": "S02_F007",
+  "scene": "MODULO 1 - La Noradrenalina (Petr Sramek)",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "El investigador Petr Sramek y su equipo midieron los niveles de noradrenalina en personas sumergidas en agua a distintas temperaturas,",
+  "visual": "Stick figure standing beside a glowing research-paper icon and a simple water-tank icon with a thermometer, distinct from other academic icons used in prior videos.",
+  "start": 34.26,
+  "end": 42.505,
+  "words": [
+   {
+    "word": "El",
+    "start": 34.89,
+    "end": 35.016
+   },
+   {
+    "word": "investigador",
+    "start": 35.016,
+    "end": 35.857
+   },
+   {
+    "word": "Petr",
+    "start": 35.857,
+    "end": 36.11
+   },
+   {
+    "word": "Sramek",
+    "start": 36.11,
+    "end": 36.488
+   },
+   {
+    "word": "y",
+    "start": 36.488,
+    "end": 36.551
+   },
+   {
+    "word": "su",
+    "start": 36.551,
+    "end": 36.756
+   },
+   {
+    "word": "equipo",
+    "start": 36.756,
+    "end": 37.134
+   },
+   {
+    "word": "midieron",
+    "start": 37.134,
+    "end": 37.638
+   },
+   {
+    "word": "los",
+    "start": 37.638,
+    "end": 37.828
+   },
+   {
+    "word": "niveles",
+    "start": 37.828,
+    "end": 38.269
+   },
+   {
+    "word": "de",
+    "start": 38.269,
+    "end": 38.395
+   },
+   {
+    "word": "noradrenalina",
+    "start": 38.395,
+    "end": 39.214
+   },
+   {
+    "word": "en",
+    "start": 39.214,
+    "end": 39.34
+   },
+   {
+    "word": "personas",
+    "start": 39.34,
+    "end": 39.844
+   },
+   {
+    "word": "sumergidas",
+    "start": 39.844,
+    "end": 40.475
+   },
+   {
+    "word": "en",
+    "start": 40.475,
+    "end": 40.601
+   },
+   {
+    "word": "agua",
+    "start": 40.601,
+    "end": 40.853
+   },
+   {
+    "word": "a",
+    "start": 40.853,
+    "end": 40.916
+   },
+   {
+    "word": "distintas",
+    "start": 40.916,
+    "end": 41.483
+   },
+   {
+    "word": "temperaturas,",
+    "start": 41.483,
+    "end": 42.324
+   }
+  ]
+ },
+ {
+  "id": "S02_F008",
+  "scene": "MODULO 1 - La Noradrenalina (Petr Sramek)",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "comparando agua templada, fría y muy fría, y encontraron que la inmersión en agua fría aumentaba la noradrenalina en el cuerpo entre un 200% y un 300%,",
+  "visual": "Wide shot of three small thermometer icons (warm, cold, very cold) each connected to a rising bar-graph, the cold one's bar shown dramatically taller in #FF5A36.",
+  "start": 42.505,
+  "end": 53.405,
+  "words": [
+   {
+    "word": "comparando",
+    "start": 42.685,
+    "end": 43.432
+   },
+   {
+    "word": "agua",
+    "start": 43.432,
+    "end": 43.897
+   },
+   {
+    "word": "templada,",
+    "start": 43.897,
+    "end": 44.854
+   },
+   {
+    "word": "fría",
+    "start": 44.854,
+    "end": 45.153
+   },
+   {
+    "word": "y",
+    "start": 45.153,
+    "end": 45.227
+   },
+   {
+    "word": "muy",
+    "start": 45.227,
+    "end": 45.802
+   },
+   {
+    "word": "fría,",
+    "start": 45.802,
+    "end": 46.1
+   },
+   {
+    "word": "y",
+    "start": 46.1,
+    "end": 46.175
+   },
+   {
+    "word": "encontraron",
+    "start": 46.175,
+    "end": 47.067
+   },
+   {
+    "word": "que",
+    "start": 47.067,
+    "end": 47.291
+   },
+   {
+    "word": "la",
+    "start": 47.291,
+    "end": 47.44
+   },
+   {
+    "word": "inmersión",
+    "start": 47.44,
+    "end": 48.112
+   },
+   {
+    "word": "en",
+    "start": 48.112,
+    "end": 48.343
+   },
+   {
+    "word": "agua",
+    "start": 48.343,
+    "end": 48.641
+   },
+   {
+    "word": "fría",
+    "start": 48.641,
+    "end": 48.94
+   },
+   {
+    "word": "aumentaba",
+    "start": 48.94,
+    "end": 49.612
+   },
+   {
+    "word": "la",
+    "start": 49.612,
+    "end": 49.856
+   },
+   {
+    "word": "noradrenalina",
+    "start": 49.856,
+    "end": 50.923
+   },
+   {
+    "word": "en",
+    "start": 50.923,
+    "end": 51.154
+   },
+   {
+    "word": "el",
+    "start": 51.154,
+    "end": 51.303
+   },
+   {
+    "word": "cuerpo",
+    "start": 51.303,
+    "end": 51.751
+   },
+   {
+    "word": "entre",
+    "start": 51.751,
+    "end": 52.194
+   },
+   {
+    "word": "un",
+    "start": 52.194,
+    "end": 52.344
+   },
+   {
+    "word": "200%",
+    "start": 52.344,
+    "end": 52.657
+   },
+   {
+    "word": "y",
+    "start": 52.657,
+    "end": 52.731
+   },
+   {
+    "word": "un",
+    "start": 52.731,
+    "end": 52.881
+   },
+   {
+    "word": "300%,",
+    "start": 52.881,
+    "end": 53.199
+   }
+  ]
+ },
+ {
+  "id": "S02_F009",
+  "scene": "MODULO 1 - La Noradrenalina (Petr Sramek)",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "muy por encima de lo que producía el agua templada, sin necesidad de una inmersión prolongada ni extrema.",
+  "visual": "Medium shot of a small clock icon showing only a brief duration, the tall cold-water bar-graph still shown prominently despite the short time.",
+  "start": 53.405,
+  "end": 59.793,
+  "words": [
+   {
+    "word": "muy",
+    "start": 53.611,
+    "end": 53.781
+   },
+   {
+    "word": "por",
+    "start": 53.781,
+    "end": 54.022
+   },
+   {
+    "word": "encima",
+    "start": 54.022,
+    "end": 54.362
+   },
+   {
+    "word": "de",
+    "start": 54.362,
+    "end": 54.475
+   },
+   {
+    "word": "lo",
+    "start": 54.475,
+    "end": 54.589
+   },
+   {
+    "word": "que",
+    "start": 54.589,
+    "end": 54.831
+   },
+   {
+    "word": "producía",
+    "start": 54.831,
+    "end": 55.285
+   },
+   {
+    "word": "el",
+    "start": 55.285,
+    "end": 55.398
+   },
+   {
+    "word": "agua",
+    "start": 55.398,
+    "end": 55.625
+   },
+   {
+    "word": "templada,",
+    "start": 55.625,
+    "end": 56.543
+   },
+   {
+    "word": "sin",
+    "start": 56.543,
+    "end": 56.713
+   },
+   {
+    "word": "necesidad",
+    "start": 56.713,
+    "end": 57.224
+   },
+   {
+    "word": "de",
+    "start": 57.224,
+    "end": 57.337
+   },
+   {
+    "word": "una",
+    "start": 57.337,
+    "end": 57.507
+   },
+   {
+    "word": "inmersión",
+    "start": 57.507,
+    "end": 58.099
+   },
+   {
+    "word": "prolongada",
+    "start": 58.099,
+    "end": 58.666
+   },
+   {
+    "word": "ni",
+    "start": 58.666,
+    "end": 58.779
+   },
+   {
+    "word": "extrema.",
+    "start": 58.779,
+    "end": 59.176
+   }
+  ]
+ },
+ {
+  "id": "S02_F010",
+  "scene": "MODULO 1 - La Noradrenalina (Petr Sramek)",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "Presta atención a esto: la noradrenalina no es solo una hormona del estrés.",
+  "visual": "Medium shot of a small hormone-molecule icon shown next to a stress-label icon which then dims, making room for other labels.",
+  "start": 59.793,
+  "end": 65.437,
+  "words": [
+   {
+    "word": "Presta",
+    "start": 60.411,
+    "end": 60.802
+   },
+   {
+    "word": "atención",
+    "start": 60.802,
+    "end": 61.323
+   },
+   {
+    "word": "a",
+    "start": 61.323,
+    "end": 61.388
+   },
+   {
+    "word": "esto:",
+    "start": 61.388,
+    "end": 61.649
+   },
+   {
+    "word": "la",
+    "start": 61.649,
+    "end": 62.218
+   },
+   {
+    "word": "noradrenalina",
+    "start": 62.218,
+    "end": 63.065
+   },
+   {
+    "word": "no",
+    "start": 63.065,
+    "end": 63.195
+   },
+   {
+    "word": "es",
+    "start": 63.195,
+    "end": 63.326
+   },
+   {
+    "word": "solo",
+    "start": 63.326,
+    "end": 63.587
+   },
+   {
+    "word": "una",
+    "start": 63.587,
+    "end": 63.782
+   },
+   {
+    "word": "hormona",
+    "start": 63.782,
+    "end": 64.238
+   },
+   {
+    "word": "del",
+    "start": 64.238,
+    "end": 64.434
+   },
+   {
+    "word": "estrés.",
+    "start": 64.434,
+    "end": 64.825
+   }
+  ]
+ },
+ {
+  "id": "S02_F011",
+  "scene": "MODULO 1 - La Noradrenalina (Petr Sramek)",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "También está directamente relacionada con la atención, el estado de alerta y el estado de ánimo —",
+  "visual": "Wide shot of the same hormone-molecule icon now connected by glowing #FF5A36 lines to three small icons: an eye (atención), a lightning bolt (alerta), and a mood-face (ánimo).",
+  "start": 65.437,
+  "end": 71.736,
+  "words": [
+   {
+    "word": "También",
+    "start": 66.049,
+    "end": 66.467
+   },
+   {
+    "word": "está",
+    "start": 66.467,
+    "end": 66.705
+   },
+   {
+    "word": "directamente",
+    "start": 66.705,
+    "end": 67.542
+   },
+   {
+    "word": "relacionada",
+    "start": 67.542,
+    "end": 68.279
+   },
+   {
+    "word": "con",
+    "start": 68.279,
+    "end": 68.535
+   },
+   {
+    "word": "la",
+    "start": 68.535,
+    "end": 68.654
+   },
+   {
+    "word": "atención,",
+    "start": 68.654,
+    "end": 69.537
+   },
+   {
+    "word": "el",
+    "start": 69.537,
+    "end": 69.657
+   },
+   {
+    "word": "estado",
+    "start": 69.657,
+    "end": 70.015
+   },
+   {
+    "word": "de",
+    "start": 70.015,
+    "end": 70.134
+   },
+   {
+    "word": "alerta",
+    "start": 70.134,
+    "end": 70.573
+   },
+   {
+    "word": "y",
+    "start": 70.573,
+    "end": 70.633
+   },
+   {
+    "word": "el",
+    "start": 70.633,
+    "end": 70.752
+   },
+   {
+    "word": "estado",
+    "start": 70.752,
+    "end": 71.111
+   },
+   {
+    "word": "de",
+    "start": 71.111,
+    "end": 71.23
+   },
+   {
+    "word": "ánimo",
+    "start": 71.23,
+    "end": 71.528
+   },
+   {
+    "word": "—",
+    "start": 71.528,
+    "end": 71.588
+   }
+  ]
+ },
+ {
+  "id": "S02_F012",
+  "scene": "MODULO 1 - La Noradrenalina (Petr Sramek)",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "y ese aumento ocurre en segundos, no después de meses de práctica ni de ninguna adaptación especial previa.",
+  "visual": "Wide shot of a small stopwatch icon ticking just a few seconds, the tall cold-water bar-graph already fully risen by the time it stops.",
+  "start": 71.736,
+  "end": 78.32,
+  "words": [
+   {
+    "word": "y",
+    "start": 71.885,
+    "end": 71.939
+   },
+   {
+    "word": "ese",
+    "start": 71.939,
+    "end": 72.104
+   },
+   {
+    "word": "aumento",
+    "start": 72.104,
+    "end": 72.488
+   },
+   {
+    "word": "ocurre",
+    "start": 72.488,
+    "end": 72.817
+   },
+   {
+    "word": "en",
+    "start": 72.817,
+    "end": 72.927
+   },
+   {
+    "word": "segundos,",
+    "start": 72.927,
+    "end": 73.365
+   },
+   {
+    "word": "no",
+    "start": 73.365,
+    "end": 73.475
+   },
+   {
+    "word": "después",
+    "start": 73.475,
+    "end": 74.241
+   },
+   {
+    "word": "de",
+    "start": 74.241,
+    "end": 74.452
+   },
+   {
+    "word": "meses",
+    "start": 74.452,
+    "end": 74.726
+   },
+   {
+    "word": "de",
+    "start": 74.726,
+    "end": 74.836
+   },
+   {
+    "word": "práctica",
+    "start": 74.836,
+    "end": 75.463
+   },
+   {
+    "word": "ni",
+    "start": 75.463,
+    "end": 75.573
+   },
+   {
+    "word": "de",
+    "start": 75.573,
+    "end": 75.682
+   },
+   {
+    "word": "ninguna",
+    "start": 75.682,
+    "end": 76.066
+   },
+   {
+    "word": "adaptación",
+    "start": 76.066,
+    "end": 76.732
+   },
+   {
+    "word": "especial",
+    "start": 76.732,
+    "end": 77.245
+   },
+   {
+    "word": "previa.",
+    "start": 77.245,
+    "end": 77.683
+   }
+  ]
+ },
+ {
+  "id": "S03_F013",
+  "scene": "MODULO 2 - El Animo (Nikolai Shevchuk)",
+  "shot_raw": "Text card / title",
+  "shot": "MEDIUM SHOT",
+  "es": "Segundo, por qué esto podría afectar tu ánimo, no solo tu energía.",
+  "visual": "Minimal title card, a simple mood-face icon shifting from neutral to slightly brighter, centered in dark frame.",
+  "start": 78.32,
+  "end": 83.842,
+  "words": [
+   {
+    "word": "Segundo,",
+    "start": 78.957,
+    "end": 79.385
+   },
+   {
+    "word": "por",
+    "start": 79.385,
+    "end": 79.988
+   },
+   {
+    "word": "qué",
+    "start": 79.988,
+    "end": 80.171
+   },
+   {
+    "word": "esto",
+    "start": 80.171,
+    "end": 80.416
+   },
+   {
+    "word": "podría",
+    "start": 80.416,
+    "end": 80.783
+   },
+   {
+    "word": "afectar",
+    "start": 80.783,
+    "end": 81.41
+   },
+   {
+    "word": "tu",
+    "start": 81.41,
+    "end": 81.533
+   },
+   {
+    "word": "ánimo,",
+    "start": 81.533,
+    "end": 82.235
+   },
+   {
+    "word": "no",
+    "start": 82.235,
+    "end": 82.358
+   },
+   {
+    "word": "solo",
+    "start": 82.358,
+    "end": 82.682
+   },
+   {
+    "word": "tu",
+    "start": 82.682,
+    "end": 82.805
+   },
+   {
+    "word": "energía.",
+    "start": 82.805,
+    "end": 83.233
+   }
+  ]
+ },
+ {
+  "id": "S03_F014",
+  "scene": "MODULO 2 - El Animo (Nikolai Shevchuk)",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "El médico Nikolai Shevchuk publicó una hipótesis en la revista científica Medical Hypotheses",
+  "visual": "Stick figure standing beside a distinct glowing medical-journal icon, different silhouette from the research-paper icon used in Módulo 1.",
+  "start": 83.842,
+  "end": 91.839,
+  "words": [
+   {
+    "word": "El",
+    "start": 84.451,
+    "end": 84.606
+   },
+   {
+    "word": "médico",
+    "start": 84.606,
+    "end": 85.069
+   },
+   {
+    "word": "Nikolai",
+    "start": 85.069,
+    "end": 85.609
+   },
+   {
+    "word": "Shevchuk",
+    "start": 85.609,
+    "end": 86.63
+   },
+   {
+    "word": "publicó",
+    "start": 86.63,
+    "end": 87.251
+   },
+   {
+    "word": "una",
+    "start": 87.251,
+    "end": 87.482
+   },
+   {
+    "word": "hipótesis",
+    "start": 87.482,
+    "end": 88.177
+   },
+   {
+    "word": "en",
+    "start": 88.177,
+    "end": 88.406
+   },
+   {
+    "word": "la",
+    "start": 88.406,
+    "end": 88.637
+   },
+   {
+    "word": "revista",
+    "start": 88.637,
+    "end": 89.339
+   },
+   {
+    "word": "científica",
+    "start": 89.339,
+    "end": 90.268
+   },
+   {
+    "word": "Medical",
+    "start": 90.268,
+    "end": 90.808
+   },
+   {
+    "word": "Hypotheses",
+    "start": 90.808,
+    "end": 91.58
+   }
+  ]
+ },
+ {
+  "id": "S03_F015",
+  "scene": "MODULO 2 - El Animo (Nikolai Shevchuk)",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "proponiendo que las duchas frías, aplicadas de forma gradual y controlada, podían funcionar como un tratamiento complementario para síntomas depresivos,",
+  "visual": "Wide shot of a gradually rising shower-temperature dial icon (from warm toward cold, step by step) connected by a #FF5A36 line to a mood-face icon slowly brightening.",
+  "start": 91.839,
+  "end": 101.879,
+  "words": [
+   {
+    "word": "proponiendo",
+    "start": 92.098,
+    "end": 92.794
+   },
+   {
+    "word": "que",
+    "start": 92.794,
+    "end": 92.984
+   },
+   {
+    "word": "las",
+    "start": 92.984,
+    "end": 93.174
+   },
+   {
+    "word": "duchas",
+    "start": 93.174,
+    "end": 93.553
+   },
+   {
+    "word": "frías,",
+    "start": 93.553,
+    "end": 93.946
+   },
+   {
+    "word": "aplicadas",
+    "start": 93.946,
+    "end": 94.844
+   },
+   {
+    "word": "de",
+    "start": 94.844,
+    "end": 94.97
+   },
+   {
+    "word": "forma",
+    "start": 94.97,
+    "end": 95.287
+   },
+   {
+    "word": "gradual",
+    "start": 95.287,
+    "end": 95.811
+   },
+   {
+    "word": "y",
+    "start": 95.811,
+    "end": 95.874
+   },
+   {
+    "word": "controlada,",
+    "start": 95.874,
+    "end": 96.585
+   },
+   {
+    "word": "podían",
+    "start": 96.585,
+    "end": 96.964
+   },
+   {
+    "word": "funcionar",
+    "start": 96.964,
+    "end": 97.707
+   },
+   {
+    "word": "como",
+    "start": 97.707,
+    "end": 97.96
+   },
+   {
+    "word": "un",
+    "start": 97.96,
+    "end": 98.087
+   },
+   {
+    "word": "tratamiento",
+    "start": 98.087,
+    "end": 98.861
+   },
+   {
+    "word": "complementario",
+    "start": 98.861,
+    "end": 100.193
+   },
+   {
+    "word": "para",
+    "start": 100.193,
+    "end": 100.446
+   },
+   {
+    "word": "síntomas",
+    "start": 100.446,
+    "end": 100.952
+   },
+   {
+    "word": "depresivos,",
+    "start": 100.952,
+    "end": 101.657
+   }
+  ]
+ },
+ {
+  "id": "S03_F016",
+  "scene": "MODULO 2 - El Animo (Nikolai Shevchuk)",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "precisamente por este mismo mecanismo: la activación intensa del sistema nervioso simpático y la liberación de noradrenalina y endorfinas,",
+  "visual": "Medium shot of a simplified nervous-system icon lighting up intensely, two small molecule icons (noradrenalina, endorfinas) glowing beside it.",
+  "start": 101.879,
+  "end": 108.21,
+  "words": [
+   {
+    "word": "precisamente",
+    "start": 102.1,
+    "end": 102.787
+   },
+   {
+    "word": "por",
+    "start": 102.787,
+    "end": 102.93
+   },
+   {
+    "word": "este",
+    "start": 102.93,
+    "end": 103.121
+   },
+   {
+    "word": "mismo",
+    "start": 103.121,
+    "end": 103.36
+   },
+   {
+    "word": "mecanismo:",
+    "start": 103.36,
+    "end": 103.791
+   },
+   {
+    "word": "la",
+    "start": 103.791,
+    "end": 103.886
+   },
+   {
+    "word": "activación",
+    "start": 103.886,
+    "end": 104.364
+   },
+   {
+    "word": "intensa",
+    "start": 104.364,
+    "end": 104.777
+   },
+   {
+    "word": "del",
+    "start": 104.777,
+    "end": 104.92
+   },
+   {
+    "word": "sistema",
+    "start": 104.92,
+    "end": 105.347
+   },
+   {
+    "word": "nervioso",
+    "start": 105.347,
+    "end": 105.729
+   },
+   {
+    "word": "simpático",
+    "start": 105.729,
+    "end": 106.16
+   },
+   {
+    "word": "y",
+    "start": 106.16,
+    "end": 106.207
+   },
+   {
+    "word": "la",
+    "start": 106.207,
+    "end": 106.303
+   },
+   {
+    "word": "liberación",
+    "start": 106.303,
+    "end": 106.781
+   },
+   {
+    "word": "de",
+    "start": 106.781,
+    "end": 106.877
+   },
+   {
+    "word": "noradrenalina",
+    "start": 106.877,
+    "end": 107.498
+   },
+   {
+    "word": "y",
+    "start": 107.498,
+    "end": 107.546
+   },
+   {
+    "word": "endorfinas,",
+    "start": 107.546,
+    "end": 108.024
+   }
+  ]
+ },
+ {
+  "id": "S03_F017",
+  "scene": "MODULO 2 - El Animo (Nikolai Shevchuk)",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "un patrón bioquímico similar al que producen ciertos antidepresivos, aunque por una vía completamente distinta.",
+  "visual": "Wide shot of two separate glowing paths both leading toward the same brightened mood-face icon — one path from a small pill icon, one from the shower-temperature dial — visually distinct but converging.",
+  "start": 108.21,
+  "end": 115.603,
+  "words": [
+   {
+    "word": "un",
+    "start": 108.396,
+    "end": 108.51
+   },
+   {
+    "word": "patrón",
+    "start": 108.51,
+    "end": 108.853
+   },
+   {
+    "word": "bioquímico",
+    "start": 108.853,
+    "end": 109.581
+   },
+   {
+    "word": "similar",
+    "start": 109.581,
+    "end": 109.981
+   },
+   {
+    "word": "al",
+    "start": 109.981,
+    "end": 110.177
+   },
+   {
+    "word": "que",
+    "start": 110.177,
+    "end": 110.429
+   },
+   {
+    "word": "producen",
+    "start": 110.429,
+    "end": 110.886
+   },
+   {
+    "word": "ciertos",
+    "start": 110.886,
+    "end": 111.286
+   },
+   {
+    "word": "antidepresivos,",
+    "start": 111.286,
+    "end": 112.159
+   },
+   {
+    "word": "aunque",
+    "start": 112.159,
+    "end": 112.87
+   },
+   {
+    "word": "por",
+    "start": 112.87,
+    "end": 113.124
+   },
+   {
+    "word": "una",
+    "start": 113.124,
+    "end": 113.295
+   },
+   {
+    "word": "vía",
+    "start": 113.295,
+    "end": 113.467
+   },
+   {
+    "word": "completamente",
+    "start": 113.467,
+    "end": 114.438
+   },
+   {
+    "word": "distinta.",
+    "start": 114.438,
+    "end": 114.992
+   }
+  ]
+ },
+ {
+  "id": "S03_F018",
+  "scene": "MODULO 2 - El Animo (Nikolai Shevchuk)",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "Aquí está la clave: no se trata de una sensación agradable durante la ducha, que casi nunca lo es.",
+  "visual": "Medium shot of the stick figure under the cold stream with a visibly uncomfortable expression, not a pleasant one, honest depiction.",
+  "start": 115.603,
+  "end": 122.725,
+  "words": [
+   {
+    "word": "Aquí",
+    "start": 116.215,
+    "end": 116.463
+   },
+   {
+    "word": "está",
+    "start": 116.463,
+    "end": 116.712
+   },
+   {
+    "word": "la",
+    "start": 116.712,
+    "end": 116.836
+   },
+   {
+    "word": "clave:",
+    "start": 116.836,
+    "end": 117.22
+   },
+   {
+    "word": "no",
+    "start": 117.22,
+    "end": 117.741
+   },
+   {
+    "word": "se",
+    "start": 117.741,
+    "end": 117.865
+   },
+   {
+    "word": "trata",
+    "start": 117.865,
+    "end": 118.175
+   },
+   {
+    "word": "de",
+    "start": 118.175,
+    "end": 118.37
+   },
+   {
+    "word": "una",
+    "start": 118.37,
+    "end": 118.556
+   },
+   {
+    "word": "sensación",
+    "start": 118.556,
+    "end": 119.115
+   },
+   {
+    "word": "agradable",
+    "start": 119.115,
+    "end": 119.674
+   },
+   {
+    "word": "durante",
+    "start": 119.674,
+    "end": 120.192
+   },
+   {
+    "word": "la",
+    "start": 120.192,
+    "end": 120.316
+   },
+   {
+    "word": "ducha,",
+    "start": 120.316,
+    "end": 121.126
+   },
+   {
+    "word": "que",
+    "start": 121.126,
+    "end": 121.313
+   },
+   {
+    "word": "casi",
+    "start": 121.313,
+    "end": 121.561
+   },
+   {
+    "word": "nunca",
+    "start": 121.561,
+    "end": 121.872
+   },
+   {
+    "word": "lo",
+    "start": 121.872,
+    "end": 121.996
+   },
+   {
+    "word": "es.",
+    "start": 121.996,
+    "end": 122.12
+   }
+  ]
+ },
+ {
+  "id": "S03_F019",
+  "scene": "MODULO 2 - El Animo (Nikolai Shevchuk)",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Se trata de lo que tu cerebro hace inmediatamente después, cuando ya saliste, te secaste, y el cuerpo sigue procesando esa activación durante varios minutos más.",
+  "visual": "Wide shot of the stick figure now dry and dressed, standing calm and alert, the nervous-system icon still glowing steadily in #FF5A36, a small lingering-time icon beside it.",
+  "start": 122.725,
+  "end": 133.473,
+  "words": [
+   {
+    "word": "Se",
+    "start": 123.329,
+    "end": 123.444
+   },
+   {
+    "word": "trata",
+    "start": 123.444,
+    "end": 123.733
+   },
+   {
+    "word": "de",
+    "start": 123.733,
+    "end": 123.848
+   },
+   {
+    "word": "lo",
+    "start": 123.848,
+    "end": 123.964
+   },
+   {
+    "word": "que",
+    "start": 123.964,
+    "end": 124.137
+   },
+   {
+    "word": "tu",
+    "start": 124.137,
+    "end": 124.252
+   },
+   {
+    "word": "cerebro",
+    "start": 124.252,
+    "end": 124.656
+   },
+   {
+    "word": "hace",
+    "start": 124.656,
+    "end": 124.887
+   },
+   {
+    "word": "inmediatamente",
+    "start": 124.887,
+    "end": 125.841
+   },
+   {
+    "word": "después,",
+    "start": 125.841,
+    "end": 126.717
+   },
+   {
+    "word": "cuando",
+    "start": 126.717,
+    "end": 127.063
+   },
+   {
+    "word": "ya",
+    "start": 127.063,
+    "end": 127.179
+   },
+   {
+    "word": "saliste,",
+    "start": 127.179,
+    "end": 127.583
+   },
+   {
+    "word": "te",
+    "start": 127.583,
+    "end": 128.113
+   },
+   {
+    "word": "secaste,",
+    "start": 128.113,
+    "end": 128.595
+   },
+   {
+    "word": "y",
+    "start": 128.595,
+    "end": 128.653
+   },
+   {
+    "word": "el",
+    "start": 128.653,
+    "end": 128.768
+   },
+   {
+    "word": "cuerpo",
+    "start": 128.768,
+    "end": 129.594
+   },
+   {
+    "word": "sigue",
+    "start": 129.594,
+    "end": 129.882
+   },
+   {
+    "word": "procesando",
+    "start": 129.882,
+    "end": 130.532
+   },
+   {
+    "word": "esa",
+    "start": 130.532,
+    "end": 130.706
+   },
+   {
+    "word": "activación",
+    "start": 130.706,
+    "end": 131.402
+   },
+   {
+    "word": "durante",
+    "start": 131.402,
+    "end": 131.876
+   },
+   {
+    "word": "varios",
+    "start": 131.876,
+    "end": 132.222
+   },
+   {
+    "word": "minutos",
+    "start": 132.222,
+    "end": 132.697
+   },
+   {
+    "word": "más.",
+    "start": 132.697,
+    "end": 132.87
+   }
+  ]
+ },
+ {
+  "id": "S04_F020",
+  "scene": "MODULO 3 - La Conexion con la Disciplina",
+  "shot_raw": "Text card / title",
+  "shot": "MEDIUM SHOT",
+  "es": "Tercero, y esto es lo que realmente conecta esto con la disciplina.",
+  "visual": "Minimal title card, the shower-stream icon connected by a glowing #FF5A36 link to a small gear/training icon representing discipline.",
+  "start": 133.473,
+  "end": 138.388,
+  "words": [
+   {
+    "word": "Tercero,",
+    "start": 134.076,
+    "end": 134.491
+   },
+   {
+    "word": "y",
+    "start": 134.491,
+    "end": 134.55
+   },
+   {
+    "word": "esto",
+    "start": 134.55,
+    "end": 135.076
+   },
+   {
+    "word": "es",
+    "start": 135.076,
+    "end": 135.194
+   },
+   {
+    "word": "lo",
+    "start": 135.194,
+    "end": 135.313
+   },
+   {
+    "word": "que",
+    "start": 135.313,
+    "end": 135.49
+   },
+   {
+    "word": "realmente",
+    "start": 135.49,
+    "end": 136.023
+   },
+   {
+    "word": "conecta",
+    "start": 136.023,
+    "end": 136.438
+   },
+   {
+    "word": "esto",
+    "start": 136.438,
+    "end": 136.789
+   },
+   {
+    "word": "con",
+    "start": 136.789,
+    "end": 136.966
+   },
+   {
+    "word": "la",
+    "start": 136.966,
+    "end": 137.085
+   },
+   {
+    "word": "disciplina.",
+    "start": 137.085,
+    "end": 137.766
+   }
+  ]
+ },
+ {
+  "id": "S04_F021",
+  "scene": "MODULO 3 - La Conexion con la Disciplina",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "El valor de la ducha fría no está principalmente en la temperatura del agua.",
+  "visual": "Wide shot of the thermometer icon from Módulo 1 shown dimmed and de-emphasized, pushed to the side of the frame.",
+  "start": 138.388,
+  "end": 143.466,
+  "words": [
+   {
+    "word": "El",
+    "start": 139.01,
+    "end": 139.131
+   },
+   {
+    "word": "valor",
+    "start": 139.131,
+    "end": 139.435
+   },
+   {
+    "word": "de",
+    "start": 139.435,
+    "end": 139.557
+   },
+   {
+    "word": "la",
+    "start": 139.557,
+    "end": 139.678
+   },
+   {
+    "word": "ducha",
+    "start": 139.678,
+    "end": 139.982
+   },
+   {
+    "word": "fría",
+    "start": 139.982,
+    "end": 140.225
+   },
+   {
+    "word": "no",
+    "start": 140.225,
+    "end": 140.346
+   },
+   {
+    "word": "está",
+    "start": 140.346,
+    "end": 140.589
+   },
+   {
+    "word": "principalmente",
+    "start": 140.589,
+    "end": 141.439
+   },
+   {
+    "word": "en",
+    "start": 141.439,
+    "end": 141.56
+   },
+   {
+    "word": "la",
+    "start": 141.56,
+    "end": 141.682
+   },
+   {
+    "word": "temperatura",
+    "start": 141.682,
+    "end": 142.425
+   },
+   {
+    "word": "del",
+    "start": 142.425,
+    "end": 142.607
+   },
+   {
+    "word": "agua.",
+    "start": 142.607,
+    "end": 142.85
+   }
+  ]
+ },
+ {
+  "id": "S04_F022",
+  "scene": "MODULO 3 - La Conexion con la Disciplina",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "Está en que es una de las formas más simples y accesibles de practicar, todos los días, la decisión consciente de hacer algo incómodo cuando cada parte de tu cuerpo te está pidiendo que no lo hagas.",
+  "visual": "Medium shot of the stick figure's hand reaching toward the shower handle while a faint resistance-icon (a small pulling-back arrow) tugs the other way, hand still moving forward.",
+  "start": 143.466,
+  "end": 155.485,
+  "words": [
+   {
+    "word": "Está",
+    "start": 144.082,
+    "end": 144.3
+   },
+   {
+    "word": "en",
+    "start": 144.3,
+    "end": 144.409
+   },
+   {
+    "word": "que",
+    "start": 144.409,
+    "end": 144.573
+   },
+   {
+    "word": "es",
+    "start": 144.573,
+    "end": 144.682
+   },
+   {
+    "word": "una",
+    "start": 144.682,
+    "end": 144.846
+   },
+   {
+    "word": "de",
+    "start": 144.846,
+    "end": 144.955
+   },
+   {
+    "word": "las",
+    "start": 144.955,
+    "end": 145.119
+   },
+   {
+    "word": "formas",
+    "start": 145.119,
+    "end": 145.446
+   },
+   {
+    "word": "más",
+    "start": 145.446,
+    "end": 145.61
+   },
+   {
+    "word": "simples",
+    "start": 145.61,
+    "end": 145.992
+   },
+   {
+    "word": "y",
+    "start": 145.992,
+    "end": 146.046
+   },
+   {
+    "word": "accesibles",
+    "start": 146.046,
+    "end": 146.592
+   },
+   {
+    "word": "de",
+    "start": 146.592,
+    "end": 146.701
+   },
+   {
+    "word": "practicar,",
+    "start": 146.701,
+    "end": 147.192
+   },
+   {
+    "word": "todos",
+    "start": 147.192,
+    "end": 147.693
+   },
+   {
+    "word": "los",
+    "start": 147.693,
+    "end": 148.331
+   },
+   {
+    "word": "días,",
+    "start": 148.331,
+    "end": 148.549
+   },
+   {
+    "word": "la",
+    "start": 148.549,
+    "end": 148.658
+   },
+   {
+    "word": "decisión",
+    "start": 148.658,
+    "end": 149.548
+   },
+   {
+    "word": "consciente",
+    "start": 149.548,
+    "end": 150.093
+   },
+   {
+    "word": "de",
+    "start": 150.093,
+    "end": 150.203
+   },
+   {
+    "word": "hacer",
+    "start": 150.203,
+    "end": 150.475
+   },
+   {
+    "word": "algo",
+    "start": 150.475,
+    "end": 150.694
+   },
+   {
+    "word": "incómodo",
+    "start": 150.694,
+    "end": 151.13
+   },
+   {
+    "word": "cuando",
+    "start": 151.13,
+    "end": 151.458
+   },
+   {
+    "word": "cada",
+    "start": 151.458,
+    "end": 151.676
+   },
+   {
+    "word": "parte",
+    "start": 151.676,
+    "end": 151.949
+   },
+   {
+    "word": "de",
+    "start": 151.949,
+    "end": 152.149
+   },
+   {
+    "word": "tu",
+    "start": 152.149,
+    "end": 152.258
+   },
+   {
+    "word": "cuerpo",
+    "start": 152.258,
+    "end": 152.763
+   },
+   {
+    "word": "te",
+    "start": 152.763,
+    "end": 152.969
+   },
+   {
+    "word": "está",
+    "start": 152.969,
+    "end": 153.411
+   },
+   {
+    "word": "pidiendo",
+    "start": 153.411,
+    "end": 153.949
+   },
+   {
+    "word": "que",
+    "start": 153.949,
+    "end": 154.193
+   },
+   {
+    "word": "no",
+    "start": 154.193,
+    "end": 154.302
+   },
+   {
+    "word": "lo",
+    "start": 154.302,
+    "end": 154.411
+   },
+   {
+    "word": "hagas.",
+    "start": 154.411,
+    "end": 154.767
+   }
+  ]
+ },
+ {
+  "id": "S04_F023",
+  "scene": "MODULO 3 - La Conexion con la Disciplina",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Esto es lo que nadie te dice: cada vez que giras la llave hacia el agua fría a pesar de la resistencia interna,",
+  "visual": "Wide shot of the hand turning the shower handle fully toward cold, the resistance-arrow icon fading as the action completes.",
+  "start": 155.485,
+  "end": 162.219,
+  "words": [
+   {
+    "word": "Esto",
+    "start": 156.09,
+    "end": 156.332
+   },
+   {
+    "word": "es",
+    "start": 156.332,
+    "end": 156.453
+   },
+   {
+    "word": "lo",
+    "start": 156.453,
+    "end": 156.574
+   },
+   {
+    "word": "que",
+    "start": 156.574,
+    "end": 156.756
+   },
+   {
+    "word": "nadie",
+    "start": 156.756,
+    "end": 157.134
+   },
+   {
+    "word": "te",
+    "start": 157.134,
+    "end": 157.256
+   },
+   {
+    "word": "dice:",
+    "start": 157.256,
+    "end": 157.498
+   },
+   {
+    "word": "cada",
+    "start": 157.498,
+    "end": 158.151
+   },
+   {
+    "word": "vez",
+    "start": 158.151,
+    "end": 158.332
+   },
+   {
+    "word": "que",
+    "start": 158.332,
+    "end": 158.514
+   },
+   {
+    "word": "giras",
+    "start": 158.514,
+    "end": 158.817
+   },
+   {
+    "word": "la",
+    "start": 158.817,
+    "end": 158.938
+   },
+   {
+    "word": "llave",
+    "start": 158.938,
+    "end": 159.24
+   },
+   {
+    "word": "hacia",
+    "start": 159.24,
+    "end": 159.543
+   },
+   {
+    "word": "el",
+    "start": 159.543,
+    "end": 159.664
+   },
+   {
+    "word": "agua",
+    "start": 159.664,
+    "end": 159.906
+   },
+   {
+    "word": "fría",
+    "start": 159.906,
+    "end": 160.24
+   },
+   {
+    "word": "a",
+    "start": 160.24,
+    "end": 160.301
+   },
+   {
+    "word": "pesar",
+    "start": 160.301,
+    "end": 160.603
+   },
+   {
+    "word": "de",
+    "start": 160.603,
+    "end": 160.724
+   },
+   {
+    "word": "la",
+    "start": 160.724,
+    "end": 160.845
+   },
+   {
+    "word": "resistencia",
+    "start": 160.845,
+    "end": 161.511
+   },
+   {
+    "word": "interna,",
+    "start": 161.511,
+    "end": 162.018
+   }
+  ]
+ },
+ {
+  "id": "S04_F024",
+  "scene": "MODULO 3 - La Conexion con la Disciplina",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "estás entrenando literalmente el mismo circuito de \"decidir a pesar de la incomodidad\" que después vas a necesitar para levantarte temprano, terminar un trabajo difícil o mantener un compromiso cuando ya no tienes ganas.",
+  "visual": "Medium shot of the gear/training icon from the title card now glowing brighter in #FF5A36, connected by branching lines to three small icons: an alarm clock, a document, and a handshake.",
+  "start": 162.219,
+  "end": 175.767,
+  "words": [
+   {
+    "word": "estás",
+    "start": 162.42,
+    "end": 162.717
+   },
+   {
+    "word": "entrenando",
+    "start": 162.717,
+    "end": 163.31
+   },
+   {
+    "word": "literalmente",
+    "start": 163.31,
+    "end": 164.022
+   },
+   {
+    "word": "el",
+    "start": 164.022,
+    "end": 164.141
+   },
+   {
+    "word": "mismo",
+    "start": 164.141,
+    "end": 164.437
+   },
+   {
+    "word": "circuito",
+    "start": 164.437,
+    "end": 165.08
+   },
+   {
+    "word": "de",
+    "start": 165.08,
+    "end": 165.54
+   },
+   {
+    "word": "\"decidir",
+    "start": 165.54,
+    "end": 165.955
+   },
+   {
+    "word": "a",
+    "start": 165.955,
+    "end": 166.014
+   },
+   {
+    "word": "pesar",
+    "start": 166.014,
+    "end": 166.389
+   },
+   {
+    "word": "de",
+    "start": 166.389,
+    "end": 166.508
+   },
+   {
+    "word": "la",
+    "start": 166.508,
+    "end": 166.626
+   },
+   {
+    "word": "incomodidad\"",
+    "start": 166.626,
+    "end": 167.279
+   },
+   {
+    "word": "que",
+    "start": 167.279,
+    "end": 167.716
+   },
+   {
+    "word": "después",
+    "start": 167.716,
+    "end": 168.217
+   },
+   {
+    "word": "vas",
+    "start": 168.217,
+    "end": 168.395
+   },
+   {
+    "word": "a",
+    "start": 168.395,
+    "end": 168.455
+   },
+   {
+    "word": "necesitar",
+    "start": 168.455,
+    "end": 169.183
+   },
+   {
+    "word": "para",
+    "start": 169.183,
+    "end": 169.42
+   },
+   {
+    "word": "levantarte",
+    "start": 169.42,
+    "end": 170.262
+   },
+   {
+    "word": "temprano,",
+    "start": 170.262,
+    "end": 171.167
+   },
+   {
+    "word": "terminar",
+    "start": 171.167,
+    "end": 171.642
+   },
+   {
+    "word": "un",
+    "start": 171.642,
+    "end": 171.76
+   },
+   {
+    "word": "trabajo",
+    "start": 171.76,
+    "end": 172.176
+   },
+   {
+    "word": "difícil",
+    "start": 172.176,
+    "end": 172.591
+   },
+   {
+    "word": "o",
+    "start": 172.591,
+    "end": 172.65
+   },
+   {
+    "word": "mantener",
+    "start": 172.65,
+    "end": 173.125
+   },
+   {
+    "word": "un",
+    "start": 173.125,
+    "end": 173.244
+   },
+   {
+    "word": "compromiso",
+    "start": 173.244,
+    "end": 173.837
+   },
+   {
+    "word": "cuando",
+    "start": 173.837,
+    "end": 174.193
+   },
+   {
+    "word": "ya",
+    "start": 174.193,
+    "end": 174.389
+   },
+   {
+    "word": "no",
+    "start": 174.389,
+    "end": 174.507
+   },
+   {
+    "word": "tienes",
+    "start": 174.507,
+    "end": 174.863
+   },
+   {
+    "word": "ganas.",
+    "start": 174.863,
+    "end": 175.16
+   }
+  ]
+ },
+ {
+  "id": "S05_F025",
+  "scene": "MODULO 4 - Por Que la Mayoria Abandona",
+  "shot_raw": "Text card / title",
+  "shot": "MEDIUM SHOT",
+  "es": "Y cuarto, por qué la mayoría de las personas que lo intentan lo abandonan en la primera semana.",
+  "visual": "Minimal title card, a calendar strip showing seven days, the first few days marked with a small warning icon.",
+  "start": 175.767,
+  "end": 181.879,
+  "words": [
+   {
+    "word": "Y",
+    "start": 176.374,
+    "end": 176.428
+   },
+   {
+    "word": "cuarto,",
+    "start": 176.428,
+    "end": 176.918
+   },
+   {
+    "word": "por",
+    "start": 176.918,
+    "end": 177.527
+   },
+   {
+    "word": "qué",
+    "start": 177.527,
+    "end": 177.689
+   },
+   {
+    "word": "la",
+    "start": 177.689,
+    "end": 177.797
+   },
+   {
+    "word": "mayoría",
+    "start": 177.797,
+    "end": 178.176
+   },
+   {
+    "word": "de",
+    "start": 178.176,
+    "end": 178.285
+   },
+   {
+    "word": "las",
+    "start": 178.285,
+    "end": 178.522
+   },
+   {
+    "word": "personas",
+    "start": 178.522,
+    "end": 178.956
+   },
+   {
+    "word": "que",
+    "start": 178.956,
+    "end": 179.118
+   },
+   {
+    "word": "lo",
+    "start": 179.118,
+    "end": 179.226
+   },
+   {
+    "word": "intentan",
+    "start": 179.226,
+    "end": 179.731
+   },
+   {
+    "word": "lo",
+    "start": 179.731,
+    "end": 179.839
+   },
+   {
+    "word": "abandonan",
+    "start": 179.839,
+    "end": 180.326
+   },
+   {
+    "word": "en",
+    "start": 180.326,
+    "end": 180.435
+   },
+   {
+    "word": "la",
+    "start": 180.435,
+    "end": 180.543
+   },
+   {
+    "word": "primera",
+    "start": 180.543,
+    "end": 180.922
+   },
+   {
+    "word": "semana.",
+    "start": 180.922,
+    "end": 181.247
+   }
+  ]
+ },
+ {
+  "id": "S05_F026",
+  "scene": "MODULO 4 - Por Que la Mayoria Abandona",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Empiezan con agua completamente fría desde el primer día, en pleno invierno, durante diez minutos completos,",
+  "visual": "Wide shot of the stick figure standing under an intense, fully cold shower stream from the very first calendar tile, a ten-minute timer icon shown at full duration.",
+  "start": 181.879,
+  "end": 189.402,
+  "words": [
+   {
+    "word": "Empiezan",
+    "start": 182.511,
+    "end": 183.018
+   },
+   {
+    "word": "con",
+    "start": 183.018,
+    "end": 183.208
+   },
+   {
+    "word": "agua",
+    "start": 183.208,
+    "end": 183.461
+   },
+   {
+    "word": "completamente",
+    "start": 183.461,
+    "end": 184.284
+   },
+   {
+    "word": "fría",
+    "start": 184.284,
+    "end": 184.538
+   },
+   {
+    "word": "desde",
+    "start": 184.538,
+    "end": 184.854
+   },
+   {
+    "word": "el",
+    "start": 184.854,
+    "end": 185.066
+   },
+   {
+    "word": "primer",
+    "start": 185.066,
+    "end": 185.446
+   },
+   {
+    "word": "día,",
+    "start": 185.446,
+    "end": 186.041
+   },
+   {
+    "word": "en",
+    "start": 186.041,
+    "end": 186.244
+   },
+   {
+    "word": "pleno",
+    "start": 186.244,
+    "end": 186.56
+   },
+   {
+    "word": "invierno,",
+    "start": 186.56,
+    "end": 187.419
+   },
+   {
+    "word": "durante",
+    "start": 187.419,
+    "end": 187.862
+   },
+   {
+    "word": "diez",
+    "start": 187.862,
+    "end": 188.116
+   },
+   {
+    "word": "minutos",
+    "start": 188.116,
+    "end": 188.559
+   },
+   {
+    "word": "completos,",
+    "start": 188.559,
+    "end": 189.214
+   }
+  ]
+ },
+ {
+  "id": "S05_F027",
+  "scene": "MODULO 4 - Por Que la Mayoria Abandona",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "sienten el impacto más intenso posible desde el primer segundo, y deciden que esto \"no es para ellos\" antes de darle una segunda oportunidad.",
+  "visual": "Medium shot of the stick figure recoiling sharply, a large shock-icon flashing, then walking away from the shower entirely, calendar strip stopping abruptly at day one.",
+  "start": 189.402,
+  "end": 198.147,
+  "words": [
+   {
+    "word": "sienten",
+    "start": 189.59,
+    "end": 190.012
+   },
+   {
+    "word": "el",
+    "start": 190.012,
+    "end": 190.133
+   },
+   {
+    "word": "impacto",
+    "start": 190.133,
+    "end": 190.749
+   },
+   {
+    "word": "más",
+    "start": 190.749,
+    "end": 190.93
+   },
+   {
+    "word": "intenso",
+    "start": 190.93,
+    "end": 191.352
+   },
+   {
+    "word": "posible",
+    "start": 191.352,
+    "end": 191.774
+   },
+   {
+    "word": "desde",
+    "start": 191.774,
+    "end": 192.076
+   },
+   {
+    "word": "el",
+    "start": 192.076,
+    "end": 192.288
+   },
+   {
+    "word": "primer",
+    "start": 192.288,
+    "end": 192.65
+   },
+   {
+    "word": "segundo,",
+    "start": 192.65,
+    "end": 193.398
+   },
+   {
+    "word": "y",
+    "start": 193.398,
+    "end": 193.458
+   },
+   {
+    "word": "deciden",
+    "start": 193.458,
+    "end": 193.88
+   },
+   {
+    "word": "que",
+    "start": 193.88,
+    "end": 194.061
+   },
+   {
+    "word": "esto",
+    "start": 194.061,
+    "end": 194.302
+   },
+   {
+    "word": "\"no",
+    "start": 194.302,
+    "end": 194.423
+   },
+   {
+    "word": "es",
+    "start": 194.423,
+    "end": 194.543
+   },
+   {
+    "word": "para",
+    "start": 194.543,
+    "end": 194.867
+   },
+   {
+    "word": "ellos\"",
+    "start": 194.867,
+    "end": 195.169
+   },
+   {
+    "word": "antes",
+    "start": 195.169,
+    "end": 195.781
+   },
+   {
+    "word": "de",
+    "start": 195.781,
+    "end": 195.902
+   },
+   {
+    "word": "darle",
+    "start": 195.902,
+    "end": 196.203
+   },
+   {
+    "word": "una",
+    "start": 196.203,
+    "end": 196.384
+   },
+   {
+    "word": "segunda",
+    "start": 196.384,
+    "end": 196.806
+   },
+   {
+    "word": "oportunidad.",
+    "start": 196.806,
+    "end": 197.539
+   }
+  ]
+ },
+ {
+  "id": "S05_F028",
+  "scene": "MODULO 4 - Por Que la Mayoria Abandona",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Pero espera, todavía hay más: la adaptación gradual — empezar con los últimos treinta segundos de una ducha normal en frío, no la ducha completa desde el inicio —",
+  "visual": "Wide shot of a normal warm-shower icon transitioning smoothly into a small #FF5A36 cold segment only at the very end, gentle and short, contrasting with the abrupt full-cold shower from before.",
+  "start": 198.147,
+  "end": 208.782,
+  "words": [
+   {
+    "word": "Pero",
+    "start": 198.756,
+    "end": 199.0
+   },
+   {
+    "word": "espera,",
+    "start": 199.0,
+    "end": 199.456
+   },
+   {
+    "word": "todavía",
+    "start": 199.456,
+    "end": 200.24
+   },
+   {
+    "word": "hay",
+    "start": 200.24,
+    "end": 200.423
+   },
+   {
+    "word": "más:",
+    "start": 200.423,
+    "end": 200.607
+   },
+   {
+    "word": "la",
+    "start": 200.607,
+    "end": 201.129
+   },
+   {
+    "word": "adaptación",
+    "start": 201.129,
+    "end": 201.852
+   },
+   {
+    "word": "gradual",
+    "start": 201.852,
+    "end": 202.604
+   },
+   {
+    "word": "—",
+    "start": 202.604,
+    "end": 202.665
+   },
+   {
+    "word": "empezar",
+    "start": 202.665,
+    "end": 203.172
+   },
+   {
+    "word": "con",
+    "start": 203.172,
+    "end": 203.355
+   },
+   {
+    "word": "los",
+    "start": 203.355,
+    "end": 203.538
+   },
+   {
+    "word": "últimos",
+    "start": 203.538,
+    "end": 203.966
+   },
+   {
+    "word": "treinta",
+    "start": 203.966,
+    "end": 204.394
+   },
+   {
+    "word": "segundos",
+    "start": 204.394,
+    "end": 204.883
+   },
+   {
+    "word": "de",
+    "start": 204.883,
+    "end": 205.005
+   },
+   {
+    "word": "una",
+    "start": 205.005,
+    "end": 205.189
+   },
+   {
+    "word": "ducha",
+    "start": 205.189,
+    "end": 205.494
+   },
+   {
+    "word": "normal",
+    "start": 205.494,
+    "end": 205.861
+   },
+   {
+    "word": "en",
+    "start": 205.861,
+    "end": 205.983
+   },
+   {
+    "word": "frío,",
+    "start": 205.983,
+    "end": 206.675
+   },
+   {
+    "word": "no",
+    "start": 206.675,
+    "end": 206.798
+   },
+   {
+    "word": "la",
+    "start": 206.798,
+    "end": 206.92
+   },
+   {
+    "word": "ducha",
+    "start": 206.92,
+    "end": 207.225
+   },
+   {
+    "word": "completa",
+    "start": 207.225,
+    "end": 207.714
+   },
+   {
+    "word": "desde",
+    "start": 207.714,
+    "end": 208.02
+   },
+   {
+    "word": "el",
+    "start": 208.02,
+    "end": 208.142
+   },
+   {
+    "word": "inicio",
+    "start": 208.142,
+    "end": 208.509
+   },
+   {
+    "word": "—",
+    "start": 208.509,
+    "end": 208.57
+   }
+  ]
+ },
+ {
+  "id": "S05_F029",
+  "scene": "MODULO 4 - Por Que la Mayoria Abandona",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "es lo que permite sostener el hábito el tiempo suficiente para que se vuelva automático, en lugar de convertirlo en una prueba de sufrimiento extremo que abandonas apenas puedes justificar dejarlo.",
+  "visual": "Wide shot of the calendar strip now advancing smoothly through many days with the gradual thirty-second cold segment repeating consistently, no abandonment icon appearing this time.",
+  "start": 208.782,
+  "end": 220.089,
+  "words": [
+   {
+    "word": "es",
+    "start": 208.994,
+    "end": 209.105
+   },
+   {
+    "word": "lo",
+    "start": 209.105,
+    "end": 209.216
+   },
+   {
+    "word": "que",
+    "start": 209.216,
+    "end": 209.382
+   },
+   {
+    "word": "permite",
+    "start": 209.382,
+    "end": 209.85
+   },
+   {
+    "word": "sostener",
+    "start": 209.85,
+    "end": 210.293
+   },
+   {
+    "word": "el",
+    "start": 210.293,
+    "end": 210.404
+   },
+   {
+    "word": "hábito",
+    "start": 210.404,
+    "end": 210.737
+   },
+   {
+    "word": "el",
+    "start": 210.737,
+    "end": 210.848
+   },
+   {
+    "word": "tiempo",
+    "start": 210.848,
+    "end": 211.259
+   },
+   {
+    "word": "suficiente",
+    "start": 211.259,
+    "end": 211.813
+   },
+   {
+    "word": "para",
+    "start": 211.813,
+    "end": 212.108
+   },
+   {
+    "word": "que",
+    "start": 212.108,
+    "end": 212.274
+   },
+   {
+    "word": "se",
+    "start": 212.274,
+    "end": 212.385
+   },
+   {
+    "word": "vuelva",
+    "start": 212.385,
+    "end": 212.718
+   },
+   {
+    "word": "automático,",
+    "start": 212.718,
+    "end": 213.514
+   },
+   {
+    "word": "en",
+    "start": 213.514,
+    "end": 213.625
+   },
+   {
+    "word": "lugar",
+    "start": 213.625,
+    "end": 214.332
+   },
+   {
+    "word": "de",
+    "start": 214.332,
+    "end": 214.443
+   },
+   {
+    "word": "convertirlo",
+    "start": 214.443,
+    "end": 215.139
+   },
+   {
+    "word": "en",
+    "start": 215.139,
+    "end": 215.25
+   },
+   {
+    "word": "una",
+    "start": 215.25,
+    "end": 215.417
+   },
+   {
+    "word": "prueba",
+    "start": 215.417,
+    "end": 215.831
+   },
+   {
+    "word": "de",
+    "start": 215.831,
+    "end": 215.942
+   },
+   {
+    "word": "sufrimiento",
+    "start": 215.942,
+    "end": 216.552
+   },
+   {
+    "word": "extremo",
+    "start": 216.552,
+    "end": 216.94
+   },
+   {
+    "word": "que",
+    "start": 216.94,
+    "end": 217.106
+   },
+   {
+    "word": "abandonas",
+    "start": 217.106,
+    "end": 217.605
+   },
+   {
+    "word": "apenas",
+    "start": 217.605,
+    "end": 218.016
+   },
+   {
+    "word": "puedes",
+    "start": 218.016,
+    "end": 218.447
+   },
+   {
+    "word": "justificar",
+    "start": 218.447,
+    "end": 219.08
+   },
+   {
+    "word": "dejarlo.",
+    "start": 219.08,
+    "end": 219.468
+   }
+  ]
+ },
+ {
+  "id": "S06_F030",
+  "scene": "EL CIERRE",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "No necesitas convertirte en un atleta del frío extremo, ni tolerar temperaturas heladas durante minutos enteros para obtener el beneficio.",
+  "visual": "Wide shot of an exaggerated extreme-ice-bath icon shown crossed out, replaced by the simple thirty-second timer icon from earlier.",
+  "start": 220.089,
+  "end": 229.235,
+  "words": [
+   {
+    "word": "No",
+    "start": 220.709,
+    "end": 220.827
+   },
+   {
+    "word": "necesitas",
+    "start": 220.827,
+    "end": 221.359
+   },
+   {
+    "word": "convertirte",
+    "start": 221.359,
+    "end": 222.163
+   },
+   {
+    "word": "en",
+    "start": 222.163,
+    "end": 222.281
+   },
+   {
+    "word": "un",
+    "start": 222.281,
+    "end": 222.399
+   },
+   {
+    "word": "atleta",
+    "start": 222.399,
+    "end": 222.754
+   },
+   {
+    "word": "del",
+    "start": 222.754,
+    "end": 222.931
+   },
+   {
+    "word": "frío",
+    "start": 222.931,
+    "end": 223.168
+   },
+   {
+    "word": "extremo,",
+    "start": 223.168,
+    "end": 223.582
+   },
+   {
+    "word": "ni",
+    "start": 223.582,
+    "end": 223.7
+   },
+   {
+    "word": "tolerar",
+    "start": 223.7,
+    "end": 224.526
+   },
+   {
+    "word": "temperaturas",
+    "start": 224.526,
+    "end": 225.307
+   },
+   {
+    "word": "heladas",
+    "start": 225.307,
+    "end": 225.72
+   },
+   {
+    "word": "durante",
+    "start": 225.72,
+    "end": 226.134
+   },
+   {
+    "word": "minutos",
+    "start": 226.134,
+    "end": 226.625
+   },
+   {
+    "word": "enteros",
+    "start": 226.625,
+    "end": 227.116
+   },
+   {
+    "word": "para",
+    "start": 227.116,
+    "end": 227.434
+   },
+   {
+    "word": "obtener",
+    "start": 227.434,
+    "end": 227.973
+   },
+   {
+    "word": "el",
+    "start": 227.973,
+    "end": 228.091
+   },
+   {
+    "word": "beneficio.",
+    "start": 228.091,
+    "end": 228.623
+   }
+  ]
+ },
+ {
+  "id": "S06_F031",
+  "scene": "EL CIERRE",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "Necesitas treinta segundos, todos los días, de decidir algo incómodo antes de que tu mente termine de justificar por qué no deberías hacerlo hoy tampoco.",
+  "visual": "Medium shot of the stick figure's hand reaching toward the shower handle again, the thirty-second timer glowing steadily in #FF5A36, no hesitation this time.",
+  "start": 229.235,
+  "end": 239.293,
+  "words": [
+   {
+    "word": "Necesitas",
+    "start": 229.847,
+    "end": 230.381
+   },
+   {
+    "word": "treinta",
+    "start": 230.381,
+    "end": 230.797
+   },
+   {
+    "word": "segundos,",
+    "start": 230.797,
+    "end": 231.272
+   },
+   {
+    "word": "todos",
+    "start": 231.272,
+    "end": 231.568
+   },
+   {
+    "word": "los",
+    "start": 231.568,
+    "end": 232.159
+   },
+   {
+    "word": "días,",
+    "start": 232.159,
+    "end": 232.397
+   },
+   {
+    "word": "de",
+    "start": 232.397,
+    "end": 232.516
+   },
+   {
+    "word": "decidir",
+    "start": 232.516,
+    "end": 233.22
+   },
+   {
+    "word": "algo",
+    "start": 233.22,
+    "end": 233.458
+   },
+   {
+    "word": "incómodo",
+    "start": 233.458,
+    "end": 233.932
+   },
+   {
+    "word": "antes",
+    "start": 233.932,
+    "end": 234.229
+   },
+   {
+    "word": "de",
+    "start": 234.229,
+    "end": 234.348
+   },
+   {
+    "word": "que",
+    "start": 234.348,
+    "end": 234.526
+   },
+   {
+    "word": "tu",
+    "start": 234.526,
+    "end": 234.645
+   },
+   {
+    "word": "mente",
+    "start": 234.645,
+    "end": 234.941
+   },
+   {
+    "word": "termine",
+    "start": 234.941,
+    "end": 235.357
+   },
+   {
+    "word": "de",
+    "start": 235.357,
+    "end": 235.476
+   },
+   {
+    "word": "justificar",
+    "start": 235.476,
+    "end": 236.14
+   },
+   {
+    "word": "por",
+    "start": 236.14,
+    "end": 236.318
+   },
+   {
+    "word": "qué",
+    "start": 236.318,
+    "end": 236.578
+   },
+   {
+    "word": "no",
+    "start": 236.578,
+    "end": 236.793
+   },
+   {
+    "word": "deberías",
+    "start": 236.793,
+    "end": 237.352
+   },
+   {
+    "word": "hacerlo",
+    "start": 237.352,
+    "end": 237.767
+   },
+   {
+    "word": "hoy",
+    "start": 237.767,
+    "end": 237.945
+   },
+   {
+    "word": "tampoco.",
+    "start": 237.945,
+    "end": 238.552
+   }
+  ]
+ },
+ {
+  "id": "S06_F032",
+  "scene": "EL CIERRE",
+  "shot_raw": "Direct address",
+  "shot": "MEDIUM SHOT",
+  "es": "Escribe en los comentarios si te animas a probarlo mañana en la mañana, y cuéntanos cuántos segundos aguantaste realmente, sin exagerar el número.",
+  "visual": "Direct-address medium shot of the stick figure gesturing toward the viewer, a small glowing comment-bubble icon appearing beside the timer icon.",
+  "start": 239.293,
+  "end": 248.921,
+  "words": [
+   {
+    "word": "Escribe",
+    "start": 239.925,
+    "end": 240.353
+   },
+   {
+    "word": "en",
+    "start": 240.353,
+    "end": 240.475
+   },
+   {
+    "word": "los",
+    "start": 240.475,
+    "end": 240.658
+   },
+   {
+    "word": "comentarios",
+    "start": 240.658,
+    "end": 241.33
+   },
+   {
+    "word": "si",
+    "start": 241.33,
+    "end": 241.452
+   },
+   {
+    "word": "te",
+    "start": 241.452,
+    "end": 241.575
+   },
+   {
+    "word": "animas",
+    "start": 241.575,
+    "end": 241.941
+   },
+   {
+    "word": "a",
+    "start": 241.941,
+    "end": 242.002
+   },
+   {
+    "word": "probarlo",
+    "start": 242.002,
+    "end": 242.491
+   },
+   {
+    "word": "mañana",
+    "start": 242.491,
+    "end": 242.858
+   },
+   {
+    "word": "en",
+    "start": 242.858,
+    "end": 242.98
+   },
+   {
+    "word": "la",
+    "start": 242.98,
+    "end": 243.102
+   },
+   {
+    "word": "mañana,",
+    "start": 243.102,
+    "end": 243.469
+   },
+   {
+    "word": "y",
+    "start": 243.469,
+    "end": 243.895
+   },
+   {
+    "word": "cuéntanos",
+    "start": 243.895,
+    "end": 244.517
+   },
+   {
+    "word": "cuántos",
+    "start": 244.517,
+    "end": 244.944
+   },
+   {
+    "word": "segundos",
+    "start": 244.944,
+    "end": 245.433
+   },
+   {
+    "word": "aguantaste",
+    "start": 245.433,
+    "end": 246.117
+   },
+   {
+    "word": "realmente,",
+    "start": 246.117,
+    "end": 247.135
+   },
+   {
+    "word": "sin",
+    "start": 247.135,
+    "end": 247.318
+   },
+   {
+    "word": "exagerar",
+    "start": 247.318,
+    "end": 247.807
+   },
+   {
+    "word": "el",
+    "start": 247.807,
+    "end": 247.929
+   },
+   {
+    "word": "número.",
+    "start": 247.929,
+    "end": 248.296
+   }
+  ]
+ },
+ {
+  "id": "S06_F033",
+  "scene": "EL CIERRE",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Si este video te sirvió, dale like y suscríbete — la disciplina no hace ruido, ni siquiera bajo agua fría.",
+  "visual": "Final wide shot of the stick figure standing calm and alert under the cold stream without flinching, small subscribe-bell and thumbs-up icons glowing softly in #FF5A36 in the corner.",
+  "start": 248.921,
+  "end": 257.69,
+  "words": [
+   {
+    "word": "Si",
+    "start": 249.547,
+    "end": 249.681
+   },
+   {
+    "word": "este",
+    "start": 249.681,
+    "end": 249.95
+   },
+   {
+    "word": "video",
+    "start": 249.95,
+    "end": 250.285
+   },
+   {
+    "word": "te",
+    "start": 250.285,
+    "end": 250.42
+   },
+   {
+    "word": "sirvió,",
+    "start": 250.42,
+    "end": 250.822
+   },
+   {
+    "word": "dale",
+    "start": 250.822,
+    "end": 251.443
+   },
+   {
+    "word": "like",
+    "start": 251.443,
+    "end": 251.712
+   },
+   {
+    "word": "y",
+    "start": 251.712,
+    "end": 251.779
+   },
+   {
+    "word": "suscríbete",
+    "start": 251.779,
+    "end": 252.604
+   },
+   {
+    "word": "—",
+    "start": 252.604,
+    "end": 252.671
+   },
+   {
+    "word": "la",
+    "start": 252.671,
+    "end": 252.885
+   },
+   {
+    "word": "disciplina",
+    "start": 252.885,
+    "end": 254.054
+   },
+   {
+    "word": "no",
+    "start": 254.054,
+    "end": 254.188
+   },
+   {
+    "word": "hace",
+    "start": 254.188,
+    "end": 254.456
+   },
+   {
+    "word": "ruido,",
+    "start": 254.456,
+    "end": 254.792
+   },
+   {
+    "word": "ni",
+    "start": 254.792,
+    "end": 255.285
+   },
+   {
+    "word": "siquiera",
+    "start": 255.285,
+    "end": 255.822
+   },
+   {
+    "word": "bajo",
+    "start": 255.822,
+    "end": 256.091
+   },
+   {
+    "word": "agua",
+    "start": 256.091,
+    "end": 256.359
+   },
+   {
+    "word": "fría.",
+    "start": 256.359,
+    "end": 256.628
+   }
+  ]
+ }
+]

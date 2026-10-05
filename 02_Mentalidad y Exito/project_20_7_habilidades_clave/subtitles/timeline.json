@@ -1,0 +1,3967 @@
+[
+ {
+  "id": "S01_F001",
+  "scene": "EL GANCHO / LA PROMESA",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Hay habilidades que la escuela nunca te enseñó, que nadie se sienta a explicarte,",
+  "visual": "Figure stands beside a faint ghost-outline empty classroom-desk icon, several small unlearned skill-icons floating unclaimed nearby.",
+  "start": 0.0,
+  "end": 4.895,
+  "words": [
+   {
+    "word": "Hay",
+    "start": 0.249,
+    "end": 0.427
+   },
+   {
+    "word": "habilidades",
+    "start": 0.427,
+    "end": 1.079
+   },
+   {
+    "word": "que",
+    "start": 1.079,
+    "end": 1.257
+   },
+   {
+    "word": "la",
+    "start": 1.257,
+    "end": 1.375
+   },
+   {
+    "word": "escuela",
+    "start": 1.375,
+    "end": 1.79
+   },
+   {
+    "word": "nunca",
+    "start": 1.79,
+    "end": 2.087
+   },
+   {
+    "word": "te",
+    "start": 2.087,
+    "end": 2.205
+   },
+   {
+    "word": "enseñó,",
+    "start": 2.205,
+    "end": 2.561
+   },
+   {
+    "word": "que",
+    "start": 2.561,
+    "end": 3.15
+   },
+   {
+    "word": "nadie",
+    "start": 3.15,
+    "end": 3.446
+   },
+   {
+    "word": "se",
+    "start": 3.446,
+    "end": 3.565
+   },
+   {
+    "word": "sienta",
+    "start": 3.565,
+    "end": 3.92
+   },
+   {
+    "word": "a",
+    "start": 3.92,
+    "end": 3.98
+   },
+   {
+    "word": "explicarte,",
+    "start": 3.98,
+    "end": 4.754
+   }
+  ]
+ },
+ {
+  "id": "S01_F002",
+  "scene": "EL GANCHO / LA PROMESA",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "y que terminas aprendiendo a los golpes, años después de cuando realmente las necesitabas.",
+  "visual": "A faint timeline shows the unlearned skill-icons finally being picked up much later than a marked \"needed here\" point.",
+  "start": 4.895,
+  "end": 10.764,
+  "words": [
+   {
+    "word": "y",
+    "start": 5.036,
+    "end": 5.094
+   },
+   {
+    "word": "que",
+    "start": 5.094,
+    "end": 5.344
+   },
+   {
+    "word": "terminas",
+    "start": 5.344,
+    "end": 5.809
+   },
+   {
+    "word": "aprendiendo",
+    "start": 5.809,
+    "end": 6.447
+   },
+   {
+    "word": "a",
+    "start": 6.447,
+    "end": 6.505
+   },
+   {
+    "word": "los",
+    "start": 6.505,
+    "end": 6.68
+   },
+   {
+    "word": "golpes,",
+    "start": 6.68,
+    "end": 7.549
+   },
+   {
+    "word": "años",
+    "start": 7.549,
+    "end": 7.782
+   },
+   {
+    "word": "después",
+    "start": 7.782,
+    "end": 8.283
+   },
+   {
+    "word": "de",
+    "start": 8.283,
+    "end": 8.399
+   },
+   {
+    "word": "cuando",
+    "start": 8.399,
+    "end": 8.747
+   },
+   {
+    "word": "realmente",
+    "start": 8.747,
+    "end": 9.27
+   },
+   {
+    "word": "las",
+    "start": 9.27,
+    "end": 9.444
+   },
+   {
+    "word": "necesitabas.",
+    "start": 9.444,
+    "end": 10.161
+   }
+  ]
+ },
+ {
+  "id": "S01_F003",
+  "scene": "EL GANCHO / LA PROMESA",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Hoy te muestro 7 de ellas — no trucos de productividad,",
+  "visual": "Close-up, seven small glowing dots arrange themselves in a steady arc beside the figure, calm explanatory posture.",
+  "start": 10.764,
+  "end": 14.905,
+  "words": [
+   {
+    "word": "Hoy",
+    "start": 11.367,
+    "end": 11.565
+   },
+   {
+    "word": "te",
+    "start": 11.565,
+    "end": 11.697
+   },
+   {
+    "word": "muestro",
+    "start": 11.697,
+    "end": 12.158
+   },
+   {
+    "word": "7",
+    "start": 12.158,
+    "end": 12.224
+   },
+   {
+    "word": "de",
+    "start": 12.224,
+    "end": 12.356
+   },
+   {
+    "word": "ellas",
+    "start": 12.356,
+    "end": 12.686
+   },
+   {
+    "word": "—",
+    "start": 12.686,
+    "end": 12.752
+   },
+   {
+    "word": "no",
+    "start": 12.752,
+    "end": 12.884
+   },
+   {
+    "word": "trucos",
+    "start": 12.884,
+    "end": 13.615
+   },
+   {
+    "word": "de",
+    "start": 13.615,
+    "end": 13.747
+   },
+   {
+    "word": "productividad,",
+    "start": 13.747,
+    "end": 14.706
+   }
+  ]
+ },
+ {
+  "id": "S01_F004",
+  "scene": "EL GANCHO / LA PROMESA",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "sino capacidades básicas que toda persona debería dominar, sin importar a qué se dedique.",
+  "visual": "The seven glowing dots settle into a simple toolbox-shaped outline, universal and unrelated to any specific profession.",
+  "start": 14.905,
+  "end": 20.648,
+  "words": [
+   {
+    "word": "sino",
+    "start": 15.104,
+    "end": 15.326
+   },
+   {
+    "word": "capacidades",
+    "start": 15.326,
+    "end": 15.937
+   },
+   {
+    "word": "básicas",
+    "start": 15.937,
+    "end": 16.326
+   },
+   {
+    "word": "que",
+    "start": 16.326,
+    "end": 16.493
+   },
+   {
+    "word": "toda",
+    "start": 16.493,
+    "end": 16.715
+   },
+   {
+    "word": "persona",
+    "start": 16.715,
+    "end": 17.174
+   },
+   {
+    "word": "debería",
+    "start": 17.174,
+    "end": 17.563
+   },
+   {
+    "word": "dominar,",
+    "start": 17.563,
+    "end": 17.952
+   },
+   {
+    "word": "sin",
+    "start": 17.952,
+    "end": 18.119
+   },
+   {
+    "word": "importar",
+    "start": 18.119,
+    "end": 18.999
+   },
+   {
+    "word": "a",
+    "start": 18.999,
+    "end": 19.142
+   },
+   {
+    "word": "qué",
+    "start": 19.142,
+    "end": 19.309
+   },
+   {
+    "word": "se",
+    "start": 19.309,
+    "end": 19.49
+   },
+   {
+    "word": "dedique.",
+    "start": 19.49,
+    "end": 19.879
+   }
+  ]
+ },
+ {
+  "id": "S02_F005",
+  "scene": "HABILIDAD 1 — Primeros Auxilios Básicos",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Habilidad uno: primeros auxilios básicos.",
+  "visual": "Figure stands beside a large numbered marker \"1\", a simple glowing first-aid cross icon beside them.",
+  "start": 20.648,
+  "end": 24.703,
+  "words": [
+   {
+    "word": "Habilidad",
+    "start": 21.305,
+    "end": 21.896
+   },
+   {
+    "word": "uno:",
+    "start": 21.896,
+    "end": 22.505
+   },
+   {
+    "word": "primeros",
+    "start": 22.505,
+    "end": 23.03
+   },
+   {
+    "word": "auxilios",
+    "start": 23.03,
+    "end": 23.555
+   },
+   {
+    "word": "básicos.",
+    "start": 23.555,
+    "end": 24.102
+   }
+  ]
+ },
+ {
+  "id": "S02_F006",
+  "scene": "HABILIDAD 1 — Primeros Auxilios Básicos",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Saber cómo actuar ante un atragantamiento, cómo hacer compresiones de RCP si alguien colapsa frente a ti,",
+  "visual": "Figure calmly performs a clear, deliberate helping gesture toward a faint ghost-outline collapsed figure, steady composed expression.",
+  "start": 24.703,
+  "end": 31.504,
+  "words": [
+   {
+    "word": "Saber",
+    "start": 25.305,
+    "end": 25.602
+   },
+   {
+    "word": "cómo",
+    "start": 25.602,
+    "end": 25.84
+   },
+   {
+    "word": "actuar",
+    "start": 25.84,
+    "end": 26.288
+   },
+   {
+    "word": "ante",
+    "start": 26.288,
+    "end": 26.526
+   },
+   {
+    "word": "un",
+    "start": 26.526,
+    "end": 26.645
+   },
+   {
+    "word": "atragantamiento,",
+    "start": 26.645,
+    "end": 27.997
+   },
+   {
+    "word": "cómo",
+    "start": 27.997,
+    "end": 28.235
+   },
+   {
+    "word": "hacer",
+    "start": 28.235,
+    "end": 28.608
+   },
+   {
+    "word": "compresiones",
+    "start": 28.608,
+    "end": 29.322
+   },
+   {
+    "word": "de",
+    "start": 29.322,
+    "end": 29.441
+   },
+   {
+    "word": "RCP",
+    "start": 29.441,
+    "end": 29.702
+   },
+   {
+    "word": "si",
+    "start": 29.702,
+    "end": 29.821
+   },
+   {
+    "word": "alguien",
+    "start": 29.821,
+    "end": 30.237
+   },
+   {
+    "word": "colapsa",
+    "start": 30.237,
+    "end": 30.654
+   },
+   {
+    "word": "frente",
+    "start": 30.654,
+    "end": 31.01
+   },
+   {
+    "word": "a",
+    "start": 31.01,
+    "end": 31.07
+   },
+   {
+    "word": "ti,",
+    "start": 31.07,
+    "end": 31.291
+   }
+  ]
+ },
+ {
+  "id": "S02_F007",
+  "scene": "HABILIDAD 1 — Primeros Auxilios Básicos",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "cómo controlar un sangrado grave en los primeros minutos, antes de que llegue ayuda profesional.",
+  "visual": "Close-up, a faint glowing clock counts the first critical minutes while the figure applies calm, steady pressure to a wound-icon.",
+  "start": 31.504,
+  "end": 37.616,
+  "words": [
+   {
+    "word": "cómo",
+    "start": 31.717,
+    "end": 31.949
+   },
+   {
+    "word": "controlar",
+    "start": 31.949,
+    "end": 32.473
+   },
+   {
+    "word": "un",
+    "start": 32.473,
+    "end": 32.589
+   },
+   {
+    "word": "sangrado",
+    "start": 32.589,
+    "end": 33.055
+   },
+   {
+    "word": "grave",
+    "start": 33.055,
+    "end": 33.345
+   },
+   {
+    "word": "en",
+    "start": 33.345,
+    "end": 33.462
+   },
+   {
+    "word": "los",
+    "start": 33.462,
+    "end": 33.742
+   },
+   {
+    "word": "primeros",
+    "start": 33.742,
+    "end": 34.207
+   },
+   {
+    "word": "minutos,",
+    "start": 34.207,
+    "end": 34.695
+   },
+   {
+    "word": "antes",
+    "start": 34.695,
+    "end": 35.434
+   },
+   {
+    "word": "de",
+    "start": 35.434,
+    "end": 35.55
+   },
+   {
+    "word": "que",
+    "start": 35.55,
+    "end": 35.725
+   },
+   {
+    "word": "llegue",
+    "start": 35.725,
+    "end": 36.074
+   },
+   {
+    "word": "ayuda",
+    "start": 36.074,
+    "end": 36.365
+   },
+   {
+    "word": "profesional.",
+    "start": 36.365,
+    "end": 37.005
+   }
+  ]
+ },
+ {
+  "id": "S02_F008",
+  "scene": "HABILIDAD 1 — Primeros Auxilios Básicos",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Presta atención a esto: la mayoría de las personas nunca lo aprende porque asume que \"eso le pasa a otros\".",
+  "visual": "A faint ghost-outline crowd stands passively nearby, each one assuming someone else will act, dismissive unconcerned posture.",
+  "start": 37.616,
+  "end": 45.03,
+  "words": [
+   {
+    "word": "Presta",
+    "start": 38.227,
+    "end": 38.576
+   },
+   {
+    "word": "atención",
+    "start": 38.576,
+    "end": 39.04
+   },
+   {
+    "word": "a",
+    "start": 39.04,
+    "end": 39.098
+   },
+   {
+    "word": "esto:",
+    "start": 39.098,
+    "end": 39.411
+   },
+   {
+    "word": "la",
+    "start": 39.411,
+    "end": 39.983
+   },
+   {
+    "word": "mayoría",
+    "start": 39.983,
+    "end": 40.389
+   },
+   {
+    "word": "de",
+    "start": 40.389,
+    "end": 40.506
+   },
+   {
+    "word": "las",
+    "start": 40.506,
+    "end": 40.68
+   },
+   {
+    "word": "personas",
+    "start": 40.68,
+    "end": 41.24
+   },
+   {
+    "word": "nunca",
+    "start": 41.24,
+    "end": 41.531
+   },
+   {
+    "word": "lo",
+    "start": 41.531,
+    "end": 41.647
+   },
+   {
+    "word": "aprende",
+    "start": 41.647,
+    "end": 42.147
+   },
+   {
+    "word": "porque",
+    "start": 42.147,
+    "end": 42.576
+   },
+   {
+    "word": "asume",
+    "start": 42.576,
+    "end": 42.943
+   },
+   {
+    "word": "que",
+    "start": 42.943,
+    "end": 43.392
+   },
+   {
+    "word": "\"eso",
+    "start": 43.392,
+    "end": 43.566
+   },
+   {
+    "word": "le",
+    "start": 43.566,
+    "end": 43.757
+   },
+   {
+    "word": "pasa",
+    "start": 43.757,
+    "end": 43.989
+   },
+   {
+    "word": "a",
+    "start": 43.989,
+    "end": 44.047
+   },
+   {
+    "word": "otros\".",
+    "start": 44.047,
+    "end": 44.421
+   }
+  ]
+ },
+ {
+  "id": "S02_F009",
+  "scene": "HABILIDAD 1 — Primeros Auxilios Básicos",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Pero los minutos que preceden a la ayuda profesional son exactamente los que más determinan el resultado,",
+  "visual": "The glowing clock icon pulses urgently during the critical early minutes, clearly the most decisive window on the timeline.",
+  "start": 45.03,
+  "end": 51.41,
+  "words": [
+   {
+    "word": "Pero",
+    "start": 45.64,
+    "end": 45.878
+   },
+   {
+    "word": "los",
+    "start": 45.878,
+    "end": 46.057
+   },
+   {
+    "word": "minutos",
+    "start": 46.057,
+    "end": 46.474
+   },
+   {
+    "word": "que",
+    "start": 46.474,
+    "end": 46.653
+   },
+   {
+    "word": "preceden",
+    "start": 46.653,
+    "end": 47.13
+   },
+   {
+    "word": "a",
+    "start": 47.13,
+    "end": 47.19
+   },
+   {
+    "word": "la",
+    "start": 47.19,
+    "end": 47.309
+   },
+   {
+    "word": "ayuda",
+    "start": 47.309,
+    "end": 47.607
+   },
+   {
+    "word": "profesional",
+    "start": 47.607,
+    "end": 48.263
+   },
+   {
+    "word": "son",
+    "start": 48.263,
+    "end": 48.442
+   },
+   {
+    "word": "exactamente",
+    "start": 48.442,
+    "end": 49.225
+   },
+   {
+    "word": "los",
+    "start": 49.225,
+    "end": 49.403
+   },
+   {
+    "word": "que",
+    "start": 49.403,
+    "end": 49.582
+   },
+   {
+    "word": "más",
+    "start": 49.582,
+    "end": 49.761
+   },
+   {
+    "word": "determinan",
+    "start": 49.761,
+    "end": 50.431
+   },
+   {
+    "word": "el",
+    "start": 50.431,
+    "end": 50.551
+   },
+   {
+    "word": "resultado,",
+    "start": 50.551,
+    "end": 51.199
+   }
+  ]
+ },
+ {
+  "id": "S02_F010",
+  "scene": "HABILIDAD 1 — Primeros Auxilios Básicos",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "y en esos minutos, la única persona disponible eres tú.",
+  "visual": "Close-up, figure stands alone and ready beside the collapsed ghost-outline figure, calm capable resolve, no one else present.",
+  "start": 51.41,
+  "end": 55.591,
+  "words": [
+   {
+    "word": "y",
+    "start": 51.621,
+    "end": 51.684
+   },
+   {
+    "word": "en",
+    "start": 51.684,
+    "end": 51.811
+   },
+   {
+    "word": "esos",
+    "start": 51.811,
+    "end": 52.065
+   },
+   {
+    "word": "minutos,",
+    "start": 52.065,
+    "end": 52.61
+   },
+   {
+    "word": "la",
+    "start": 52.61,
+    "end": 53.146
+   },
+   {
+    "word": "única",
+    "start": 53.146,
+    "end": 53.463
+   },
+   {
+    "word": "persona",
+    "start": 53.463,
+    "end": 53.908
+   },
+   {
+    "word": "disponible",
+    "start": 53.908,
+    "end": 54.613
+   },
+   {
+    "word": "eres",
+    "start": 54.613,
+    "end": 54.867
+   },
+   {
+    "word": "tú.",
+    "start": 54.867,
+    "end": 54.994
+   }
+  ]
+ },
+ {
+  "id": "S03_F011",
+  "scene": "HABILIDAD 2 — Cocinar Desde Cero",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Habilidad dos: cocinar cinco platos simples desde cero, sin receta en la mano.",
+  "visual": "Figure stands beside a large numbered marker \"2\", calmly preparing simple food with a few basic glowing ingredient-icons nearby.",
+  "start": 55.591,
+  "end": 61.82,
+  "words": [
+   {
+    "word": "Habilidad",
+    "start": 56.188,
+    "end": 56.792
+   },
+   {
+    "word": "dos:",
+    "start": 56.792,
+    "end": 56.993
+   },
+   {
+    "word": "cocinar",
+    "start": 56.993,
+    "end": 57.785
+   },
+   {
+    "word": "cinco",
+    "start": 57.785,
+    "end": 58.12
+   },
+   {
+    "word": "platos",
+    "start": 58.12,
+    "end": 58.604
+   },
+   {
+    "word": "simples",
+    "start": 58.604,
+    "end": 59.074
+   },
+   {
+    "word": "desde",
+    "start": 59.074,
+    "end": 59.409
+   },
+   {
+    "word": "cero,",
+    "start": 59.409,
+    "end": 60.051
+   },
+   {
+    "word": "sin",
+    "start": 60.051,
+    "end": 60.253
+   },
+   {
+    "word": "receta",
+    "start": 60.253,
+    "end": 60.655
+   },
+   {
+    "word": "en",
+    "start": 60.655,
+    "end": 60.789
+   },
+   {
+    "word": "la",
+    "start": 60.789,
+    "end": 60.923
+   },
+   {
+    "word": "mano.",
+    "start": 60.923,
+    "end": 61.192
+   }
+  ]
+ },
+ {
+  "id": "S03_F012",
+  "scene": "HABILIDAD 2 — Cocinar Desde Cero",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "No estamos hablando de alta cocina.",
+  "visual": "A faint elaborate fine-dining icon is gently set aside, not the point being made.",
+  "start": 61.82,
+  "end": 64.932,
+  "words": [
+   {
+    "word": "No",
+    "start": 62.448,
+    "end": 62.572
+   },
+   {
+    "word": "estamos",
+    "start": 62.572,
+    "end": 63.008
+   },
+   {
+    "word": "hablando",
+    "start": 63.008,
+    "end": 63.506
+   },
+   {
+    "word": "de",
+    "start": 63.506,
+    "end": 63.705
+   },
+   {
+    "word": "alta",
+    "start": 63.705,
+    "end": 63.954
+   },
+   {
+    "word": "cocina.",
+    "start": 63.954,
+    "end": 64.327
+   }
+  ]
+ },
+ {
+  "id": "S03_F013",
+  "scene": "HABILIDAD 2 — Cocinar Desde Cero",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Hablamos de poder alimentarte bien con lo que tengas en la despensa,",
+  "visual": "Close-up, figure looks into a simple pantry-shelf icon with a few modest glowing ingredients, calm resourceful expression.",
+  "start": 64.932,
+  "end": 69.14,
+  "words": [
+   {
+    "word": "Hablamos",
+    "start": 65.537,
+    "end": 65.984
+   },
+   {
+    "word": "de",
+    "start": 65.984,
+    "end": 66.171
+   },
+   {
+    "word": "poder",
+    "start": 66.171,
+    "end": 66.45
+   },
+   {
+    "word": "alimentarte",
+    "start": 66.45,
+    "end": 67.166
+   },
+   {
+    "word": "bien",
+    "start": 67.166,
+    "end": 67.389
+   },
+   {
+    "word": "con",
+    "start": 67.389,
+    "end": 67.556
+   },
+   {
+    "word": "lo",
+    "start": 67.556,
+    "end": 67.668
+   },
+   {
+    "word": "que",
+    "start": 67.668,
+    "end": 67.835
+   },
+   {
+    "word": "tengas",
+    "start": 67.835,
+    "end": 68.17
+   },
+   {
+    "word": "en",
+    "start": 68.17,
+    "end": 68.281
+   },
+   {
+    "word": "la",
+    "start": 68.281,
+    "end": 68.393
+   },
+   {
+    "word": "despensa,",
+    "start": 68.393,
+    "end": 68.923
+   }
+  ]
+ },
+ {
+  "id": "S03_F014",
+  "scene": "HABILIDAD 2 — Cocinar Desde Cero",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "sin depender de comida para llevar cada vez que estás cansado o sin tiempo.",
+  "visual": "A faint dim takeout-box icon fades away as the figure instead prepares a simple warm meal at home.",
+  "start": 69.14,
+  "end": 73.766,
+  "words": [
+   {
+    "word": "sin",
+    "start": 69.356,
+    "end": 69.522
+   },
+   {
+    "word": "depender",
+    "start": 69.522,
+    "end": 69.965
+   },
+   {
+    "word": "de",
+    "start": 69.965,
+    "end": 70.076
+   },
+   {
+    "word": "comida",
+    "start": 70.076,
+    "end": 70.408
+   },
+   {
+    "word": "para",
+    "start": 70.408,
+    "end": 70.716
+   },
+   {
+    "word": "llevar",
+    "start": 70.716,
+    "end": 71.133
+   },
+   {
+    "word": "cada",
+    "start": 71.133,
+    "end": 71.355
+   },
+   {
+    "word": "vez",
+    "start": 71.355,
+    "end": 71.521
+   },
+   {
+    "word": "que",
+    "start": 71.521,
+    "end": 71.687
+   },
+   {
+    "word": "estás",
+    "start": 71.687,
+    "end": 71.964
+   },
+   {
+    "word": "cansado",
+    "start": 71.964,
+    "end": 72.351
+   },
+   {
+    "word": "o",
+    "start": 72.351,
+    "end": 72.407
+   },
+   {
+    "word": "sin",
+    "start": 72.407,
+    "end": 72.573
+   },
+   {
+    "word": "tiempo.",
+    "start": 72.573,
+    "end": 72.982
+   }
+  ]
+ },
+ {
+  "id": "S03_F015",
+  "scene": "HABILIDAD 2 — Cocinar Desde Cero",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Aquí está la clave: esta habilidad no solo ahorra dinero.",
+  "visual": "A faint coin-icon appears briefly beside the meal, acknowledged but not the main point.",
+  "start": 73.766,
+  "end": 78.27,
+  "words": [
+   {
+    "word": "Aquí",
+    "start": 74.398,
+    "end": 74.643
+   },
+   {
+    "word": "está",
+    "start": 74.643,
+    "end": 74.888
+   },
+   {
+    "word": "la",
+    "start": 74.888,
+    "end": 75.011
+   },
+   {
+    "word": "clave:",
+    "start": 75.011,
+    "end": 75.317
+   },
+   {
+    "word": "esta",
+    "start": 75.317,
+    "end": 75.997
+   },
+   {
+    "word": "habilidad",
+    "start": 75.997,
+    "end": 76.548
+   },
+   {
+    "word": "no",
+    "start": 76.548,
+    "end": 76.671
+   },
+   {
+    "word": "solo",
+    "start": 76.671,
+    "end": 76.916
+   },
+   {
+    "word": "ahorra",
+    "start": 76.916,
+    "end": 77.284
+   },
+   {
+    "word": "dinero.",
+    "start": 77.284,
+    "end": 77.651
+   }
+  ]
+ },
+ {
+  "id": "S03_F016",
+  "scene": "HABILIDAD 2 — Cocinar Desde Cero",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Te devuelve control sobre tu energía y tu salud en los días en que menos ganas tienes de cuidarte.",
+  "visual": "Close-up, figure eats the simple warm meal with quiet satisfaction, a faint glowing energy-icon steadily replenishing beside them.",
+  "start": 78.27,
+  "end": 84.582,
+  "words": [
+   {
+    "word": "Te",
+    "start": 78.889,
+    "end": 79.014
+   },
+   {
+    "word": "devuelve",
+    "start": 79.014,
+    "end": 79.517
+   },
+   {
+    "word": "control",
+    "start": 79.517,
+    "end": 79.957
+   },
+   {
+    "word": "sobre",
+    "start": 79.957,
+    "end": 80.271
+   },
+   {
+    "word": "tu",
+    "start": 80.271,
+    "end": 80.397
+   },
+   {
+    "word": "energía",
+    "start": 80.397,
+    "end": 80.836
+   },
+   {
+    "word": "y",
+    "start": 80.836,
+    "end": 80.899
+   },
+   {
+    "word": "tu",
+    "start": 80.899,
+    "end": 81.025
+   },
+   {
+    "word": "salud",
+    "start": 81.025,
+    "end": 81.339
+   },
+   {
+    "word": "en",
+    "start": 81.339,
+    "end": 81.465
+   },
+   {
+    "word": "los",
+    "start": 81.465,
+    "end": 81.653
+   },
+   {
+    "word": "días",
+    "start": 81.653,
+    "end": 81.905
+   },
+   {
+    "word": "en",
+    "start": 81.905,
+    "end": 82.03
+   },
+   {
+    "word": "que",
+    "start": 82.03,
+    "end": 82.219
+   },
+   {
+    "word": "menos",
+    "start": 82.219,
+    "end": 82.533
+   },
+   {
+    "word": "ganas",
+    "start": 82.533,
+    "end": 82.847
+   },
+   {
+    "word": "tienes",
+    "start": 82.847,
+    "end": 83.224
+   },
+   {
+    "word": "de",
+    "start": 83.224,
+    "end": 83.35
+   },
+   {
+    "word": "cuidarte.",
+    "start": 83.35,
+    "end": 83.979
+   }
+  ]
+ },
+ {
+  "id": "S04_F017",
+  "scene": "HABILIDAD 3 — Presupuestar (Regla 50/30/20)",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Habilidad tres: presupuestar tu dinero con una regla simple.",
+  "visual": "Figure stands beside a large numbered marker \"3\", a simple glowing pie-chart icon divided into three sections beside them.",
+  "start": 84.582,
+  "end": 89.502,
+  "words": [
+   {
+    "word": "Habilidad",
+    "start": 85.185,
+    "end": 85.787
+   },
+   {
+    "word": "tres:",
+    "start": 85.787,
+    "end": 86.018
+   },
+   {
+    "word": "presupuestar",
+    "start": 86.018,
+    "end": 87.269
+   },
+   {
+    "word": "tu",
+    "start": 87.269,
+    "end": 87.384
+   },
+   {
+    "word": "dinero",
+    "start": 87.384,
+    "end": 87.802
+   },
+   {
+    "word": "con",
+    "start": 87.802,
+    "end": 87.975
+   },
+   {
+    "word": "una",
+    "start": 87.975,
+    "end": 88.148
+   },
+   {
+    "word": "regla",
+    "start": 88.148,
+    "end": 88.437
+   },
+   {
+    "word": "simple.",
+    "start": 88.437,
+    "end": 88.874
+   }
+  ]
+ },
+ {
+  "id": "S04_F018",
+  "scene": "HABILIDAD 3 — Presupuestar (Regla 50/30/20)",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "La ex-senadora y profesora Elizabeth Warren popularizó la regla del 50/30/20:",
+  "visual": "Thoughtful narrating expression, a faint glowing document/book icon appears briefly beside the figure.",
+  "start": 89.502,
+  "end": 96.528,
+  "words": [
+   {
+    "word": "La",
+    "start": 90.129,
+    "end": 90.317
+   },
+   {
+    "word": "ex-senadora",
+    "start": 90.317,
+    "end": 91.342
+   },
+   {
+    "word": "y",
+    "start": 91.342,
+    "end": 91.436
+   },
+   {
+    "word": "profesora",
+    "start": 91.436,
+    "end": 92.283
+   },
+   {
+    "word": "Elizabeth",
+    "start": 92.283,
+    "end": 93.13
+   },
+   {
+    "word": "Warren",
+    "start": 93.13,
+    "end": 93.695
+   },
+   {
+    "word": "popularizó",
+    "start": 93.695,
+    "end": 94.637
+   },
+   {
+    "word": "la",
+    "start": 94.637,
+    "end": 94.825
+   },
+   {
+    "word": "regla",
+    "start": 94.825,
+    "end": 95.386
+   },
+   {
+    "word": "del",
+    "start": 95.386,
+    "end": 95.669
+   },
+   {
+    "word": "50/30/20:",
+    "start": 95.669,
+    "end": 96.324
+   }
+  ]
+ },
+ {
+  "id": "S04_F019",
+  "scene": "HABILIDAD 3 — Presupuestar (Regla 50/30/20)",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "el 50% de tus ingresos a necesidades básicas, el 30% a gustos personales, y el 20% a ahorro y deudas.",
+  "visual": "Close-up, the pie-chart icon fills in clearly with three distinct proportional sections, each one calmly labeled by size.",
+  "start": 96.528,
+  "end": 106.357,
+  "words": [
+   {
+    "word": "el",
+    "start": 96.733,
+    "end": 96.935
+   },
+   {
+    "word": "50%",
+    "start": 96.935,
+    "end": 97.208
+   },
+   {
+    "word": "de",
+    "start": 97.208,
+    "end": 97.41
+   },
+   {
+    "word": "tus",
+    "start": 97.41,
+    "end": 97.784
+   },
+   {
+    "word": "ingresos",
+    "start": 97.784,
+    "end": 98.591
+   },
+   {
+    "word": "a",
+    "start": 98.591,
+    "end": 98.692
+   },
+   {
+    "word": "necesidades",
+    "start": 98.692,
+    "end": 99.803
+   },
+   {
+    "word": "básicas,",
+    "start": 99.803,
+    "end": 101.013
+   },
+   {
+    "word": "el",
+    "start": 101.013,
+    "end": 101.295
+   },
+   {
+    "word": "30%",
+    "start": 101.295,
+    "end": 101.497
+   },
+   {
+    "word": "a",
+    "start": 101.497,
+    "end": 101.598
+   },
+   {
+    "word": "gustos",
+    "start": 101.598,
+    "end": 102.203
+   },
+   {
+    "word": "personales,",
+    "start": 102.203,
+    "end": 103.657
+   },
+   {
+    "word": "y",
+    "start": 103.657,
+    "end": 103.758
+   },
+   {
+    "word": "el",
+    "start": 103.758,
+    "end": 103.96
+   },
+   {
+    "word": "20%",
+    "start": 103.96,
+    "end": 104.249
+   },
+   {
+    "word": "a",
+    "start": 104.249,
+    "end": 104.35
+   },
+   {
+    "word": "ahorro",
+    "start": 104.35,
+    "end": 104.956
+   },
+   {
+    "word": "y",
+    "start": 104.956,
+    "end": 105.056
+   },
+   {
+    "word": "deudas.",
+    "start": 105.056,
+    "end": 105.75
+   }
+  ]
+ },
+ {
+  "id": "S04_F020",
+  "scene": "HABILIDAD 3 — Presupuestar (Regla 50/30/20)",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Esto es lo que nadie te dice: no necesitas una hoja de cálculo compleja ni una app sofisticada para empezar.",
+  "visual": "A faint complicated spreadsheet-icon is gently set aside, replaced by the simple three-part pie-chart instead.",
+  "start": 106.357,
+  "end": 113.53,
+  "words": [
+   {
+    "word": "Esto",
+    "start": 106.964,
+    "end": 107.2
+   },
+   {
+    "word": "es",
+    "start": 107.2,
+    "end": 107.318
+   },
+   {
+    "word": "lo",
+    "start": 107.318,
+    "end": 107.436
+   },
+   {
+    "word": "que",
+    "start": 107.436,
+    "end": 107.613
+   },
+   {
+    "word": "nadie",
+    "start": 107.613,
+    "end": 107.908
+   },
+   {
+    "word": "te",
+    "start": 107.908,
+    "end": 108.026
+   },
+   {
+    "word": "dice:",
+    "start": 108.026,
+    "end": 108.262
+   },
+   {
+    "word": "no",
+    "start": 108.262,
+    "end": 108.38
+   },
+   {
+    "word": "necesitas",
+    "start": 108.38,
+    "end": 109.323
+   },
+   {
+    "word": "una",
+    "start": 109.323,
+    "end": 109.5
+   },
+   {
+    "word": "hoja",
+    "start": 109.5,
+    "end": 109.736
+   },
+   {
+    "word": "de",
+    "start": 109.736,
+    "end": 109.854
+   },
+   {
+    "word": "cálculo",
+    "start": 109.854,
+    "end": 110.412
+   },
+   {
+    "word": "compleja",
+    "start": 110.412,
+    "end": 110.973
+   },
+   {
+    "word": "ni",
+    "start": 110.973,
+    "end": 111.091
+   },
+   {
+    "word": "una",
+    "start": 111.091,
+    "end": 111.268
+   },
+   {
+    "word": "app",
+    "start": 111.268,
+    "end": 111.445
+   },
+   {
+    "word": "sofisticada",
+    "start": 111.445,
+    "end": 112.171
+   },
+   {
+    "word": "para",
+    "start": 112.171,
+    "end": 112.489
+   },
+   {
+    "word": "empezar.",
+    "start": 112.489,
+    "end": 112.902
+   }
+  ]
+ },
+ {
+  "id": "S04_F021",
+  "scene": "HABILIDAD 3 — Presupuestar (Regla 50/30/20)",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Necesitas una proporción simple que puedas seguir sin pensarlo cada mes, ajustada después según tu realidad.",
+  "visual": "Close-up, figure applies the simple pie-chart proportions calmly and automatically each month, small glowing calendar repeating steadily.",
+  "start": 113.53,
+  "end": 121.05,
+  "words": [
+   {
+    "word": "Necesitas",
+    "start": 114.158,
+    "end": 114.715
+   },
+   {
+    "word": "una",
+    "start": 114.715,
+    "end": 114.901
+   },
+   {
+    "word": "proporción",
+    "start": 114.901,
+    "end": 115.52
+   },
+   {
+    "word": "simple",
+    "start": 115.52,
+    "end": 115.891
+   },
+   {
+    "word": "que",
+    "start": 115.891,
+    "end": 116.077
+   },
+   {
+    "word": "puedas",
+    "start": 116.077,
+    "end": 116.525
+   },
+   {
+    "word": "seguir",
+    "start": 116.525,
+    "end": 116.897
+   },
+   {
+    "word": "sin",
+    "start": 116.897,
+    "end": 117.082
+   },
+   {
+    "word": "pensarlo",
+    "start": 117.082,
+    "end": 117.578
+   },
+   {
+    "word": "cada",
+    "start": 117.578,
+    "end": 117.912
+   },
+   {
+    "word": "mes,",
+    "start": 117.912,
+    "end": 118.098
+   },
+   {
+    "word": "ajustada",
+    "start": 118.098,
+    "end": 118.99
+   },
+   {
+    "word": "después",
+    "start": 118.99,
+    "end": 119.512
+   },
+   {
+    "word": "según",
+    "start": 119.512,
+    "end": 119.822
+   },
+   {
+    "word": "tu",
+    "start": 119.822,
+    "end": 119.946
+   },
+   {
+    "word": "realidad.",
+    "start": 119.946,
+    "end": 120.441
+   }
+  ]
+ },
+ {
+  "id": "S05_F022",
+  "scene": "HABILIDAD 4 — Hablar en Público",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Habilidad cuatro: hablar en público sin que el nervio te paralice por completo.",
+  "visual": "Figure stands beside a large numbered marker \"4\", facing a faint audience of ghost-outline silhouettes, composed posture despite visible tension.",
+  "start": 121.05,
+  "end": 126.623,
+  "words": [
+   {
+    "word": "Habilidad",
+    "start": 121.66,
+    "end": 122.208
+   },
+   {
+    "word": "cuatro:",
+    "start": 122.208,
+    "end": 122.894
+   },
+   {
+    "word": "hablar",
+    "start": 122.894,
+    "end": 123.209
+   },
+   {
+    "word": "en",
+    "start": 123.209,
+    "end": 123.389
+   },
+   {
+    "word": "público",
+    "start": 123.389,
+    "end": 123.757
+   },
+   {
+    "word": "sin",
+    "start": 123.757,
+    "end": 123.915
+   },
+   {
+    "word": "que",
+    "start": 123.915,
+    "end": 124.072
+   },
+   {
+    "word": "el",
+    "start": 124.072,
+    "end": 124.178
+   },
+   {
+    "word": "nervio",
+    "start": 124.178,
+    "end": 124.493
+   },
+   {
+    "word": "te",
+    "start": 124.493,
+    "end": 124.598
+   },
+   {
+    "word": "paralice",
+    "start": 124.598,
+    "end": 125.106
+   },
+   {
+    "word": "por",
+    "start": 125.106,
+    "end": 125.336
+   },
+   {
+    "word": "completo.",
+    "start": 125.336,
+    "end": 125.846
+   }
+  ]
+ },
+ {
+  "id": "S05_F023",
+  "scene": "HABILIDAD 4 — Hablar en Público",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "No se trata de eliminar el nervio — eso casi nunca desaparece del todo,",
+  "visual": "A faint nervous-energy icon flickers persistently near the figure's chest, acknowledged rather than denied.",
+  "start": 126.623,
+  "end": 131.537,
+  "words": [
+   {
+    "word": "No",
+    "start": 127.259,
+    "end": 127.382
+   },
+   {
+    "word": "se",
+    "start": 127.382,
+    "end": 127.505
+   },
+   {
+    "word": "trata",
+    "start": 127.505,
+    "end": 127.811
+   },
+   {
+    "word": "de",
+    "start": 127.811,
+    "end": 127.934
+   },
+   {
+    "word": "eliminar",
+    "start": 127.934,
+    "end": 128.425
+   },
+   {
+    "word": "el",
+    "start": 128.425,
+    "end": 128.548
+   },
+   {
+    "word": "nervio",
+    "start": 128.548,
+    "end": 128.916
+   },
+   {
+    "word": "—",
+    "start": 128.916,
+    "end": 128.978
+   },
+   {
+    "word": "eso",
+    "start": 128.978,
+    "end": 129.541
+   },
+   {
+    "word": "casi",
+    "start": 129.541,
+    "end": 129.787
+   },
+   {
+    "word": "nunca",
+    "start": 129.787,
+    "end": 130.093
+   },
+   {
+    "word": "desaparece",
+    "start": 130.093,
+    "end": 130.793
+   },
+   {
+    "word": "del",
+    "start": 130.793,
+    "end": 130.977
+   },
+   {
+    "word": "todo,",
+    "start": 130.977,
+    "end": 131.326
+   }
+  ]
+ },
+ {
+  "id": "S05_F024",
+  "scene": "HABILIDAD 4 — Hablar en Público",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "ni siquiera en profesionales con años de experiencia.",
+  "visual": "Close-up, a faint ghost-outline experienced speaker figure shows the same small nervous flicker, reassuring normalcy.",
+  "start": 131.537,
+  "end": 135.032,
+  "words": [
+   {
+    "word": "ni",
+    "start": 131.749,
+    "end": 131.864
+   },
+   {
+    "word": "siquiera",
+    "start": 131.864,
+    "end": 132.325
+   },
+   {
+    "word": "en",
+    "start": 132.325,
+    "end": 132.44
+   },
+   {
+    "word": "profesionales",
+    "start": 132.44,
+    "end": 133.189
+   },
+   {
+    "word": "con",
+    "start": 133.189,
+    "end": 133.362
+   },
+   {
+    "word": "años",
+    "start": 133.362,
+    "end": 133.592
+   },
+   {
+    "word": "de",
+    "start": 133.592,
+    "end": 133.707
+   },
+   {
+    "word": "experiencia.",
+    "start": 133.707,
+    "end": 134.431
+   }
+  ]
+ },
+ {
+  "id": "S05_F025",
+  "scene": "HABILIDAD 4 — Hablar en Público",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Se trata de seguir funcionando con él presente: respirar antes de empezar,",
+  "visual": "Figure takes one calm, deliberate breath before speaking, the nervous-energy flicker still present but no longer overwhelming.",
+  "start": 135.032,
+  "end": 140.208,
+  "words": [
+   {
+    "word": "Se",
+    "start": 135.633,
+    "end": 135.757
+   },
+   {
+    "word": "trata",
+    "start": 135.757,
+    "end": 136.069
+   },
+   {
+    "word": "de",
+    "start": 136.069,
+    "end": 136.193
+   },
+   {
+    "word": "seguir",
+    "start": 136.193,
+    "end": 136.567
+   },
+   {
+    "word": "funcionando",
+    "start": 136.567,
+    "end": 137.251
+   },
+   {
+    "word": "con",
+    "start": 137.251,
+    "end": 137.438
+   },
+   {
+    "word": "él",
+    "start": 137.438,
+    "end": 137.634
+   },
+   {
+    "word": "presente:",
+    "start": 137.634,
+    "end": 138.658
+   },
+   {
+    "word": "respirar",
+    "start": 138.658,
+    "end": 139.156
+   },
+   {
+    "word": "antes",
+    "start": 139.156,
+    "end": 139.467
+   },
+   {
+    "word": "de",
+    "start": 139.467,
+    "end": 139.591
+   },
+   {
+    "word": "empezar,",
+    "start": 139.591,
+    "end": 140.027
+   }
+  ]
+ },
+ {
+  "id": "S05_F026",
+  "scene": "HABILIDAD 4 — Hablar en Público",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "hablar más lento de lo que sientes natural,",
+  "visual": "A faint speech-pace indicator visibly slows down from a fast, jittery rhythm to a steady, deliberate one.",
+  "start": 140.208,
+  "end": 142.693,
+  "words": [
+   {
+    "word": "hablar",
+    "start": 140.389,
+    "end": 140.744
+   },
+   {
+    "word": "más",
+    "start": 140.744,
+    "end": 140.921
+   },
+   {
+    "word": "lento",
+    "start": 140.921,
+    "end": 141.217
+   },
+   {
+    "word": "de",
+    "start": 141.217,
+    "end": 141.335
+   },
+   {
+    "word": "lo",
+    "start": 141.335,
+    "end": 141.532
+   },
+   {
+    "word": "que",
+    "start": 141.532,
+    "end": 141.709
+   },
+   {
+    "word": "sientes",
+    "start": 141.709,
+    "end": 142.123
+   },
+   {
+    "word": "natural,",
+    "start": 142.123,
+    "end": 142.537
+   }
+  ]
+ },
+ {
+  "id": "S05_F027",
+  "scene": "HABILIDAD 4 — Hablar en Público",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "y hacer contacto visual con una sola persona a la vez en lugar de con la sala entera.",
+  "visual": "Close-up, figure's gaze rests calmly on one single ghost-outline audience member at a time, rather than scanning the whole crowd.",
+  "start": 142.693,
+  "end": 147.745,
+  "words": [
+   {
+    "word": "y",
+    "start": 142.849,
+    "end": 142.903
+   },
+   {
+    "word": "hacer",
+    "start": 142.903,
+    "end": 143.262
+   },
+   {
+    "word": "contacto",
+    "start": 143.262,
+    "end": 143.89
+   },
+   {
+    "word": "visual",
+    "start": 143.89,
+    "end": 144.318
+   },
+   {
+    "word": "con",
+    "start": 144.318,
+    "end": 144.481
+   },
+   {
+    "word": "una",
+    "start": 144.481,
+    "end": 144.645
+   },
+   {
+    "word": "sola",
+    "start": 144.645,
+    "end": 144.955
+   },
+   {
+    "word": "persona",
+    "start": 144.955,
+    "end": 145.336
+   },
+   {
+    "word": "a",
+    "start": 145.336,
+    "end": 145.391
+   },
+   {
+    "word": "la",
+    "start": 145.391,
+    "end": 145.5
+   },
+   {
+    "word": "vez",
+    "start": 145.5,
+    "end": 145.663
+   },
+   {
+    "word": "en",
+    "start": 145.663,
+    "end": 145.772
+   },
+   {
+    "word": "lugar",
+    "start": 145.772,
+    "end": 146.045
+   },
+   {
+    "word": "de",
+    "start": 146.045,
+    "end": 146.154
+   },
+   {
+    "word": "con",
+    "start": 146.154,
+    "end": 146.398
+   },
+   {
+    "word": "la",
+    "start": 146.398,
+    "end": 146.507
+   },
+   {
+    "word": "sala",
+    "start": 146.507,
+    "end": 146.725
+   },
+   {
+    "word": "entera.",
+    "start": 146.725,
+    "end": 147.134
+   }
+  ]
+ },
+ {
+  "id": "S06_F028",
+  "scene": "HABILIDAD 5 — Reparaciones Básicas",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Habilidad cinco: reparar lo básico en casa.",
+  "visual": "Figure stands beside a large numbered marker \"5\", a simple glowing wrench-icon in hand.",
+  "start": 147.745,
+  "end": 151.812,
+  "words": [
+   {
+    "word": "Habilidad",
+    "start": 148.357,
+    "end": 148.907
+   },
+   {
+    "word": "cinco:",
+    "start": 148.907,
+    "end": 149.286
+   },
+   {
+    "word": "reparar",
+    "start": 149.286,
+    "end": 150.189
+   },
+   {
+    "word": "lo",
+    "start": 150.189,
+    "end": 150.311
+   },
+   {
+    "word": "básico",
+    "start": 150.311,
+    "end": 150.751
+   },
+   {
+    "word": "en",
+    "start": 150.751,
+    "end": 150.95
+   },
+   {
+    "word": "casa.",
+    "start": 150.95,
+    "end": 151.195
+   }
+  ]
+ },
+ {
+  "id": "S06_F029",
+  "scene": "HABILIDAD 5 — Reparaciones Básicas",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Cambiar un enchufe, destapar una tubería, reparar una fuga pequeña antes de que se vuelva un problema grande y costoso.",
+  "visual": "Figure calmly fixes a small leaking-pipe icon with the wrench, stopping a tiny drip before it grows larger.",
+  "start": 151.812,
+  "end": 159.941,
+  "words": [
+   {
+    "word": "Cambiar",
+    "start": 152.43,
+    "end": 152.864
+   },
+   {
+    "word": "un",
+    "start": 152.864,
+    "end": 152.988
+   },
+   {
+    "word": "enchufe,",
+    "start": 152.988,
+    "end": 153.423
+   },
+   {
+    "word": "destapar",
+    "start": 153.423,
+    "end": 154.337
+   },
+   {
+    "word": "una",
+    "start": 154.337,
+    "end": 154.523
+   },
+   {
+    "word": "tubería,",
+    "start": 154.523,
+    "end": 154.957
+   },
+   {
+    "word": "reparar",
+    "start": 154.957,
+    "end": 155.78
+   },
+   {
+    "word": "una",
+    "start": 155.78,
+    "end": 155.966
+   },
+   {
+    "word": "fuga",
+    "start": 155.966,
+    "end": 156.214
+   },
+   {
+    "word": "pequeña",
+    "start": 156.214,
+    "end": 156.648
+   },
+   {
+    "word": "antes",
+    "start": 156.648,
+    "end": 156.958
+   },
+   {
+    "word": "de",
+    "start": 156.958,
+    "end": 157.083
+   },
+   {
+    "word": "que",
+    "start": 157.083,
+    "end": 157.269
+   },
+   {
+    "word": "se",
+    "start": 157.269,
+    "end": 157.393
+   },
+   {
+    "word": "vuelva",
+    "start": 157.393,
+    "end": 157.765
+   },
+   {
+    "word": "un",
+    "start": 157.765,
+    "end": 157.889
+   },
+   {
+    "word": "problema",
+    "start": 157.889,
+    "end": 158.46
+   },
+   {
+    "word": "grande",
+    "start": 158.46,
+    "end": 158.833
+   },
+   {
+    "word": "y",
+    "start": 158.833,
+    "end": 158.895
+   },
+   {
+    "word": "costoso.",
+    "start": 158.895,
+    "end": 159.329
+   }
+  ]
+ },
+ {
+  "id": "S06_F030",
+  "scene": "HABILIDAD 5 — Reparaciones Básicas",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Pero espera, todavía hay más: cada llamada que evitas hacer a un profesional para algo simple",
+  "visual": "Close-up, a faint phone-call icon (calling a professional) fades away, unnecessary for this small fixed task.",
+  "start": 159.941,
+  "end": 164.992,
+  "words": [
+   {
+    "word": "Pero",
+    "start": 160.553,
+    "end": 160.739
+   },
+   {
+    "word": "espera,",
+    "start": 160.739,
+    "end": 161.096
+   },
+   {
+    "word": "todavía",
+    "start": 161.096,
+    "end": 161.826
+   },
+   {
+    "word": "hay",
+    "start": 161.826,
+    "end": 161.966
+   },
+   {
+    "word": "más:",
+    "start": 161.966,
+    "end": 162.105
+   },
+   {
+    "word": "cada",
+    "start": 162.105,
+    "end": 162.291
+   },
+   {
+    "word": "llamada",
+    "start": 162.291,
+    "end": 162.924
+   },
+   {
+    "word": "que",
+    "start": 162.924,
+    "end": 163.063
+   },
+   {
+    "word": "evitas",
+    "start": 163.063,
+    "end": 163.342
+   },
+   {
+    "word": "hacer",
+    "start": 163.342,
+    "end": 163.574
+   },
+   {
+    "word": "a",
+    "start": 163.574,
+    "end": 163.62
+   },
+   {
+    "word": "un",
+    "start": 163.62,
+    "end": 163.791
+   },
+   {
+    "word": "profesional",
+    "start": 163.791,
+    "end": 164.302
+   },
+   {
+    "word": "para",
+    "start": 164.302,
+    "end": 164.488
+   },
+   {
+    "word": "algo",
+    "start": 164.488,
+    "end": 164.673
+   },
+   {
+    "word": "simple",
+    "start": 164.673,
+    "end": 164.952
+   }
+  ]
+ },
+ {
+  "id": "S06_F031",
+  "scene": "HABILIDAD 5 — Reparaciones Básicas",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "no es solo dinero ahorrado.",
+  "visual": "A small coin-icon appears briefly beside the fixed pipe, acknowledged but not the main point.",
+  "start": 164.992,
+  "end": 167.677,
+  "words": [
+   {
+    "word": "no",
+    "start": 165.032,
+    "end": 165.214
+   },
+   {
+    "word": "es",
+    "start": 165.214,
+    "end": 165.397
+   },
+   {
+    "word": "solo",
+    "start": 165.397,
+    "end": 165.761
+   },
+   {
+    "word": "dinero",
+    "start": 165.761,
+    "end": 166.309
+   },
+   {
+    "word": "ahorrado.",
+    "start": 166.309,
+    "end": 167.038
+   }
+  ]
+ },
+ {
+  "id": "S06_F032",
+  "scene": "HABILIDAD 5 — Reparaciones Básicas",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Es una prueba pequeña, repetida, de que puedes resolver problemas por ti mismo en lugar de sentirte indefenso frente a ellos.",
+  "visual": "Close-up, figure looks at the small fixed pipe with quiet, growing confidence, a faint capability-icon glowing steadily brighter.",
+  "start": 167.677,
+  "end": 176.25,
+  "words": [
+   {
+    "word": "Es",
+    "start": 168.315,
+    "end": 168.433
+   },
+   {
+    "word": "una",
+    "start": 168.433,
+    "end": 168.61
+   },
+   {
+    "word": "prueba",
+    "start": 168.61,
+    "end": 169.034
+   },
+   {
+    "word": "pequeña,",
+    "start": 169.034,
+    "end": 169.525
+   },
+   {
+    "word": "repetida,",
+    "start": 169.525,
+    "end": 170.474
+   },
+   {
+    "word": "de",
+    "start": 170.474,
+    "end": 170.592
+   },
+   {
+    "word": "que",
+    "start": 170.592,
+    "end": 171.098
+   },
+   {
+    "word": "puedes",
+    "start": 171.098,
+    "end": 171.533
+   },
+   {
+    "word": "resolver",
+    "start": 171.533,
+    "end": 172.103
+   },
+   {
+    "word": "problemas",
+    "start": 172.103,
+    "end": 172.719
+   },
+   {
+    "word": "por",
+    "start": 172.719,
+    "end": 172.989
+   },
+   {
+    "word": "ti",
+    "start": 172.989,
+    "end": 173.107
+   },
+   {
+    "word": "mismo",
+    "start": 173.107,
+    "end": 173.402
+   },
+   {
+    "word": "en",
+    "start": 173.402,
+    "end": 173.52
+   },
+   {
+    "word": "lugar",
+    "start": 173.52,
+    "end": 173.815
+   },
+   {
+    "word": "de",
+    "start": 173.815,
+    "end": 173.933
+   },
+   {
+    "word": "sentirte",
+    "start": 173.933,
+    "end": 174.406
+   },
+   {
+    "word": "indefenso",
+    "start": 174.406,
+    "end": 174.937
+   },
+   {
+    "word": "frente",
+    "start": 174.937,
+    "end": 175.291
+   },
+   {
+    "word": "a",
+    "start": 175.291,
+    "end": 175.35
+   },
+   {
+    "word": "ellos.",
+    "start": 175.35,
+    "end": 175.645
+   }
+  ]
+ },
+ {
+  "id": "S07_F033",
+  "scene": "HABILIDAD 6 — Negociar (Chris Voss)",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Habilidad seis: negociar sin sentir que estás en una pelea.",
+  "visual": "Figure stands beside a large numbered marker \"6\", sitting calmly across from a faint ghost-outline second figure, non-confrontational posture.",
+  "start": 176.25,
+  "end": 181.327,
+  "words": [
+   {
+    "word": "Habilidad",
+    "start": 176.855,
+    "end": 177.475
+   },
+   {
+    "word": "seis:",
+    "start": 177.475,
+    "end": 177.751
+   },
+   {
+    "word": "negociar",
+    "start": 177.751,
+    "end": 178.685
+   },
+   {
+    "word": "sin",
+    "start": 178.685,
+    "end": 178.892
+   },
+   {
+    "word": "sentir",
+    "start": 178.892,
+    "end": 179.305
+   },
+   {
+    "word": "que",
+    "start": 179.305,
+    "end": 179.597
+   },
+   {
+    "word": "estás",
+    "start": 179.597,
+    "end": 179.942
+   },
+   {
+    "word": "en",
+    "start": 179.942,
+    "end": 180.08
+   },
+   {
+    "word": "una",
+    "start": 180.08,
+    "end": 180.286
+   },
+   {
+    "word": "pelea.",
+    "start": 180.286,
+    "end": 180.71
+   }
+  ]
+ },
+ {
+  "id": "S07_F034",
+  "scene": "HABILIDAD 6 — Negociar (Chris Voss)",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "El negociador Chris Voss, ex agente del FBI especializado en rehenes,",
+  "visual": "Thoughtful narrating expression, a faint glowing FBI-badge-like icon appears briefly beside the figure.",
+  "start": 181.327,
+  "end": 186.872,
+  "words": [
+   {
+    "word": "El",
+    "start": 181.944,
+    "end": 182.092
+   },
+   {
+    "word": "negociador",
+    "start": 182.092,
+    "end": 182.917
+   },
+   {
+    "word": "Chris",
+    "start": 182.917,
+    "end": 183.288
+   },
+   {
+    "word": "Voss,",
+    "start": 183.288,
+    "end": 183.927
+   },
+   {
+    "word": "ex",
+    "start": 183.927,
+    "end": 184.076
+   },
+   {
+    "word": "agente",
+    "start": 184.076,
+    "end": 184.521
+   },
+   {
+    "word": "del",
+    "start": 184.521,
+    "end": 184.743
+   },
+   {
+    "word": "FBI",
+    "start": 184.743,
+    "end": 184.966
+   },
+   {
+    "word": "especializado",
+    "start": 184.966,
+    "end": 186.004
+   },
+   {
+    "word": "en",
+    "start": 186.004,
+    "end": 186.152
+   },
+   {
+    "word": "rehenes,",
+    "start": 186.152,
+    "end": 186.671
+   }
+  ]
+ },
+ {
+  "id": "S07_F035",
+  "scene": "HABILIDAD 6 — Negociar (Chris Voss)",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "popularizó las \"preguntas calibradas\" — preguntas que empiezan con \"cómo\" o \"qué\", en lugar de exigir directamente,",
+  "visual": "Close-up, a faint glowing speech-bubble shaped like a question mark forms gently, softer than a demanding exclamation-shape beside it.",
+  "start": 186.872,
+  "end": 194.765,
+  "words": [
+   {
+    "word": "popularizó",
+    "start": 187.073,
+    "end": 187.777
+   },
+   {
+    "word": "las",
+    "start": 187.777,
+    "end": 187.967
+   },
+   {
+    "word": "\"preguntas",
+    "start": 187.967,
+    "end": 188.817
+   },
+   {
+    "word": "calibradas\"",
+    "start": 188.817,
+    "end": 189.45
+   },
+   {
+    "word": "—",
+    "start": 189.45,
+    "end": 189.514
+   },
+   {
+    "word": "preguntas",
+    "start": 189.514,
+    "end": 190.418
+   },
+   {
+    "word": "que",
+    "start": 190.418,
+    "end": 190.608
+   },
+   {
+    "word": "empiezan",
+    "start": 190.608,
+    "end": 191.115
+   },
+   {
+    "word": "con",
+    "start": 191.115,
+    "end": 191.529
+   },
+   {
+    "word": "\"cómo\"",
+    "start": 191.529,
+    "end": 191.782
+   },
+   {
+    "word": "o",
+    "start": 191.782,
+    "end": 192.007
+   },
+   {
+    "word": "\"qué\",",
+    "start": 192.007,
+    "end": 192.28
+   },
+   {
+    "word": "en",
+    "start": 192.28,
+    "end": 192.784
+   },
+   {
+    "word": "lugar",
+    "start": 192.784,
+    "end": 193.101
+   },
+   {
+    "word": "de",
+    "start": 193.101,
+    "end": 193.227
+   },
+   {
+    "word": "exigir",
+    "start": 193.227,
+    "end": 193.607
+   },
+   {
+    "word": "directamente,",
+    "start": 193.607,
+    "end": 194.575
+   }
+  ]
+ },
+ {
+  "id": "S07_F036",
+  "scene": "HABILIDAD 6 — Negociar (Chris Voss)",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "porque hacen que la otra persona sienta que tiene el control mientras tú guías la conversación hacia lo que necesitas.",
+  "visual": "The ghost-outline second figure leans in comfortably, feeling in control, while the figure calmly steers the conversation's direction.",
+  "start": 194.765,
+  "end": 201.456,
+  "words": [
+   {
+    "word": "porque",
+    "start": 194.955,
+    "end": 195.352
+   },
+   {
+    "word": "hacen",
+    "start": 195.352,
+    "end": 195.623
+   },
+   {
+    "word": "que",
+    "start": 195.623,
+    "end": 195.786
+   },
+   {
+    "word": "la",
+    "start": 195.786,
+    "end": 195.895
+   },
+   {
+    "word": "otra",
+    "start": 195.895,
+    "end": 196.2
+   },
+   {
+    "word": "persona",
+    "start": 196.2,
+    "end": 196.581
+   },
+   {
+    "word": "sienta",
+    "start": 196.581,
+    "end": 196.906
+   },
+   {
+    "word": "que",
+    "start": 196.906,
+    "end": 197.069
+   },
+   {
+    "word": "tiene",
+    "start": 197.069,
+    "end": 197.426
+   },
+   {
+    "word": "el",
+    "start": 197.426,
+    "end": 197.606
+   },
+   {
+    "word": "control",
+    "start": 197.606,
+    "end": 197.986
+   },
+   {
+    "word": "mientras",
+    "start": 197.986,
+    "end": 198.42
+   },
+   {
+    "word": "tú",
+    "start": 198.42,
+    "end": 198.529
+   },
+   {
+    "word": "guías",
+    "start": 198.529,
+    "end": 198.882
+   },
+   {
+    "word": "la",
+    "start": 198.882,
+    "end": 198.99
+   },
+   {
+    "word": "conversación",
+    "start": 198.99,
+    "end": 199.642
+   },
+   {
+    "word": "hacia",
+    "start": 199.642,
+    "end": 199.997
+   },
+   {
+    "word": "lo",
+    "start": 199.997,
+    "end": 200.105
+   },
+   {
+    "word": "que",
+    "start": 200.105,
+    "end": 200.268
+   },
+   {
+    "word": "necesitas.",
+    "start": 200.268,
+    "end": 200.848
+   }
+  ]
+ },
+ {
+  "id": "S07_F037",
+  "scene": "HABILIDAD 6 — Negociar (Chris Voss)",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Aquí está la clave: negociar bien no es ganarle a alguien.",
+  "visual": "A faint competitive win/lose icon is gently set aside, not the goal of this conversation.",
+  "start": 201.456,
+  "end": 205.95,
+  "words": [
+   {
+    "word": "Aquí",
+    "start": 202.064,
+    "end": 202.304
+   },
+   {
+    "word": "está",
+    "start": 202.304,
+    "end": 202.543
+   },
+   {
+    "word": "la",
+    "start": 202.543,
+    "end": 202.663
+   },
+   {
+    "word": "clave:",
+    "start": 202.663,
+    "end": 203.04
+   },
+   {
+    "word": "negociar",
+    "start": 203.04,
+    "end": 203.947
+   },
+   {
+    "word": "bien",
+    "start": 203.947,
+    "end": 204.187
+   },
+   {
+    "word": "no",
+    "start": 204.187,
+    "end": 204.306
+   },
+   {
+    "word": "es",
+    "start": 204.306,
+    "end": 204.426
+   },
+   {
+    "word": "ganarle",
+    "start": 204.426,
+    "end": 204.846
+   },
+   {
+    "word": "a",
+    "start": 204.846,
+    "end": 204.906
+   },
+   {
+    "word": "alguien.",
+    "start": 204.906,
+    "end": 205.325
+   }
+  ]
+ },
+ {
+  "id": "S07_F038",
+  "scene": "HABILIDAD 6 — Negociar (Chris Voss)",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Es encontrar juntos una salida que ambos puedan aceptar sin resentimiento después.",
+  "visual": "Close-up, both figures shake hands calmly, a faint glowing shared-agreement icon settling comfortably between them, no resentment visible.",
+  "start": 205.95,
+  "end": 211.683,
+  "words": [
+   {
+    "word": "Es",
+    "start": 206.575,
+    "end": 206.693
+   },
+   {
+    "word": "encontrar",
+    "start": 206.693,
+    "end": 207.222
+   },
+   {
+    "word": "juntos",
+    "start": 207.222,
+    "end": 207.575
+   },
+   {
+    "word": "una",
+    "start": 207.575,
+    "end": 207.751
+   },
+   {
+    "word": "salida",
+    "start": 207.751,
+    "end": 208.104
+   },
+   {
+    "word": "que",
+    "start": 208.104,
+    "end": 208.28
+   },
+   {
+    "word": "ambos",
+    "start": 208.28,
+    "end": 208.574
+   },
+   {
+    "word": "puedan",
+    "start": 208.574,
+    "end": 209.014
+   },
+   {
+    "word": "aceptar",
+    "start": 209.014,
+    "end": 209.551
+   },
+   {
+    "word": "sin",
+    "start": 209.551,
+    "end": 209.727
+   },
+   {
+    "word": "resentimiento",
+    "start": 209.727,
+    "end": 210.57
+   },
+   {
+    "word": "después.",
+    "start": 210.57,
+    "end": 211.076
+   }
+  ]
+ },
+ {
+  "id": "S08_F039",
+  "scene": "HABILIDAD 7 — Escribir con Claridad",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Y habilidad siete: escribir con claridad, sin relleno.",
+  "visual": "Figure stands beside a large numbered marker \"7\", writing on a simple glowing page, calm deliberate posture.",
+  "start": 211.683,
+  "end": 216.823,
+  "words": [
+   {
+    "word": "Y",
+    "start": 212.291,
+    "end": 212.356
+   },
+   {
+    "word": "habilidad",
+    "start": 212.356,
+    "end": 212.944
+   },
+   {
+    "word": "siete:",
+    "start": 212.944,
+    "end": 213.341
+   },
+   {
+    "word": "escribir",
+    "start": 213.341,
+    "end": 214.405
+   },
+   {
+    "word": "con",
+    "start": 214.405,
+    "end": 214.674
+   },
+   {
+    "word": "claridad,",
+    "start": 214.674,
+    "end": 215.556
+   },
+   {
+    "word": "sin",
+    "start": 215.556,
+    "end": 215.752
+   },
+   {
+    "word": "relleno.",
+    "start": 215.752,
+    "end": 216.209
+   }
+  ]
+ },
+ {
+  "id": "S08_F040",
+  "scene": "HABILIDAD 7 — Escribir con Claridad",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Decir en tres frases lo que la mayoría dice en un párrafo completo, sin perder el sentido.",
+  "visual": "A long, cluttered paragraph-icon shrinks down clearly into three short, precise glowing sentence-icons, meaning fully preserved.",
+  "start": 216.823,
+  "end": 223.346,
+  "words": [
+   {
+    "word": "Decir",
+    "start": 217.438,
+    "end": 217.755
+   },
+   {
+    "word": "en",
+    "start": 217.755,
+    "end": 217.881
+   },
+   {
+    "word": "tres",
+    "start": 217.881,
+    "end": 218.134
+   },
+   {
+    "word": "frases",
+    "start": 218.134,
+    "end": 218.514
+   },
+   {
+    "word": "lo",
+    "start": 218.514,
+    "end": 218.641
+   },
+   {
+    "word": "que",
+    "start": 218.641,
+    "end": 218.831
+   },
+   {
+    "word": "la",
+    "start": 218.831,
+    "end": 218.957
+   },
+   {
+    "word": "mayoría",
+    "start": 218.957,
+    "end": 219.4
+   },
+   {
+    "word": "dice",
+    "start": 219.4,
+    "end": 219.654
+   },
+   {
+    "word": "en",
+    "start": 219.654,
+    "end": 219.78
+   },
+   {
+    "word": "un",
+    "start": 219.78,
+    "end": 219.907
+   },
+   {
+    "word": "párrafo",
+    "start": 219.907,
+    "end": 220.432
+   },
+   {
+    "word": "completo,",
+    "start": 220.432,
+    "end": 221.097
+   },
+   {
+    "word": "sin",
+    "start": 221.097,
+    "end": 221.672
+   },
+   {
+    "word": "perder",
+    "start": 221.672,
+    "end": 222.052
+   },
+   {
+    "word": "el",
+    "start": 222.052,
+    "end": 222.179
+   },
+   {
+    "word": "sentido.",
+    "start": 222.179,
+    "end": 222.703
+   }
+  ]
+ },
+ {
+  "id": "S08_F041",
+  "scene": "HABILIDAD 7 — Escribir con Claridad",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Esto cambia todo, desde un correo de trabajo hasta un mensaje importante para alguien que te importa:",
+  "visual": "Close-up, two small glowing icons (an envelope, a heart-shaped message) both benefit equally from the same clear writing style.",
+  "start": 223.346,
+  "end": 229.63,
+  "words": [
+   {
+    "word": "Esto",
+    "start": 223.988,
+    "end": 224.211
+   },
+   {
+    "word": "cambia",
+    "start": 224.211,
+    "end": 224.545
+   },
+   {
+    "word": "todo,",
+    "start": 224.545,
+    "end": 224.844
+   },
+   {
+    "word": "desde",
+    "start": 224.844,
+    "end": 225.533
+   },
+   {
+    "word": "un",
+    "start": 225.533,
+    "end": 225.644
+   },
+   {
+    "word": "correo",
+    "start": 225.644,
+    "end": 225.979
+   },
+   {
+    "word": "de",
+    "start": 225.979,
+    "end": 226.09
+   },
+   {
+    "word": "trabajo",
+    "start": 226.09,
+    "end": 226.48
+   },
+   {
+    "word": "hasta",
+    "start": 226.48,
+    "end": 226.758
+   },
+   {
+    "word": "un",
+    "start": 226.758,
+    "end": 226.87
+   },
+   {
+    "word": "mensaje",
+    "start": 226.87,
+    "end": 227.259
+   },
+   {
+    "word": "importante",
+    "start": 227.259,
+    "end": 227.903
+   },
+   {
+    "word": "para",
+    "start": 227.903,
+    "end": 228.201
+   },
+   {
+    "word": "alguien",
+    "start": 228.201,
+    "end": 228.591
+   },
+   {
+    "word": "que",
+    "start": 228.591,
+    "end": 228.758
+   },
+   {
+    "word": "te",
+    "start": 228.758,
+    "end": 228.869
+   },
+   {
+    "word": "importa:",
+    "start": 228.869,
+    "end": 229.439
+   }
+  ]
+ },
+ {
+  "id": "S08_F042",
+  "scene": "HABILIDAD 7 — Escribir con Claridad",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "cuando escribes con claridad, respetas el tiempo de quien te lee,",
+  "visual": "A faint ghost-outline reader figure receives the short, clear message quickly and comfortably, no wasted time.",
+  "start": 229.63,
+  "end": 233.65,
+  "words": [
+   {
+    "word": "cuando",
+    "start": 229.821,
+    "end": 230.234
+   },
+   {
+    "word": "escribes",
+    "start": 230.234,
+    "end": 230.681
+   },
+   {
+    "word": "con",
+    "start": 230.681,
+    "end": 230.849
+   },
+   {
+    "word": "claridad,",
+    "start": 230.849,
+    "end": 231.712
+   },
+   {
+    "word": "respetas",
+    "start": 231.712,
+    "end": 232.234
+   },
+   {
+    "word": "el",
+    "start": 232.234,
+    "end": 232.346
+   },
+   {
+    "word": "tiempo",
+    "start": 232.346,
+    "end": 232.765
+   },
+   {
+    "word": "de",
+    "start": 232.765,
+    "end": 232.877
+   },
+   {
+    "word": "quien",
+    "start": 232.877,
+    "end": 233.238
+   },
+   {
+    "word": "te",
+    "start": 233.238,
+    "end": 233.35
+   },
+   {
+    "word": "lee,",
+    "start": 233.35,
+    "end": 233.518
+   }
+  ]
+ },
+ {
+  "id": "S08_F043",
+  "scene": "HABILIDAD 7 — Escribir con Claridad",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "y reduces las probabilidades de que te malinterpreten.",
+  "visual": "Close-up, the clear message reaches the reader without any distortion, a faint confusion-icon fading away unused.",
+  "start": 233.65,
+  "end": 237.204,
+  "words": [
+   {
+    "word": "y",
+    "start": 233.783,
+    "end": 233.837
+   },
+   {
+    "word": "reduces",
+    "start": 233.837,
+    "end": 234.211
+   },
+   {
+    "word": "las",
+    "start": 234.211,
+    "end": 234.371
+   },
+   {
+    "word": "probabilidades",
+    "start": 234.371,
+    "end": 235.201
+   },
+   {
+    "word": "de",
+    "start": 235.201,
+    "end": 235.308
+   },
+   {
+    "word": "que",
+    "start": 235.308,
+    "end": 235.469
+   },
+   {
+    "word": "te",
+    "start": 235.469,
+    "end": 235.576
+   },
+   {
+    "word": "malinterpreten.",
+    "start": 235.576,
+    "end": 236.603
+   }
+  ]
+ },
+ {
+  "id": "S09_F044",
+  "scene": "EL CIERRE",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Ninguna de estas 7 habilidades es glamorosa.",
+  "visual": "Figure stands calm and grounded, the seven glowing dots from the opening now arranged gently in an even arc.",
+  "start": 237.204,
+  "end": 240.897,
+  "words": [
+   {
+    "word": "Ninguna",
+    "start": 237.804,
+    "end": 238.27
+   },
+   {
+    "word": "de",
+    "start": 238.27,
+    "end": 238.403
+   },
+   {
+    "word": "estas",
+    "start": 238.403,
+    "end": 238.736
+   },
+   {
+    "word": "7",
+    "start": 238.736,
+    "end": 238.803
+   },
+   {
+    "word": "habilidades",
+    "start": 238.803,
+    "end": 239.535
+   },
+   {
+    "word": "es",
+    "start": 239.535,
+    "end": 239.669
+   },
+   {
+    "word": "glamorosa.",
+    "start": 239.669,
+    "end": 240.268
+   }
+  ]
+ },
+ {
+  "id": "S09_F045",
+  "scene": "EL CIERRE",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Ninguna se ve bien en una entrevista de trabajo, en un perfil de redes sociales, ni en un currículum.",
+  "visual": "Faint ghost-outline icons (a resume, a social profile, an interview desk) each fail to display the quiet skills clearly.",
+  "start": 240.897,
+  "end": 248.038,
+  "words": [
+   {
+    "word": "Ninguna",
+    "start": 241.527,
+    "end": 241.971
+   },
+   {
+    "word": "se",
+    "start": 241.971,
+    "end": 242.098
+   },
+   {
+    "word": "ve",
+    "start": 242.098,
+    "end": 242.224
+   },
+   {
+    "word": "bien",
+    "start": 242.224,
+    "end": 242.478
+   },
+   {
+    "word": "en",
+    "start": 242.478,
+    "end": 242.605
+   },
+   {
+    "word": "una",
+    "start": 242.605,
+    "end": 242.795
+   },
+   {
+    "word": "entrevista",
+    "start": 242.795,
+    "end": 243.429
+   },
+   {
+    "word": "de",
+    "start": 243.429,
+    "end": 243.556
+   },
+   {
+    "word": "trabajo,",
+    "start": 243.556,
+    "end": 244.411
+   },
+   {
+    "word": "en",
+    "start": 244.411,
+    "end": 244.537
+   },
+   {
+    "word": "un",
+    "start": 244.537,
+    "end": 244.664
+   },
+   {
+    "word": "perfil",
+    "start": 244.664,
+    "end": 245.045
+   },
+   {
+    "word": "de",
+    "start": 245.045,
+    "end": 245.171
+   },
+   {
+    "word": "redes",
+    "start": 245.171,
+    "end": 245.488
+   },
+   {
+    "word": "sociales,",
+    "start": 245.488,
+    "end": 245.996
+   },
+   {
+    "word": "ni",
+    "start": 245.996,
+    "end": 246.531
+   },
+   {
+    "word": "en",
+    "start": 246.531,
+    "end": 246.658
+   },
+   {
+    "word": "un",
+    "start": 246.658,
+    "end": 246.785
+   },
+   {
+    "word": "currículum.",
+    "start": 246.785,
+    "end": 247.419
+   }
+  ]
+ },
+ {
+  "id": "S09_F046",
+  "scene": "EL CIERRE",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Pero cada una de ellas te devuelve algo que casi ninguna otra habilidad de moda te da:",
+  "visual": "Close-up, calm confident expression, the simple toolbox-shaped outline from the Gancho reappears, quietly complete and functional.",
+  "start": 248.038,
+  "end": 252.986,
+  "words": [
+   {
+    "word": "Pero",
+    "start": 248.657,
+    "end": 248.957
+   },
+   {
+    "word": "cada",
+    "start": 248.957,
+    "end": 249.184
+   },
+   {
+    "word": "una",
+    "start": 249.184,
+    "end": 249.355
+   },
+   {
+    "word": "de",
+    "start": 249.355,
+    "end": 249.469
+   },
+   {
+    "word": "ellas",
+    "start": 249.469,
+    "end": 249.754
+   },
+   {
+    "word": "te",
+    "start": 249.754,
+    "end": 249.868
+   },
+   {
+    "word": "devuelve",
+    "start": 249.868,
+    "end": 250.323
+   },
+   {
+    "word": "algo",
+    "start": 250.323,
+    "end": 250.551
+   },
+   {
+    "word": "que",
+    "start": 250.551,
+    "end": 250.793
+   },
+   {
+    "word": "casi",
+    "start": 250.793,
+    "end": 251.021
+   },
+   {
+    "word": "ninguna",
+    "start": 251.021,
+    "end": 251.42
+   },
+   {
+    "word": "otra",
+    "start": 251.42,
+    "end": 251.647
+   },
+   {
+    "word": "habilidad",
+    "start": 251.647,
+    "end": 252.16
+   },
+   {
+    "word": "de",
+    "start": 252.16,
+    "end": 252.274
+   },
+   {
+    "word": "moda",
+    "start": 252.274,
+    "end": 252.578
+   },
+   {
+    "word": "te",
+    "start": 252.578,
+    "end": 252.692
+   },
+   {
+    "word": "da:",
+    "start": 252.692,
+    "end": 252.806
+   }
+  ]
+ },
+ {
+  "id": "S09_F047",
+  "scene": "EL CIERRE",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "capacidad real de resolver tu propia vida, sin depender de nadie más para lo esencial.",
+  "visual": "Figure stands tall and self-reliant, all seven skill-icons glowing steadily around them, complete and self-sufficient.",
+  "start": 252.986,
+  "end": 258.98,
+  "words": [
+   {
+    "word": "capacidad",
+    "start": 253.166,
+    "end": 253.73
+   },
+   {
+    "word": "real",
+    "start": 253.73,
+    "end": 253.98
+   },
+   {
+    "word": "de",
+    "start": 253.98,
+    "end": 254.105
+   },
+   {
+    "word": "resolver",
+    "start": 254.105,
+    "end": 254.606
+   },
+   {
+    "word": "tu",
+    "start": 254.606,
+    "end": 254.731
+   },
+   {
+    "word": "propia",
+    "start": 254.731,
+    "end": 255.349
+   },
+   {
+    "word": "vida,",
+    "start": 255.349,
+    "end": 255.599
+   },
+   {
+    "word": "sin",
+    "start": 255.599,
+    "end": 256.199
+   },
+   {
+    "word": "depender",
+    "start": 256.199,
+    "end": 256.786
+   },
+   {
+    "word": "de",
+    "start": 256.786,
+    "end": 256.911
+   },
+   {
+    "word": "nadie",
+    "start": 256.911,
+    "end": 257.225
+   },
+   {
+    "word": "más",
+    "start": 257.225,
+    "end": 257.412
+   },
+   {
+    "word": "para",
+    "start": 257.412,
+    "end": 257.742
+   },
+   {
+    "word": "lo",
+    "start": 257.742,
+    "end": 257.867
+   },
+   {
+    "word": "esencial.",
+    "start": 257.867,
+    "end": 258.368
+   }
+  ]
+ },
+ {
+  "id": "S09_F048",
+  "scene": "EL CIERRE",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Escribe en los comentarios cuál de las 7 todavía no dominas, y cuál vas a empezar a practicar esta semana.",
+  "visual": "Figure points directly toward the camera/viewer, warm inviting expression, a faint speech-bubble icon glowing softly in accent color.",
+  "start": 258.98,
+  "end": 266.242,
+  "words": [
+   {
+    "word": "Escribe",
+    "start": 259.592,
+    "end": 260.03
+   },
+   {
+    "word": "en",
+    "start": 260.03,
+    "end": 260.155
+   },
+   {
+    "word": "los",
+    "start": 260.155,
+    "end": 260.342
+   },
+   {
+    "word": "comentarios",
+    "start": 260.342,
+    "end": 261.104
+   },
+   {
+    "word": "cuál",
+    "start": 261.104,
+    "end": 261.354
+   },
+   {
+    "word": "de",
+    "start": 261.354,
+    "end": 261.479
+   },
+   {
+    "word": "las",
+    "start": 261.479,
+    "end": 261.666
+   },
+   {
+    "word": "7",
+    "start": 261.666,
+    "end": 261.729
+   },
+   {
+    "word": "todavía",
+    "start": 261.729,
+    "end": 262.166
+   },
+   {
+    "word": "no",
+    "start": 262.166,
+    "end": 262.291
+   },
+   {
+    "word": "dominas,",
+    "start": 262.291,
+    "end": 262.729
+   },
+   {
+    "word": "y",
+    "start": 262.729,
+    "end": 262.791
+   },
+   {
+    "word": "cuál",
+    "start": 262.791,
+    "end": 263.378
+   },
+   {
+    "word": "vas",
+    "start": 263.378,
+    "end": 263.651
+   },
+   {
+    "word": "a",
+    "start": 263.651,
+    "end": 263.713
+   },
+   {
+    "word": "empezar",
+    "start": 263.713,
+    "end": 264.151
+   },
+   {
+    "word": "a",
+    "start": 264.151,
+    "end": 264.213
+   },
+   {
+    "word": "practicar",
+    "start": 264.213,
+    "end": 264.981
+   },
+   {
+    "word": "esta",
+    "start": 264.981,
+    "end": 265.231
+   },
+   {
+    "word": "semana.",
+    "start": 265.231,
+    "end": 265.606
+   }
+  ]
+ },
+ {
+  "id": "S09_F049",
+  "scene": "EL CIERRE",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Si este video te sirvió, dale like y suscríbete —",
+  "visual": "Figure gives a genuine thumbs-up gesture with a warm smile, a faint bell icon glows softly beside them.",
+  "start": 266.242,
+  "end": 270.517,
+  "words": [
+   {
+    "word": "Si",
+    "start": 266.878,
+    "end": 267.024
+   },
+   {
+    "word": "este",
+    "start": 267.024,
+    "end": 267.315
+   },
+   {
+    "word": "video",
+    "start": 267.315,
+    "end": 267.68
+   },
+   {
+    "word": "te",
+    "start": 267.68,
+    "end": 267.826
+   },
+   {
+    "word": "sirvió,",
+    "start": 267.826,
+    "end": 268.263
+   },
+   {
+    "word": "dale",
+    "start": 268.263,
+    "end": 268.92
+   },
+   {
+    "word": "like",
+    "start": 268.92,
+    "end": 269.211
+   },
+   {
+    "word": "y",
+    "start": 269.211,
+    "end": 269.284
+   },
+   {
+    "word": "suscríbete",
+    "start": 269.284,
+    "end": 270.247
+   },
+   {
+    "word": "—",
+    "start": 270.247,
+    "end": 270.32
+   }
+  ]
+ },
+ {
+  "id": "S09_F050",
+  "scene": "EL CIERRE",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "la disciplina no hace ruido, ni siquiera en las habilidades más silenciosas de todas.",
+  "visual": "Figure stands calm and still in the quiet dark space, faint warm rim light outlining their silhouette, serene composed expression.",
+  "start": 270.517,
+  "end": 276.38,
+  "words": [
+   {
+    "word": "la",
+    "start": 270.713,
+    "end": 270.826
+   },
+   {
+    "word": "disciplina",
+    "start": 270.826,
+    "end": 271.471
+   },
+   {
+    "word": "no",
+    "start": 271.471,
+    "end": 271.585
+   },
+   {
+    "word": "hace",
+    "start": 271.585,
+    "end": 271.812
+   },
+   {
+    "word": "ruido,",
+    "start": 271.812,
+    "end": 272.095
+   },
+   {
+    "word": "ni",
+    "start": 272.095,
+    "end": 272.587
+   },
+   {
+    "word": "siquiera",
+    "start": 272.587,
+    "end": 273.04
+   },
+   {
+    "word": "en",
+    "start": 273.04,
+    "end": 273.154
+   },
+   {
+    "word": "las",
+    "start": 273.154,
+    "end": 273.324
+   },
+   {
+    "word": "habilidades",
+    "start": 273.324,
+    "end": 273.947
+   },
+   {
+    "word": "más",
+    "start": 273.947,
+    "end": 274.117
+   },
+   {
+    "word": "silenciosas",
+    "start": 274.117,
+    "end": 274.741
+   },
+   {
+    "word": "de",
+    "start": 274.741,
+    "end": 274.854
+   },
+   {
+    "word": "todas.",
+    "start": 274.854,
+    "end": 275.305
+   }
+  ]
+ }
+]

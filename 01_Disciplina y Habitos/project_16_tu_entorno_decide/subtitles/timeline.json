@@ -1,0 +1,3747 @@
+[
+ {
+  "id": "S01_F001",
+  "scene": "EL GANCHO",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Deja de intentar tener más fuerza de voluntad.",
+  "visual": "Wide shot of a stick figure straining visibly against a glowing tempting object, tension lines around the whole body, exhausted posture.",
+  "start": 0.0,
+  "end": 3.399,
+  "words": [
+   {
+    "word": "Deja",
+    "start": 0.237,
+    "end": 0.488
+   },
+   {
+    "word": "de",
+    "start": 0.488,
+    "end": 0.613
+   },
+   {
+    "word": "intentar",
+    "start": 0.613,
+    "end": 1.115
+   },
+   {
+    "word": "tener",
+    "start": 1.115,
+    "end": 1.515
+   },
+   {
+    "word": "más",
+    "start": 1.515,
+    "end": 1.703
+   },
+   {
+    "word": "fuerza",
+    "start": 1.703,
+    "end": 2.079
+   },
+   {
+    "word": "de",
+    "start": 2.079,
+    "end": 2.205
+   },
+   {
+    "word": "voluntad.",
+    "start": 2.205,
+    "end": 2.796
+   }
+  ]
+ },
+ {
+  "id": "S01_F002",
+  "scene": "EL GANCHO",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "Cada vez que fallas y te repites que necesitas más disciplina, más motivación, más carácter, estás atacando el problema equivocado.",
+  "visual": "Medium shot of three small glowing labels (disciplina, motivación, carácter) floating above the stick figure's head, each one dimming out one by one as a small X icon in #FF5A36 appears over them.",
+  "start": 3.399,
+  "end": 12.745,
+  "words": [
+   {
+    "word": "Cada",
+    "start": 4.001,
+    "end": 4.243
+   },
+   {
+    "word": "vez",
+    "start": 4.243,
+    "end": 4.424
+   },
+   {
+    "word": "que",
+    "start": 4.424,
+    "end": 4.605
+   },
+   {
+    "word": "fallas",
+    "start": 4.605,
+    "end": 4.968
+   },
+   {
+    "word": "y",
+    "start": 4.968,
+    "end": 5.109
+   },
+   {
+    "word": "te",
+    "start": 5.109,
+    "end": 5.23
+   },
+   {
+    "word": "repites",
+    "start": 5.23,
+    "end": 5.735
+   },
+   {
+    "word": "que",
+    "start": 5.735,
+    "end": 5.916
+   },
+   {
+    "word": "necesitas",
+    "start": 5.916,
+    "end": 6.46
+   },
+   {
+    "word": "más",
+    "start": 6.46,
+    "end": 6.641
+   },
+   {
+    "word": "disciplina,",
+    "start": 6.641,
+    "end": 7.33
+   },
+   {
+    "word": "más",
+    "start": 7.33,
+    "end": 7.839
+   },
+   {
+    "word": "motivación,",
+    "start": 7.839,
+    "end": 8.443
+   },
+   {
+    "word": "más",
+    "start": 8.443,
+    "end": 8.624
+   },
+   {
+    "word": "carácter,",
+    "start": 8.624,
+    "end": 9.477
+   },
+   {
+    "word": "estás",
+    "start": 9.477,
+    "end": 10.313
+   },
+   {
+    "word": "atacando",
+    "start": 10.313,
+    "end": 10.796
+   },
+   {
+    "word": "el",
+    "start": 10.796,
+    "end": 10.917
+   },
+   {
+    "word": "problema",
+    "start": 10.917,
+    "end": 11.4
+   },
+   {
+    "word": "equivocado.",
+    "start": 11.4,
+    "end": 12.113
+   }
+  ]
+ },
+ {
+  "id": "S01_F003",
+  "scene": "EL GANCHO",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "No es un defecto de carácter que necesitas corregir —",
+  "visual": "Wide shot of the stick figure standing normally, no visible flaw or crack, calm neutral posture rather than broken.",
+  "start": 12.745,
+  "end": 16.233,
+  "words": [
+   {
+    "word": "No",
+    "start": 13.377,
+    "end": 13.485
+   },
+   {
+    "word": "es",
+    "start": 13.485,
+    "end": 13.594
+   },
+   {
+    "word": "un",
+    "start": 13.594,
+    "end": 13.702
+   },
+   {
+    "word": "defecto",
+    "start": 13.702,
+    "end": 14.194
+   },
+   {
+    "word": "de",
+    "start": 14.194,
+    "end": 14.302
+   },
+   {
+    "word": "carácter",
+    "start": 14.302,
+    "end": 14.914
+   },
+   {
+    "word": "que",
+    "start": 14.914,
+    "end": 15.077
+   },
+   {
+    "word": "necesitas",
+    "start": 15.077,
+    "end": 15.565
+   },
+   {
+    "word": "corregir",
+    "start": 15.565,
+    "end": 15.999
+   },
+   {
+    "word": "—",
+    "start": 15.999,
+    "end": 16.054
+   }
+  ]
+ },
+ {
+  "id": "S01_F004",
+  "scene": "EL GANCHO",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "es una estrategia que estás usando mal, contra un enemigo que ni siquiera es tu falta de voluntad,",
+  "visual": "Medium shot of the stick figure pointing at the wrong glowing target icon (a willpower/battery icon) while the real target — a room/shelf layout icon — sits unnoticed behind them.",
+  "start": 16.233,
+  "end": 21.642,
+  "words": [
+   {
+    "word": "es",
+    "start": 16.413,
+    "end": 16.524
+   },
+   {
+    "word": "una",
+    "start": 16.524,
+    "end": 16.692
+   },
+   {
+    "word": "estrategia",
+    "start": 16.692,
+    "end": 17.249
+   },
+   {
+    "word": "que",
+    "start": 17.249,
+    "end": 17.416
+   },
+   {
+    "word": "estás",
+    "start": 17.416,
+    "end": 17.695
+   },
+   {
+    "word": "usando",
+    "start": 17.695,
+    "end": 18.03
+   },
+   {
+    "word": "mal,",
+    "start": 18.03,
+    "end": 18.197
+   },
+   {
+    "word": "contra",
+    "start": 18.197,
+    "end": 18.889
+   },
+   {
+    "word": "un",
+    "start": 18.889,
+    "end": 19.0
+   },
+   {
+    "word": "enemigo",
+    "start": 19.0,
+    "end": 19.39
+   },
+   {
+    "word": "que",
+    "start": 19.39,
+    "end": 19.63
+   },
+   {
+    "word": "ni",
+    "start": 19.63,
+    "end": 19.741
+   },
+   {
+    "word": "siquiera",
+    "start": 19.741,
+    "end": 20.257
+   },
+   {
+    "word": "es",
+    "start": 20.257,
+    "end": 20.369
+   },
+   {
+    "word": "tu",
+    "start": 20.369,
+    "end": 20.48
+   },
+   {
+    "word": "falta",
+    "start": 20.48,
+    "end": 20.841
+   },
+   {
+    "word": "de",
+    "start": 20.841,
+    "end": 20.952
+   },
+   {
+    "word": "voluntad,",
+    "start": 20.952,
+    "end": 21.487
+   }
+  ]
+ },
+ {
+  "id": "S01_F005",
+  "scene": "EL GANCHO",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "y hoy te explico exactamente qué hacer en su lugar.",
+  "visual": "Wide shot pulling back to reveal the room/shelf layout icon clearly now, #FF5A36 highlight drawing attention to it as the real focus of the video.",
+  "start": 21.642,
+  "end": 24.919,
+  "words": [
+   {
+    "word": "y",
+    "start": 21.797,
+    "end": 21.852
+   },
+   {
+    "word": "hoy",
+    "start": 21.852,
+    "end": 22.02
+   },
+   {
+    "word": "te",
+    "start": 22.02,
+    "end": 22.132
+   },
+   {
+    "word": "explico",
+    "start": 22.132,
+    "end": 22.615
+   },
+   {
+    "word": "exactamente",
+    "start": 22.615,
+    "end": 23.34
+   },
+   {
+    "word": "qué",
+    "start": 23.34,
+    "end": 23.508
+   },
+   {
+    "word": "hacer",
+    "start": 23.508,
+    "end": 23.788
+   },
+   {
+    "word": "en",
+    "start": 23.788,
+    "end": 23.9
+   },
+   {
+    "word": "su",
+    "start": 23.9,
+    "end": 24.012
+   },
+   {
+    "word": "lugar.",
+    "start": 24.012,
+    "end": 24.291
+   }
+  ]
+ },
+ {
+  "id": "S02_F006",
+  "scene": "MODULO 1 - El Experimento de la Cafeteria (Anne Thorndike)",
+  "shot_raw": "Text card / title",
+  "shot": "MEDIUM SHOT",
+  "es": "Primero, lo que pasa cuando dependes solo de la voluntad.",
+  "visual": "Minimal title card, a simple willpower/battery icon shown draining low, centered in dark frame.",
+  "start": 24.919,
+  "end": 29.342,
+  "words": [
+   {
+    "word": "Primero,",
+    "start": 25.546,
+    "end": 25.931
+   },
+   {
+    "word": "lo",
+    "start": 25.931,
+    "end": 26.456
+   },
+   {
+    "word": "que",
+    "start": 26.456,
+    "end": 26.621
+   },
+   {
+    "word": "pasa",
+    "start": 26.621,
+    "end": 26.841
+   },
+   {
+    "word": "cuando",
+    "start": 26.841,
+    "end": 27.243
+   },
+   {
+    "word": "dependes",
+    "start": 27.243,
+    "end": 27.757
+   },
+   {
+    "word": "solo",
+    "start": 27.757,
+    "end": 27.977
+   },
+   {
+    "word": "de",
+    "start": 27.977,
+    "end": 28.087
+   },
+   {
+    "word": "la",
+    "start": 28.087,
+    "end": 28.197
+   },
+   {
+    "word": "voluntad.",
+    "start": 28.197,
+    "end": 28.728
+   }
+  ]
+ },
+ {
+  "id": "S02_F007",
+  "scene": "MODULO 1 - El Experimento de la Cafeteria (Anne Thorndike)",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "La investigadora Anne Thorndike, del Massachusetts General Hospital, hizo un experimento simple en la cafetería de un hospital:",
+  "visual": "Stick figure standing beside a glowing hospital-building icon and a simple cafeteria-tray icon, distinct from any academic-book icons used in prior videos.",
+  "start": 29.342,
+  "end": 37.268,
+  "words": [
+   {
+    "word": "La",
+    "start": 29.957,
+    "end": 30.07
+   },
+   {
+    "word": "investigadora",
+    "start": 30.07,
+    "end": 30.801
+   },
+   {
+    "word": "Anne",
+    "start": 30.801,
+    "end": 31.026
+   },
+   {
+    "word": "Thorndike,",
+    "start": 31.026,
+    "end": 31.907
+   },
+   {
+    "word": "del",
+    "start": 31.907,
+    "end": 32.075
+   },
+   {
+    "word": "Massachusetts",
+    "start": 32.075,
+    "end": 32.807
+   },
+   {
+    "word": "General",
+    "start": 32.807,
+    "end": 33.201
+   },
+   {
+    "word": "Hospital,",
+    "start": 33.201,
+    "end": 34.174
+   },
+   {
+    "word": "hizo",
+    "start": 34.174,
+    "end": 34.399
+   },
+   {
+    "word": "un",
+    "start": 34.399,
+    "end": 34.512
+   },
+   {
+    "word": "experimento",
+    "start": 34.512,
+    "end": 35.131
+   },
+   {
+    "word": "simple",
+    "start": 35.131,
+    "end": 35.468
+   },
+   {
+    "word": "en",
+    "start": 35.468,
+    "end": 35.581
+   },
+   {
+    "word": "la",
+    "start": 35.581,
+    "end": 35.693
+   },
+   {
+    "word": "cafetería",
+    "start": 35.693,
+    "end": 36.2
+   },
+   {
+    "word": "de",
+    "start": 36.2,
+    "end": 36.312
+   },
+   {
+    "word": "un",
+    "start": 36.312,
+    "end": 36.425
+   },
+   {
+    "word": "hospital:",
+    "start": 36.425,
+    "end": 37.048
+   }
+  ]
+ },
+ {
+  "id": "S02_F008",
+  "scene": "MODULO 1 - El Experimento de la Cafeteria (Anne Thorndike)",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "sin cambiar ni un solo precio, reorganizó dónde estaban colocadas las bebidas.",
+  "visual": "Wide shot of a simple shelf layout with drink-icons being rearranged by a glowing hand, a small price-tag icon shown unchanged and crossed through with a 'no change' mark.",
+  "start": 37.268,
+  "end": 42.745,
+  "words": [
+   {
+    "word": "sin",
+    "start": 37.488,
+    "end": 37.67
+   },
+   {
+    "word": "cambiar",
+    "start": 37.67,
+    "end": 38.094
+   },
+   {
+    "word": "ni",
+    "start": 38.094,
+    "end": 38.215
+   },
+   {
+    "word": "un",
+    "start": 38.215,
+    "end": 38.336
+   },
+   {
+    "word": "solo",
+    "start": 38.336,
+    "end": 38.578
+   },
+   {
+    "word": "precio,",
+    "start": 38.578,
+    "end": 39.04
+   },
+   {
+    "word": "reorganizó",
+    "start": 39.04,
+    "end": 40.071
+   },
+   {
+    "word": "dónde",
+    "start": 40.071,
+    "end": 40.374
+   },
+   {
+    "word": "estaban",
+    "start": 40.374,
+    "end": 40.798
+   },
+   {
+    "word": "colocadas",
+    "start": 40.798,
+    "end": 41.437
+   },
+   {
+    "word": "las",
+    "start": 41.437,
+    "end": 41.619
+   },
+   {
+    "word": "bebidas.",
+    "start": 41.619,
+    "end": 42.12
+   }
+  ]
+ },
+ {
+  "id": "S02_F009",
+  "scene": "MODULO 1 - El Experimento de la Cafeteria (Anne Thorndike)",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "Puso el agua a la altura de los ojos y al frente, y movió las bebidas azucaradas a un lugar menos visible.",
+  "visual": "Medium shot of a simplified shelf: a water-drop icon now glowing at eye-level in #FF5A36 at the front, a soda-icon pushed to a dim corner in the back.",
+  "start": 42.745,
+  "end": 49.794,
+  "words": [
+   {
+    "word": "Puso",
+    "start": 43.37,
+    "end": 43.622
+   },
+   {
+    "word": "el",
+    "start": 43.622,
+    "end": 43.748
+   },
+   {
+    "word": "agua",
+    "start": 43.748,
+    "end": 44.0
+   },
+   {
+    "word": "a",
+    "start": 44.0,
+    "end": 44.064
+   },
+   {
+    "word": "la",
+    "start": 44.064,
+    "end": 44.19
+   },
+   {
+    "word": "altura",
+    "start": 44.19,
+    "end": 44.652
+   },
+   {
+    "word": "de",
+    "start": 44.652,
+    "end": 44.778
+   },
+   {
+    "word": "los",
+    "start": 44.778,
+    "end": 44.967
+   },
+   {
+    "word": "ojos",
+    "start": 44.967,
+    "end": 45.22
+   },
+   {
+    "word": "y",
+    "start": 45.22,
+    "end": 45.283
+   },
+   {
+    "word": "al",
+    "start": 45.283,
+    "end": 45.409
+   },
+   {
+    "word": "frente,",
+    "start": 45.409,
+    "end": 45.863
+   },
+   {
+    "word": "y",
+    "start": 45.863,
+    "end": 46.315
+   },
+   {
+    "word": "movió",
+    "start": 46.315,
+    "end": 46.631
+   },
+   {
+    "word": "las",
+    "start": 46.631,
+    "end": 46.82
+   },
+   {
+    "word": "bebidas",
+    "start": 46.82,
+    "end": 47.262
+   },
+   {
+    "word": "azucaradas",
+    "start": 47.262,
+    "end": 47.892
+   },
+   {
+    "word": "a",
+    "start": 47.892,
+    "end": 47.956
+   },
+   {
+    "word": "un",
+    "start": 47.956,
+    "end": 48.082
+   },
+   {
+    "word": "lugar",
+    "start": 48.082,
+    "end": 48.397
+   },
+   {
+    "word": "menos",
+    "start": 48.397,
+    "end": 48.713
+   },
+   {
+    "word": "visible.",
+    "start": 48.713,
+    "end": 49.154
+   }
+  ]
+ },
+ {
+  "id": "S02_F010",
+  "scene": "MODULO 1 - El Experimento de la Cafeteria (Anne Thorndike)",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "Presta atención a esto: las ventas de agua subieron y las de refrescos bajaron, durante meses,",
+  "visual": "Medium shot of two simple bar-graph icons, one (water) rising steadily, one (soda) falling steadily, a small calendar strip beneath showing several months passing.",
+  "start": 49.794,
+  "end": 56.538,
+  "words": [
+   {
+    "word": "Presta",
+    "start": 50.434,
+    "end": 50.836
+   },
+   {
+    "word": "atención",
+    "start": 50.836,
+    "end": 51.373
+   },
+   {
+    "word": "a",
+    "start": 51.373,
+    "end": 51.44
+   },
+   {
+    "word": "esto:",
+    "start": 51.44,
+    "end": 51.708
+   },
+   {
+    "word": "las",
+    "start": 51.708,
+    "end": 52.319
+   },
+   {
+    "word": "ventas",
+    "start": 52.319,
+    "end": 52.722
+   },
+   {
+    "word": "de",
+    "start": 52.722,
+    "end": 52.856
+   },
+   {
+    "word": "agua",
+    "start": 52.856,
+    "end": 53.124
+   },
+   {
+    "word": "subieron",
+    "start": 53.124,
+    "end": 53.661
+   },
+   {
+    "word": "y",
+    "start": 53.661,
+    "end": 53.728
+   },
+   {
+    "word": "las",
+    "start": 53.728,
+    "end": 53.929
+   },
+   {
+    "word": "de",
+    "start": 53.929,
+    "end": 54.063
+   },
+   {
+    "word": "refrescos",
+    "start": 54.063,
+    "end": 54.667
+   },
+   {
+    "word": "bajaron,",
+    "start": 54.667,
+    "end": 55.548
+   },
+   {
+    "word": "durante",
+    "start": 55.548,
+    "end": 56.017
+   },
+   {
+    "word": "meses,",
+    "start": 56.017,
+    "end": 56.353
+   }
+  ]
+ },
+ {
+  "id": "S02_F011",
+  "scene": "MODULO 1 - El Experimento de la Cafeteria (Anne Thorndike)",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "sin que nadie diera un solo discurso motivacional a los empleados sobre comer mejor.",
+  "visual": "Wide shot of a simple podium/megaphone icon shown crossed out and unused, empty and silent, contrasting with the rising water-sales graph nearby.",
+  "start": 56.538,
+  "end": 61.523,
+  "words": [
+   {
+    "word": "sin",
+    "start": 56.724,
+    "end": 56.892
+   },
+   {
+    "word": "que",
+    "start": 56.892,
+    "end": 57.061
+   },
+   {
+    "word": "nadie",
+    "start": 57.061,
+    "end": 57.341
+   },
+   {
+    "word": "diera",
+    "start": 57.341,
+    "end": 57.621
+   },
+   {
+    "word": "un",
+    "start": 57.621,
+    "end": 57.733
+   },
+   {
+    "word": "solo",
+    "start": 57.733,
+    "end": 57.958
+   },
+   {
+    "word": "discurso",
+    "start": 57.958,
+    "end": 58.406
+   },
+   {
+    "word": "motivacional",
+    "start": 58.406,
+    "end": 59.079
+   },
+   {
+    "word": "a",
+    "start": 59.079,
+    "end": 59.135
+   },
+   {
+    "word": "los",
+    "start": 59.135,
+    "end": 59.304
+   },
+   {
+    "word": "empleados",
+    "start": 59.304,
+    "end": 59.89
+   },
+   {
+    "word": "sobre",
+    "start": 59.89,
+    "end": 60.17
+   },
+   {
+    "word": "comer",
+    "start": 60.17,
+    "end": 60.526
+   },
+   {
+    "word": "mejor.",
+    "start": 60.526,
+    "end": 60.896
+   }
+  ]
+ },
+ {
+  "id": "S02_F012",
+  "scene": "MODULO 1 - El Experimento de la Cafeteria (Anne Thorndike)",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Nadie decidió tener más disciplina. El entorno decidió por ellos, en la dirección correcta, sin que se dieran cuenta.",
+  "visual": "Wide shot of small stick-figure silhouettes calmly picking up the water icon without hesitation or visible effort, #FF5A36 highlight on the effortless, automatic nature of the choice.",
+  "start": 61.523,
+  "end": 71.055,
+  "words": [
+   {
+    "word": "Nadie",
+    "start": 62.15,
+    "end": 62.465
+   },
+   {
+    "word": "decidió",
+    "start": 62.465,
+    "end": 62.907
+   },
+   {
+    "word": "tener",
+    "start": 62.907,
+    "end": 63.223
+   },
+   {
+    "word": "más",
+    "start": 63.223,
+    "end": 63.412
+   },
+   {
+    "word": "disciplina.",
+    "start": 63.412,
+    "end": 64.129
+   },
+   {
+    "word": "El",
+    "start": 64.129,
+    "end": 65.485
+   },
+   {
+    "word": "entorno",
+    "start": 65.485,
+    "end": 65.927
+   },
+   {
+    "word": "decidió",
+    "start": 65.927,
+    "end": 66.369
+   },
+   {
+    "word": "por",
+    "start": 66.369,
+    "end": 66.558
+   },
+   {
+    "word": "ellos,",
+    "start": 66.558,
+    "end": 66.874
+   },
+   {
+    "word": "en",
+    "start": 66.874,
+    "end": 67.0
+   },
+   {
+    "word": "la",
+    "start": 67.0,
+    "end": 67.511
+   },
+   {
+    "word": "dirección",
+    "start": 67.511,
+    "end": 68.079
+   },
+   {
+    "word": "correcta,",
+    "start": 68.079,
+    "end": 68.584
+   },
+   {
+    "word": "sin",
+    "start": 68.584,
+    "end": 69.288
+   },
+   {
+    "word": "que",
+    "start": 69.288,
+    "end": 69.478
+   },
+   {
+    "word": "se",
+    "start": 69.478,
+    "end": 69.604
+   },
+   {
+    "word": "dieran",
+    "start": 69.604,
+    "end": 69.982
+   },
+   {
+    "word": "cuenta.",
+    "start": 69.982,
+    "end": 70.44
+   }
+  ]
+ },
+ {
+  "id": "S03_F013",
+  "scene": "MODULO 2 - El Habito Automatico (Wendy Wood / David Neal)",
+  "shot_raw": "Text card / title",
+  "shot": "MEDIUM SHOT",
+  "es": "Segundo, por qué el entorno le gana a la voluntad casi siempre.",
+  "visual": "Minimal title card, a simple dark movie-theater silhouette icon with a small glowing popcorn-bucket icon beside it.",
+  "start": 71.055,
+  "end": 75.914,
+  "words": [
+   {
+    "word": "Segundo,",
+    "start": 71.67,
+    "end": 72.095
+   },
+   {
+    "word": "por",
+    "start": 72.095,
+    "end": 72.682
+   },
+   {
+    "word": "qué",
+    "start": 72.682,
+    "end": 72.864
+   },
+   {
+    "word": "el",
+    "start": 72.864,
+    "end": 72.985
+   },
+   {
+    "word": "entorno",
+    "start": 72.985,
+    "end": 73.492
+   },
+   {
+    "word": "le",
+    "start": 73.492,
+    "end": 73.613
+   },
+   {
+    "word": "gana",
+    "start": 73.613,
+    "end": 73.856
+   },
+   {
+    "word": "a",
+    "start": 73.856,
+    "end": 73.916
+   },
+   {
+    "word": "la",
+    "start": 73.916,
+    "end": 74.038
+   },
+   {
+    "word": "voluntad",
+    "start": 74.038,
+    "end": 74.636
+   },
+   {
+    "word": "casi",
+    "start": 74.636,
+    "end": 74.879
+   },
+   {
+    "word": "siempre.",
+    "start": 74.879,
+    "end": 75.303
+   }
+  ]
+ },
+ {
+  "id": "S03_F014",
+  "scene": "MODULO 2 - El Habito Automatico (Wendy Wood / David Neal)",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "La psicóloga Wendy Wood, de la Universidad del Sur de California, junto con David Neal,",
+  "visual": "Stick figure standing beside a distinct university-building icon (visually different from icons used for other universities in prior videos) and a small research-paper icon.",
+  "start": 75.914,
+  "end": 82.152,
+  "words": [
+   {
+    "word": "La",
+    "start": 76.526,
+    "end": 76.659
+   },
+   {
+    "word": "psicóloga",
+    "start": 76.659,
+    "end": 77.259
+   },
+   {
+    "word": "Wendy",
+    "start": 77.259,
+    "end": 77.593
+   },
+   {
+    "word": "Wood,",
+    "start": 77.593,
+    "end": 78.282
+   },
+   {
+    "word": "de",
+    "start": 78.282,
+    "end": 78.415
+   },
+   {
+    "word": "la",
+    "start": 78.415,
+    "end": 78.549
+   },
+   {
+    "word": "Universidad",
+    "start": 78.549,
+    "end": 79.282
+   },
+   {
+    "word": "del",
+    "start": 79.282,
+    "end": 79.482
+   },
+   {
+    "word": "Sur",
+    "start": 79.482,
+    "end": 79.682
+   },
+   {
+    "word": "de",
+    "start": 79.682,
+    "end": 79.815
+   },
+   {
+    "word": "California,",
+    "start": 79.815,
+    "end": 80.867
+   },
+   {
+    "word": "junto",
+    "start": 80.867,
+    "end": 81.2
+   },
+   {
+    "word": "con",
+    "start": 81.2,
+    "end": 81.401
+   },
+   {
+    "word": "David",
+    "start": 81.401,
+    "end": 81.734
+   },
+   {
+    "word": "Neal,",
+    "start": 81.734,
+    "end": 82.001
+   }
+  ]
+ },
+ {
+  "id": "S03_F015",
+  "scene": "MODULO 2 - El Habito Automatico (Wendy Wood / David Neal)",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "hizo un estudio donde le dio a la gente palomitas de cine — algunas frescas, otras deliberadamente viejas y de mal sabor — dentro de una sala de cine.",
+  "visual": "Wide shot of a dark movie-theater silhouette with two popcorn-bucket icons side by side, one glowing fresh and bright, one dim and stale-looking, both handed to small seated stick-figure silhouettes.",
+  "start": 82.152,
+  "end": 91.605,
+  "words": [
+   {
+    "word": "hizo",
+    "start": 82.303,
+    "end": 82.558
+   },
+   {
+    "word": "un",
+    "start": 82.558,
+    "end": 82.685
+   },
+   {
+    "word": "estudio",
+    "start": 82.685,
+    "end": 83.13
+   },
+   {
+    "word": "donde",
+    "start": 83.13,
+    "end": 83.449
+   },
+   {
+    "word": "le",
+    "start": 83.449,
+    "end": 83.576
+   },
+   {
+    "word": "dio",
+    "start": 83.576,
+    "end": 83.767
+   },
+   {
+    "word": "a",
+    "start": 83.767,
+    "end": 83.831
+   },
+   {
+    "word": "la",
+    "start": 83.831,
+    "end": 84.105
+   },
+   {
+    "word": "gente",
+    "start": 84.105,
+    "end": 84.424
+   },
+   {
+    "word": "palomitas",
+    "start": 84.424,
+    "end": 84.996
+   },
+   {
+    "word": "de",
+    "start": 84.996,
+    "end": 85.124
+   },
+   {
+    "word": "cine",
+    "start": 85.124,
+    "end": 85.733
+   },
+   {
+    "word": "—",
+    "start": 85.733,
+    "end": 85.797
+   },
+   {
+    "word": "algunas",
+    "start": 85.797,
+    "end": 86.243
+   },
+   {
+    "word": "frescas,",
+    "start": 86.243,
+    "end": 86.891
+   },
+   {
+    "word": "otras",
+    "start": 86.891,
+    "end": 87.21
+   },
+   {
+    "word": "deliberadamente",
+    "start": 87.21,
+    "end": 88.164
+   },
+   {
+    "word": "viejas",
+    "start": 88.164,
+    "end": 88.546
+   },
+   {
+    "word": "y",
+    "start": 88.546,
+    "end": 88.61
+   },
+   {
+    "word": "de",
+    "start": 88.61,
+    "end": 88.737
+   },
+   {
+    "word": "mal",
+    "start": 88.737,
+    "end": 88.928
+   },
+   {
+    "word": "sabor",
+    "start": 88.928,
+    "end": 89.246
+   },
+   {
+    "word": "—",
+    "start": 89.246,
+    "end": 89.62
+   },
+   {
+    "word": "dentro",
+    "start": 89.62,
+    "end": 90.002
+   },
+   {
+    "word": "de",
+    "start": 90.002,
+    "end": 90.129
+   },
+   {
+    "word": "una",
+    "start": 90.129,
+    "end": 90.32
+   },
+   {
+    "word": "sala",
+    "start": 90.32,
+    "end": 90.575
+   },
+   {
+    "word": "de",
+    "start": 90.575,
+    "end": 90.702
+   },
+   {
+    "word": "cine.",
+    "start": 90.702,
+    "end": 90.957
+   }
+  ]
+ },
+ {
+  "id": "S03_F016",
+  "scene": "MODULO 2 - El Habito Automatico (Wendy Wood / David Neal)",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "Aquí está la clave: las personas que tenían el hábito de comer palomitas en el cine se comieron las palomitas viejas casi con la misma velocidad que las frescas, sin notar la diferencia.",
+  "visual": "Medium shot of a small seated stick-figure silhouette eating steadily from the stale popcorn bucket at the same pace as another silhouette eating from the fresh one, both hands moving at matching speed.",
+  "start": 91.605,
+  "end": 103.463,
+  "words": [
+   {
+    "word": "Aquí",
+    "start": 92.253,
+    "end": 92.49
+   },
+   {
+    "word": "está",
+    "start": 92.49,
+    "end": 92.727
+   },
+   {
+    "word": "la",
+    "start": 92.727,
+    "end": 92.845
+   },
+   {
+    "word": "clave:",
+    "start": 92.845,
+    "end": 93.216
+   },
+   {
+    "word": "las",
+    "start": 93.216,
+    "end": 93.394
+   },
+   {
+    "word": "personas",
+    "start": 93.394,
+    "end": 94.302
+   },
+   {
+    "word": "que",
+    "start": 94.302,
+    "end": 94.48
+   },
+   {
+    "word": "tenían",
+    "start": 94.48,
+    "end": 94.835
+   },
+   {
+    "word": "el",
+    "start": 94.835,
+    "end": 94.954
+   },
+   {
+    "word": "hábito",
+    "start": 94.954,
+    "end": 95.309
+   },
+   {
+    "word": "de",
+    "start": 95.309,
+    "end": 95.428
+   },
+   {
+    "word": "comer",
+    "start": 95.428,
+    "end": 95.724
+   },
+   {
+    "word": "palomitas",
+    "start": 95.724,
+    "end": 96.433
+   },
+   {
+    "word": "en",
+    "start": 96.433,
+    "end": 96.551
+   },
+   {
+    "word": "el",
+    "start": 96.551,
+    "end": 96.67
+   },
+   {
+    "word": "cine",
+    "start": 96.67,
+    "end": 96.906
+   },
+   {
+    "word": "se",
+    "start": 96.906,
+    "end": 97.025
+   },
+   {
+    "word": "comieron",
+    "start": 97.025,
+    "end": 97.499
+   },
+   {
+    "word": "las",
+    "start": 97.499,
+    "end": 97.677
+   },
+   {
+    "word": "palomitas",
+    "start": 97.677,
+    "end": 98.363
+   },
+   {
+    "word": "viejas",
+    "start": 98.363,
+    "end": 98.718
+   },
+   {
+    "word": "casi",
+    "start": 98.718,
+    "end": 99.115
+   },
+   {
+    "word": "con",
+    "start": 99.115,
+    "end": 99.292
+   },
+   {
+    "word": "la",
+    "start": 99.292,
+    "end": 99.411
+   },
+   {
+    "word": "misma",
+    "start": 99.411,
+    "end": 99.707
+   },
+   {
+    "word": "velocidad",
+    "start": 99.707,
+    "end": 100.359
+   },
+   {
+    "word": "que",
+    "start": 100.359,
+    "end": 100.537
+   },
+   {
+    "word": "las",
+    "start": 100.537,
+    "end": 100.715
+   },
+   {
+    "word": "frescas,",
+    "start": 100.715,
+    "end": 101.572
+   },
+   {
+    "word": "sin",
+    "start": 101.572,
+    "end": 101.75
+   },
+   {
+    "word": "notar",
+    "start": 101.75,
+    "end": 102.124
+   },
+   {
+    "word": "la",
+    "start": 102.124,
+    "end": 102.243
+   },
+   {
+    "word": "diferencia.",
+    "start": 102.243,
+    "end": 102.835
+   }
+  ]
+ },
+ {
+  "id": "S03_F017",
+  "scene": "MODULO 2 - El Habito Automatico (Wendy Wood / David Neal)",
+  "shot_raw": "Close-up",
+  "shot": "CLOSE-UP",
+  "es": "El hábito no estaba conectado a si la comida sabía bien.",
+  "visual": "Close-up of a simple taste/flavor icon shown dimmed and disconnected, a broken link line between it and the eating-motion icon.",
+  "start": 103.463,
+  "end": 107.477,
+  "words": [
+   {
+    "word": "El",
+    "start": 104.092,
+    "end": 104.206
+   },
+   {
+    "word": "hábito",
+    "start": 104.206,
+    "end": 104.547
+   },
+   {
+    "word": "no",
+    "start": 104.547,
+    "end": 104.66
+   },
+   {
+    "word": "estaba",
+    "start": 104.66,
+    "end": 105.002
+   },
+   {
+    "word": "conectado",
+    "start": 105.002,
+    "end": 105.635
+   },
+   {
+    "word": "a",
+    "start": 105.635,
+    "end": 105.692
+   },
+   {
+    "word": "si",
+    "start": 105.692,
+    "end": 105.806
+   },
+   {
+    "word": "la",
+    "start": 105.806,
+    "end": 105.993
+   },
+   {
+    "word": "comida",
+    "start": 105.993,
+    "end": 106.334
+   },
+   {
+    "word": "sabía",
+    "start": 106.334,
+    "end": 106.619
+   },
+   {
+    "word": "bien.",
+    "start": 106.619,
+    "end": 106.846
+   }
+  ]
+ },
+ {
+  "id": "S03_F018",
+  "scene": "MODULO 2 - El Habito Automatico (Wendy Wood / David Neal)",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Estaba conectado al lugar, la sala oscura, el sonido de la película —",
+  "visual": "Wide shot of the dark theater silhouette, a small glowing sound-wave icon and a dim-room icon both highlighted in #FF5A36, clearly linked to the eating-motion icon instead of the taste icon.",
+  "start": 107.477,
+  "end": 112.63,
+  "words": [
+   {
+    "word": "Estaba",
+    "start": 108.109,
+    "end": 108.467
+   },
+   {
+    "word": "conectado",
+    "start": 108.467,
+    "end": 109.094
+   },
+   {
+    "word": "al",
+    "start": 109.094,
+    "end": 109.213
+   },
+   {
+    "word": "lugar,",
+    "start": 109.213,
+    "end": 109.512
+   },
+   {
+    "word": "la",
+    "start": 109.512,
+    "end": 110.02
+   },
+   {
+    "word": "sala",
+    "start": 110.02,
+    "end": 110.259
+   },
+   {
+    "word": "oscura,",
+    "start": 110.259,
+    "end": 110.618
+   },
+   {
+    "word": "el",
+    "start": 110.618,
+    "end": 110.737
+   },
+   {
+    "word": "sonido",
+    "start": 110.737,
+    "end": 111.483
+   },
+   {
+    "word": "de",
+    "start": 111.483,
+    "end": 111.602
+   },
+   {
+    "word": "la",
+    "start": 111.602,
+    "end": 111.721
+   },
+   {
+    "word": "película",
+    "start": 111.721,
+    "end": 112.363
+   },
+   {
+    "word": "—",
+    "start": 112.363,
+    "end": 112.423
+   }
+  ]
+ },
+ {
+  "id": "S03_F019",
+  "scene": "MODULO 2 - El Habito Automatico (Wendy Wood / David Neal)",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "la señal del entorno activaba la conducta automáticamente, sin pasar por una decisión consciente ni por la fuerza de voluntad.",
+  "visual": "Medium shot of a simple trigger-icon (the dim-room icon) connected by a direct glowing arrow straight to the eating-motion icon, bypassing a small brain/decision icon entirely.",
+  "start": 112.63,
+  "end": 120.65,
+  "words": [
+   {
+    "word": "la",
+    "start": 112.838,
+    "end": 112.95
+   },
+   {
+    "word": "señal",
+    "start": 112.95,
+    "end": 113.231
+   },
+   {
+    "word": "del",
+    "start": 113.231,
+    "end": 113.4
+   },
+   {
+    "word": "entorno",
+    "start": 113.4,
+    "end": 113.879
+   },
+   {
+    "word": "activaba",
+    "start": 113.879,
+    "end": 114.45
+   },
+   {
+    "word": "la",
+    "start": 114.45,
+    "end": 114.562
+   },
+   {
+    "word": "conducta",
+    "start": 114.562,
+    "end": 115.115
+   },
+   {
+    "word": "automáticamente,",
+    "start": 115.115,
+    "end": 116.558
+   },
+   {
+    "word": "sin",
+    "start": 116.558,
+    "end": 116.727
+   },
+   {
+    "word": "pasar",
+    "start": 116.727,
+    "end": 117.007
+   },
+   {
+    "word": "por",
+    "start": 117.007,
+    "end": 117.299
+   },
+   {
+    "word": "una",
+    "start": 117.299,
+    "end": 117.467
+   },
+   {
+    "word": "decisión",
+    "start": 117.467,
+    "end": 118.002
+   },
+   {
+    "word": "consciente",
+    "start": 118.002,
+    "end": 118.563
+   },
+   {
+    "word": "ni",
+    "start": 118.563,
+    "end": 118.768
+   },
+   {
+    "word": "por",
+    "start": 118.768,
+    "end": 118.936
+   },
+   {
+    "word": "la",
+    "start": 118.936,
+    "end": 119.048
+   },
+   {
+    "word": "fuerza",
+    "start": 119.048,
+    "end": 119.385
+   },
+   {
+    "word": "de",
+    "start": 119.385,
+    "end": 119.498
+   },
+   {
+    "word": "voluntad.",
+    "start": 119.498,
+    "end": 120.04
+   }
+  ]
+ },
+ {
+  "id": "S04_F020",
+  "scene": "MODULO 3 - Que Hacer en la Practica",
+  "shot_raw": "Text card / title",
+  "shot": "MEDIUM SHOT",
+  "es": "Tercero, qué hacer con esto en la práctica.",
+  "visual": "Minimal title card, a simple glowing shelf-rearrangement icon in #FF5A36, an arrow showing an item being moved from back to front.",
+  "start": 120.65,
+  "end": 124.389,
+  "words": [
+   {
+    "word": "Tercero,",
+    "start": 121.261,
+    "end": 121.635
+   },
+   {
+    "word": "qué",
+    "start": 121.635,
+    "end": 121.796
+   },
+   {
+    "word": "hacer",
+    "start": 121.796,
+    "end": 122.418
+   },
+   {
+    "word": "con",
+    "start": 122.418,
+    "end": 122.65
+   },
+   {
+    "word": "esto",
+    "start": 122.65,
+    "end": 122.864
+   },
+   {
+    "word": "en",
+    "start": 122.864,
+    "end": 122.971
+   },
+   {
+    "word": "la",
+    "start": 122.971,
+    "end": 123.078
+   },
+   {
+    "word": "práctica.",
+    "start": 123.078,
+    "end": 123.771
+   }
+  ]
+ },
+ {
+  "id": "S04_F021",
+  "scene": "MODULO 3 - Que Hacer en la Practica",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Si el entorno controla tanto de tu conducta, la solución no es pelear contra él usando más disciplina —",
+  "visual": "Wide shot of the stick figure shown NOT straining against a tempting object this time, calm posture instead of the tense pose from the Gancho.",
+  "start": 124.389,
+  "end": 131.012,
+  "words": [
+   {
+    "word": "Si",
+    "start": 125.008,
+    "end": 125.126
+   },
+   {
+    "word": "el",
+    "start": 125.126,
+    "end": 125.243
+   },
+   {
+    "word": "entorno",
+    "start": 125.243,
+    "end": 125.655
+   },
+   {
+    "word": "controla",
+    "start": 125.655,
+    "end": 126.125
+   },
+   {
+    "word": "tanto",
+    "start": 126.125,
+    "end": 126.507
+   },
+   {
+    "word": "de",
+    "start": 126.507,
+    "end": 126.625
+   },
+   {
+    "word": "tu",
+    "start": 126.625,
+    "end": 126.742
+   },
+   {
+    "word": "conducta,",
+    "start": 126.742,
+    "end": 127.213
+   },
+   {
+    "word": "la",
+    "start": 127.213,
+    "end": 127.464
+   },
+   {
+    "word": "solución",
+    "start": 127.464,
+    "end": 128.369
+   },
+   {
+    "word": "no",
+    "start": 128.369,
+    "end": 128.486
+   },
+   {
+    "word": "es",
+    "start": 128.486,
+    "end": 128.604
+   },
+   {
+    "word": "pelear",
+    "start": 128.604,
+    "end": 129.031
+   },
+   {
+    "word": "contra",
+    "start": 129.031,
+    "end": 129.464
+   },
+   {
+    "word": "él",
+    "start": 129.464,
+    "end": 129.582
+   },
+   {
+    "word": "usando",
+    "start": 129.582,
+    "end": 129.935
+   },
+   {
+    "word": "más",
+    "start": 129.935,
+    "end": 130.111
+   },
+   {
+    "word": "disciplina",
+    "start": 130.111,
+    "end": 130.782
+   },
+   {
+    "word": "—",
+    "start": 130.782,
+    "end": 130.841
+   }
+  ]
+ },
+ {
+  "id": "S04_F022",
+  "scene": "MODULO 3 - Que Hacer en la Practica",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "es rediseñarlo antes de que la tentación aparezca, no en el momento exacto en que ya la tienes enfrente y tu voluntad está en su punto más débil.",
+  "visual": "Medium shot of a timeline showing a rearrangement action happening well BEFORE a tempting object appears, the willpower/battery icon shown still full and untested at that earlier point.",
+  "start": 131.012,
+  "end": 139.627,
+  "words": [
+   {
+    "word": "es",
+    "start": 131.184,
+    "end": 131.302
+   },
+   {
+    "word": "rediseñarlo",
+    "start": 131.302,
+    "end": 131.954
+   },
+   {
+    "word": "antes",
+    "start": 131.954,
+    "end": 132.25
+   },
+   {
+    "word": "de",
+    "start": 132.25,
+    "end": 132.369
+   },
+   {
+    "word": "que",
+    "start": 132.369,
+    "end": 132.622
+   },
+   {
+    "word": "la",
+    "start": 132.622,
+    "end": 132.741
+   },
+   {
+    "word": "tentación",
+    "start": 132.741,
+    "end": 133.274
+   },
+   {
+    "word": "aparezca,",
+    "start": 133.274,
+    "end": 133.912
+   },
+   {
+    "word": "no",
+    "start": 133.912,
+    "end": 134.399
+   },
+   {
+    "word": "en",
+    "start": 134.399,
+    "end": 134.518
+   },
+   {
+    "word": "el",
+    "start": 134.518,
+    "end": 134.636
+   },
+   {
+    "word": "momento",
+    "start": 134.636,
+    "end": 135.051
+   },
+   {
+    "word": "exacto",
+    "start": 135.051,
+    "end": 135.406
+   },
+   {
+    "word": "en",
+    "start": 135.406,
+    "end": 135.635
+   },
+   {
+    "word": "que",
+    "start": 135.635,
+    "end": 135.812
+   },
+   {
+    "word": "ya",
+    "start": 135.812,
+    "end": 135.931
+   },
+   {
+    "word": "la",
+    "start": 135.931,
+    "end": 136.049
+   },
+   {
+    "word": "tienes",
+    "start": 136.049,
+    "end": 136.482
+   },
+   {
+    "word": "enfrente",
+    "start": 136.482,
+    "end": 136.956
+   },
+   {
+    "word": "y",
+    "start": 136.956,
+    "end": 137.015
+   },
+   {
+    "word": "tu",
+    "start": 137.015,
+    "end": 137.133
+   },
+   {
+    "word": "voluntad",
+    "start": 137.133,
+    "end": 137.678
+   },
+   {
+    "word": "está",
+    "start": 137.678,
+    "end": 137.915
+   },
+   {
+    "word": "en",
+    "start": 137.915,
+    "end": 138.034
+   },
+   {
+    "word": "su",
+    "start": 138.034,
+    "end": 138.152
+   },
+   {
+    "word": "punto",
+    "start": 138.152,
+    "end": 138.527
+   },
+   {
+    "word": "más",
+    "start": 138.527,
+    "end": 138.705
+   },
+   {
+    "word": "débil.",
+    "start": 138.705,
+    "end": 139.001
+   }
+  ]
+ },
+ {
+  "id": "S04_F023",
+  "scene": "MODULO 3 - Que Hacer en la Practica",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Deja la fruta a la vista y esconde las galletas en un lugar incómodo de alcanzar, en un estante alto o detrás de otros productos.",
+  "visual": "Wide shot of a simple kitchen-shelf layout: a fruit icon glowing at the front within easy reach, a cookie icon pushed high and behind other items, #FF5A36 highlight on the fruit's position.",
+  "start": 139.627,
+  "end": 148.104,
+  "words": [
+   {
+    "word": "Deja",
+    "start": 140.254,
+    "end": 140.494
+   },
+   {
+    "word": "la",
+    "start": 140.494,
+    "end": 140.613
+   },
+   {
+    "word": "fruta",
+    "start": 140.613,
+    "end": 140.913
+   },
+   {
+    "word": "a",
+    "start": 140.913,
+    "end": 140.973
+   },
+   {
+    "word": "la",
+    "start": 140.973,
+    "end": 141.093
+   },
+   {
+    "word": "vista",
+    "start": 141.093,
+    "end": 141.392
+   },
+   {
+    "word": "y",
+    "start": 141.392,
+    "end": 141.452
+   },
+   {
+    "word": "esconde",
+    "start": 141.452,
+    "end": 141.871
+   },
+   {
+    "word": "las",
+    "start": 141.871,
+    "end": 142.051
+   },
+   {
+    "word": "galletas",
+    "start": 142.051,
+    "end": 142.53
+   },
+   {
+    "word": "en",
+    "start": 142.53,
+    "end": 142.65
+   },
+   {
+    "word": "un",
+    "start": 142.65,
+    "end": 142.77
+   },
+   {
+    "word": "lugar",
+    "start": 142.77,
+    "end": 143.069
+   },
+   {
+    "word": "incómodo",
+    "start": 143.069,
+    "end": 143.549
+   },
+   {
+    "word": "de",
+    "start": 143.549,
+    "end": 143.668
+   },
+   {
+    "word": "alcanzar,",
+    "start": 143.668,
+    "end": 144.228
+   },
+   {
+    "word": "en",
+    "start": 144.228,
+    "end": 144.347
+   },
+   {
+    "word": "un",
+    "start": 144.347,
+    "end": 144.467
+   },
+   {
+    "word": "estante",
+    "start": 144.467,
+    "end": 145.349
+   },
+   {
+    "word": "alto",
+    "start": 145.349,
+    "end": 145.659
+   },
+   {
+    "word": "o",
+    "start": 145.659,
+    "end": 145.719
+   },
+   {
+    "word": "detrás",
+    "start": 145.719,
+    "end": 146.172
+   },
+   {
+    "word": "de",
+    "start": 146.172,
+    "end": 146.364
+   },
+   {
+    "word": "otros",
+    "start": 146.364,
+    "end": 146.664
+   },
+   {
+    "word": "productos.",
+    "start": 146.664,
+    "end": 147.501
+   }
+  ]
+ },
+ {
+  "id": "S04_F024",
+  "scene": "MODULO 3 - Que Hacer en la Practica",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "Deja la ropa de entrenar lista junto a la cama la noche anterior y pon el control remoto dentro de un cajón cerrado, no sobre la mesa donde lo ves apenas te sientas.",
+  "visual": "Medium shot split into two vignettes: workout clothes laid out glowing beside a bed, and a remote-control icon shown tucked inside a closed drawer icon rather than sitting visibly on a table.",
+  "start": 148.104,
+  "end": 158.342,
+  "words": [
+   {
+    "word": "Deja",
+    "start": 148.707,
+    "end": 148.946
+   },
+   {
+    "word": "la",
+    "start": 148.946,
+    "end": 149.066
+   },
+   {
+    "word": "ropa",
+    "start": 149.066,
+    "end": 149.305
+   },
+   {
+    "word": "de",
+    "start": 149.305,
+    "end": 149.499
+   },
+   {
+    "word": "entrenar",
+    "start": 149.499,
+    "end": 149.977
+   },
+   {
+    "word": "lista",
+    "start": 149.977,
+    "end": 150.276
+   },
+   {
+    "word": "junto",
+    "start": 150.276,
+    "end": 150.575
+   },
+   {
+    "word": "a",
+    "start": 150.575,
+    "end": 150.635
+   },
+   {
+    "word": "la",
+    "start": 150.635,
+    "end": 150.755
+   },
+   {
+    "word": "cama",
+    "start": 150.755,
+    "end": 151.075
+   },
+   {
+    "word": "la",
+    "start": 151.075,
+    "end": 151.195
+   },
+   {
+    "word": "noche",
+    "start": 151.195,
+    "end": 151.494
+   },
+   {
+    "word": "anterior",
+    "start": 151.494,
+    "end": 151.972
+   },
+   {
+    "word": "y",
+    "start": 151.972,
+    "end": 152.032
+   },
+   {
+    "word": "pon",
+    "start": 152.032,
+    "end": 152.211
+   },
+   {
+    "word": "el",
+    "start": 152.211,
+    "end": 152.42
+   },
+   {
+    "word": "control",
+    "start": 152.42,
+    "end": 152.916
+   },
+   {
+    "word": "remoto",
+    "start": 152.916,
+    "end": 153.345
+   },
+   {
+    "word": "dentro",
+    "start": 153.345,
+    "end": 153.704
+   },
+   {
+    "word": "de",
+    "start": 153.704,
+    "end": 153.824
+   },
+   {
+    "word": "un",
+    "start": 153.824,
+    "end": 154.032
+   },
+   {
+    "word": "cajón",
+    "start": 154.032,
+    "end": 154.331
+   },
+   {
+    "word": "cerrado,",
+    "start": 154.331,
+    "end": 155.185
+   },
+   {
+    "word": "no",
+    "start": 155.185,
+    "end": 155.305
+   },
+   {
+    "word": "sobre",
+    "start": 155.305,
+    "end": 155.604
+   },
+   {
+    "word": "la",
+    "start": 155.604,
+    "end": 155.724
+   },
+   {
+    "word": "mesa",
+    "start": 155.724,
+    "end": 155.963
+   },
+   {
+    "word": "donde",
+    "start": 155.963,
+    "end": 156.262
+   },
+   {
+    "word": "lo",
+    "start": 156.262,
+    "end": 156.381
+   },
+   {
+    "word": "ves",
+    "start": 156.381,
+    "end": 156.561
+   },
+   {
+    "word": "apenas",
+    "start": 156.561,
+    "end": 157.015
+   },
+   {
+    "word": "te",
+    "start": 157.015,
+    "end": 157.134
+   },
+   {
+    "word": "sientas.",
+    "start": 157.134,
+    "end": 157.734
+   }
+  ]
+ },
+ {
+  "id": "S04_F025",
+  "scene": "MODULO 3 - Que Hacer en la Practica",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Esto es lo que nadie te dice: no se trata de tener más disciplina que las personas que fallan.",
+  "visual": "Wide shot of two stick figures standing side by side, no visible difference in a willpower/battery icon between them, emphasizing they are not fundamentally different in discipline.",
+  "start": 158.342,
+  "end": 164.522,
+  "words": [
+   {
+    "word": "Esto",
+    "start": 158.95,
+    "end": 159.188
+   },
+   {
+    "word": "es",
+    "start": 159.188,
+    "end": 159.306
+   },
+   {
+    "word": "lo",
+    "start": 159.306,
+    "end": 159.425
+   },
+   {
+    "word": "que",
+    "start": 159.425,
+    "end": 159.603
+   },
+   {
+    "word": "nadie",
+    "start": 159.603,
+    "end": 159.9
+   },
+   {
+    "word": "te",
+    "start": 159.9,
+    "end": 160.019
+   },
+   {
+    "word": "dice:",
+    "start": 160.019,
+    "end": 160.256
+   },
+   {
+    "word": "no",
+    "start": 160.256,
+    "end": 160.796
+   },
+   {
+    "word": "se",
+    "start": 160.796,
+    "end": 160.915
+   },
+   {
+    "word": "trata",
+    "start": 160.915,
+    "end": 161.212
+   },
+   {
+    "word": "de",
+    "start": 161.212,
+    "end": 161.33
+   },
+   {
+    "word": "tener",
+    "start": 161.33,
+    "end": 161.627
+   },
+   {
+    "word": "más",
+    "start": 161.627,
+    "end": 161.806
+   },
+   {
+    "word": "disciplina",
+    "start": 161.806,
+    "end": 162.474
+   },
+   {
+    "word": "que",
+    "start": 162.474,
+    "end": 162.652
+   },
+   {
+    "word": "las",
+    "start": 162.652,
+    "end": 162.831
+   },
+   {
+    "word": "personas",
+    "start": 162.831,
+    "end": 163.378
+   },
+   {
+    "word": "que",
+    "start": 163.378,
+    "end": 163.556
+   },
+   {
+    "word": "fallan.",
+    "start": 163.556,
+    "end": 163.912
+   }
+  ]
+ },
+ {
+  "id": "S04_F026",
+  "scene": "MODULO 3 - Que Hacer en la Practica",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "Se trata de necesitar menos disciplina, porque ya organizaste el camino de menor resistencia hacia lo que sí quieres hacer, mucho antes de que la tentación tuviera oportunidad de aparecer.",
+  "visual": "Medium shot of a clear glowing path in #FF5A36 leading directly and smoothly toward a desired-habit icon, no obstacles or tempting objects anywhere along the path.",
+  "start": 164.522,
+  "end": 176.147,
+  "words": [
+   {
+    "word": "Se",
+    "start": 165.131,
+    "end": 165.244
+   },
+   {
+    "word": "trata",
+    "start": 165.244,
+    "end": 165.527
+   },
+   {
+    "word": "de",
+    "start": 165.527,
+    "end": 165.64
+   },
+   {
+    "word": "necesitar",
+    "start": 165.64,
+    "end": 166.149
+   },
+   {
+    "word": "menos",
+    "start": 166.149,
+    "end": 166.432
+   },
+   {
+    "word": "disciplina,",
+    "start": 166.432,
+    "end": 167.077
+   },
+   {
+    "word": "porque",
+    "start": 167.077,
+    "end": 167.793
+   },
+   {
+    "word": "ya",
+    "start": 167.793,
+    "end": 167.906
+   },
+   {
+    "word": "organizaste",
+    "start": 167.906,
+    "end": 168.528
+   },
+   {
+    "word": "el",
+    "start": 168.528,
+    "end": 168.641
+   },
+   {
+    "word": "camino",
+    "start": 168.641,
+    "end": 169.057
+   },
+   {
+    "word": "de",
+    "start": 169.057,
+    "end": 169.171
+   },
+   {
+    "word": "menor",
+    "start": 169.171,
+    "end": 169.453
+   },
+   {
+    "word": "resistencia",
+    "start": 169.453,
+    "end": 170.156
+   },
+   {
+    "word": "hacia",
+    "start": 170.156,
+    "end": 170.439
+   },
+   {
+    "word": "lo",
+    "start": 170.439,
+    "end": 170.552
+   },
+   {
+    "word": "que",
+    "start": 170.552,
+    "end": 170.722
+   },
+   {
+    "word": "sí",
+    "start": 170.722,
+    "end": 170.911
+   },
+   {
+    "word": "quieres",
+    "start": 170.911,
+    "end": 171.384
+   },
+   {
+    "word": "hacer,",
+    "start": 171.384,
+    "end": 171.667
+   },
+   {
+    "word": "mucho",
+    "start": 171.667,
+    "end": 172.348
+   },
+   {
+    "word": "antes",
+    "start": 172.348,
+    "end": 172.63
+   },
+   {
+    "word": "de",
+    "start": 172.63,
+    "end": 172.744
+   },
+   {
+    "word": "que",
+    "start": 172.744,
+    "end": 172.913
+   },
+   {
+    "word": "la",
+    "start": 172.913,
+    "end": 173.099
+   },
+   {
+    "word": "tentación",
+    "start": 173.099,
+    "end": 173.681
+   },
+   {
+    "word": "tuviera",
+    "start": 173.681,
+    "end": 174.077
+   },
+   {
+    "word": "oportunidad",
+    "start": 174.077,
+    "end": 174.873
+   },
+   {
+    "word": "de",
+    "start": 174.873,
+    "end": 174.987
+   },
+   {
+    "word": "aparecer.",
+    "start": 174.987,
+    "end": 175.524
+   }
+  ]
+ },
+ {
+  "id": "S05_F027",
+  "scene": "MODULO 4 - La Trampa de Creer Que Ya Lo Resolviste",
+  "shot_raw": "Text card / title",
+  "shot": "MEDIUM SHOT",
+  "es": "Y cuarto, la trampa de creer que ya lo resolviste.",
+  "visual": "Minimal title card, the well-arranged shelf icon from Módulo 3 shown with a small warning/caution icon appearing subtly at its edge.",
+  "start": 176.147,
+  "end": 180.493,
+  "words": [
+   {
+    "word": "Y",
+    "start": 176.771,
+    "end": 176.833
+   },
+   {
+    "word": "cuarto,",
+    "start": 176.833,
+    "end": 177.781
+   },
+   {
+    "word": "la",
+    "start": 177.781,
+    "end": 177.906
+   },
+   {
+    "word": "trampa",
+    "start": 177.906,
+    "end": 178.28
+   },
+   {
+    "word": "de",
+    "start": 178.28,
+    "end": 178.405
+   },
+   {
+    "word": "creer",
+    "start": 178.405,
+    "end": 178.792
+   },
+   {
+    "word": "que",
+    "start": 178.792,
+    "end": 178.979
+   },
+   {
+    "word": "ya",
+    "start": 178.979,
+    "end": 179.104
+   },
+   {
+    "word": "lo",
+    "start": 179.104,
+    "end": 179.229
+   },
+   {
+    "word": "resolviste.",
+    "start": 179.229,
+    "end": 179.852
+   }
+  ]
+ },
+ {
+  "id": "S05_F028",
+  "scene": "MODULO 4 - La Trampa de Creer Que Ya Lo Resolviste",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "Rediseñar tu entorno una sola vez no es suficiente si vuelves al mismo entorno sin cambios cada semana, como si el trabajo ya estuviera terminado para siempre.",
+  "visual": "Medium shot of the well-arranged shelf icon frozen in place while a calendar strip advances through several weeks untouched beside it, static and unmonitored.",
+  "start": 180.493,
+  "end": 190.288,
+  "words": [
+   {
+    "word": "Rediseñar",
+    "start": 181.134,
+    "end": 181.653
+   },
+   {
+    "word": "tu",
+    "start": 181.653,
+    "end": 181.84
+   },
+   {
+    "word": "entorno",
+    "start": 181.84,
+    "end": 182.243
+   },
+   {
+    "word": "una",
+    "start": 182.243,
+    "end": 182.416
+   },
+   {
+    "word": "sola",
+    "start": 182.416,
+    "end": 182.647
+   },
+   {
+    "word": "vez",
+    "start": 182.647,
+    "end": 182.82
+   },
+   {
+    "word": "no",
+    "start": 182.82,
+    "end": 182.936
+   },
+   {
+    "word": "es",
+    "start": 182.936,
+    "end": 183.051
+   },
+   {
+    "word": "suficiente",
+    "start": 183.051,
+    "end": 183.628
+   },
+   {
+    "word": "si",
+    "start": 183.628,
+    "end": 183.743
+   },
+   {
+    "word": "vuelves",
+    "start": 183.743,
+    "end": 184.147
+   },
+   {
+    "word": "al",
+    "start": 184.147,
+    "end": 184.262
+   },
+   {
+    "word": "mismo",
+    "start": 184.262,
+    "end": 184.551
+   },
+   {
+    "word": "entorno",
+    "start": 184.551,
+    "end": 185.04
+   },
+   {
+    "word": "sin",
+    "start": 185.04,
+    "end": 185.213
+   },
+   {
+    "word": "cambios",
+    "start": 185.213,
+    "end": 185.691
+   },
+   {
+    "word": "cada",
+    "start": 185.691,
+    "end": 185.921
+   },
+   {
+    "word": "semana,",
+    "start": 185.921,
+    "end": 186.267
+   },
+   {
+    "word": "como",
+    "start": 186.267,
+    "end": 186.498
+   },
+   {
+    "word": "si",
+    "start": 186.498,
+    "end": 186.947
+   },
+   {
+    "word": "el",
+    "start": 186.947,
+    "end": 187.062
+   },
+   {
+    "word": "trabajo",
+    "start": 187.062,
+    "end": 187.539
+   },
+   {
+    "word": "ya",
+    "start": 187.539,
+    "end": 187.654
+   },
+   {
+    "word": "estuviera",
+    "start": 187.654,
+    "end": 188.173
+   },
+   {
+    "word": "terminado",
+    "start": 188.173,
+    "end": 188.789
+   },
+   {
+    "word": "para",
+    "start": 188.789,
+    "end": 189.124
+   },
+   {
+    "word": "siempre.",
+    "start": 189.124,
+    "end": 189.528
+   }
+  ]
+ },
+ {
+  "id": "S05_F029",
+  "scene": "MODULO 4 - La Trampa de Creer Que Ya Lo Resolviste",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Pero espera, todavía hay más: los entornos se degradan solos con el tiempo —",
+  "visual": "Wide shot of the well-arranged shelf icon slowly losing its glow, edges dimming gradually across the frame.",
+  "start": 190.288,
+  "end": 195.691,
+  "words": [
+   {
+    "word": "Pero",
+    "start": 190.9,
+    "end": 191.137
+   },
+   {
+    "word": "espera,",
+    "start": 191.137,
+    "end": 191.578
+   },
+   {
+    "word": "todavía",
+    "start": 191.578,
+    "end": 192.364
+   },
+   {
+    "word": "hay",
+    "start": 192.364,
+    "end": 192.542
+   },
+   {
+    "word": "más:",
+    "start": 192.542,
+    "end": 192.72
+   },
+   {
+    "word": "los",
+    "start": 192.72,
+    "end": 193.316
+   },
+   {
+    "word": "entornos",
+    "start": 193.316,
+    "end": 193.79
+   },
+   {
+    "word": "se",
+    "start": 193.79,
+    "end": 193.908
+   },
+   {
+    "word": "degradan",
+    "start": 193.908,
+    "end": 194.382
+   },
+   {
+    "word": "solos",
+    "start": 194.382,
+    "end": 194.678
+   },
+   {
+    "word": "con",
+    "start": 194.678,
+    "end": 194.855
+   },
+   {
+    "word": "el",
+    "start": 194.855,
+    "end": 194.974
+   },
+   {
+    "word": "tiempo",
+    "start": 194.974,
+    "end": 195.484
+   },
+   {
+    "word": "—",
+    "start": 195.484,
+    "end": 195.543
+   }
+  ]
+ },
+ {
+  "id": "S05_F030",
+  "scene": "MODULO 4 - La Trampa de Creer Que Ya Lo Resolviste",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "alguien deja galletas nuevas sobre la mesa, alguien pone el teléfono de vuelta junto a la cama, una promoción en el supermercado llena tu cocina de tentaciones que no elegiste tener ahí —",
+  "visual": "Medium shot of three small vignettes appearing one by one: a fresh cookie icon reappearing on a table, a phone icon sliding back beside a bed, a promotional discount icon filling a kitchen shelf with new tempting items.",
+  "start": 195.691,
+  "end": 206.101,
+  "words": [
+   {
+    "word": "alguien",
+    "start": 195.839,
+    "end": 196.253
+   },
+   {
+    "word": "deja",
+    "start": 196.253,
+    "end": 196.489
+   },
+   {
+    "word": "galletas",
+    "start": 196.489,
+    "end": 196.961
+   },
+   {
+    "word": "nuevas",
+    "start": 196.961,
+    "end": 197.316
+   },
+   {
+    "word": "sobre",
+    "start": 197.316,
+    "end": 197.611
+   },
+   {
+    "word": "la",
+    "start": 197.611,
+    "end": 197.73
+   },
+   {
+    "word": "mesa,",
+    "start": 197.73,
+    "end": 197.966
+   },
+   {
+    "word": "alguien",
+    "start": 197.966,
+    "end": 198.787
+   },
+   {
+    "word": "pone",
+    "start": 198.787,
+    "end": 199.024
+   },
+   {
+    "word": "el",
+    "start": 199.024,
+    "end": 199.243
+   },
+   {
+    "word": "teléfono",
+    "start": 199.243,
+    "end": 199.715
+   },
+   {
+    "word": "de",
+    "start": 199.715,
+    "end": 199.834
+   },
+   {
+    "word": "vuelta",
+    "start": 199.834,
+    "end": 200.269
+   },
+   {
+    "word": "junto",
+    "start": 200.269,
+    "end": 200.643
+   },
+   {
+    "word": "a",
+    "start": 200.643,
+    "end": 200.703
+   },
+   {
+    "word": "la",
+    "start": 200.703,
+    "end": 200.821
+   },
+   {
+    "word": "cama,",
+    "start": 200.821,
+    "end": 201.307
+   },
+   {
+    "word": "una",
+    "start": 201.307,
+    "end": 201.558
+   },
+   {
+    "word": "promoción",
+    "start": 201.558,
+    "end": 202.09
+   },
+   {
+    "word": "en",
+    "start": 202.09,
+    "end": 202.208
+   },
+   {
+    "word": "el",
+    "start": 202.208,
+    "end": 202.326
+   },
+   {
+    "word": "supermercado",
+    "start": 202.326,
+    "end": 203.146
+   },
+   {
+    "word": "llena",
+    "start": 203.146,
+    "end": 203.442
+   },
+   {
+    "word": "tu",
+    "start": 203.442,
+    "end": 203.56
+   },
+   {
+    "word": "cocina",
+    "start": 203.56,
+    "end": 203.914
+   },
+   {
+    "word": "de",
+    "start": 203.914,
+    "end": 204.032
+   },
+   {
+    "word": "tentaciones",
+    "start": 204.032,
+    "end": 204.682
+   },
+   {
+    "word": "que",
+    "start": 204.682,
+    "end": 204.86
+   },
+   {
+    "word": "no",
+    "start": 204.86,
+    "end": 204.978
+   },
+   {
+    "word": "elegiste",
+    "start": 204.978,
+    "end": 205.45
+   },
+   {
+    "word": "tener",
+    "start": 205.45,
+    "end": 205.746
+   },
+   {
+    "word": "ahí",
+    "start": 205.746,
+    "end": 205.923
+   },
+   {
+    "word": "—",
+    "start": 205.923,
+    "end": 205.982
+   }
+  ]
+ },
+ {
+  "id": "S05_F031",
+  "scene": "MODULO 4 - La Trampa de Creer Que Ya Lo Resolviste",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "y sin revisión periódica, cada pocas semanas, el entorno que diseñaste con cuidado termina pareciéndose otra vez, poco a poco y sin que lo notes, al que tenías antes de empezar.",
+  "visual": "Wide shot of the shelf layout gradually reverting frame by frame back to its original cluttered state, #FF5A36 outline fading, a small recurring calendar-check icon shown as the missing corrective step.",
+  "start": 206.101,
+  "end": 217.921,
+  "words": [
+   {
+    "word": "y",
+    "start": 206.219,
+    "end": 206.283
+   },
+   {
+    "word": "sin",
+    "start": 206.283,
+    "end": 206.475
+   },
+   {
+    "word": "revisión",
+    "start": 206.475,
+    "end": 206.988
+   },
+   {
+    "word": "periódica,",
+    "start": 206.988,
+    "end": 207.736
+   },
+   {
+    "word": "cada",
+    "start": 207.736,
+    "end": 208.283
+   },
+   {
+    "word": "pocas",
+    "start": 208.283,
+    "end": 208.684
+   },
+   {
+    "word": "semanas,",
+    "start": 208.684,
+    "end": 209.133
+   },
+   {
+    "word": "el",
+    "start": 209.133,
+    "end": 209.261
+   },
+   {
+    "word": "entorno",
+    "start": 209.261,
+    "end": 210.095
+   },
+   {
+    "word": "que",
+    "start": 210.095,
+    "end": 210.287
+   },
+   {
+    "word": "diseñaste",
+    "start": 210.287,
+    "end": 210.864
+   },
+   {
+    "word": "con",
+    "start": 210.864,
+    "end": 211.056
+   },
+   {
+    "word": "cuidado",
+    "start": 211.056,
+    "end": 211.505
+   },
+   {
+    "word": "termina",
+    "start": 211.505,
+    "end": 211.953
+   },
+   {
+    "word": "pareciéndose",
+    "start": 211.953,
+    "end": 212.722
+   },
+   {
+    "word": "otra",
+    "start": 212.722,
+    "end": 212.978
+   },
+   {
+    "word": "vez,",
+    "start": 212.978,
+    "end": 213.171
+   },
+   {
+    "word": "poco",
+    "start": 213.171,
+    "end": 213.781
+   },
+   {
+    "word": "a",
+    "start": 213.781,
+    "end": 213.845
+   },
+   {
+    "word": "poco",
+    "start": 213.845,
+    "end": 214.261
+   },
+   {
+    "word": "y",
+    "start": 214.261,
+    "end": 214.325
+   },
+   {
+    "word": "sin",
+    "start": 214.325,
+    "end": 214.518
+   },
+   {
+    "word": "que",
+    "start": 214.518,
+    "end": 214.71
+   },
+   {
+    "word": "lo",
+    "start": 214.71,
+    "end": 214.838
+   },
+   {
+    "word": "notes,",
+    "start": 214.838,
+    "end": 215.238
+   },
+   {
+    "word": "al",
+    "start": 215.238,
+    "end": 215.821
+   },
+   {
+    "word": "que",
+    "start": 215.821,
+    "end": 216.014
+   },
+   {
+    "word": "tenías",
+    "start": 216.014,
+    "end": 216.398
+   },
+   {
+    "word": "antes",
+    "start": 216.398,
+    "end": 216.718
+   },
+   {
+    "word": "de",
+    "start": 216.718,
+    "end": 216.847
+   },
+   {
+    "word": "empezar.",
+    "start": 216.847,
+    "end": 217.295
+   }
+  ]
+ },
+ {
+  "id": "S06_F032",
+  "scene": "EL CIERRE",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "No necesitas más fuerza de voluntad. Necesitas menos ocasiones en las que tengas que usarla.",
+  "visual": "Wide shot of the stick figure standing calm and unstrained, the willpower/battery icon shown full and barely touched, contrasting with the exhausted opening shot.",
+  "start": 217.921,
+  "end": 225.329,
+  "words": [
+   {
+    "word": "No",
+    "start": 218.548,
+    "end": 218.675
+   },
+   {
+    "word": "necesitas",
+    "start": 218.675,
+    "end": 219.249
+   },
+   {
+    "word": "más",
+    "start": 219.249,
+    "end": 219.441
+   },
+   {
+    "word": "fuerza",
+    "start": 219.441,
+    "end": 219.823
+   },
+   {
+    "word": "de",
+    "start": 219.823,
+    "end": 219.951
+   },
+   {
+    "word": "voluntad.",
+    "start": 219.951,
+    "end": 221.785
+   },
+   {
+    "word": "Necesitas",
+    "start": 221.785,
+    "end": 222.358
+   },
+   {
+    "word": "menos",
+    "start": 222.358,
+    "end": 222.677
+   },
+   {
+    "word": "ocasiones",
+    "start": 222.677,
+    "end": 223.251
+   },
+   {
+    "word": "en",
+    "start": 223.251,
+    "end": 223.378
+   },
+   {
+    "word": "las",
+    "start": 223.378,
+    "end": 223.57
+   },
+   {
+    "word": "que",
+    "start": 223.57,
+    "end": 223.761
+   },
+   {
+    "word": "tengas",
+    "start": 223.761,
+    "end": 224.143
+   },
+   {
+    "word": "que",
+    "start": 224.143,
+    "end": 224.335
+   },
+   {
+    "word": "usarla.",
+    "start": 224.335,
+    "end": 224.717
+   }
+  ]
+ },
+ {
+  "id": "S06_F033",
+  "scene": "EL CIERRE",
+  "shot_raw": "Direct address",
+  "shot": "MEDIUM SHOT",
+  "es": "Escribe en los comentarios qué cambio en tu entorno vas a hacer hoy mismo,",
+  "visual": "Direct-address medium shot of the stick figure gesturing toward the viewer, a small glowing comment-bubble icon appearing beside them.",
+  "start": 225.329,
+  "end": 229.689,
+  "words": [
+   {
+    "word": "Escribe",
+    "start": 225.941,
+    "end": 226.348
+   },
+   {
+    "word": "en",
+    "start": 226.348,
+    "end": 226.465
+   },
+   {
+    "word": "los",
+    "start": 226.465,
+    "end": 226.639
+   },
+   {
+    "word": "comentarios",
+    "start": 226.639,
+    "end": 227.28
+   },
+   {
+    "word": "qué",
+    "start": 227.28,
+    "end": 227.454
+   },
+   {
+    "word": "cambio",
+    "start": 227.454,
+    "end": 227.803
+   },
+   {
+    "word": "en",
+    "start": 227.803,
+    "end": 227.92
+   },
+   {
+    "word": "tu",
+    "start": 227.92,
+    "end": 228.036
+   },
+   {
+    "word": "entorno",
+    "start": 228.036,
+    "end": 228.518
+   },
+   {
+    "word": "vas",
+    "start": 228.518,
+    "end": 228.692
+   },
+   {
+    "word": "a",
+    "start": 228.692,
+    "end": 228.75
+   },
+   {
+    "word": "hacer",
+    "start": 228.75,
+    "end": 229.041
+   },
+   {
+    "word": "hoy",
+    "start": 229.041,
+    "end": 229.216
+   },
+   {
+    "word": "mismo,",
+    "start": 229.216,
+    "end": 229.507
+   }
+  ]
+ },
+ {
+  "id": "S06_F034",
+  "scene": "EL CIERRE",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "y cuál es la tentación más obvia que sigue a la vista en tu casa ahora mismo, esperando una decisión que no debería depender de ti.",
+  "visual": "Medium shot of a small glowing tempting-object icon sitting visibly in plain sight, a thought-bubble above the stick figure highlighting it as something to address.",
+  "start": 229.689,
+  "end": 237.212,
+  "words": [
+   {
+    "word": "y",
+    "start": 229.871,
+    "end": 229.928
+   },
+   {
+    "word": "cuál",
+    "start": 229.928,
+    "end": 230.229
+   },
+   {
+    "word": "es",
+    "start": 230.229,
+    "end": 230.343
+   },
+   {
+    "word": "la",
+    "start": 230.343,
+    "end": 230.457
+   },
+   {
+    "word": "tentación",
+    "start": 230.457,
+    "end": 230.971
+   },
+   {
+    "word": "más",
+    "start": 230.971,
+    "end": 231.142
+   },
+   {
+    "word": "obvia",
+    "start": 231.142,
+    "end": 231.427
+   },
+   {
+    "word": "que",
+    "start": 231.427,
+    "end": 231.598
+   },
+   {
+    "word": "sigue",
+    "start": 231.598,
+    "end": 231.884
+   },
+   {
+    "word": "a",
+    "start": 231.884,
+    "end": 231.941
+   },
+   {
+    "word": "la",
+    "start": 231.941,
+    "end": 232.055
+   },
+   {
+    "word": "vista",
+    "start": 232.055,
+    "end": 232.34
+   },
+   {
+    "word": "en",
+    "start": 232.34,
+    "end": 232.454
+   },
+   {
+    "word": "tu",
+    "start": 232.454,
+    "end": 232.568
+   },
+   {
+    "word": "casa",
+    "start": 232.568,
+    "end": 232.878
+   },
+   {
+    "word": "ahora",
+    "start": 232.878,
+    "end": 233.164
+   },
+   {
+    "word": "mismo,",
+    "start": 233.164,
+    "end": 233.449
+   },
+   {
+    "word": "esperando",
+    "start": 233.449,
+    "end": 234.425
+   },
+   {
+    "word": "una",
+    "start": 234.425,
+    "end": 234.596
+   },
+   {
+    "word": "decisión",
+    "start": 234.596,
+    "end": 235.053
+   },
+   {
+    "word": "que",
+    "start": 235.053,
+    "end": 235.224
+   },
+   {
+    "word": "no",
+    "start": 235.224,
+    "end": 235.338
+   },
+   {
+    "word": "debería",
+    "start": 235.338,
+    "end": 235.737
+   },
+   {
+    "word": "depender",
+    "start": 235.737,
+    "end": 236.28
+   },
+   {
+    "word": "de",
+    "start": 236.28,
+    "end": 236.489
+   },
+   {
+    "word": "ti.",
+    "start": 236.489,
+    "end": 236.603
+   }
+  ]
+ },
+ {
+  "id": "S06_F035",
+  "scene": "EL CIERRE",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Si este video te sirvió, dale like y suscríbete — la disciplina no hace ruido, pero el entorno correcto la hace casi innecesaria.",
+  "visual": "Final wide shot of the stick figure standing relaxed in a calm, well-arranged space, small subscribe-bell and thumbs-up icons glowing softly in #FF5A36 in the corner, the well-arranged shelf icon glowing steady and complete in the background.",
+  "start": 237.212,
+  "end": 247.15,
+  "words": [
+   {
+    "word": "Si",
+    "start": 237.82,
+    "end": 237.947
+   },
+   {
+    "word": "este",
+    "start": 237.947,
+    "end": 238.201
+   },
+   {
+    "word": "video",
+    "start": 238.201,
+    "end": 238.518
+   },
+   {
+    "word": "te",
+    "start": 238.518,
+    "end": 238.644
+   },
+   {
+    "word": "sirvió,",
+    "start": 238.644,
+    "end": 239.025
+   },
+   {
+    "word": "dale",
+    "start": 239.025,
+    "end": 239.279
+   },
+   {
+    "word": "like",
+    "start": 239.279,
+    "end": 239.895
+   },
+   {
+    "word": "y",
+    "start": 239.895,
+    "end": 239.959
+   },
+   {
+    "word": "suscríbete",
+    "start": 239.959,
+    "end": 240.663
+   },
+   {
+    "word": "—",
+    "start": 240.663,
+    "end": 240.801
+   },
+   {
+    "word": "la",
+    "start": 240.801,
+    "end": 240.927
+   },
+   {
+    "word": "disciplina",
+    "start": 240.927,
+    "end": 242.153
+   },
+   {
+    "word": "no",
+    "start": 242.153,
+    "end": 242.279
+   },
+   {
+    "word": "hace",
+    "start": 242.279,
+    "end": 242.533
+   },
+   {
+    "word": "ruido,",
+    "start": 242.533,
+    "end": 242.85
+   },
+   {
+    "word": "pero",
+    "start": 242.85,
+    "end": 243.104
+   },
+   {
+    "word": "el",
+    "start": 243.104,
+    "end": 243.621
+   },
+   {
+    "word": "entorno",
+    "start": 243.621,
+    "end": 244.065
+   },
+   {
+    "word": "correcto",
+    "start": 244.065,
+    "end": 244.572
+   },
+   {
+    "word": "la",
+    "start": 244.572,
+    "end": 244.798
+   },
+   {
+    "word": "hace",
+    "start": 244.798,
+    "end": 245.052
+   },
+   {
+    "word": "casi",
+    "start": 245.052,
+    "end": 245.305
+   },
+   {
+    "word": "innecesaria.",
+    "start": 245.305,
+    "end": 246.003
+   }
+  ]
+ }
+]

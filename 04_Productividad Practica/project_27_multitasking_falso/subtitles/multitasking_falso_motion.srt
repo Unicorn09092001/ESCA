@@ -1,0 +1,683 @@
+1
+00:00:00,246 --> 00:00:01,329
+Crees que hacer varias
+
+2
+00:00:01,329 --> 00:00:01,956
+cosas a la vez
+
+3
+00:00:01,956 --> 00:00:03,184
+te hace más productivo.
+
+4
+00:00:04,450 --> 00:00:06,099
+Responder un mensaje mientras
+
+5
+00:00:06,099 --> 00:00:07,590
+terminas un informe,
+
+6
+00:00:07,590 --> 00:00:10,000
+revisar una notificación mientras estudias,
+
+7
+00:00:10,431 --> 00:00:12,078
+tener tres pestañas activas
+
+8
+00:00:12,078 --> 00:00:13,379
+al mismo tiempo,
+
+9
+00:00:13,379 --> 00:00:15,194
+todas compitiendo por tu atención.
+
+10
+00:00:16,403 --> 00:00:17,530
+Se siente eficiente,
+
+11
+00:00:17,530 --> 00:00:19,320
+incluso impresionante.
+
+12
+00:00:20,548 --> 00:00:21,187
+Pero lo que en
+
+13
+00:00:21,187 --> 00:00:22,718
+realidad está pasando dentro
+
+14
+00:00:22,718 --> 00:00:23,786
+de tu cerebro,
+
+15
+00:00:23,786 --> 00:00:24,921
+en ese mismo instante,
+
+16
+00:00:24,921 --> 00:00:26,845
+es exactamente lo contrario
+
+17
+00:00:26,845 --> 00:00:27,702
+de lo que crees.
+
+18
+00:00:28,915 --> 00:00:29,891
+Hoy te explico por
+
+19
+00:00:29,891 --> 00:00:31,031
+qué el multitasking no
+
+20
+00:00:31,031 --> 00:00:32,472
+existe como crees que existe,
+
+21
+00:00:32,864 --> 00:00:34,069
+cuánto tiempo real te
+
+22
+00:00:34,069 --> 00:00:35,323
+está costando cada día
+
+23
+00:00:35,323 --> 00:00:36,212
+sin que lo notes,
+
+24
+00:00:36,532 --> 00:00:37,130
+y qué hacer en
+
+25
+00:00:37,130 --> 00:00:38,000
+su lugar sin sentir
+
+26
+00:00:38,000 --> 00:00:39,115
+que estás siendo menos
+
+27
+00:00:39,115 --> 00:00:40,307
+productivo o que te
+
+28
+00:00:40,307 --> 00:00:41,551
+estás quedando atrás de
+
+29
+00:00:41,551 --> 00:00:41,986
+los demás.
+
+30
+00:00:43,150 --> 00:00:44,464
+Primero, el mito.
+
+31
+00:00:45,717 --> 00:00:47,468
+El neurocientífico Earl Miller,
+
+32
+00:00:47,468 --> 00:00:48,138
+del MIT,
+
+33
+00:00:48,138 --> 00:00:50,000
+ha explicado durante años
+
+34
+00:00:50,000 --> 00:00:50,851
+algo incómodo:
+
+35
+00:00:51,262 --> 00:00:52,228
+el cerebro humano no
+
+36
+00:00:52,228 --> 00:00:53,772
+está diseñado para procesar
+
+37
+00:00:53,772 --> 00:00:54,988
+dos tareas complejas al
+
+38
+00:00:54,988 --> 00:00:55,698
+mismo tiempo.
+
+39
+00:00:57,097 --> 00:00:58,345
+Presta atención a esto:
+
+40
+00:00:58,345 --> 00:01:00,657
+lo que llamamos "multitasking"
+
+41
+00:01:00,657 --> 00:01:01,663
+no es tu cerebro
+
+42
+00:01:01,663 --> 00:01:02,780
+haciendo dos cosas a
+
+43
+00:01:02,780 --> 00:01:03,108
+la vez.
+
+44
+00:01:04,322 --> 00:01:05,599
+Es tu cerebro saltando
+
+45
+00:01:05,599 --> 00:01:06,995
+rápidamente de una tarea
+
+46
+00:01:06,995 --> 00:01:07,385
+a otra,
+
+47
+00:01:07,385 --> 00:01:09,909
+deteniéndose y reiniciándose cada vez,
+
+48
+00:01:10,289 --> 00:01:11,637
+como un interruptor que
+
+49
+00:01:11,637 --> 00:01:12,170
+se apaga y se
+
+50
+00:01:12,170 --> 00:01:13,023
+enciende sin parar.
+
+51
+00:01:14,298 --> 00:01:15,993
+Se siente simultáneo porque
+
+52
+00:01:15,993 --> 00:01:17,063
+el salto ocurre en
+
+53
+00:01:17,063 --> 00:01:18,646
+fracciones de segundo,
+
+54
+00:01:18,646 --> 00:01:19,740
+pero cada salto tiene
+
+55
+00:01:19,740 --> 00:01:20,734
+un costo real,
+
+56
+00:01:20,734 --> 00:01:21,913
+y ese costo se acumula.
+
+57
+00:01:23,109 --> 00:01:24,900
+Segundo, el costo real.
+
+58
+00:01:26,180 --> 00:01:27,569
+El psicólogo David Meyer,
+
+59
+00:01:27,569 --> 00:01:29,032
+de la Universidad de
+
+60
+00:01:29,032 --> 00:01:30,773
+Michigan, documentó lo que
+
+61
+00:01:30,773 --> 00:01:31,897
+se conoce como el
+
+62
+00:01:31,897 --> 00:01:32,757
+"costo de cambio":
+
+63
+00:01:33,107 --> 00:01:33,908
+el tiempo y la
+
+64
+00:01:33,908 --> 00:01:35,347
+precisión que pierdes cada
+
+65
+00:01:35,347 --> 00:01:36,302
+vez que cambias de
+
+66
+00:01:36,302 --> 00:01:37,441
+una tarea a otra,
+
+67
+00:01:37,441 --> 00:01:39,062
+incluso entre tareas simples.
+
+68
+00:01:40,282 --> 00:01:41,058
+En sus estudios,
+
+69
+00:01:41,058 --> 00:01:43,202
+cambiar constantemente de tarea
+
+70
+00:01:43,202 --> 00:01:45,105
+podía reducir la productividad
+
+71
+00:01:45,105 --> 00:01:46,376
+efectiva hasta en un 40%
+
+72
+00:01:46,459 --> 00:01:47,982
+comparado con hacer las
+
+73
+00:01:47,982 --> 00:01:49,550
+mismas tareas una por una.
+
+74
+00:01:50,805 --> 00:01:51,568
+Esto es lo que
+
+75
+00:01:51,568 --> 00:01:52,803
+nadie te dice:
+
+76
+00:01:52,803 --> 00:01:54,055
+ese 40% no desaparece
+
+77
+00:01:54,055 --> 00:01:56,006
+porque te sientas ocupado.
+
+78
+00:01:57,281 --> 00:01:58,747
+Se pierde exactamente en
+
+79
+00:01:58,747 --> 00:02:00,284
+los milisegundos de reinicio
+
+80
+00:02:00,284 --> 00:02:01,925
+mental que ocurren entre
+
+81
+00:02:01,925 --> 00:02:03,116
+salto y salto,
+
+82
+00:02:03,116 --> 00:02:04,099
+cientos de veces al
+
+83
+00:02:04,099 --> 00:02:05,632
+día, sin que los notes.
+
+84
+00:02:06,846 --> 00:02:08,092
+Tercero, por qué se
+
+85
+00:02:08,092 --> 00:02:09,577
+siente productivo aunque no
+
+86
+00:02:09,577 --> 00:02:09,861
+lo sea.
+
+87
+00:02:11,059 --> 00:02:12,215
+Cada cambio de tarea
+
+88
+00:02:12,215 --> 00:02:13,199
+te da una pequeña
+
+89
+00:02:13,199 --> 00:02:14,832
+sensación de novedad y avance —
+
+90
+00:02:15,241 --> 00:02:17,011
+respondiste un mensaje,
+
+91
+00:02:17,011 --> 00:02:17,871
+revisaste algo,
+
+92
+00:02:17,871 --> 00:02:20,182
+marcaste una notificación como
+
+93
+00:02:20,182 --> 00:02:22,077
+leída, cerraste una pestaña
+
+94
+00:02:22,077 --> 00:02:22,871
+más de la lista.
+
+95
+00:02:24,078 --> 00:02:24,962
+Aquí está la clave:
+
+96
+00:02:24,962 --> 00:02:26,332
+esa sensación es real,
+
+97
+00:02:26,332 --> 00:02:27,706
+pero mide actividad,
+
+98
+00:02:27,706 --> 00:02:28,390
+no progreso,
+
+99
+00:02:28,845 --> 00:02:29,906
+y tu cerebro no
+
+100
+00:02:29,906 --> 00:02:31,721
+distingue fácilmente entre las
+
+101
+00:02:31,721 --> 00:02:33,267
+dos cuando está decidiendo
+
+102
+00:02:33,267 --> 00:02:34,825
+si te sientes productivo.
+
+103
+00:02:36,123 --> 00:02:37,279
+Puedes terminar un día
+
+104
+00:02:37,279 --> 00:02:38,901
+entero sintiéndote agotado y
+
+105
+00:02:38,901 --> 00:02:40,651
+ocupado, con quince tareas
+
+106
+00:02:40,651 --> 00:02:42,132
+tocadas superficialmente,
+
+107
+00:02:42,132 --> 00:02:43,986
+y ninguna terminada de verdad,
+
+108
+00:02:44,348 --> 00:02:45,765
+porque cada una perdió
+
+109
+00:02:45,765 --> 00:02:46,830
+parte de tu atención
+
+110
+00:02:46,830 --> 00:02:47,954
+en el momento exacto
+
+111
+00:02:47,954 --> 00:02:48,537
+en que más la
+
+112
+00:02:48,537 --> 00:02:50,247
+necesitaba, y esa pérdida
+
+113
+00:02:50,247 --> 00:02:52,115
+nunca se recupera después,
+
+114
+00:02:52,115 --> 00:02:53,632
+por mucho que sigas trabajando.
+
+115
+00:02:54,888 --> 00:02:55,468
+Y cuarto,
+
+116
+00:02:55,468 --> 00:02:56,833
+qué hacer en su lugar.
+
+117
+00:02:58,080 --> 00:02:58,727
+No se trata de
+
+118
+00:02:58,727 --> 00:03:00,316
+fuerza de voluntad sobrehumana
+
+119
+00:03:00,316 --> 00:03:01,423
+ni de encerrarte sin
+
+120
+00:03:01,423 --> 00:03:03,128
+ningún contacto con el mundo.
+
+121
+00:03:04,394 --> 00:03:05,497
+Se trata de agrupar
+
+122
+00:03:05,497 --> 00:03:07,049
+tareas similares en bloques —
+
+123
+00:03:07,468 --> 00:03:09,196
+todos los correos juntos,
+
+124
+00:03:09,196 --> 00:03:10,497
+todas las llamadas juntas,
+
+125
+00:03:10,497 --> 00:03:11,830
+un solo proyecto a
+
+126
+00:03:11,830 --> 00:03:12,552
+la vez dentro de
+
+127
+00:03:12,552 --> 00:03:14,093
+un bloque de tiempo protegido —
+
+128
+00:03:14,464 --> 00:03:15,455
+en lugar de saltar
+
+129
+00:03:15,455 --> 00:03:17,081
+entre categorías distintas de
+
+130
+00:03:17,081 --> 00:03:18,733
+trabajo cada pocos minutos.
+
+131
+00:03:19,950 --> 00:03:20,627
+Pero espera,
+
+132
+00:03:20,627 --> 00:03:21,775
+todavía hay más:
+
+133
+00:03:21,775 --> 00:03:23,349
+cuando terminas de verdad
+
+134
+00:03:23,349 --> 00:03:24,300
+una sola cosa antes
+
+135
+00:03:24,300 --> 00:03:25,570
+de empezar la siguiente,
+
+136
+00:03:25,977 --> 00:03:27,119
+ya no necesitas cargar
+
+137
+00:03:27,119 --> 00:03:28,520
+mentalmente con esa tarea
+
+138
+00:03:28,520 --> 00:03:29,663
+a medio hacer mientras
+
+139
+00:03:29,663 --> 00:03:31,466
+intentas concentrarte en otra.
+
+140
+00:03:32,696 --> 00:03:33,740
+Eso, por sí solo,
+
+141
+00:03:33,740 --> 00:03:35,930
+libera una cantidad sorprendente
+
+142
+00:03:35,930 --> 00:03:37,223
+de espacio mental que
+
+143
+00:03:37,223 --> 00:03:38,769
+no sabías que estabas gastando.
+
+144
+00:03:40,016 --> 00:03:41,069
+El multitasking no te
+
+145
+00:03:41,069 --> 00:03:42,123
+hace más lento porque
+
+146
+00:03:42,123 --> 00:03:43,469
+seas malo administrando el
+
+147
+00:03:43,469 --> 00:03:44,997
+tiempo, ni porque te
+
+148
+00:03:44,997 --> 00:03:46,740
+falte disciplina comparado con
+
+149
+00:03:46,740 --> 00:03:47,865
+otras personas que sí
+
+150
+00:03:47,865 --> 00:03:48,626
+logran avanzar.
+
+151
+00:03:49,887 --> 00:03:50,645
+Te hace más lento
+
+152
+00:03:50,645 --> 00:03:51,962
+porque le estás pidiendo
+
+153
+00:03:51,962 --> 00:03:52,666
+a tu cerebro que
+
+154
+00:03:52,666 --> 00:03:53,509
+haga algo para lo
+
+155
+00:03:53,509 --> 00:03:55,559
+que biológicamente no está construido,
+
+156
+00:03:55,907 --> 00:03:56,560
+y él paga ese
+
+157
+00:03:56,560 --> 00:03:57,503
+costo en silencio,
+
+158
+00:03:57,503 --> 00:03:58,815
+tarea tras tarea,
+
+159
+00:03:58,815 --> 00:03:59,639
+todo el día,
+
+160
+00:03:59,639 --> 00:04:01,473
+sin mandarte ninguna alerta
+
+161
+00:04:01,473 --> 00:04:02,987
+clara de que está pasando.
+
+162
+00:04:04,302 --> 00:04:05,815
+Escribe en los comentarios
+
+163
+00:04:05,815 --> 00:04:07,180
+cuántas pestañas o tareas
+
+164
+00:04:07,180 --> 00:04:08,746
+tienes abiertas ahora mismo
+
+165
+00:04:08,746 --> 00:04:09,759
+mientras ves esto.
+
+166
+00:04:11,013 --> 00:04:11,953
+Si este video te
+
+167
+00:04:11,953 --> 00:04:14,427
+sirvió, dale like y suscríbete —
+
+168
+00:04:14,830 --> 00:04:15,923
+la disciplina no hace
+
+169
+00:04:15,923 --> 00:04:17,562
+ruido, ni siquiera cuando
+
+170
+00:04:17,562 --> 00:04:18,577
+decide hacer solo una
+
+171
+00:04:18,577 --> 00:04:19,229
+cosa a la vez.

@@ -1,0 +1,199 @@
+================================================================================
+PROJECT 26 — Chủ đề #26 (20-chu-de-video-tiep-theo-2026-09.md)
+Trụ cột: Productividad Práctica (20%) — Khuôn D (phủ định quan niệm sai) +
+đào sâu 1 kỹ thuật
+Playlist Folder: 04_Productividad Practica  |  Màu nhấn: #3BA7C9
+================================================================================
+
+## BƯỚC 2 — NGUỒN ĐÃ VERIFY QUA WEBSEARCH (2 tác giả tên cụ thể — chủ đề này
+## nằm trong danh sách 5 chủ đề "cần verify nguồn" của file gốc)
+
+1. Francesco Cirillo — người Ý, tạo ra Kỹ thuật Pomodoro cuối thập niên 1980
+   khi còn là sinh viên đại học, dùng đồng hồ bếp hình quả cà chua
+   ("pomodoro" tiếng Ý). Phương pháp gốc gồm 2 phần: (a) chu kỳ 25 phút làm
+   việc/5 phút nghỉ, nghỉ dài 15-30 phút sau 4 chu kỳ — phần ai cũng biết;
+   (b) quy tắc "pomodoro không thể chia nhỏ" (nếu bị gián đoạn, huỷ và bắt
+   đầu lại từ đầu) + ghi lại nhật ký gián đoạn để phân tích cuối ngày —
+   phần hầu như không ai dùng.
+2. Sophie Leroy — nhà nghiên cứu (Đại học Minnesota, nay Đại học Washington
+   Bothell), khái niệm "residuo de atención" / "attention residue": khi
+   chuyển nhiệm vụ trước khi hoàn thành, một phần sự chú ý vẫn "dính" lại ở
+   nhiệm vụ cũ, làm giảm hiệu suất ở nhiệm vụ mới. Dùng để giải thích tại
+   sao quy tắc "không được tạm dừng 1 pomodoro" có căn cứ khoa học thật, chứ
+   không phải là quy tắc cứng nhắc vô lý.
+
+Cả 2 nguồn CHƯA từng dùng ở các video 01-28 trong kênh.
+
+## BƯỚC 1 — TITLES
+
+1. [RECOMENDADO] La Técnica Pomodoro Real (No la Versión de tu App) (52 ký tự)
+2. Así Es la Técnica Pomodoro Real, Según Su Creador (52 ký tự)
+3. La Mitad de la Técnica Pomodoro Que Nadie Usa (46 ký tự)
+
+## BƯỚC 1 — PLAYLIST
+
+04_Productividad Practica (màu nhấn #3BA7C9)
+
+## BƯỚC 1 — THUMBNAIL PROMPTS (đúng 1 Mẫu B + 1 Mẫu C, dùng CHUNG 1 headline)
+
+Headline dùng chung: "POMODORO REAL" (từ nhấn "REAL" màu #3BA7C9 — bỏ dấu
+theo quy tắc ký tự an toàn 1.3). Cỡ chữ 29-34% chiều cao ảnh.
+
+{NHÂN_VẬT_CỐ_ĐỊNH} = a young adult male anime character, athletic lean
+build, short dark messy hair, calm-intense neutral expression by default,
+wearing dark casual streetwear (hoodie or henley, muted charcoal/black)
+with exactly ONE accent-colored detail (drawstring, zipper, or small
+patch) in #3BA7C9. Detailed anime illustration style with clean line
+art and cel-shading, fully rendered face with clear eyes, nose, and mouth.
+This exact character design must repeat identically across every
+thumbnail — only pose, facial expression, camera angle, and background
+change per video.
+
+### THUMBNAIL B — Triptych 3 khung
+
+```
+A YouTube thumbnail, 16:9. Three-panel triptych layout, thin dark vertical
+dividers between panels. Each panel shows the character performing ONE
+specific, concrete action/habit — the three panels are NOT a linear story
+(no "problem/climax/result" roles) — and each panel has a DIFFERENT
+background lighting/tone matching its own action, so the three panels are
+instantly distinguishable even at small size.
+
+panel 1 (left): {NHÂN_VẬT_CỐ_ĐỊNH}, shown setting a glowing tomato-shaped
+kitchen timer with deliberate focus before starting work, with a calm and
+intentional facial expression, set against a background/lighting that
+fits this specific action (#0B0B0C base with a subtle tint suited to the
+scene).
+
+panel 2 (center): {NHÂN_VẬT_CỐ_ĐỊNH}, shown marking an interruption in a
+small notebook the instant something distracts him, with a disciplined
+and determined facial expression, set against a background/lighting that
+fits this specific action, clearly distinct in tone from panel 1 and
+panel 3.
+
+panel 3 (right): {NHÂN_VẬT_CỐ_ĐỊNH}, shown sitting back relaxed during a
+full longer break after four completed sessions, with a satisfied and
+relaxed facial expression, set against a background/lighting that fits
+this specific action, clearly distinct in tone from the other two
+panels. One small accent object in solid flat #3BA7C9 may appear in
+this panel only.
+
+Bold cinematic anime illustration style throughout, clean line art,
+NO photorealistic rendering, NO real photograph, NO 3D render, NO stick
+figure. The character's face, hair, and outfit must look IDENTICAL across
+all three panels — only pose, expression, camera angle, and background
+tone change.
+
+Below the three panels, bold ultra-condensed sans-serif headline text in
+warm white, reading exactly "POMODORO REAL", all capital letters, with
+the word "REAL" in #3BA7C9, sitting on a soft dark gradient scrim for
+legibility, positioned in the lower-middle area, text height about
+29-34% of the image height, perfectly legible when shrunk to 160x90 px.
+A small circular badge in the top-left corner containing a simple white
+mountain-peak icon on a dark circle.
+
+--ar 16:9 --no bright background, light background, cream background,
+yellow banner, gradient glow, extra text, additional words, captions,
+subtitles, watermark, small lettering, gibberish text, photorealistic
+face, real photograph, 3D render, stick figure, identical flat background
+across all three panels, inconsistent character design
+```
+
+### THUMBNAIL C — Lưới 6 khung
+
+```
+A YouTube thumbnail, 16:9. A grid of six small panels arranged 2 rows by
+3 columns, each panel separated by a thin dark border (2-3px, #0B0B0C),
+filling the entire frame edge-to-edge with no outer margin, all six panels
+equal size.
+
+{NHÂN_VẬT_CỐ_ĐỊNH} appears in most panels — the character's FACE,
+HAIRSTYLE, and BODY BUILD stay perfectly identical to the reference design
+in every panel that includes them, but the OUTFIT and pose change per
+panel to match that panel's own beat, always staying within the same
+dark/muted color family as the base design.
+
+panel 1: a close-up still-life of a glowing tomato-shaped kitchen timer,
+moodily lit, no character present (el origen real). panel 2: sitting at a
+desk deeply focused, wearing a plain hoodie, a single glowing timer beside
+him (un pomodoro completo). panel 3: a phone ringing nearby while the
+figure deliberately ignores it and instead marks a small notebook, wearing
+a plain shirt (registra la interrupción). panel 4: a close-up still-life of
+a notebook page with several small tally marks, moodily lit, no character
+present (el registro de interrupciones). panel 5: sitting back, relaxed,
+during a longer break, wearing a plain jacket (el descanso largo). panel 6:
+standing up, satisfied confident expression, wearing a plain jacket
+(payoff/cierre).
+
+Each panel has its own dark, moody lighting appropriate to its own
+activity/setting, but all six panels keep the same bold cinematic anime
+illustration style and the same overall dark color grading (#0B0B0C-based)
+so the grid reads as ONE cohesive poster, not six unrelated pictures. NO
+photorealistic rendering, NO real photograph, NO 3D render, NO stick
+figure, in any panel.
+
+Bold ultra-condensed sans-serif headline text overlaid ACROSS the grid
+(spanning over several panels, not confined inside a single panel),
+reading exactly "POMODORO REAL", all capital letters, with the word
+"REAL" in #3BA7C9, sitting on a soft dark gradient scrim across the
+panels it overlaps for legibility, positioned in the lower-middle area,
+text height about 29-34% of the image height, perfectly legible when
+shrunk to 160x90 px.
+
+A small circular badge in the top-left corner containing a simple white
+mountain-peak icon on a dark circle.
+
+--ar 16:9 --no bright background, light background, cream background,
+yellow banner, gradient glow, extra text, additional words, captions,
+subtitles, watermark, small lettering, gibberish text, photorealistic
+face, real photograph, 3D render, stick figure, inconsistent character
+design across panels, uneven panel sizes, thick white borders, panels
+in completely different art styles
+```
+
+## BƯỚC 2.9 — DESCRIPTION (tiếng Tây Ban Nha, ~150 từ)
+
+Si crees que la Técnica Pomodoro es solo poner un temporizador de 25
+minutos, no conoces la técnica real.
+
+En este video te muestro cómo la diseñó su creador, el italiano Francesco
+Cirillo, a finales de los años 80: no solo el ciclo de 25/5 minutos, sino
+la regla que casi nadie sigue — un pomodoro es indivisible, y si te
+interrumpen, se anula por completo — respaldada por la investigación de
+Sophie Leroy sobre el "residuo de atención" (por qué cambiar de tarea a
+medias te cuesta más de lo que crees). También te explico la mitad
+olvidada de la técnica: registrar cada interrupción para descubrir tus
+propios patrones de distracción.
+
+No es una app con una alarma. Es una disciplina completa.
+
+## HASHTAGS (12)
+
+#productividad #pomodoro #gestiondeltiempo #enfoque #concentracion
+#disciplina #habitos #desarrollopersonal #trabajoprofundo
+#crecimientopersonal #organizacion #autodisciplina
+
+## CHAPTERS (timestamp ƯỚC TÍNH — 2,5 từ/giây, tổng ≈ 4:41 phút — THAY BẰNG
+## TIMESTAMP THẬT từ .srt ngay khi có audio edge-tts thật)
+
+0:00 Introducción
+0:20 La Promesa
+0:35 Cómo Casi Todos la Hacen Mal
+1:04 El Origen Real (Francesco Cirillo)
+1:44 La Regla Que Casi Nadie Sigue (Sophie Leroy)
+2:40 La Mitad Olvidada: Registrar Interrupciones
+3:23 El Descanso Largo Cada 4 Pomodoros
+3:54 Cierre
+
+## CHECKLIST METADATA
+
+- [x] Description >= 120 từ
+- [x] >= 10 hashtags lowercase (12), không dùng hashtag giật gân
+- [x] 3 titles <= 60 ký tự
+- [x] Đã gán Playlist Folder (04_Productividad Practica)
+- [x] 2 thumbnail prompts — đúng 1 Mẫu B + 1 Mẫu C, dùng
+      {NHÂN_VẬT_CỐ_ĐỊNH}, màu nhấn #3BA7C9, cỡ chữ 29-34%
+- [x] Chapters >= 3 mốc, dòng đầu 0:00, timestamp ƯỚC TÍNH
+- [x] wc -w script.txt = 688 từ (trong khoảng 650-1.100)
+- [x] 2 nguồn tên cụ thể đã verify qua WebSearch (Cirillo, Leroy) — đúng yêu
+      cầu "cần verify nguồn" của chủ đề #26 trong file gốc

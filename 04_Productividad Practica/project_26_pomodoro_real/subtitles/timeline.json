@@ -1,0 +1,4100 @@
+[
+ {
+  "id": "S01_F001",
+  "scene": "EL GANCHO",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Si crees que la Técnica Pomodoro es solo poner un temporizador de 25 minutos y trabajar hasta que suene,",
+  "visual": "Figure holds up a plain glowing phone-app timer icon showing \"25\", casual unremarkable expression.",
+  "start": 0.0,
+  "end": 6.431,
+  "words": [
+   {
+    "word": "Si",
+    "start": 0.268,
+    "end": 0.405
+   },
+   {
+    "word": "crees",
+    "start": 0.405,
+    "end": 0.749
+   },
+   {
+    "word": "que",
+    "start": 0.749,
+    "end": 0.955
+   },
+   {
+    "word": "la",
+    "start": 0.955,
+    "end": 1.093
+   },
+   {
+    "word": "Técnica",
+    "start": 1.093,
+    "end": 1.574
+   },
+   {
+    "word": "Pomodoro",
+    "start": 1.574,
+    "end": 2.124
+   },
+   {
+    "word": "es",
+    "start": 2.124,
+    "end": 2.262
+   },
+   {
+    "word": "solo",
+    "start": 2.262,
+    "end": 2.61
+   },
+   {
+    "word": "poner",
+    "start": 2.61,
+    "end": 2.953
+   },
+   {
+    "word": "un",
+    "start": 2.953,
+    "end": 3.091
+   },
+   {
+    "word": "temporizador",
+    "start": 3.091,
+    "end": 3.916
+   },
+   {
+    "word": "de",
+    "start": 3.916,
+    "end": 4.053
+   },
+   {
+    "word": "25",
+    "start": 4.053,
+    "end": 4.191
+   },
+   {
+    "word": "minutos",
+    "start": 4.191,
+    "end": 4.672
+   },
+   {
+    "word": "y",
+    "start": 4.672,
+    "end": 4.741
+   },
+   {
+    "word": "trabajar",
+    "start": 4.741,
+    "end": 5.291
+   },
+   {
+    "word": "hasta",
+    "start": 5.291,
+    "end": 5.635
+   },
+   {
+    "word": "que",
+    "start": 5.635,
+    "end": 5.841
+   },
+   {
+    "word": "suene,",
+    "start": 5.841,
+    "end": 6.185
+   }
+  ]
+ },
+ {
+  "id": "S01_F002",
+  "scene": "EL GANCHO",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "no conoces la técnica real — conoces una versión simplificada, la que cabe en una aplicación de celular,",
+  "visual": "The phone-app timer icon shrinks smaller, revealed as only a small fragment of a much larger faint glowing shape behind it.",
+  "start": 6.431,
+  "end": 13.099,
+  "words": [
+   {
+    "word": "no",
+    "start": 6.678,
+    "end": 6.797
+   },
+   {
+    "word": "conoces",
+    "start": 6.797,
+    "end": 7.212
+   },
+   {
+    "word": "la",
+    "start": 7.212,
+    "end": 7.331
+   },
+   {
+    "word": "técnica",
+    "start": 7.331,
+    "end": 7.907
+   },
+   {
+    "word": "real",
+    "start": 7.907,
+    "end": 8.145
+   },
+   {
+    "word": "—",
+    "start": 8.145,
+    "end": 8.204
+   },
+   {
+    "word": "conoces",
+    "start": 8.204,
+    "end": 8.97
+   },
+   {
+    "word": "una",
+    "start": 8.97,
+    "end": 9.148
+   },
+   {
+    "word": "versión",
+    "start": 9.148,
+    "end": 9.564
+   },
+   {
+    "word": "simplificada,",
+    "start": 9.564,
+    "end": 10.353
+   },
+   {
+    "word": "la",
+    "start": 10.353,
+    "end": 10.91
+   },
+   {
+    "word": "que",
+    "start": 10.91,
+    "end": 11.088
+   },
+   {
+    "word": "cabe",
+    "start": 11.088,
+    "end": 11.403
+   },
+   {
+    "word": "en",
+    "start": 11.403,
+    "end": 11.522
+   },
+   {
+    "word": "una",
+    "start": 11.522,
+    "end": 11.7
+   },
+   {
+    "word": "aplicación",
+    "start": 11.7,
+    "end": 12.368
+   },
+   {
+    "word": "de",
+    "start": 12.368,
+    "end": 12.487
+   },
+   {
+    "word": "celular,",
+    "start": 12.487,
+    "end": 12.902
+   }
+  ]
+ },
+ {
+  "id": "S01_F003",
+  "scene": "EL GANCHO",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "que perdió casi todo lo que la hacía funcionar en primer lugar.",
+  "visual": "Close-up, figure's expression shifts to quiet realization, the larger faint shape behind the small timer icon glowing dimly, unnoticed.",
+  "start": 13.099,
+  "end": 16.926,
+  "words": [
+   {
+    "word": "que",
+    "start": 13.296,
+    "end": 13.458
+   },
+   {
+    "word": "perdió",
+    "start": 13.458,
+    "end": 13.871
+   },
+   {
+    "word": "casi",
+    "start": 13.871,
+    "end": 14.088
+   },
+   {
+    "word": "todo",
+    "start": 14.088,
+    "end": 14.388
+   },
+   {
+    "word": "lo",
+    "start": 14.388,
+    "end": 14.567
+   },
+   {
+    "word": "que",
+    "start": 14.567,
+    "end": 14.729
+   },
+   {
+    "word": "la",
+    "start": 14.729,
+    "end": 14.837
+   },
+   {
+    "word": "hacía",
+    "start": 14.837,
+    "end": 15.108
+   },
+   {
+    "word": "funcionar",
+    "start": 15.108,
+    "end": 15.594
+   },
+   {
+    "word": "en",
+    "start": 15.594,
+    "end": 15.703
+   },
+   {
+    "word": "primer",
+    "start": 15.703,
+    "end": 16.027
+   },
+   {
+    "word": "lugar.",
+    "start": 16.027,
+    "end": 16.298
+   }
+  ]
+ },
+ {
+  "id": "S02_F004",
+  "scene": "LA PROMESA",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Hoy te muestro cómo es en realidad, según su propio creador,",
+  "visual": "Figure gestures toward the larger faint glowing shape from before, now beginning to take clearer form, attentive explanatory posture.",
+  "start": 16.926,
+  "end": 21.112,
+  "words": [
+   {
+    "word": "Hoy",
+    "start": 17.555,
+    "end": 17.735
+   },
+   {
+    "word": "te",
+    "start": 17.735,
+    "end": 17.855
+   },
+   {
+    "word": "muestro",
+    "start": 17.855,
+    "end": 18.276
+   },
+   {
+    "word": "cómo",
+    "start": 18.276,
+    "end": 18.516
+   },
+   {
+    "word": "es",
+    "start": 18.516,
+    "end": 18.636
+   },
+   {
+    "word": "en",
+    "start": 18.636,
+    "end": 18.756
+   },
+   {
+    "word": "realidad,",
+    "start": 18.756,
+    "end": 19.689
+   },
+   {
+    "word": "según",
+    "start": 19.689,
+    "end": 19.989
+   },
+   {
+    "word": "su",
+    "start": 19.989,
+    "end": 20.109
+   },
+   {
+    "word": "propio",
+    "start": 20.109,
+    "end": 20.47
+   },
+   {
+    "word": "creador,",
+    "start": 20.47,
+    "end": 20.89
+   }
+  ]
+ },
+ {
+  "id": "S02_F005",
+  "scene": "LA PROMESA",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "no según la versión que circula en redes sociales,",
+  "visual": "The small simplified phone-app timer icon is gently set aside, not the focus of this explanation.",
+  "start": 21.112,
+  "end": 24.02,
+  "words": [
+   {
+    "word": "no",
+    "start": 21.334,
+    "end": 21.452
+   },
+   {
+    "word": "según",
+    "start": 21.452,
+    "end": 21.747
+   },
+   {
+    "word": "la",
+    "start": 21.747,
+    "end": 21.865
+   },
+   {
+    "word": "versión",
+    "start": 21.865,
+    "end": 22.278
+   },
+   {
+    "word": "que",
+    "start": 22.278,
+    "end": 22.455
+   },
+   {
+    "word": "circula",
+    "start": 22.455,
+    "end": 22.954
+   },
+   {
+    "word": "en",
+    "start": 22.954,
+    "end": 23.073
+   },
+   {
+    "word": "redes",
+    "start": 23.073,
+    "end": 23.368
+   },
+   {
+    "word": "sociales,",
+    "start": 23.368,
+    "end": 23.84
+   }
+  ]
+ },
+ {
+  "id": "S02_F006",
+  "scene": "LA PROMESA",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "y por qué la mitad que casi todos ignoran es, probablemente, la parte más importante de las dos.",
+  "visual": "Close-up, the larger glowing shape splits clearly into two halves, one dim and neglected, one bright and complete.",
+  "start": 24.02,
+  "end": 30.615,
+  "words": [
+   {
+    "word": "y",
+    "start": 24.2,
+    "end": 24.257
+   },
+   {
+    "word": "por",
+    "start": 24.257,
+    "end": 24.43
+   },
+   {
+    "word": "qué",
+    "start": 24.43,
+    "end": 24.682
+   },
+   {
+    "word": "la",
+    "start": 24.682,
+    "end": 24.797
+   },
+   {
+    "word": "mitad",
+    "start": 24.797,
+    "end": 25.252
+   },
+   {
+    "word": "que",
+    "start": 25.252,
+    "end": 25.424
+   },
+   {
+    "word": "casi",
+    "start": 25.424,
+    "end": 25.654
+   },
+   {
+    "word": "todos",
+    "start": 25.654,
+    "end": 25.942
+   },
+   {
+    "word": "ignoran",
+    "start": 25.942,
+    "end": 26.344
+   },
+   {
+    "word": "es,",
+    "start": 26.344,
+    "end": 26.459
+   },
+   {
+    "word": "probablemente,",
+    "start": 26.459,
+    "end": 27.649
+   },
+   {
+    "word": "la",
+    "start": 27.649,
+    "end": 28.186
+   },
+   {
+    "word": "parte",
+    "start": 28.186,
+    "end": 28.65
+   },
+   {
+    "word": "más",
+    "start": 28.65,
+    "end": 28.822
+   },
+   {
+    "word": "importante",
+    "start": 28.822,
+    "end": 29.558
+   },
+   {
+    "word": "de",
+    "start": 29.558,
+    "end": 29.673
+   },
+   {
+    "word": "las",
+    "start": 29.673,
+    "end": 29.846
+   },
+   {
+    "word": "dos.",
+    "start": 29.846,
+    "end": 30.018
+   }
+  ]
+ },
+ {
+  "id": "S03_F007",
+  "scene": "MÓDULO 1 — Cómo Casi Todos la Hacen Mal",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Primero, así es como casi todos la hacen mal.",
+  "visual": "Figure stands beside a large numbered marker \"1\", the small simplified phone-app timer icon reappearing plainly.",
+  "start": 30.615,
+  "end": 34.352,
+  "words": [
+   {
+    "word": "Primero,",
+    "start": 31.212,
+    "end": 31.639
+   },
+   {
+    "word": "así",
+    "start": 31.639,
+    "end": 32.217
+   },
+   {
+    "word": "es",
+    "start": 32.217,
+    "end": 32.339
+   },
+   {
+    "word": "como",
+    "start": 32.339,
+    "end": 32.583
+   },
+   {
+    "word": "casi",
+    "start": 32.583,
+    "end": 32.826
+   },
+   {
+    "word": "todos",
+    "start": 32.826,
+    "end": 33.131
+   },
+   {
+    "word": "la",
+    "start": 33.131,
+    "end": 33.253
+   },
+   {
+    "word": "hacen",
+    "start": 33.253,
+    "end": 33.558
+   },
+   {
+    "word": "mal.",
+    "start": 33.558,
+    "end": 33.74
+   }
+  ]
+ },
+ {
+  "id": "S03_F008",
+  "scene": "MÓDULO 1 — Cómo Casi Todos la Hacen Mal",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Abren una aplicación, ponen 25 minutos, trabajan, suena la alarma, descansan 5 minutos, y repiten.",
+  "visual": "A simple repeating loop icon shows the same small cycle over and over: timer, work, alarm, short break, unremarkable and mechanical.",
+  "start": 34.352,
+  "end": 43.825,
+  "words": [
+   {
+    "word": "Abren",
+    "start": 34.962,
+    "end": 35.355
+   },
+   {
+    "word": "una",
+    "start": 35.355,
+    "end": 35.591
+   },
+   {
+    "word": "aplicación,",
+    "start": 35.591,
+    "end": 36.738
+   },
+   {
+    "word": "ponen",
+    "start": 36.738,
+    "end": 37.131
+   },
+   {
+    "word": "25",
+    "start": 37.131,
+    "end": 37.288
+   },
+   {
+    "word": "minutos,",
+    "start": 37.288,
+    "end": 37.913
+   },
+   {
+    "word": "trabajan,",
+    "start": 37.913,
+    "end": 38.977
+   },
+   {
+    "word": "suena",
+    "start": 38.977,
+    "end": 39.667
+   },
+   {
+    "word": "la",
+    "start": 39.667,
+    "end": 39.824
+   },
+   {
+    "word": "alarma,",
+    "start": 39.824,
+    "end": 40.704
+   },
+   {
+    "word": "descansan",
+    "start": 40.704,
+    "end": 41.411
+   },
+   {
+    "word": "5",
+    "start": 41.411,
+    "end": 41.489
+   },
+   {
+    "word": "minutos,",
+    "start": 41.489,
+    "end": 42.126
+   },
+   {
+    "word": "y",
+    "start": 42.126,
+    "end": 42.204
+   },
+   {
+    "word": "repiten.",
+    "start": 42.204,
+    "end": 43.227
+   }
+  ]
+ },
+ {
+  "id": "S03_F009",
+  "scene": "MÓDULO 1 — Cómo Casi Todos la Hacen Mal",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Eso es todo lo que la mayoría conoce.",
+  "visual": "Close-up, neutral matter-of-fact expression, the small repeating loop icon sitting plainly beside the figure.",
+  "start": 43.825,
+  "end": 46.927,
+  "words": [
+   {
+    "word": "Eso",
+    "start": 44.424,
+    "end": 44.619
+   },
+   {
+    "word": "es",
+    "start": 44.619,
+    "end": 44.749
+   },
+   {
+    "word": "todo",
+    "start": 44.749,
+    "end": 45.009
+   },
+   {
+    "word": "lo",
+    "start": 45.009,
+    "end": 45.139
+   },
+   {
+    "word": "que",
+    "start": 45.139,
+    "end": 45.334
+   },
+   {
+    "word": "la",
+    "start": 45.334,
+    "end": 45.464
+   },
+   {
+    "word": "mayoría",
+    "start": 45.464,
+    "end": 45.919
+   },
+   {
+    "word": "conoce.",
+    "start": 45.919,
+    "end": 46.309
+   }
+  ]
+ },
+ {
+  "id": "S03_F010",
+  "scene": "MÓDULO 1 — Cómo Casi Todos la Hacen Mal",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Presta atención a esto: eso no es un mal punto de partida,",
+  "visual": "Figure gestures fairly, not dismissing the simple loop icon entirely, balanced explanatory posture.",
+  "start": 46.927,
+  "end": 51.14,
+  "words": [
+   {
+    "word": "Presta",
+    "start": 47.545,
+    "end": 47.919
+   },
+   {
+    "word": "atención",
+    "start": 47.919,
+    "end": 48.416
+   },
+   {
+    "word": "a",
+    "start": 48.416,
+    "end": 48.478
+   },
+   {
+    "word": "esto:",
+    "start": 48.478,
+    "end": 48.727
+   },
+   {
+    "word": "eso",
+    "start": 48.727,
+    "end": 49.337
+   },
+   {
+    "word": "no",
+    "start": 49.337,
+    "end": 49.461
+   },
+   {
+    "word": "es",
+    "start": 49.461,
+    "end": 49.585
+   },
+   {
+    "word": "un",
+    "start": 49.585,
+    "end": 49.71
+   },
+   {
+    "word": "mal",
+    "start": 49.71,
+    "end": 49.896
+   },
+   {
+    "word": "punto",
+    "start": 49.896,
+    "end": 50.3
+   },
+   {
+    "word": "de",
+    "start": 50.3,
+    "end": 50.424
+   },
+   {
+    "word": "partida,",
+    "start": 50.424,
+    "end": 50.947
+   }
+  ]
+ },
+ {
+  "id": "S03_F011",
+  "scene": "MÓDULO 1 — Cómo Casi Todos la Hacen Mal",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "pero es apenas la mitad de la técnica original —",
+  "visual": "The larger glowing two-half shape from the Promesa scene reappears, only one dim half matching the small loop icon.",
+  "start": 51.14,
+  "end": 54.068,
+  "words": [
+   {
+    "word": "pero",
+    "start": 51.332,
+    "end": 51.558
+   },
+   {
+    "word": "es",
+    "start": 51.558,
+    "end": 51.671
+   },
+   {
+    "word": "apenas",
+    "start": 51.671,
+    "end": 52.085
+   },
+   {
+    "word": "la",
+    "start": 52.085,
+    "end": 52.198
+   },
+   {
+    "word": "mitad",
+    "start": 52.198,
+    "end": 52.563
+   },
+   {
+    "word": "de",
+    "start": 52.563,
+    "end": 52.676
+   },
+   {
+    "word": "la",
+    "start": 52.676,
+    "end": 52.788
+   },
+   {
+    "word": "técnica",
+    "start": 52.788,
+    "end": 53.345
+   },
+   {
+    "word": "original",
+    "start": 53.345,
+    "end": 53.797
+   },
+   {
+    "word": "—",
+    "start": 53.797,
+    "end": 53.853
+   }
+  ]
+ },
+ {
+  "id": "S03_F012",
+  "scene": "MÓDULO 1 — Cómo Casi Todos la Hacen Mal",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "la mitad más fácil de convertir en aplicación, y por eso la única que sobrevivió en la cultura popular.",
+  "visual": "Close-up, the bright half of the shape fades quietly into obscurity while the small mechanical loop icon remains widely visible.",
+  "start": 54.068,
+  "end": 60.4,
+  "words": [
+   {
+    "word": "la",
+    "start": 54.283,
+    "end": 54.392
+   },
+   {
+    "word": "mitad",
+    "start": 54.392,
+    "end": 54.744
+   },
+   {
+    "word": "más",
+    "start": 54.744,
+    "end": 54.908
+   },
+   {
+    "word": "fácil",
+    "start": 54.908,
+    "end": 55.182
+   },
+   {
+    "word": "de",
+    "start": 55.182,
+    "end": 55.291
+   },
+   {
+    "word": "convertir",
+    "start": 55.291,
+    "end": 55.862
+   },
+   {
+    "word": "en",
+    "start": 55.862,
+    "end": 55.971
+   },
+   {
+    "word": "aplicación,",
+    "start": 55.971,
+    "end": 56.519
+   },
+   {
+    "word": "y",
+    "start": 56.519,
+    "end": 56.574
+   },
+   {
+    "word": "por",
+    "start": 56.574,
+    "end": 56.738
+   },
+   {
+    "word": "eso",
+    "start": 56.738,
+    "end": 57.246
+   },
+   {
+    "word": "la",
+    "start": 57.246,
+    "end": 57.355
+   },
+   {
+    "word": "única",
+    "start": 57.355,
+    "end": 57.629
+   },
+   {
+    "word": "que",
+    "start": 57.629,
+    "end": 57.793
+   },
+   {
+    "word": "sobrevivió",
+    "start": 57.793,
+    "end": 58.414
+   },
+   {
+    "word": "en",
+    "start": 58.414,
+    "end": 58.523
+   },
+   {
+    "word": "la",
+    "start": 58.523,
+    "end": 58.633
+   },
+   {
+    "word": "cultura",
+    "start": 58.633,
+    "end": 59.19
+   },
+   {
+    "word": "popular.",
+    "start": 59.19,
+    "end": 59.781
+   }
+  ]
+ },
+ {
+  "id": "S04_F013",
+  "scene": "MÓDULO 2 — El Origen Real (Francesco Cirillo)",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Segundo, el origen real.",
+  "visual": "Figure stands beside a large numbered marker \"2\", attentive explanatory posture.",
+  "start": 60.4,
+  "end": 63.493,
+  "words": [
+   {
+    "word": "Segundo,",
+    "start": 61.02,
+    "end": 61.554
+   },
+   {
+    "word": "el",
+    "start": 61.554,
+    "end": 62.088
+   },
+   {
+    "word": "origen",
+    "start": 62.088,
+    "end": 62.545
+   },
+   {
+    "word": "real.",
+    "start": 62.545,
+    "end": 62.85
+   }
+  ]
+ },
+ {
+  "id": "S04_F014",
+  "scene": "MÓDULO 2 — El Origen Real (Francesco Cirillo)",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "El italiano Francesco Cirillo creó esta técnica a finales de los años ochenta,",
+  "visual": "Thoughtful narrating expression, a faint glowing calendar page marked with an old date appears briefly beside the figure.",
+  "start": 63.493,
+  "end": 68.809,
+  "words": [
+   {
+    "word": "El",
+    "start": 64.137,
+    "end": 64.264
+   },
+   {
+    "word": "italiano",
+    "start": 64.264,
+    "end": 64.774
+   },
+   {
+    "word": "Francesco",
+    "start": 64.774,
+    "end": 65.419
+   },
+   {
+    "word": "Cirillo",
+    "start": 65.419,
+    "end": 65.866
+   },
+   {
+    "word": "creó",
+    "start": 65.866,
+    "end": 66.121
+   },
+   {
+    "word": "esta",
+    "start": 66.121,
+    "end": 66.376
+   },
+   {
+    "word": "técnica",
+    "start": 66.376,
+    "end": 66.988
+   },
+   {
+    "word": "a",
+    "start": 66.988,
+    "end": 67.051
+   },
+   {
+    "word": "finales",
+    "start": 67.051,
+    "end": 67.498
+   },
+   {
+    "word": "de",
+    "start": 67.498,
+    "end": 67.625
+   },
+   {
+    "word": "los",
+    "start": 67.625,
+    "end": 67.817
+   },
+   {
+    "word": "años",
+    "start": 67.817,
+    "end": 68.072
+   },
+   {
+    "word": "ochenta,",
+    "start": 68.072,
+    "end": 68.61
+   }
+  ]
+ },
+ {
+  "id": "S04_F015",
+  "scene": "MÓDULO 2 — El Origen Real (Francesco Cirillo)",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "siendo estudiante universitario, frustrado porque no lograba concentrarse en sus estudios.",
+  "visual": "Close-up, a faint ghost-outline younger student figure sits frustrated at a desk surrounded by scattered unfinished books.",
+  "start": 68.809,
+  "end": 74.838,
+  "words": [
+   {
+    "word": "siendo",
+    "start": 69.008,
+    "end": 69.348
+   },
+   {
+    "word": "estudiante",
+    "start": 69.348,
+    "end": 69.913
+   },
+   {
+    "word": "universitario,",
+    "start": 69.913,
+    "end": 70.725
+   },
+   {
+    "word": "frustrado",
+    "start": 70.725,
+    "end": 71.649
+   },
+   {
+    "word": "porque",
+    "start": 71.649,
+    "end": 72.139
+   },
+   {
+    "word": "no",
+    "start": 72.139,
+    "end": 72.252
+   },
+   {
+    "word": "lograba",
+    "start": 72.252,
+    "end": 72.735
+   },
+   {
+    "word": "concentrarse",
+    "start": 72.735,
+    "end": 73.413
+   },
+   {
+    "word": "en",
+    "start": 73.413,
+    "end": 73.526
+   },
+   {
+    "word": "sus",
+    "start": 73.526,
+    "end": 73.696
+   },
+   {
+    "word": "estudios.",
+    "start": 73.696,
+    "end": 74.228
+   }
+  ]
+ },
+ {
+  "id": "S04_F016",
+  "scene": "MÓDULO 2 — El Origen Real (Francesco Cirillo)",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Usó un temporizador de cocina con forma de tomate — \"pomodoro\" en italiano —",
+  "visual": "A simple glowing tomato-shaped kitchen timer appears clearly in the student figure's hand, warm distinct object.",
+  "start": 74.838,
+  "end": 80.4,
+  "words": [
+   {
+    "word": "Usó",
+    "start": 75.448,
+    "end": 75.647
+   },
+   {
+    "word": "un",
+    "start": 75.647,
+    "end": 75.78
+   },
+   {
+    "word": "temporizador",
+    "start": 75.78,
+    "end": 76.577
+   },
+   {
+    "word": "de",
+    "start": 76.577,
+    "end": 76.71
+   },
+   {
+    "word": "cocina",
+    "start": 76.71,
+    "end": 77.109
+   },
+   {
+    "word": "con",
+    "start": 77.109,
+    "end": 77.308
+   },
+   {
+    "word": "forma",
+    "start": 77.308,
+    "end": 77.64
+   },
+   {
+    "word": "de",
+    "start": 77.64,
+    "end": 77.773
+   },
+   {
+    "word": "tomate",
+    "start": 77.773,
+    "end": 78.265
+   },
+   {
+    "word": "—",
+    "start": 78.265,
+    "end": 78.666
+   },
+   {
+    "word": "\"pomodoro\"",
+    "start": 78.666,
+    "end": 79.546
+   },
+   {
+    "word": "en",
+    "start": 79.546,
+    "end": 79.679
+   },
+   {
+    "word": "italiano",
+    "start": 79.679,
+    "end": 80.211
+   },
+   {
+    "word": "—",
+    "start": 80.211,
+    "end": 80.277
+   }
+  ]
+ },
+ {
+  "id": "S04_F017",
+  "scene": "MÓDULO 2 — El Origen Real (Francesco Cirillo)",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "y de ahí el nombre.",
+  "visual": "The glowing tomato-shaped timer settles calmly beside the figure, simple origin fully shown.",
+  "start": 80.4,
+  "end": 81.998,
+  "words": [
+   {
+    "word": "y",
+    "start": 80.523,
+    "end": 80.584
+   },
+   {
+    "word": "de",
+    "start": 80.584,
+    "end": 80.707
+   },
+   {
+    "word": "ahí",
+    "start": 80.707,
+    "end": 80.891
+   },
+   {
+    "word": "el",
+    "start": 80.891,
+    "end": 81.014
+   },
+   {
+    "word": "nombre.",
+    "start": 81.014,
+    "end": 81.382
+   }
+  ]
+ },
+ {
+  "id": "S04_F018",
+  "scene": "MÓDULO 2 — El Origen Real (Francesco Cirillo)",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Aquí está la clave que casi nadie menciona: Cirillo no eligió 25 minutos porque fuera un número mágico.",
+  "visual": "Close-up, a faint glowing \"25\" numeral is gently shown as ordinary, not special, dismissing the common myth.",
+  "start": 81.998,
+  "end": 89.377,
+  "words": [
+   {
+    "word": "Aquí",
+    "start": 82.614,
+    "end": 82.873
+   },
+   {
+    "word": "está",
+    "start": 82.873,
+    "end": 83.132
+   },
+   {
+    "word": "la",
+    "start": 83.132,
+    "end": 83.261
+   },
+   {
+    "word": "clave",
+    "start": 83.261,
+    "end": 83.584
+   },
+   {
+    "word": "que",
+    "start": 83.584,
+    "end": 83.778
+   },
+   {
+    "word": "casi",
+    "start": 83.778,
+    "end": 84.037
+   },
+   {
+    "word": "nadie",
+    "start": 84.037,
+    "end": 84.36
+   },
+   {
+    "word": "menciona:",
+    "start": 84.36,
+    "end": 84.877
+   },
+   {
+    "word": "Cirillo",
+    "start": 84.877,
+    "end": 85.73
+   },
+   {
+    "word": "no",
+    "start": 85.73,
+    "end": 85.86
+   },
+   {
+    "word": "eligió",
+    "start": 85.86,
+    "end": 86.248
+   },
+   {
+    "word": "25",
+    "start": 86.248,
+    "end": 86.377
+   },
+   {
+    "word": "minutos",
+    "start": 86.377,
+    "end": 86.829
+   },
+   {
+    "word": "porque",
+    "start": 86.829,
+    "end": 87.217
+   },
+   {
+    "word": "fuera",
+    "start": 87.217,
+    "end": 87.716
+   },
+   {
+    "word": "un",
+    "start": 87.716,
+    "end": 87.845
+   },
+   {
+    "word": "número",
+    "start": 87.845,
+    "end": 88.233
+   },
+   {
+    "word": "mágico.",
+    "start": 88.233,
+    "end": 88.747
+   }
+  ]
+ },
+ {
+  "id": "S04_F019",
+  "scene": "MÓDULO 2 — El Origen Real (Francesco Cirillo)",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Lo eligió porque era un compromiso que su propia mente, en ese momento, podía sostener sin negociar consigo mismo a mitad de camino.",
+  "visual": "The student figure sits focused with the timer running, a faint internal negotiation-bubble tries to form but fades away, unsuccessful.",
+  "start": 89.377,
+  "end": 98.172,
+  "words": [
+   {
+    "word": "Lo",
+    "start": 90.008,
+    "end": 90.123
+   },
+   {
+    "word": "eligió",
+    "start": 90.123,
+    "end": 90.469
+   },
+   {
+    "word": "porque",
+    "start": 90.469,
+    "end": 90.89
+   },
+   {
+    "word": "era",
+    "start": 90.89,
+    "end": 91.063
+   },
+   {
+    "word": "un",
+    "start": 91.063,
+    "end": 91.179
+   },
+   {
+    "word": "compromiso",
+    "start": 91.179,
+    "end": 91.756
+   },
+   {
+    "word": "que",
+    "start": 91.756,
+    "end": 91.929
+   },
+   {
+    "word": "su",
+    "start": 91.929,
+    "end": 92.044
+   },
+   {
+    "word": "propia",
+    "start": 92.044,
+    "end": 92.464
+   },
+   {
+    "word": "mente,",
+    "start": 92.464,
+    "end": 93.249
+   },
+   {
+    "word": "en",
+    "start": 93.249,
+    "end": 93.365
+   },
+   {
+    "word": "ese",
+    "start": 93.365,
+    "end": 93.538
+   },
+   {
+    "word": "momento,",
+    "start": 93.538,
+    "end": 94.024
+   },
+   {
+    "word": "podía",
+    "start": 94.024,
+    "end": 94.681
+   },
+   {
+    "word": "sostener",
+    "start": 94.681,
+    "end": 95.143
+   },
+   {
+    "word": "sin",
+    "start": 95.143,
+    "end": 95.316
+   },
+   {
+    "word": "negociar",
+    "start": 95.316,
+    "end": 95.778
+   },
+   {
+    "word": "consigo",
+    "start": 95.778,
+    "end": 96.265
+   },
+   {
+    "word": "mismo",
+    "start": 96.265,
+    "end": 96.553
+   },
+   {
+    "word": "a",
+    "start": 96.553,
+    "end": 96.611
+   },
+   {
+    "word": "mitad",
+    "start": 96.611,
+    "end": 96.98
+   },
+   {
+    "word": "de",
+    "start": 96.98,
+    "end": 97.096
+   },
+   {
+    "word": "camino.",
+    "start": 97.096,
+    "end": 97.517
+   }
+  ]
+ },
+ {
+  "id": "S04_F020",
+  "scene": "MÓDULO 2 — El Origen Real (Francesco Cirillo)",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Cualquier duración funciona, siempre que sea corta, fija, y la respetes sin excepciones.",
+  "visual": "The glowing tomato-timer icon could show different small duration marks, all equally valid, calm flexible framing.",
+  "start": 98.172,
+  "end": 105.364,
+  "words": [
+   {
+    "word": "Cualquier",
+    "start": 98.827,
+    "end": 99.418
+   },
+   {
+    "word": "duración",
+    "start": 99.418,
+    "end": 99.944
+   },
+   {
+    "word": "funciona,",
+    "start": 99.944,
+    "end": 100.841
+   },
+   {
+    "word": "siempre",
+    "start": 100.841,
+    "end": 101.301
+   },
+   {
+    "word": "que",
+    "start": 101.301,
+    "end": 101.498
+   },
+   {
+    "word": "sea",
+    "start": 101.498,
+    "end": 101.765
+   },
+   {
+    "word": "corta,",
+    "start": 101.765,
+    "end": 102.547
+   },
+   {
+    "word": "fija,",
+    "start": 102.547,
+    "end": 103.033
+   },
+   {
+    "word": "y",
+    "start": 103.033,
+    "end": 103.099
+   },
+   {
+    "word": "la",
+    "start": 103.099,
+    "end": 103.231
+   },
+   {
+    "word": "respetes",
+    "start": 103.231,
+    "end": 103.841
+   },
+   {
+    "word": "sin",
+    "start": 103.841,
+    "end": 104.038
+   },
+   {
+    "word": "excepciones.",
+    "start": 104.038,
+    "end": 104.761
+   }
+  ]
+ },
+ {
+  "id": "S05_F021",
+  "scene": "MÓDULO 3 — La Regla Que Casi Nadie Sigue (Sophie Leroy)",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Tercero, la regla que casi nadie sigue: un pomodoro es una unidad indivisible.",
+  "visual": "Figure stands beside a large numbered marker \"3\", the glowing tomato-timer icon shown as one solid, unbreakable shape.",
+  "start": 105.364,
+  "end": 111.471,
+  "words": [
+   {
+    "word": "Tercero,",
+    "start": 105.967,
+    "end": 106.424
+   },
+   {
+    "word": "la",
+    "start": 106.424,
+    "end": 106.952
+   },
+   {
+    "word": "regla",
+    "start": 106.952,
+    "end": 107.279
+   },
+   {
+    "word": "que",
+    "start": 107.279,
+    "end": 107.474
+   },
+   {
+    "word": "casi",
+    "start": 107.474,
+    "end": 107.735
+   },
+   {
+    "word": "nadie",
+    "start": 107.735,
+    "end": 108.062
+   },
+   {
+    "word": "sigue:",
+    "start": 108.062,
+    "end": 108.388
+   },
+   {
+    "word": "un",
+    "start": 108.388,
+    "end": 108.518
+   },
+   {
+    "word": "pomodoro",
+    "start": 108.518,
+    "end": 109.401
+   },
+   {
+    "word": "es",
+    "start": 109.401,
+    "end": 109.532
+   },
+   {
+    "word": "una",
+    "start": 109.532,
+    "end": 109.728
+   },
+   {
+    "word": "unidad",
+    "start": 109.728,
+    "end": 110.119
+   },
+   {
+    "word": "indivisible.",
+    "start": 110.119,
+    "end": 110.837
+   }
+  ]
+ },
+ {
+  "id": "S05_F022",
+  "scene": "MÓDULO 3 — La Regla Que Casi Nadie Sigue (Sophie Leroy)",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Si te interrumpen — una llamada, una pregunta, una idea urgente — no pausas el temporizador.",
+  "visual": "Small interruption-icons (a phone call, a question mark, a sudden idea) approach the timer, but a pause-button icon is crossed out.",
+  "start": 111.471,
+  "end": 119.008,
+  "words": [
+   {
+    "word": "Si",
+    "start": 112.104,
+    "end": 112.233
+   },
+   {
+    "word": "te",
+    "start": 112.233,
+    "end": 112.361
+   },
+   {
+    "word": "interrumpen",
+    "start": 112.361,
+    "end": 113.145
+   },
+   {
+    "word": "—",
+    "start": 113.145,
+    "end": 113.21
+   },
+   {
+    "word": "una",
+    "start": 113.21,
+    "end": 113.582
+   },
+   {
+    "word": "llamada,",
+    "start": 113.582,
+    "end": 114.032
+   },
+   {
+    "word": "una",
+    "start": 114.032,
+    "end": 114.495
+   },
+   {
+    "word": "pregunta,",
+    "start": 114.495,
+    "end": 115.173
+   },
+   {
+    "word": "una",
+    "start": 115.173,
+    "end": 115.669
+   },
+   {
+    "word": "idea",
+    "start": 115.669,
+    "end": 115.926
+   },
+   {
+    "word": "urgente",
+    "start": 115.926,
+    "end": 116.447
+   },
+   {
+    "word": "—",
+    "start": 116.447,
+    "end": 116.511
+   },
+   {
+    "word": "no",
+    "start": 116.511,
+    "end": 116.918
+   },
+   {
+    "word": "pausas",
+    "start": 116.918,
+    "end": 117.379
+   },
+   {
+    "word": "el",
+    "start": 117.379,
+    "end": 117.508
+   },
+   {
+    "word": "temporizador.",
+    "start": 117.508,
+    "end": 118.366
+   }
+  ]
+ },
+ {
+  "id": "S05_F023",
+  "scene": "MÓDULO 3 — La Regla Que Casi Nadie Sigue (Sophie Leroy)",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Según el método original, ese pomodoro se anula por completo y empiezas uno nuevo desde cero.",
+  "visual": "Close-up, the glowing tomato-timer icon dims out completely, then a fresh new one lights up beside it, clean restart.",
+  "start": 119.008,
+  "end": 125.889,
+  "words": [
+   {
+    "word": "Según",
+    "start": 119.65,
+    "end": 119.97
+   },
+   {
+    "word": "el",
+    "start": 119.97,
+    "end": 120.098
+   },
+   {
+    "word": "método",
+    "start": 120.098,
+    "end": 120.482
+   },
+   {
+    "word": "original,",
+    "start": 120.482,
+    "end": 120.995
+   },
+   {
+    "word": "ese",
+    "start": 120.995,
+    "end": 121.608
+   },
+   {
+    "word": "pomodoro",
+    "start": 121.608,
+    "end": 122.12
+   },
+   {
+    "word": "se",
+    "start": 122.12,
+    "end": 122.248
+   },
+   {
+    "word": "anula",
+    "start": 122.248,
+    "end": 122.568
+   },
+   {
+    "word": "por",
+    "start": 122.568,
+    "end": 122.857
+   },
+   {
+    "word": "completo",
+    "start": 122.857,
+    "end": 123.537
+   },
+   {
+    "word": "y",
+    "start": 123.537,
+    "end": 123.601
+   },
+   {
+    "word": "empiezas",
+    "start": 123.601,
+    "end": 124.186
+   },
+   {
+    "word": "uno",
+    "start": 124.186,
+    "end": 124.378
+   },
+   {
+    "word": "nuevo",
+    "start": 124.378,
+    "end": 124.698
+   },
+   {
+    "word": "desde",
+    "start": 124.698,
+    "end": 125.018
+   },
+   {
+    "word": "cero.",
+    "start": 125.018,
+    "end": 125.274
+   }
+  ]
+ },
+ {
+  "id": "S05_F024",
+  "scene": "MÓDULO 3 — La Regla Que Casi Nadie Sigue (Sophie Leroy)",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Esto es lo que nadie te dice: esa regla, que suena hasta exagerada, tiene respaldo real.",
+  "visual": "Figure gestures firmly, a faint skeptical thought-bubble is replaced by a solid, credible research-icon.",
+  "start": 125.889,
+  "end": 132.822,
+  "words": [
+   {
+    "word": "Esto",
+    "start": 126.505,
+    "end": 126.764
+   },
+   {
+    "word": "es",
+    "start": 126.764,
+    "end": 126.894
+   },
+   {
+    "word": "lo",
+    "start": 126.894,
+    "end": 127.023
+   },
+   {
+    "word": "que",
+    "start": 127.023,
+    "end": 127.218
+   },
+   {
+    "word": "nadie",
+    "start": 127.218,
+    "end": 127.542
+   },
+   {
+    "word": "te",
+    "start": 127.542,
+    "end": 127.672
+   },
+   {
+    "word": "dice:",
+    "start": 127.672,
+    "end": 127.931
+   },
+   {
+    "word": "esa",
+    "start": 127.931,
+    "end": 128.493
+   },
+   {
+    "word": "regla,",
+    "start": 128.493,
+    "end": 128.817
+   },
+   {
+    "word": "que",
+    "start": 128.817,
+    "end": 129.38
+   },
+   {
+    "word": "suena",
+    "start": 129.38,
+    "end": 129.704
+   },
+   {
+    "word": "hasta",
+    "start": 129.704,
+    "end": 130.028
+   },
+   {
+    "word": "exagerada,",
+    "start": 130.028,
+    "end": 130.611
+   },
+   {
+    "word": "tiene",
+    "start": 130.611,
+    "end": 131.356
+   },
+   {
+    "word": "respaldo",
+    "start": 131.356,
+    "end": 131.947
+   },
+   {
+    "word": "real.",
+    "start": 131.947,
+    "end": 132.206
+   }
+  ]
+ },
+ {
+  "id": "S05_F025",
+  "scene": "MÓDULO 3 — La Regla Que Casi Nadie Sigue (Sophie Leroy)",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "La investigadora Sophie Leroy, de la Universidad de Minnesota, documentó lo que llamó \"residuo de atención\":",
+  "visual": "Thoughtful narrating expression, a faint glowing university-building silhouette icon appears briefly beside the figure.",
+  "start": 132.822,
+  "end": 140.348,
+  "words": [
+   {
+    "word": "La",
+    "start": 133.437,
+    "end": 133.565
+   },
+   {
+    "word": "investigadora",
+    "start": 133.565,
+    "end": 134.399
+   },
+   {
+    "word": "Sophie",
+    "start": 134.399,
+    "end": 134.783
+   },
+   {
+    "word": "Leroy,",
+    "start": 134.783,
+    "end": 135.104
+   },
+   {
+    "word": "de",
+    "start": 135.104,
+    "end": 135.534
+   },
+   {
+    "word": "la",
+    "start": 135.534,
+    "end": 135.662
+   },
+   {
+    "word": "Universidad",
+    "start": 135.662,
+    "end": 136.367
+   },
+   {
+    "word": "de",
+    "start": 136.367,
+    "end": 136.495
+   },
+   {
+    "word": "Minnesota,",
+    "start": 136.495,
+    "end": 137.549
+   },
+   {
+    "word": "documentó",
+    "start": 137.549,
+    "end": 138.126
+   },
+   {
+    "word": "lo",
+    "start": 138.126,
+    "end": 138.254
+   },
+   {
+    "word": "que",
+    "start": 138.254,
+    "end": 138.447
+   },
+   {
+    "word": "llamó",
+    "start": 138.447,
+    "end": 139.093
+   },
+   {
+    "word": "\"residuo",
+    "start": 139.093,
+    "end": 139.542
+   },
+   {
+    "word": "de",
+    "start": 139.542,
+    "end": 139.67
+   },
+   {
+    "word": "atención\":",
+    "start": 139.67,
+    "end": 140.183
+   }
+  ]
+ },
+ {
+  "id": "S05_F026",
+  "scene": "MÓDULO 3 — La Regla Que Casi Nadie Sigue (Sophie Leroy)",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "cuando cambias de tarea antes de terminarla, una parte de tu mente se queda pegada a la tarea anterior,",
+  "visual": "Close-up, a faint glowing thread of light visibly stretches and clings from an old task-icon toward the figure moving away from it.",
+  "start": 140.348,
+  "end": 145.97,
+  "words": [
+   {
+    "word": "cuando",
+    "start": 140.513,
+    "end": 140.844
+   },
+   {
+    "word": "cambias",
+    "start": 140.844,
+    "end": 141.229
+   },
+   {
+    "word": "de",
+    "start": 141.229,
+    "end": 141.34
+   },
+   {
+    "word": "tarea",
+    "start": 141.34,
+    "end": 141.615
+   },
+   {
+    "word": "antes",
+    "start": 141.615,
+    "end": 141.891
+   },
+   {
+    "word": "de",
+    "start": 141.891,
+    "end": 142.081
+   },
+   {
+    "word": "terminarla,",
+    "start": 142.081,
+    "end": 142.632
+   },
+   {
+    "word": "una",
+    "start": 142.632,
+    "end": 143.121
+   },
+   {
+    "word": "parte",
+    "start": 143.121,
+    "end": 143.477
+   },
+   {
+    "word": "de",
+    "start": 143.477,
+    "end": 143.587
+   },
+   {
+    "word": "tu",
+    "start": 143.587,
+    "end": 143.697
+   },
+   {
+    "word": "mente",
+    "start": 143.697,
+    "end": 143.973
+   },
+   {
+    "word": "se",
+    "start": 143.973,
+    "end": 144.083
+   },
+   {
+    "word": "queda",
+    "start": 144.083,
+    "end": 144.359
+   },
+   {
+    "word": "pegada",
+    "start": 144.359,
+    "end": 144.774
+   },
+   {
+    "word": "a",
+    "start": 144.774,
+    "end": 144.829
+   },
+   {
+    "word": "la",
+    "start": 144.829,
+    "end": 144.94
+   },
+   {
+    "word": "tarea",
+    "start": 144.94,
+    "end": 145.301
+   },
+   {
+    "word": "anterior,",
+    "start": 145.301,
+    "end": 145.826
+   }
+  ]
+ },
+ {
+  "id": "S05_F027",
+  "scene": "MÓDULO 3 — La Regla Que Casi Nadie Sigue (Sophie Leroy)",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "y esa parte no vuelve contigo a la nueva tarea.",
+  "visual": "The stretched thread of light snaps, leaving a faint dim fragment behind at the old task while the figure moves on incomplete.",
+  "start": 145.97,
+  "end": 149.042,
+  "words": [
+   {
+    "word": "y",
+    "start": 146.114,
+    "end": 146.165
+   },
+   {
+    "word": "esa",
+    "start": 146.165,
+    "end": 146.319
+   },
+   {
+    "word": "parte",
+    "start": 146.319,
+    "end": 146.756
+   },
+   {
+    "word": "no",
+    "start": 146.756,
+    "end": 146.858
+   },
+   {
+    "word": "vuelve",
+    "start": 146.858,
+    "end": 147.166
+   },
+   {
+    "word": "contigo",
+    "start": 147.166,
+    "end": 147.672
+   },
+   {
+    "word": "a",
+    "start": 147.672,
+    "end": 147.723
+   },
+   {
+    "word": "la",
+    "start": 147.723,
+    "end": 147.826
+   },
+   {
+    "word": "nueva",
+    "start": 147.826,
+    "end": 148.162
+   },
+   {
+    "word": "tarea.",
+    "start": 148.162,
+    "end": 148.418
+   }
+  ]
+ },
+ {
+  "id": "S05_F028",
+  "scene": "MÓDULO 3 — La Regla Que Casi Nadie Sigue (Sophie Leroy)",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Pero espera, todavía hay más: eso significa que un pomodoro \"pausado y reanudado\" no es más corto —",
+  "visual": "A faint glowing paused-and-resumed timer icon is shown, deceptively appearing simple but carrying a hidden dim fragment attached.",
+  "start": 149.042,
+  "end": 156.744,
+  "words": [
+   {
+    "word": "Pero",
+    "start": 149.666,
+    "end": 149.937
+   },
+   {
+    "word": "espera,",
+    "start": 149.937,
+    "end": 150.796
+   },
+   {
+    "word": "todavía",
+    "start": 150.796,
+    "end": 151.27
+   },
+   {
+    "word": "hay",
+    "start": 151.27,
+    "end": 151.473
+   },
+   {
+    "word": "más:",
+    "start": 151.473,
+    "end": 152.02
+   },
+   {
+    "word": "eso",
+    "start": 152.02,
+    "end": 152.223
+   },
+   {
+    "word": "significa",
+    "start": 152.223,
+    "end": 152.832
+   },
+   {
+    "word": "que",
+    "start": 152.832,
+    "end": 153.123
+   },
+   {
+    "word": "un",
+    "start": 153.123,
+    "end": 153.258
+   },
+   {
+    "word": "pomodoro",
+    "start": 153.258,
+    "end": 153.967
+   },
+   {
+    "word": "\"pausado",
+    "start": 153.967,
+    "end": 154.44
+   },
+   {
+    "word": "y",
+    "start": 154.44,
+    "end": 154.508
+   },
+   {
+    "word": "reanudado\"",
+    "start": 154.508,
+    "end": 155.243
+   },
+   {
+    "word": "no",
+    "start": 155.243,
+    "end": 155.379
+   },
+   {
+    "word": "es",
+    "start": 155.379,
+    "end": 155.514
+   },
+   {
+    "word": "más",
+    "start": 155.514,
+    "end": 155.717
+   },
+   {
+    "word": "corto",
+    "start": 155.717,
+    "end": 156.472
+   },
+   {
+    "word": "—",
+    "start": 156.472,
+    "end": 156.54
+   }
+  ]
+ },
+ {
+  "id": "S05_F029",
+  "scene": "MÓDULO 3 — La Regla Que Casi Nadie Sigue (Sophie Leroy)",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "es, en la práctica, dos pomodoros peores, porque ninguno de los dos tiene tu atención completa.",
+  "visual": "Close-up, two dim, incomplete timer icons sit side by side, neither one glowing as brightly as a single whole pomodoro would.",
+  "start": 156.744,
+  "end": 163.065,
+  "words": [
+   {
+    "word": "es,",
+    "start": 156.948,
+    "end": 157.06
+   },
+   {
+    "word": "en",
+    "start": 157.06,
+    "end": 157.173
+   },
+   {
+    "word": "la",
+    "start": 157.173,
+    "end": 157.363
+   },
+   {
+    "word": "práctica,",
+    "start": 157.363,
+    "end": 158.321
+   },
+   {
+    "word": "dos",
+    "start": 158.321,
+    "end": 158.566
+   },
+   {
+    "word": "pomodoros",
+    "start": 158.566,
+    "end": 159.156
+   },
+   {
+    "word": "peores,",
+    "start": 159.156,
+    "end": 159.494
+   },
+   {
+    "word": "porque",
+    "start": 159.494,
+    "end": 160.165
+   },
+   {
+    "word": "ninguno",
+    "start": 160.165,
+    "end": 160.558
+   },
+   {
+    "word": "de",
+    "start": 160.558,
+    "end": 160.671
+   },
+   {
+    "word": "los",
+    "start": 160.671,
+    "end": 160.84
+   },
+   {
+    "word": "dos",
+    "start": 160.84,
+    "end": 161.008
+   },
+   {
+    "word": "tiene",
+    "start": 161.008,
+    "end": 161.289
+   },
+   {
+    "word": "tu",
+    "start": 161.289,
+    "end": 161.402
+   },
+   {
+    "word": "atención",
+    "start": 161.402,
+    "end": 161.851
+   },
+   {
+    "word": "completa.",
+    "start": 161.851,
+    "end": 162.455
+   }
+  ]
+ },
+ {
+  "id": "S06_F030",
+  "scene": "MÓDULO 4 — La Mitad Olvidada: Registrar Interrupciones",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Cuarto, la mitad olvidada de la técnica: registrar las interrupciones, no solo evitarlas.",
+  "visual": "Figure stands beside a large numbered marker \"4\", a small glowing notebook appears in their hands.",
+  "start": 163.065,
+  "end": 170.359,
+  "words": [
+   {
+    "word": "Cuarto,",
+    "start": 163.674,
+    "end": 164.555
+   },
+   {
+    "word": "la",
+    "start": 164.555,
+    "end": 164.676
+   },
+   {
+    "word": "mitad",
+    "start": 164.676,
+    "end": 164.978
+   },
+   {
+    "word": "olvidada",
+    "start": 164.978,
+    "end": 165.461
+   },
+   {
+    "word": "de",
+    "start": 165.461,
+    "end": 165.582
+   },
+   {
+    "word": "la",
+    "start": 165.582,
+    "end": 165.786
+   },
+   {
+    "word": "técnica:",
+    "start": 165.786,
+    "end": 166.701
+   },
+   {
+    "word": "registrar",
+    "start": 166.701,
+    "end": 167.246
+   },
+   {
+    "word": "las",
+    "start": 167.246,
+    "end": 167.427
+   },
+   {
+    "word": "interrupciones,",
+    "start": 167.427,
+    "end": 168.67
+   },
+   {
+    "word": "no",
+    "start": 168.67,
+    "end": 168.791
+   },
+   {
+    "word": "solo",
+    "start": 168.791,
+    "end": 169.033
+   },
+   {
+    "word": "evitarlas.",
+    "start": 169.033,
+    "end": 169.75
+   }
+  ]
+ },
+ {
+  "id": "S06_F031",
+  "scene": "MÓDULO 4 — La Mitad Olvidada: Registrar Interrupciones",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Cirillo diseñaba la técnica para anotar cada vez que algo te sacaba del pomodoro —",
+  "visual": "Figure marks a small tally line in the glowing notebook each time a small interruption-icon appears nearby.",
+  "start": 170.359,
+  "end": 175.198,
+  "words": [
+   {
+    "word": "Cirillo",
+    "start": 170.968,
+    "end": 171.339
+   },
+   {
+    "word": "diseñaba",
+    "start": 171.339,
+    "end": 171.763
+   },
+   {
+    "word": "la",
+    "start": 171.763,
+    "end": 171.87
+   },
+   {
+    "word": "técnica",
+    "start": 171.87,
+    "end": 172.313
+   },
+   {
+    "word": "para",
+    "start": 172.313,
+    "end": 172.525
+   },
+   {
+    "word": "anotar",
+    "start": 172.525,
+    "end": 172.843
+   },
+   {
+    "word": "cada",
+    "start": 172.843,
+    "end": 173.226
+   },
+   {
+    "word": "vez",
+    "start": 173.226,
+    "end": 173.385
+   },
+   {
+    "word": "que",
+    "start": 173.385,
+    "end": 173.614
+   },
+   {
+    "word": "algo",
+    "start": 173.614,
+    "end": 173.826
+   },
+   {
+    "word": "te",
+    "start": 173.826,
+    "end": 173.932
+   },
+   {
+    "word": "sacaba",
+    "start": 173.932,
+    "end": 174.251
+   },
+   {
+    "word": "del",
+    "start": 174.251,
+    "end": 174.41
+   },
+   {
+    "word": "pomodoro",
+    "start": 174.41,
+    "end": 174.913
+   },
+   {
+    "word": "—",
+    "start": 174.913,
+    "end": 174.966
+   }
+  ]
+ },
+ {
+  "id": "S06_F032",
+  "scene": "MÓDULO 4 — La Mitad Olvidada: Registrar Interrupciones",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "interna, como un pensamiento random, o externa, como alguien tocando la puerta.",
+  "visual": "Close-up, two small distinct interruption-icons appear side by side — a thought-bubble (internal) and a knocking-hand icon (external).",
+  "start": 175.198,
+  "end": 181.001,
+  "words": [
+   {
+    "word": "interna,",
+    "start": 175.43,
+    "end": 175.908
+   },
+   {
+    "word": "como",
+    "start": 175.908,
+    "end": 176.425
+   },
+   {
+    "word": "un",
+    "start": 176.425,
+    "end": 176.537
+   },
+   {
+    "word": "pensamiento",
+    "start": 176.537,
+    "end": 177.223
+   },
+   {
+    "word": "random,",
+    "start": 177.223,
+    "end": 177.559
+   },
+   {
+    "word": "o",
+    "start": 177.559,
+    "end": 177.615
+   },
+   {
+    "word": "externa,",
+    "start": 177.615,
+    "end": 178.261
+   },
+   {
+    "word": "como",
+    "start": 178.261,
+    "end": 178.485
+   },
+   {
+    "word": "alguien",
+    "start": 178.485,
+    "end": 179.193
+   },
+   {
+    "word": "tocando",
+    "start": 179.193,
+    "end": 179.585
+   },
+   {
+    "word": "la",
+    "start": 179.585,
+    "end": 179.768
+   },
+   {
+    "word": "puerta.",
+    "start": 179.768,
+    "end": 180.209
+   }
+  ]
+ },
+ {
+  "id": "S06_F033",
+  "scene": "MÓDULO 4 — La Mitad Olvidada: Registrar Interrupciones",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Al final del día, revisas ese registro.",
+  "visual": "Figure sits calmly in the evening, reviewing the glowing notebook now filled with several small tally marks.",
+  "start": 181.001,
+  "end": 184.982,
+  "words": [
+   {
+    "word": "Al",
+    "start": 181.623,
+    "end": 181.774
+   },
+   {
+    "word": "final",
+    "start": 181.774,
+    "end": 182.152
+   },
+   {
+    "word": "del",
+    "start": 182.152,
+    "end": 182.378
+   },
+   {
+    "word": "día,",
+    "start": 182.378,
+    "end": 182.605
+   },
+   {
+    "word": "revisas",
+    "start": 182.605,
+    "end": 183.539
+   },
+   {
+    "word": "ese",
+    "start": 183.539,
+    "end": 183.766
+   },
+   {
+    "word": "registro.",
+    "start": 183.766,
+    "end": 184.37
+   }
+  ]
+ },
+ {
+  "id": "S06_F034",
+  "scene": "MÓDULO 4 — La Mitad Olvidada: Registrar Interrupciones",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Aquí está la clave: no es un ejercicio de culpa. Es información.",
+  "visual": "A faint guilt/blame icon is gently crossed out, replaced by a clear, neutral data-chart icon instead.",
+  "start": 184.982,
+  "end": 191.243,
+  "words": [
+   {
+    "word": "Aquí",
+    "start": 185.594,
+    "end": 185.844
+   },
+   {
+    "word": "está",
+    "start": 185.844,
+    "end": 186.094
+   },
+   {
+    "word": "la",
+    "start": 186.094,
+    "end": 186.219
+   },
+   {
+    "word": "clave:",
+    "start": 186.219,
+    "end": 186.607
+   },
+   {
+    "word": "no",
+    "start": 186.607,
+    "end": 187.149
+   },
+   {
+    "word": "es",
+    "start": 187.149,
+    "end": 187.274
+   },
+   {
+    "word": "un",
+    "start": 187.274,
+    "end": 187.399
+   },
+   {
+    "word": "ejercicio",
+    "start": 187.399,
+    "end": 187.962
+   },
+   {
+    "word": "de",
+    "start": 187.962,
+    "end": 188.087
+   },
+   {
+    "word": "culpa.",
+    "start": 188.087,
+    "end": 189.805
+   },
+   {
+    "word": "Es",
+    "start": 189.805,
+    "end": 189.93
+   },
+   {
+    "word": "información.",
+    "start": 189.93,
+    "end": 190.618
+   }
+  ]
+ },
+ {
+  "id": "S06_F035",
+  "scene": "MÓDULO 4 — La Mitad Olvidada: Registrar Interrupciones",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "La mayoría de las personas cree que se distrae \"en general\", sin saber exactamente cuándo ni por qué.",
+  "visual": "Close-up, a faint vague cloudy thought-bubble labeled with an unclear shape hovers uncertainly above the figure's head.",
+  "start": 191.243,
+  "end": 198.375,
+  "words": [
+   {
+    "word": "La",
+    "start": 191.869,
+    "end": 191.988
+   },
+   {
+    "word": "mayoría",
+    "start": 191.988,
+    "end": 192.404
+   },
+   {
+    "word": "de",
+    "start": 192.404,
+    "end": 192.523
+   },
+   {
+    "word": "las",
+    "start": 192.523,
+    "end": 192.702
+   },
+   {
+    "word": "personas",
+    "start": 192.702,
+    "end": 193.334
+   },
+   {
+    "word": "cree",
+    "start": 193.334,
+    "end": 193.572
+   },
+   {
+    "word": "que",
+    "start": 193.572,
+    "end": 193.751
+   },
+   {
+    "word": "se",
+    "start": 193.751,
+    "end": 193.87
+   },
+   {
+    "word": "distrae",
+    "start": 193.87,
+    "end": 194.574
+   },
+   {
+    "word": "\"en",
+    "start": 194.574,
+    "end": 194.693
+   },
+   {
+    "word": "general\",",
+    "start": 194.693,
+    "end": 195.109
+   },
+   {
+    "word": "sin",
+    "start": 195.109,
+    "end": 195.66
+   },
+   {
+    "word": "saber",
+    "start": 195.66,
+    "end": 195.957
+   },
+   {
+    "word": "exactamente",
+    "start": 195.957,
+    "end": 196.733
+   },
+   {
+    "word": "cuándo",
+    "start": 196.733,
+    "end": 197.09
+   },
+   {
+    "word": "ni",
+    "start": 197.09,
+    "end": 197.209
+   },
+   {
+    "word": "por",
+    "start": 197.209,
+    "end": 197.485
+   },
+   {
+    "word": "qué.",
+    "start": 197.485,
+    "end": 197.763
+   }
+  ]
+ },
+ {
+  "id": "S06_F036",
+  "scene": "MÓDULO 4 — La Mitad Olvidada: Registrar Interrupciones",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Cirillo diseñó el registro precisamente para reemplazar esa sensación vaga con datos concretos —",
+  "visual": "The vague cloudy thought-bubble is replaced by the clear, filled-in glowing notebook page with specific tally marks.",
+  "start": 198.375,
+  "end": 204.662,
+  "words": [
+   {
+    "word": "Cirillo",
+    "start": 198.987,
+    "end": 199.43
+   },
+   {
+    "word": "diseñó",
+    "start": 199.43,
+    "end": 199.81
+   },
+   {
+    "word": "el",
+    "start": 199.81,
+    "end": 199.937
+   },
+   {
+    "word": "registro",
+    "start": 199.937,
+    "end": 200.443
+   },
+   {
+    "word": "precisamente",
+    "start": 200.443,
+    "end": 201.203
+   },
+   {
+    "word": "para",
+    "start": 201.203,
+    "end": 201.456
+   },
+   {
+    "word": "reemplazar",
+    "start": 201.456,
+    "end": 202.089
+   },
+   {
+    "word": "esa",
+    "start": 202.089,
+    "end": 202.279
+   },
+   {
+    "word": "sensación",
+    "start": 202.279,
+    "end": 202.848
+   },
+   {
+    "word": "vaga",
+    "start": 202.848,
+    "end": 203.102
+   },
+   {
+    "word": "con",
+    "start": 203.102,
+    "end": 203.291
+   },
+   {
+    "word": "datos",
+    "start": 203.291,
+    "end": 203.679
+   },
+   {
+    "word": "concretos",
+    "start": 203.679,
+    "end": 204.398
+   },
+   {
+    "word": "—",
+    "start": 204.398,
+    "end": 204.461
+   }
+  ]
+ },
+ {
+  "id": "S06_F037",
+  "scene": "MÓDULO 4 — La Mitad Olvidada: Registrar Interrupciones",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "y una vez que ves el patrón escrito, ya no puedes fingir que no lo sabías.",
+  "visual": "Close-up, figure looks at the clear pattern of tally marks with quiet, undeniable recognition, no longer able to look away.",
+  "start": 204.662,
+  "end": 209.523,
+  "words": [
+   {
+    "word": "y",
+    "start": 204.863,
+    "end": 204.922
+   },
+   {
+    "word": "una",
+    "start": 204.922,
+    "end": 205.097
+   },
+   {
+    "word": "vez",
+    "start": 205.097,
+    "end": 205.273
+   },
+   {
+    "word": "que",
+    "start": 205.273,
+    "end": 205.448
+   },
+   {
+    "word": "ves",
+    "start": 205.448,
+    "end": 205.624
+   },
+   {
+    "word": "el",
+    "start": 205.624,
+    "end": 205.825
+   },
+   {
+    "word": "patrón",
+    "start": 205.825,
+    "end": 206.176
+   },
+   {
+    "word": "escrito,",
+    "start": 206.176,
+    "end": 207.071
+   },
+   {
+    "word": "ya",
+    "start": 207.071,
+    "end": 207.188
+   },
+   {
+    "word": "no",
+    "start": 207.188,
+    "end": 207.377
+   },
+   {
+    "word": "puedes",
+    "start": 207.377,
+    "end": 207.728
+   },
+   {
+    "word": "fingir",
+    "start": 207.728,
+    "end": 208.162
+   },
+   {
+    "word": "que",
+    "start": 208.162,
+    "end": 208.338
+   },
+   {
+    "word": "no",
+    "start": 208.338,
+    "end": 208.455
+   },
+   {
+    "word": "lo",
+    "start": 208.455,
+    "end": 208.572
+   },
+   {
+    "word": "sabías.",
+    "start": 208.572,
+    "end": 208.923
+   }
+  ]
+ },
+ {
+  "id": "S07_F038",
+  "scene": "EL CIERRE",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Después de cuatro pomodoros completos, tomas un descanso más largo — quince a treinta minutos —, no cinco.",
+  "visual": "Figure relaxes visibly after four glowing completed timer icons line up in a row, a longer rest-period icon glowing warmly beside them.",
+  "start": 209.523,
+  "end": 217.474,
+  "words": [
+   {
+    "word": "Después",
+    "start": 210.122,
+    "end": 210.62
+   },
+   {
+    "word": "de",
+    "start": 210.62,
+    "end": 210.742
+   },
+   {
+    "word": "cuatro",
+    "start": 210.742,
+    "end": 211.109
+   },
+   {
+    "word": "pomodoros",
+    "start": 211.109,
+    "end": 211.732
+   },
+   {
+    "word": "completos,",
+    "start": 211.732,
+    "end": 212.708
+   },
+   {
+    "word": "tomas",
+    "start": 212.708,
+    "end": 213.013
+   },
+   {
+    "word": "un",
+    "start": 213.013,
+    "end": 213.135
+   },
+   {
+    "word": "descanso",
+    "start": 213.135,
+    "end": 213.624
+   },
+   {
+    "word": "más",
+    "start": 213.624,
+    "end": 213.807
+   },
+   {
+    "word": "largo",
+    "start": 213.807,
+    "end": 214.112
+   },
+   {
+    "word": "—",
+    "start": 214.112,
+    "end": 214.173
+   },
+   {
+    "word": "quince",
+    "start": 214.173,
+    "end": 214.889
+   },
+   {
+    "word": "a",
+    "start": 214.889,
+    "end": 214.95
+   },
+   {
+    "word": "treinta",
+    "start": 214.95,
+    "end": 215.377
+   },
+   {
+    "word": "minutos",
+    "start": 215.377,
+    "end": 216.281
+   },
+   {
+    "word": "—,",
+    "start": 216.281,
+    "end": 216.342
+   },
+   {
+    "word": "no",
+    "start": 216.342,
+    "end": 216.464
+   },
+   {
+    "word": "cinco.",
+    "start": 216.464,
+    "end": 216.855
+   }
+  ]
+ },
+ {
+  "id": "S07_F039",
+  "scene": "EL CIERRE",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Esto es lo que cambia todo: el ciclo completo no es \"trabajar en bloques\".",
+  "visual": "A faint generic \"work in blocks\" icon is gently set aside, not quite capturing the real idea.",
+  "start": 217.474,
+  "end": 223.059,
+  "words": [
+   {
+    "word": "Esto",
+    "start": 218.092,
+    "end": 218.341
+   },
+   {
+    "word": "es",
+    "start": 218.341,
+    "end": 218.466
+   },
+   {
+    "word": "lo",
+    "start": 218.466,
+    "end": 218.591
+   },
+   {
+    "word": "que",
+    "start": 218.591,
+    "end": 218.777
+   },
+   {
+    "word": "cambia",
+    "start": 218.777,
+    "end": 219.232
+   },
+   {
+    "word": "todo:",
+    "start": 219.232,
+    "end": 219.873
+   },
+   {
+    "word": "el",
+    "start": 219.873,
+    "end": 219.997
+   },
+   {
+    "word": "ciclo",
+    "start": 219.997,
+    "end": 220.309
+   },
+   {
+    "word": "completo",
+    "start": 220.309,
+    "end": 220.807
+   },
+   {
+    "word": "no",
+    "start": 220.807,
+    "end": 220.932
+   },
+   {
+    "word": "es",
+    "start": 220.932,
+    "end": 221.057
+   },
+   {
+    "word": "\"trabajar",
+    "start": 221.057,
+    "end": 221.815
+   },
+   {
+    "word": "en",
+    "start": 221.815,
+    "end": 221.94
+   },
+   {
+    "word": "bloques\".",
+    "start": 221.94,
+    "end": 222.453
+   }
+  ]
+ },
+ {
+  "id": "S07_F040",
+  "scene": "EL CIERRE",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Es alternar entre un compromiso corto y total, y una recuperación real,",
+  "visual": "Close-up, a clean back-and-forth rhythm glows steadily between a focused-work icon and a genuine rest icon.",
+  "start": 223.059,
+  "end": 228.344,
+  "words": [
+   {
+    "word": "Es",
+    "start": 223.665,
+    "end": 223.797
+   },
+   {
+    "word": "alternar",
+    "start": 223.797,
+    "end": 224.411
+   },
+   {
+    "word": "entre",
+    "start": 224.411,
+    "end": 224.741
+   },
+   {
+    "word": "un",
+    "start": 224.741,
+    "end": 224.874
+   },
+   {
+    "word": "compromiso",
+    "start": 224.874,
+    "end": 225.535
+   },
+   {
+    "word": "corto",
+    "start": 225.535,
+    "end": 225.95
+   },
+   {
+    "word": "y",
+    "start": 225.95,
+    "end": 226.016
+   },
+   {
+    "word": "total,",
+    "start": 226.016,
+    "end": 226.823
+   },
+   {
+    "word": "y",
+    "start": 226.823,
+    "end": 226.889
+   },
+   {
+    "word": "una",
+    "start": 226.889,
+    "end": 227.088
+   },
+   {
+    "word": "recuperación",
+    "start": 227.088,
+    "end": 227.881
+   },
+   {
+    "word": "real,",
+    "start": 227.881,
+    "end": 228.146
+   }
+  ]
+ },
+ {
+  "id": "S07_F041",
+  "scene": "EL CIERRE",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "sin que ninguna de las dos etapas se filtre en la otra — sin revisar el teléfono \"solo un segundo\" durante el descanso,",
+  "visual": "A faint phone icon reaches toward the figure during the rest period but is gently held back, clean separation maintained.",
+  "start": 228.344,
+  "end": 235.546,
+  "words": [
+   {
+    "word": "sin",
+    "start": 228.542,
+    "end": 228.724
+   },
+   {
+    "word": "que",
+    "start": 228.724,
+    "end": 228.907
+   },
+   {
+    "word": "ninguna",
+    "start": 228.907,
+    "end": 229.332
+   },
+   {
+    "word": "de",
+    "start": 229.332,
+    "end": 229.454
+   },
+   {
+    "word": "las",
+    "start": 229.454,
+    "end": 229.636
+   },
+   {
+    "word": "dos",
+    "start": 229.636,
+    "end": 229.819
+   },
+   {
+    "word": "etapas",
+    "start": 229.819,
+    "end": 230.274
+   },
+   {
+    "word": "se",
+    "start": 230.274,
+    "end": 230.395
+   },
+   {
+    "word": "filtre",
+    "start": 230.395,
+    "end": 230.832
+   },
+   {
+    "word": "en",
+    "start": 230.832,
+    "end": 230.954
+   },
+   {
+    "word": "la",
+    "start": 230.954,
+    "end": 231.151
+   },
+   {
+    "word": "otra",
+    "start": 231.151,
+    "end": 231.749
+   },
+   {
+    "word": "—",
+    "start": 231.749,
+    "end": 231.81
+   },
+   {
+    "word": "sin",
+    "start": 231.81,
+    "end": 231.992
+   },
+   {
+    "word": "revisar",
+    "start": 231.992,
+    "end": 232.522
+   },
+   {
+    "word": "el",
+    "start": 232.522,
+    "end": 232.644
+   },
+   {
+    "word": "teléfono",
+    "start": 232.644,
+    "end": 233.34
+   },
+   {
+    "word": "\"solo",
+    "start": 233.34,
+    "end": 233.583
+   },
+   {
+    "word": "un",
+    "start": 233.583,
+    "end": 233.705
+   },
+   {
+    "word": "segundo\"",
+    "start": 233.705,
+    "end": 234.382
+   },
+   {
+    "word": "durante",
+    "start": 234.382,
+    "end": 234.808
+   },
+   {
+    "word": "el",
+    "start": 234.808,
+    "end": 234.93
+   },
+   {
+    "word": "descanso,",
+    "start": 234.93,
+    "end": 235.416
+   }
+  ]
+ },
+ {
+  "id": "S07_F042",
+  "scene": "EL CIERRE",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "y sin seguir pensando en el descanso mientras trabajas.",
+  "visual": "During the work period, a faint thought of the rest icon tries to intrude but fades away, full presence maintained instead.",
+  "start": 235.546,
+  "end": 239.192,
+  "words": [
+   {
+    "word": "y",
+    "start": 235.677,
+    "end": 235.733
+   },
+   {
+    "word": "sin",
+    "start": 235.733,
+    "end": 235.9
+   },
+   {
+    "word": "seguir",
+    "start": 235.9,
+    "end": 236.234
+   },
+   {
+    "word": "pensando",
+    "start": 236.234,
+    "end": 236.767
+   },
+   {
+    "word": "en",
+    "start": 236.767,
+    "end": 236.879
+   },
+   {
+    "word": "el",
+    "start": 236.879,
+    "end": 236.99
+   },
+   {
+    "word": "descanso",
+    "start": 236.99,
+    "end": 237.436
+   },
+   {
+    "word": "mientras",
+    "start": 237.436,
+    "end": 237.882
+   },
+   {
+    "word": "trabajas.",
+    "start": 237.882,
+    "end": 238.328
+   }
+  ]
+ },
+ {
+  "id": "S07_F043",
+  "scene": "EL CIERRE",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "La Técnica Pomodoro real no es una app con un sonido de alarma.",
+  "visual": "Close-up, the small simplified phone-app timer icon from the very first frame is gently set aside, no longer the whole picture.",
+  "start": 239.192,
+  "end": 243.726,
+  "words": [
+   {
+    "word": "La",
+    "start": 239.855,
+    "end": 239.977
+   },
+   {
+    "word": "Técnica",
+    "start": 239.977,
+    "end": 240.486
+   },
+   {
+    "word": "Pomodoro",
+    "start": 240.486,
+    "end": 240.976
+   },
+   {
+    "word": "real",
+    "start": 240.976,
+    "end": 241.221
+   },
+   {
+    "word": "no",
+    "start": 241.221,
+    "end": 241.344
+   },
+   {
+    "word": "es",
+    "start": 241.344,
+    "end": 241.466
+   },
+   {
+    "word": "una",
+    "start": 241.466,
+    "end": 241.65
+   },
+   {
+    "word": "app",
+    "start": 241.65,
+    "end": 241.833
+   },
+   {
+    "word": "con",
+    "start": 241.833,
+    "end": 242.131
+   },
+   {
+    "word": "un",
+    "start": 242.131,
+    "end": 242.254
+   },
+   {
+    "word": "sonido",
+    "start": 242.254,
+    "end": 242.621
+   },
+   {
+    "word": "de",
+    "start": 242.621,
+    "end": 242.744
+   },
+   {
+    "word": "alarma.",
+    "start": 242.744,
+    "end": 243.111
+   }
+  ]
+ },
+ {
+  "id": "S07_F044",
+  "scene": "EL CIERRE",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Es una disciplina sobre qué haces cuando algo intenta interrumpirte, y qué tan honesto eres contigo mismo después sobre lo que realmente pasó.",
+  "visual": "Figure stands tall, the glowing tomato-timer and the glowing notebook both shown together, complete and whole.",
+  "start": 243.726,
+  "end": 252.43,
+  "words": [
+   {
+    "word": "Es",
+    "start": 244.341,
+    "end": 244.454
+   },
+   {
+    "word": "una",
+    "start": 244.454,
+    "end": 244.623
+   },
+   {
+    "word": "disciplina",
+    "start": 244.623,
+    "end": 245.27
+   },
+   {
+    "word": "sobre",
+    "start": 245.27,
+    "end": 245.551
+   },
+   {
+    "word": "qué",
+    "start": 245.551,
+    "end": 245.721
+   },
+   {
+    "word": "haces",
+    "start": 245.721,
+    "end": 246.002
+   },
+   {
+    "word": "cuando",
+    "start": 246.002,
+    "end": 246.341
+   },
+   {
+    "word": "algo",
+    "start": 246.341,
+    "end": 246.566
+   },
+   {
+    "word": "intenta",
+    "start": 246.566,
+    "end": 246.961
+   },
+   {
+    "word": "interrumpirte,",
+    "start": 246.961,
+    "end": 248.179
+   },
+   {
+    "word": "y",
+    "start": 248.179,
+    "end": 248.235
+   },
+   {
+    "word": "qué",
+    "start": 248.235,
+    "end": 248.404
+   },
+   {
+    "word": "tan",
+    "start": 248.404,
+    "end": 248.573
+   },
+   {
+    "word": "honesto",
+    "start": 248.573,
+    "end": 248.968
+   },
+   {
+    "word": "eres",
+    "start": 248.968,
+    "end": 249.193
+   },
+   {
+    "word": "contigo",
+    "start": 249.193,
+    "end": 249.588
+   },
+   {
+    "word": "mismo",
+    "start": 249.588,
+    "end": 249.87
+   },
+   {
+    "word": "después",
+    "start": 249.87,
+    "end": 250.358
+   },
+   {
+    "word": "sobre",
+    "start": 250.358,
+    "end": 250.64
+   },
+   {
+    "word": "lo",
+    "start": 250.64,
+    "end": 250.846
+   },
+   {
+    "word": "que",
+    "start": 250.846,
+    "end": 251.015
+   },
+   {
+    "word": "realmente",
+    "start": 251.015,
+    "end": 251.599
+   },
+   {
+    "word": "pasó.",
+    "start": 251.599,
+    "end": 251.824
+   }
+  ]
+ },
+ {
+  "id": "S07_F045",
+  "scene": "EL CIERRE",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "No necesitas un tomate de cocina, ni una aplicación con estadísticas bonitas.",
+  "visual": "Figure gestures simply, both the ornate app-icon and the literal tomato-timer fade aside, unnecessary details.",
+  "start": 252.43,
+  "end": 258.519,
+  "words": [
+   {
+    "word": "No",
+    "start": 253.036,
+    "end": 253.173
+   },
+   {
+    "word": "necesitas",
+    "start": 253.173,
+    "end": 253.791
+   },
+   {
+    "word": "un",
+    "start": 253.791,
+    "end": 253.929
+   },
+   {
+    "word": "tomate",
+    "start": 253.929,
+    "end": 254.34
+   },
+   {
+    "word": "de",
+    "start": 254.34,
+    "end": 254.478
+   },
+   {
+    "word": "cocina,",
+    "start": 254.478,
+    "end": 254.89
+   },
+   {
+    "word": "ni",
+    "start": 254.89,
+    "end": 255.397
+   },
+   {
+    "word": "una",
+    "start": 255.397,
+    "end": 255.603
+   },
+   {
+    "word": "aplicación",
+    "start": 255.603,
+    "end": 256.29
+   },
+   {
+    "word": "con",
+    "start": 256.29,
+    "end": 256.496
+   },
+   {
+    "word": "estadísticas",
+    "start": 256.496,
+    "end": 257.319
+   },
+   {
+    "word": "bonitas.",
+    "start": 257.319,
+    "end": 257.911
+   }
+  ]
+ },
+ {
+  "id": "S07_F046",
+  "scene": "EL CIERRE",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Necesitas un temporizador cualquiera, una libreta para el registro, y la disposición a anular un pomodoro entero en lugar de fingir que \"casi\" cuenta.",
+  "visual": "Close-up, a plain simple timer and a plain simple notebook sit together, calm resolute expression, essentials only.",
+  "start": 258.519,
+  "end": 268.606,
+  "words": [
+   {
+    "word": "Necesitas",
+    "start": 259.128,
+    "end": 259.673
+   },
+   {
+    "word": "un",
+    "start": 259.673,
+    "end": 259.795
+   },
+   {
+    "word": "temporizador",
+    "start": 259.795,
+    "end": 260.522
+   },
+   {
+    "word": "cualquiera,",
+    "start": 260.522,
+    "end": 261.295
+   },
+   {
+    "word": "una",
+    "start": 261.295,
+    "end": 261.819
+   },
+   {
+    "word": "libreta",
+    "start": 261.819,
+    "end": 262.243
+   },
+   {
+    "word": "para",
+    "start": 262.243,
+    "end": 262.485
+   },
+   {
+    "word": "el",
+    "start": 262.485,
+    "end": 262.606
+   },
+   {
+    "word": "registro,",
+    "start": 262.606,
+    "end": 263.091
+   },
+   {
+    "word": "y",
+    "start": 263.091,
+    "end": 263.152
+   },
+   {
+    "word": "la",
+    "start": 263.152,
+    "end": 263.647
+   },
+   {
+    "word": "disposición",
+    "start": 263.647,
+    "end": 264.313
+   },
+   {
+    "word": "a",
+    "start": 264.313,
+    "end": 264.374
+   },
+   {
+    "word": "anular",
+    "start": 264.374,
+    "end": 264.738
+   },
+   {
+    "word": "un",
+    "start": 264.738,
+    "end": 264.859
+   },
+   {
+    "word": "pomodoro",
+    "start": 264.859,
+    "end": 265.415
+   },
+   {
+    "word": "entero",
+    "start": 265.415,
+    "end": 265.778
+   },
+   {
+    "word": "en",
+    "start": 265.778,
+    "end": 265.899
+   },
+   {
+    "word": "lugar",
+    "start": 265.899,
+    "end": 266.202
+   },
+   {
+    "word": "de",
+    "start": 266.202,
+    "end": 266.324
+   },
+   {
+    "word": "fingir",
+    "start": 266.324,
+    "end": 266.687
+   },
+   {
+    "word": "que",
+    "start": 266.687,
+    "end": 267.211
+   },
+   {
+    "word": "\"casi\"",
+    "start": 267.211,
+    "end": 267.453
+   },
+   {
+    "word": "cuenta.",
+    "start": 267.453,
+    "end": 268.01
+   }
+  ]
+ },
+ {
+  "id": "S07_F047",
+  "scene": "EL CIERRE",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Prueba mañana la versión completa — con el registro de interrupciones incluido —",
+  "visual": "Figure stands ready, both tools in hand, forward-looking determined expression.",
+  "start": 268.606,
+  "end": 273.534,
+  "words": [
+   {
+    "word": "Prueba",
+    "start": 269.203,
+    "end": 269.539
+   },
+   {
+    "word": "mañana",
+    "start": 269.539,
+    "end": 269.876
+   },
+   {
+    "word": "la",
+    "start": 269.876,
+    "end": 269.988
+   },
+   {
+    "word": "versión",
+    "start": 269.988,
+    "end": 270.38
+   },
+   {
+    "word": "completa",
+    "start": 270.38,
+    "end": 270.829
+   },
+   {
+    "word": "—",
+    "start": 270.829,
+    "end": 270.885
+   },
+   {
+    "word": "con",
+    "start": 270.885,
+    "end": 271.342
+   },
+   {
+    "word": "el",
+    "start": 271.342,
+    "end": 271.454
+   },
+   {
+    "word": "registro",
+    "start": 271.454,
+    "end": 271.903
+   },
+   {
+    "word": "de",
+    "start": 271.903,
+    "end": 272.015
+   },
+   {
+    "word": "interrupciones",
+    "start": 272.015,
+    "end": 272.799
+   },
+   {
+    "word": "incluido",
+    "start": 272.799,
+    "end": 273.323
+   },
+   {
+    "word": "—",
+    "start": 273.323,
+    "end": 273.379
+   }
+  ]
+ },
+ {
+  "id": "S07_F048",
+  "scene": "EL CIERRE",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "y dime en los comentarios qué patrón descubriste sobre ti mismo.",
+  "visual": "Figure points directly toward the camera/viewer, warm inviting expression, a faint speech-bubble icon glowing softly in accent color.",
+  "start": 273.534,
+  "end": 277.59,
+  "words": [
+   {
+    "word": "y",
+    "start": 273.688,
+    "end": 273.746
+   },
+   {
+    "word": "dime",
+    "start": 273.746,
+    "end": 273.976
+   },
+   {
+    "word": "en",
+    "start": 273.976,
+    "end": 274.091
+   },
+   {
+    "word": "los",
+    "start": 274.091,
+    "end": 274.264
+   },
+   {
+    "word": "comentarios",
+    "start": 274.264,
+    "end": 274.968
+   },
+   {
+    "word": "qué",
+    "start": 274.968,
+    "end": 275.141
+   },
+   {
+    "word": "patrón",
+    "start": 275.141,
+    "end": 275.486
+   },
+   {
+    "word": "descubriste",
+    "start": 275.486,
+    "end": 276.193
+   },
+   {
+    "word": "sobre",
+    "start": 276.193,
+    "end": 276.56
+   },
+   {
+    "word": "ti",
+    "start": 276.56,
+    "end": 276.675
+   },
+   {
+    "word": "mismo.",
+    "start": 276.675,
+    "end": 276.963
+   }
+  ]
+ },
+ {
+  "id": "S07_F049",
+  "scene": "EL CIERRE",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Si este video te sirvió, dale like y suscríbete — la disciplina no hace ruido, ni siquiera cuando sí suena un temporizador.",
+  "visual": "Figure stands calm and still in the quiet dark space, faint warm rim light outlining their silhouette, serene composed expression.",
+  "start": 277.59,
+  "end": 287.09,
+  "words": [
+   {
+    "word": "Si",
+    "start": 278.217,
+    "end": 278.344
+   },
+   {
+    "word": "este",
+    "start": 278.344,
+    "end": 278.597
+   },
+   {
+    "word": "video",
+    "start": 278.597,
+    "end": 278.914
+   },
+   {
+    "word": "te",
+    "start": 278.914,
+    "end": 279.04
+   },
+   {
+    "word": "sirvió,",
+    "start": 279.04,
+    "end": 279.42
+   },
+   {
+    "word": "dale",
+    "start": 279.42,
+    "end": 279.673
+   },
+   {
+    "word": "like",
+    "start": 279.673,
+    "end": 280.283
+   },
+   {
+    "word": "y",
+    "start": 280.283,
+    "end": 280.346
+   },
+   {
+    "word": "suscríbete",
+    "start": 280.346,
+    "end": 281.133
+   },
+   {
+    "word": "—",
+    "start": 281.133,
+    "end": 281.197
+   },
+   {
+    "word": "la",
+    "start": 281.197,
+    "end": 281.323
+   },
+   {
+    "word": "disciplina",
+    "start": 281.323,
+    "end": 282.551
+   },
+   {
+    "word": "no",
+    "start": 282.551,
+    "end": 282.678
+   },
+   {
+    "word": "hace",
+    "start": 282.678,
+    "end": 282.931
+   },
+   {
+    "word": "ruido,",
+    "start": 282.931,
+    "end": 283.248
+   },
+   {
+    "word": "ni",
+    "start": 283.248,
+    "end": 283.375
+   },
+   {
+    "word": "siquiera",
+    "start": 283.375,
+    "end": 284.249
+   },
+   {
+    "word": "cuando",
+    "start": 284.249,
+    "end": 284.629
+   },
+   {
+    "word": "sí",
+    "start": 284.629,
+    "end": 284.756
+   },
+   {
+    "word": "suena",
+    "start": 284.756,
+    "end": 285.072
+   },
+   {
+    "word": "un",
+    "start": 285.072,
+    "end": 285.199
+   },
+   {
+    "word": "temporizador.",
+    "start": 285.199,
+    "end": 285.959
+   }
+  ]
+ }
+]

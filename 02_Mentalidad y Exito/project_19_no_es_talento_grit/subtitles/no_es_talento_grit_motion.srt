@@ -1,0 +1,771 @@
+1
+00:00:00,248 --> 00:00:01,350
+Hay algo que predice
+
+2
+00:00:01,350 --> 00:00:03,037
+quién termina y quién abandona
+
+3
+00:00:03,140 --> 00:00:04,663
+mejor que el talento,
+
+4
+00:00:04,663 --> 00:00:06,150
+el coeficiente intelectual o
+
+5
+00:00:06,150 --> 00:00:07,110
+la condición física.
+
+6
+00:00:08,251 --> 00:00:09,159
+No es glamoroso.
+
+7
+00:00:10,428 --> 00:00:11,066
+Se llama grit —
+
+8
+00:00:11,066 --> 00:00:12,040
+y la mayoría de
+
+9
+00:00:12,040 --> 00:00:13,175
+la gente lo malentiende
+
+10
+00:00:13,175 --> 00:00:13,926
+por completo.
+
+11
+00:00:15,298 --> 00:00:16,189
+Hoy te explico qué
+
+12
+00:00:16,189 --> 00:00:16,784
+es el grit de
+
+13
+00:00:16,784 --> 00:00:18,754
+verdad, según la investigación
+
+14
+00:00:18,754 --> 00:00:20,103
+real detrás del término —
+
+15
+00:00:20,476 --> 00:00:22,001
+no la versión motivacional
+
+16
+00:00:22,001 --> 00:00:23,555
+vacía de "nunca te rindas" —
+
+17
+00:00:23,823 --> 00:00:24,943
+y cómo se construye,
+
+18
+00:00:24,943 --> 00:00:25,982
+paso a paso,
+
+19
+00:00:25,982 --> 00:00:27,501
+incluso si sientes que
+
+20
+00:00:27,501 --> 00:00:28,411
+no naciste con él.
+
+21
+00:00:29,640 --> 00:00:31,735
+La psicóloga Angela Duckworth
+
+22
+00:00:31,735 --> 00:00:33,140
+siguió a 2.441 cadetes
+
+23
+00:00:33,140 --> 00:00:34,674
+de la academia militar
+
+24
+00:00:34,674 --> 00:00:35,686
+de West Point,
+
+25
+00:00:36,155 --> 00:00:37,172
+durante el verano más
+
+26
+00:00:37,172 --> 00:00:39,053
+brutal de su entrenamiento —
+
+27
+00:00:39,053 --> 00:00:40,030
+el que ellos mismos
+
+28
+00:00:40,030 --> 00:00:41,096
+llaman "la Bestia".
+
+29
+00:00:42,286 --> 00:00:43,667
+Antes de empezar,
+
+30
+00:00:43,667 --> 00:00:45,716
+midió calificaciones académicas,
+
+31
+00:00:45,716 --> 00:00:47,147
+condición física,
+
+32
+00:00:47,525 --> 00:00:48,294
+y una escala que
+
+33
+00:00:48,294 --> 00:00:49,501
+ella misma diseñó para
+
+34
+00:00:49,501 --> 00:00:50,588
+medir algo distinto:
+
+35
+00:00:50,588 --> 00:00:52,414
+la constancia del esfuerzo
+
+36
+00:00:52,414 --> 00:00:53,174
+a largo plazo.
+
+37
+00:00:54,449 --> 00:00:55,610
+Presta atención a esto:
+
+38
+00:00:55,610 --> 00:00:57,268
+cuando terminó el verano,
+
+39
+00:00:57,677 --> 00:00:58,366
+ni las notas ni
+
+40
+00:00:58,366 --> 00:01:00,078
+la condición física predijeron
+
+41
+00:01:00,078 --> 00:01:01,702
+quién abandonaba y quién seguía.
+
+42
+00:01:02,937 --> 00:01:03,752
+Lo que sí predijo
+
+43
+00:01:03,752 --> 00:01:04,392
+la deserción,
+
+44
+00:01:04,392 --> 00:01:06,119
+mejor que cualquier otra
+
+45
+00:01:06,119 --> 00:01:07,492
+medida, fue esa escala
+
+46
+00:01:07,492 --> 00:01:07,841
+de grit.
+
+47
+00:01:09,260 --> 00:01:10,174
+Aquí está la clave:
+
+48
+00:01:10,174 --> 00:01:11,612
+no eran los cadetes
+
+49
+00:01:11,612 --> 00:01:12,605
+más fuertes ni los
+
+50
+00:01:12,605 --> 00:01:13,959
+más inteligentes los que
+
+51
+00:01:13,959 --> 00:01:15,495
+sobrevivían a "la Bestia".
+
+52
+00:01:16,694 --> 00:01:17,893
+Eran los que seguían
+
+53
+00:01:17,893 --> 00:01:20,123
+presentándose, día siete,
+
+54
+00:01:20,123 --> 00:01:20,617
+día doce,
+
+55
+00:01:20,617 --> 00:01:21,601
+día veinte,
+
+56
+00:01:21,991 --> 00:01:23,071
+aunque cada músculo les
+
+57
+00:01:23,071 --> 00:01:23,834
+pidiera parar.
+
+58
+00:01:25,096 --> 00:01:25,742
+Esto es lo que
+
+59
+00:01:25,742 --> 00:01:26,682
+nadie te dice sobre
+
+60
+00:01:26,682 --> 00:01:27,401
+el talento:
+
+61
+00:01:27,401 --> 00:01:28,686
+en su libro "Grit",
+
+62
+00:01:28,686 --> 00:01:31,315
+Duckworth propone una fórmula incómoda.
+
+63
+00:01:32,547 --> 00:01:33,667
+Talento por esfuerzo es
+
+64
+00:01:33,667 --> 00:01:34,506
+igual a habilidad.
+
+65
+00:01:35,747 --> 00:01:37,036
+Pero habilidad por esfuerzo
+
+66
+00:01:37,036 --> 00:01:37,693
+es igual a logro.
+
+67
+00:01:38,915 --> 00:01:41,070
+¿Notas el patrón?
+
+68
+00:01:41,070 --> 00:01:42,504
+El esfuerzo aparece dos
+
+69
+00:01:42,504 --> 00:01:44,533
+veces, el talento solo una.
+
+70
+00:01:45,730 --> 00:01:46,698
+Aquí está la clave:
+
+71
+00:01:46,698 --> 00:01:48,088
+dos personas con el
+
+72
+00:01:48,088 --> 00:01:48,862
+mismo talento,
+
+73
+00:01:48,862 --> 00:01:50,458
+pero una se esfuerza
+
+74
+00:01:50,458 --> 00:01:50,910
+el doble,
+
+75
+00:01:51,331 --> 00:01:52,655
+no terminan empatadas.
+
+76
+00:01:53,885 --> 00:01:54,800
+La que se esfuerza
+
+77
+00:01:54,800 --> 00:01:55,850
+más termina con más
+
+78
+00:01:55,850 --> 00:01:57,009
+del doble de logro real,
+
+79
+00:01:57,467 --> 00:01:58,750
+porque el esfuerzo construye
+
+80
+00:01:58,750 --> 00:01:59,315
+la habilidad,
+
+81
+00:01:59,315 --> 00:02:00,602
+y después vuelve a
+
+82
+00:02:00,602 --> 00:02:01,987
+construir el resultado sobre
+
+83
+00:02:01,987 --> 00:02:02,603
+esa habilidad.
+
+84
+00:02:03,840 --> 00:02:05,090
+El talento decide qué
+
+85
+00:02:05,090 --> 00:02:06,451
+tan rápido aprendes algo.
+
+86
+00:02:07,693 --> 00:02:08,740
+El esfuerzo decide si
+
+87
+00:02:08,740 --> 00:02:10,194
+ese aprendizaje se convierte
+
+88
+00:02:10,194 --> 00:02:10,992
+en algo que el
+
+89
+00:02:10,992 --> 00:02:11,821
+mundo puede ver.
+
+90
+00:02:13,104 --> 00:02:14,187
+Pero espera —
+
+91
+00:02:14,187 --> 00:02:14,953
+todavía hay más,
+
+92
+00:02:14,953 --> 00:02:16,577
+y esto es contraintuitivo:
+
+93
+00:02:17,046 --> 00:02:18,739
+la investigadora Chia-Jung Tsay,
+
+94
+00:02:18,739 --> 00:02:20,667
+de la Universidad de Columbia,
+
+95
+00:02:21,070 --> 00:02:23,459
+descubrió que preferimos sistemáticamente
+
+96
+00:02:23,459 --> 00:02:25,047
+a los "naturales" sobre
+
+97
+00:02:25,047 --> 00:02:26,206
+quienes se esfuerzan —
+
+98
+00:02:26,430 --> 00:02:27,924
+incluso cuando el resultado
+
+99
+00:02:27,924 --> 00:02:28,923
+final es idéntico.
+
+100
+00:02:30,165 --> 00:02:30,997
+En sus estudios,
+
+101
+00:02:30,997 --> 00:02:32,653
+mostró a evaluadores dos
+
+102
+00:02:32,653 --> 00:02:33,880
+versiones de la misma
+
+103
+00:02:33,880 --> 00:02:35,385
+interpretación musical:
+
+104
+00:02:35,741 --> 00:02:37,602
+una etiquetada como "talento
+
+105
+00:02:37,602 --> 00:02:39,171
+natural", otra como "años
+
+106
+00:02:39,171 --> 00:02:40,074
+de práctica".
+
+107
+00:02:41,296 --> 00:02:43,554
+La interpretación "natural" fue
+
+108
+00:02:43,554 --> 00:02:44,943
+calificada como mejor —
+
+109
+00:02:45,181 --> 00:02:46,532
+aunque literalmente era la
+
+110
+00:02:46,532 --> 00:02:47,355
+misma grabación.
+
+111
+00:02:48,604 --> 00:02:49,290
+Esto es lo que
+
+112
+00:02:49,290 --> 00:02:50,376
+cambia todo:
+
+113
+00:02:50,376 --> 00:02:51,657
+el talento natural es
+
+114
+00:02:51,657 --> 00:02:52,717
+más fácil de admirar,
+
+115
+00:02:53,176 --> 00:02:54,483
+pero el esfuerzo constante
+
+116
+00:02:54,483 --> 00:02:55,145
+es el único de
+
+117
+00:02:55,145 --> 00:02:55,737
+los dos que tú
+
+118
+00:02:55,737 --> 00:02:57,194
+puedes elegir tener mañana.
+
+119
+00:02:58,433 --> 00:02:59,658
+Admira lo que quieras.
+
+120
+00:03:00,878 --> 00:03:02,056
+Pero construye a partir
+
+121
+00:03:02,056 --> 00:03:02,586
+de lo que sí
+
+122
+00:03:02,586 --> 00:03:03,409
+depende de ti.
+
+123
+00:03:04,624 --> 00:03:05,569
+Lección cuatro:
+
+124
+00:03:05,569 --> 00:03:07,572
+grit no significa trabajar
+
+125
+00:03:07,572 --> 00:03:08,504
+duro esta semana.
+
+126
+00:03:09,741 --> 00:03:11,480
+Significa mantener el mismo
+
+127
+00:03:11,480 --> 00:03:13,898
+interés, la misma dirección,
+
+128
+00:03:13,898 --> 00:03:15,122
+durante años —
+
+129
+00:03:15,122 --> 00:03:15,629
+no meses.
+
+130
+00:03:16,841 --> 00:03:18,865
+Duckworth lo llama "consistencia
+
+131
+00:03:18,865 --> 00:03:20,350
+de intereses a largo plazo",
+
+132
+00:03:20,723 --> 00:03:21,456
+y es la parte
+
+133
+00:03:21,456 --> 00:03:22,516
+que casi nadie quiere
+
+134
+00:03:22,516 --> 00:03:24,164
+escuchar, porque no suena
+
+135
+00:03:24,164 --> 00:03:25,670
+tan atractiva como "nunca
+
+136
+00:03:25,670 --> 00:03:26,141
+te rindas".
+
+137
+00:03:27,359 --> 00:03:28,282
+Aquí está la clave:
+
+138
+00:03:28,282 --> 00:03:29,847
+las personas con más
+
+139
+00:03:29,847 --> 00:03:30,686
+grit no son las
+
+140
+00:03:30,686 --> 00:03:32,101
+que sienten pasión intensa
+
+141
+00:03:32,101 --> 00:03:33,009
+todos los días.
+
+142
+00:03:34,209 --> 00:03:35,079
+Son las que siguen
+
+143
+00:03:35,079 --> 00:03:36,238
+apareciendo en los días
+
+144
+00:03:36,238 --> 00:03:37,238
+donde esa pasión se
+
+145
+00:03:37,238 --> 00:03:38,828
+siente completamente apagada.
+
+146
+00:03:40,029 --> 00:03:41,566
+Cambiar de dirección cada
+
+147
+00:03:41,566 --> 00:03:42,155
+pocos meses,
+
+148
+00:03:42,155 --> 00:03:44,885
+persiguiendo la próxima idea emocionante,
+
+149
+00:03:45,252 --> 00:03:46,670
+es precisamente lo opuesto
+
+150
+00:03:46,670 --> 00:03:47,390
+al grit —
+
+151
+00:03:47,390 --> 00:03:48,835
+aunque se sienta como progreso.
+
+152
+00:03:50,087 --> 00:03:50,843
+Y aquí está algo
+
+153
+00:03:50,843 --> 00:03:52,167
+que Duckworth aplica en
+
+154
+00:03:52,167 --> 00:03:53,476
+su propia casa,
+
+155
+00:03:53,476 --> 00:03:54,813
+no solo en su investigación:
+
+156
+00:03:55,301 --> 00:03:56,084
+la "regla de la
+
+157
+00:03:56,084 --> 00:03:56,789
+cosa difícil".
+
+158
+00:03:58,013 --> 00:03:58,846
+Cada persona de la
+
+159
+00:03:58,846 --> 00:04:00,384
+familia — incluida ella —
+
+160
+00:04:00,384 --> 00:04:02,108
+debe practicar algo que
+
+161
+00:04:02,108 --> 00:04:03,385
+requiera esfuerzo diario y
+
+162
+00:04:03,385 --> 00:04:04,672
+práctica deliberada.
+
+163
+00:04:05,920 --> 00:04:07,277
+Pueden elegir esa actividad.
+
+164
+00:04:08,508 --> 00:04:09,844
+Pero no pueden abandonarla
+
+165
+00:04:09,844 --> 00:04:11,080
+a mitad de un compromiso,
+
+166
+00:04:11,450 --> 00:04:12,447
+solo en los puntos
+
+167
+00:04:12,447 --> 00:04:14,020
+naturales de término —
+
+168
+00:04:14,020 --> 00:04:14,677
+al final de la
+
+169
+00:04:14,677 --> 00:04:16,667
+temporada, al final del semestre.
+
+170
+00:04:17,876 --> 00:04:18,550
+Esto es lo que
+
+171
+00:04:18,550 --> 00:04:19,224
+nadie te dice:
+
+172
+00:04:19,224 --> 00:04:20,330
+el grit no se
+
+173
+00:04:20,330 --> 00:04:22,219
+construye evitando la dificultad.
+
+174
+00:04:23,448 --> 00:04:24,746
+Se construye decidiendo,
+
+175
+00:04:24,746 --> 00:04:25,800
+de antemano,
+
+176
+00:04:25,800 --> 00:04:27,417
+en qué momentos exactos
+
+177
+00:04:27,417 --> 00:04:29,054
+SÍ está permitido parar —
+
+178
+00:04:29,451 --> 00:04:30,780
+para que la dificultad
+
+179
+00:04:30,780 --> 00:04:31,454
+del día de hoy
+
+180
+00:04:31,454 --> 00:04:32,066
+no sea una de
+
+181
+00:04:32,066 --> 00:04:32,740
+esas excusas.
+
+182
+00:04:34,202 --> 00:04:35,628
+El talento abre la puerta.
+
+183
+00:04:36,863 --> 00:04:37,440
+El grit es lo
+
+184
+00:04:37,440 --> 00:04:38,478
+único que te mantiene
+
+185
+00:04:38,478 --> 00:04:39,771
+caminando después de que
+
+186
+00:04:39,771 --> 00:04:40,947
+la novedad desaparece.
+
+187
+00:04:42,148 --> 00:04:43,777
+Escribe en los comentarios
+
+188
+00:04:43,777 --> 00:04:45,297
+cuál "cosa difícil" vas
+
+189
+00:04:45,297 --> 00:04:46,331
+a sostener este mes,
+
+190
+00:04:46,331 --> 00:04:47,617
+pase lo que pase.
+
+191
+00:04:48,864 --> 00:04:49,824
+Si este video te
+
+192
+00:04:49,824 --> 00:04:52,259
+sirvió, dale like y suscríbete —
+
+193
+00:04:52,703 --> 00:04:54,046
+la disciplina no hace ruido.

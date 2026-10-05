@@ -1,0 +1,485 @@
+================================================================================
+PROJECT 18 — Por Qué la Ducha Fría Cambia Tu Disciplina
+Playlist: 01_Disciplina y Habitos
+ACCENT = #FF5A36
+================================================================================
+
+
+### ESCENA 1: EL GANCHO
+
+[FRAME S01_F001 -> images/img_001.png]
+[SHOT TYPE]: Wide shot
+[ES]: Esto no es sobre agua fría.
+[VI]: Đây không phải là về nước lạnh.
+[VISUAL DESCRIPTION]: Wide shot of a stick figure standing in a dark space, a faint shower-stream icon barely visible in the background, deliberately understated.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF5A36 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S01_F002 -> images/img_002.png]
+[SHOT TYPE]: Medium shot
+[ES]: Es sobre lo que pasa en tu cerebro los primeros treinta segundos después de que decides hacer algo incómodo a propósito,
+[VI]: Đây là về điều xảy ra trong não bạn ba mươi giây đầu tiên sau khi bạn quyết định làm điều gì đó khó chịu một cách có chủ đích,
+[VISUAL DESCRIPTION]: Medium shot of the simplified brain icon lighting up gently, a small glowing thirty-second timer icon appearing beside it.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF5A36 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S01_F003 -> images/img_003.png]
+[SHOT TYPE]: Wide shot
+[ES]: sin que nadie te obligue y sin ninguna recompensa inmediata visible,
+[VI]: mà không ai ép buộc và không có phần thưởng tức thời nào nhìn thấy được,
+[VISUAL DESCRIPTION]: Wide shot of the stick figure standing alone, no external figures or reward icons present, emphasizing the decision is entirely self-directed.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF5A36 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S01_F004 -> images/img_004.png]
+[SHOT TYPE]: Medium shot
+[ES]: y por qué ese mecanismo específico entrena tu disciplina más que casi cualquier otra cosa que hagas en el día.
+[VI]: và vì sao cơ chế cụ thể đó rèn luyện kỷ luật của bạn hơn gần như bất kỳ điều gì khác bạn làm trong ngày.
+[VISUAL DESCRIPTION]: Medium shot of a small glowing gear/training icon in #FF5A36 turning steadily beside the stick figure, suggesting an internal mechanism being trained.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF5A36 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S01_F005 -> images/img_005.png]
+[SHOT TYPE]: Wide shot
+[ES]: No es una moda pasajera de bienestar que viste en redes sociales. Es un mecanismo medible, con un nombre científico y con números concretos detrás de él.
+[VI]: Đây không phải là trào lưu thoáng qua bạn thấy trên mạng xã hội. Đó là một cơ chế đo lường được, có tên khoa học và những con số cụ thể đằng sau.
+[VISUAL DESCRIPTION]: Wide shot of a trendy phone-icon with a shower hashtag fading out, replaced by a solid glowing data-chart icon, shifting from trend to science.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF5A36 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+
+### ESCENA 2: MODULO 1 - La Noradrenalina (Petr Sramek)
+
+[FRAME S02_F006 -> images/img_006.png]
+[SHOT TYPE]: Text card / title
+[ES]: Primero, qué pasa exactamente en tu cuerpo.
+[VI]: Đầu tiên, điều gì thực sự xảy ra trong cơ thể bạn.
+[VISUAL DESCRIPTION]: Minimal title card, a simple glowing lightning-bolt icon in #FF5A36 beside a water-droplet icon, centered in dark frame.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF5A36 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S02_F007 -> images/img_007.png]
+[SHOT TYPE]: Medium shot
+[ES]: El investigador Petr Sramek y su equipo midieron los niveles de noradrenalina en personas sumergidas en agua a distintas temperaturas,
+[VI]: Nhà nghiên cứu Petr Sramek và nhóm của ông đo nồng độ noradrenaline ở những người ngâm mình trong nước ở các nhiệt độ khác nhau,
+[VISUAL DESCRIPTION]: Stick figure standing beside a glowing research-paper icon and a simple water-tank icon with a thermometer, distinct from other academic icons used in prior videos.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF5A36 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S02_F008 -> images/img_008.png]
+[SHOT TYPE]: Wide shot
+[ES]: comparando agua templada, fría y muy fría, y encontraron que la inmersión en agua fría aumentaba la noradrenalina en el cuerpo entre un 200% y un 300%,
+[VI]: so sánh nước ấm, nước lạnh và rất lạnh, và phát hiện rằng ngâm nước lạnh làm tăng noradrenaline trong cơ thể từ 200% đến 300%,
+[VISUAL DESCRIPTION]: Wide shot of three small thermometer icons (warm, cold, very cold) each connected to a rising bar-graph, the cold one's bar shown dramatically taller in #FF5A36.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF5A36 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S02_F009 -> images/img_009.png]
+[SHOT TYPE]: Medium shot
+[ES]: muy por encima de lo que producía el agua templada, sin necesidad de una inmersión prolongada ni extrema.
+[VI]: vượt xa nhiều so với nước ấm tạo ra, mà không cần ngâm lâu hay ở mức cực đoan.
+[VISUAL DESCRIPTION]: Medium shot of a small clock icon showing only a brief duration, the tall cold-water bar-graph still shown prominently despite the short time.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF5A36 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S02_F010 -> images/img_010.png]
+[SHOT TYPE]: Medium shot
+[ES]: Presta atención a esto: la noradrenalina no es solo una hormona del estrés.
+[VI]: Chú ý điều này: noradrenaline không chỉ là hormone căng thẳng.
+[VISUAL DESCRIPTION]: Medium shot of a small hormone-molecule icon shown next to a stress-label icon which then dims, making room for other labels.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF5A36 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S02_F011 -> images/img_011.png]
+[SHOT TYPE]: Wide shot
+[ES]: También está directamente relacionada con la atención, el estado de alerta y el estado de ánimo —
+[VI]: Nó còn liên quan trực tiếp đến sự chú ý, trạng thái tỉnh táo và tâm trạng
+[VISUAL DESCRIPTION]: Wide shot of the same hormone-molecule icon now connected by glowing #FF5A36 lines to three small icons: an eye (atención), a lightning bolt (alerta), and a mood-face (ánimo).
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF5A36 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S02_F012 -> images/img_012.png]
+[SHOT TYPE]: Wide shot
+[ES]: y ese aumento ocurre en segundos, no después de meses de práctica ni de ninguna adaptación especial previa.
+[VI]: và sự gia tăng đó xảy ra trong vài giây, không phải sau nhiều tháng luyện tập hay bất kỳ sự thích nghi đặc biệt nào trước đó.
+[VISUAL DESCRIPTION]: Wide shot of a small stopwatch icon ticking just a few seconds, the tall cold-water bar-graph already fully risen by the time it stops.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF5A36 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+
+### ESCENA 3: MODULO 2 - El Animo (Nikolai Shevchuk)
+
+[FRAME S03_F013 -> images/img_013.png]
+[SHOT TYPE]: Text card / title
+[ES]: Segundo, por qué esto podría afectar tu ánimo, no solo tu energía.
+[VI]: Thứ hai, vì sao điều này có thể ảnh hưởng đến tâm trạng, không chỉ năng lượng.
+[VISUAL DESCRIPTION]: Minimal title card, a simple mood-face icon shifting from neutral to slightly brighter, centered in dark frame.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF5A36 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S03_F014 -> images/img_014.png]
+[SHOT TYPE]: Medium shot
+[ES]: El médico Nikolai Shevchuk publicó una hipótesis en la revista científica Medical Hypotheses
+[VI]: Bác sĩ Nikolai Shevchuk công bố một giả thuyết trên tạp chí khoa học Medical Hypotheses
+[VISUAL DESCRIPTION]: Stick figure standing beside a distinct glowing medical-journal icon, different silhouette from the research-paper icon used in Módulo 1.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF5A36 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S03_F015 -> images/img_015.png]
+[SHOT TYPE]: Wide shot
+[ES]: proponiendo que las duchas frías, aplicadas de forma gradual y controlada, podían funcionar como un tratamiento complementario para síntomas depresivos,
+[VI]: đề xuất rằng tắm nước lạnh, áp dụng dần dần và có kiểm soát, có thể hoạt động như một liệu pháp hỗ trợ cho triệu chứng trầm cảm,
+[VISUAL DESCRIPTION]: Wide shot of a gradually rising shower-temperature dial icon (from warm toward cold, step by step) connected by a #FF5A36 line to a mood-face icon slowly brightening.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF5A36 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S03_F016 -> images/img_016.png]
+[SHOT TYPE]: Medium shot
+[ES]: precisamente por este mismo mecanismo: la activación intensa del sistema nervioso simpático y la liberación de noradrenalina y endorfinas,
+[VI]: chính xác nhờ cơ chế tương tự: sự kích hoạt mạnh mẽ hệ thần kinh giao cảm và giải phóng noradrenaline cùng endorphin,
+[VISUAL DESCRIPTION]: Medium shot of a simplified nervous-system icon lighting up intensely, two small molecule icons (noradrenalina, endorfinas) glowing beside it.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF5A36 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S03_F017 -> images/img_017.png]
+[SHOT TYPE]: Wide shot
+[ES]: un patrón bioquímico similar al que producen ciertos antidepresivos, aunque por una vía completamente distinta.
+[VI]: một khuôn mẫu sinh hóa tương tự một số thuốc chống trầm cảm tạo ra, dù qua con đường hoàn toàn khác.
+[VISUAL DESCRIPTION]: Wide shot of two separate glowing paths both leading toward the same brightened mood-face icon — one path from a small pill icon, one from the shower-temperature dial — visually distinct but converging.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF5A36 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S03_F018 -> images/img_018.png]
+[SHOT TYPE]: Medium shot
+[ES]: Aquí está la clave: no se trata de una sensación agradable durante la ducha, que casi nunca lo es.
+[VI]: Đây là điểm mấu chốt: không phải là cảm giác dễ chịu trong lúc tắm, vì hầu như không bao giờ như vậy.
+[VISUAL DESCRIPTION]: Medium shot of the stick figure under the cold stream with a visibly uncomfortable expression, not a pleasant one, honest depiction.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF5A36 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S03_F019 -> images/img_019.png]
+[SHOT TYPE]: Wide shot
+[ES]: Se trata de lo que tu cerebro hace inmediatamente después, cuando ya saliste, te secaste, y el cuerpo sigue procesando esa activación durante varios minutos más.
+[VI]: Mà là điều não bạn làm ngay sau đó, khi bạn đã ra khỏi vòi sen, lau khô người, và cơ thể vẫn tiếp tục xử lý sự kích hoạt đó thêm vài phút nữa.
+[VISUAL DESCRIPTION]: Wide shot of the stick figure now dry and dressed, standing calm and alert, the nervous-system icon still glowing steadily in #FF5A36, a small lingering-time icon beside it.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF5A36 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+
+### ESCENA 4: MODULO 3 - La Conexion con la Disciplina
+
+[FRAME S04_F020 -> images/img_020.png]
+[SHOT TYPE]: Text card / title
+[ES]: Tercero, y esto es lo que realmente conecta esto con la disciplina.
+[VI]: Thứ ba, và đây là điều thực sự kết nối điều này với kỷ luật.
+[VISUAL DESCRIPTION]: Minimal title card, the shower-stream icon connected by a glowing #FF5A36 link to a small gear/training icon representing discipline.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF5A36 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S04_F021 -> images/img_021.png]
+[SHOT TYPE]: Wide shot
+[ES]: El valor de la ducha fría no está principalmente en la temperatura del agua.
+[VI]: Giá trị của việc tắm nước lạnh không chủ yếu nằm ở nhiệt độ nước.
+[VISUAL DESCRIPTION]: Wide shot of the thermometer icon from Módulo 1 shown dimmed and de-emphasized, pushed to the side of the frame.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF5A36 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S04_F022 -> images/img_022.png]
+[SHOT TYPE]: Medium shot
+[ES]: Está en que es una de las formas más simples y accesibles de practicar, todos los días, la decisión consciente de hacer algo incómodo cuando cada parte de tu cuerpo te está pidiendo que no lo hagas.
+[VI]: Mà nằm ở chỗ đây là một trong những cách đơn giản và dễ tiếp cận nhất để luyện tập, mỗi ngày, quyết định có ý thức làm điều khó chịu khi mọi phần cơ thể đang bảo bạn đừng làm.
+[VISUAL DESCRIPTION]: Medium shot of the stick figure's hand reaching toward the shower handle while a faint resistance-icon (a small pulling-back arrow) tugs the other way, hand still moving forward.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF5A36 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S04_F023 -> images/img_023.png]
+[SHOT TYPE]: Wide shot
+[ES]: Esto es lo que nadie te dice: cada vez que giras la llave hacia el agua fría a pesar de la resistencia interna,
+[VI]: Đây là điều không ai nói với bạn: mỗi lần bạn vặn vòi sang nước lạnh bất chấp sự kháng cự bên trong,
+[VISUAL DESCRIPTION]: Wide shot of the hand turning the shower handle fully toward cold, the resistance-arrow icon fading as the action completes.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF5A36 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S04_F024 -> images/img_024.png]
+[SHOT TYPE]: Medium shot
+[ES]: estás entrenando literalmente el mismo circuito de "decidir a pesar de la incomodidad" que después vas a necesitar para levantarte temprano, terminar un trabajo difícil o mantener un compromiso cuando ya no tienes ganas.
+[VI]: bạn đang thực sự rèn luyện đúng mạch "quyết định bất chấp khó chịu" mà sau này bạn sẽ cần để dậy sớm, hoàn thành công việc khó, hoặc giữ cam kết khi không còn muốn nữa.
+[VISUAL DESCRIPTION]: Medium shot of the gear/training icon from the title card now glowing brighter in #FF5A36, connected by branching lines to three small icons: an alarm clock, a document, and a handshake.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF5A36 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+
+### ESCENA 5: MODULO 4 - Por Que la Mayoria Abandona
+
+[FRAME S05_F025 -> images/img_025.png]
+[SHOT TYPE]: Text card / title
+[ES]: Y cuarto, por qué la mayoría de las personas que lo intentan lo abandonan en la primera semana.
+[VI]: Và thứ tư, vì sao hầu hết những người thử đều bỏ cuộc trong tuần đầu tiên.
+[VISUAL DESCRIPTION]: Minimal title card, a calendar strip showing seven days, the first few days marked with a small warning icon.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF5A36 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S05_F026 -> images/img_026.png]
+[SHOT TYPE]: Wide shot
+[ES]: Empiezan con agua completamente fría desde el primer día, en pleno invierno, durante diez minutos completos,
+[VI]: Họ bắt đầu với nước hoàn toàn lạnh ngay từ ngày đầu, giữa mùa đông, trong trọn mười phút,
+[VISUAL DESCRIPTION]: Wide shot of the stick figure standing under an intense, fully cold shower stream from the very first calendar tile, a ten-minute timer icon shown at full duration.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF5A36 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S05_F027 -> images/img_027.png]
+[SHOT TYPE]: Medium shot
+[ES]: sienten el impacto más intenso posible desde el primer segundo, y deciden que esto "no es para ellos" antes de darle una segunda oportunidad.
+[VI]: cảm nhận cú sốc mạnh nhất có thể ngay từ giây đầu tiên, và quyết định rằng điều này "không hợp với mình" trước khi cho nó cơ hội thứ hai.
+[VISUAL DESCRIPTION]: Medium shot of the stick figure recoiling sharply, a large shock-icon flashing, then walking away from the shower entirely, calendar strip stopping abruptly at day one.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF5A36 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S05_F028 -> images/img_028.png]
+[SHOT TYPE]: Wide shot
+[ES]: Pero espera, todavía hay más: la adaptación gradual — empezar con los últimos treinta segundos de una ducha normal en frío, no la ducha completa desde el inicio —
+[VI]: Nhưng khoan đã, còn nữa: thích nghi dần dần — bắt đầu với ba mươi giây cuối của một lần tắm bình thường chuyển sang lạnh, không phải toàn bộ buổi tắm ngay từ đầu —
+[VISUAL DESCRIPTION]: Wide shot of a normal warm-shower icon transitioning smoothly into a small #FF5A36 cold segment only at the very end, gentle and short, contrasting with the abrupt full-cold shower from before.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF5A36 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S05_F029 -> images/img_029.png]
+[SHOT TYPE]: Wide shot
+[ES]: es lo que permite sostener el hábito el tiempo suficiente para que se vuelva automático, en lugar de convertirlo en una prueba de sufrimiento extremo que abandonas apenas puedes justificar dejarlo.
+[VI]: chính là điều giúp duy trì thói quen đủ lâu để nó trở thành tự động, thay vì biến nó thành một bài kiểm tra chịu đựng cực độ mà bạn bỏ ngay khi có thể biện minh được.
+[VISUAL DESCRIPTION]: Wide shot of the calendar strip now advancing smoothly through many days with the gradual thirty-second cold segment repeating consistently, no abandonment icon appearing this time.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF5A36 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+
+### ESCENA 6: EL CIERRE
+
+[FRAME S06_F030 -> images/img_030.png]
+[SHOT TYPE]: Wide shot
+[ES]: No necesitas convertirte en un atleta del frío extremo, ni tolerar temperaturas heladas durante minutos enteros para obtener el beneficio.
+[VI]: Bạn không cần trở thành vận động viên chịu lạnh cực đoan, cũng không cần chịu nhiệt độ băng giá suốt nhiều phút để nhận được lợi ích.
+[VISUAL DESCRIPTION]: Wide shot of an exaggerated extreme-ice-bath icon shown crossed out, replaced by the simple thirty-second timer icon from earlier.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF5A36 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S06_F031 -> images/img_031.png]
+[SHOT TYPE]: Medium shot
+[ES]: Necesitas treinta segundos, todos los días, de decidir algo incómodo antes de que tu mente termine de justificar por qué no deberías hacerlo hoy tampoco.
+[VI]: Bạn cần ba mươi giây, mỗi ngày, để quyết định điều gì đó khó chịu trước khi tâm trí kịp biện minh vì sao hôm nay cũng không nên làm.
+[VISUAL DESCRIPTION]: Medium shot of the stick figure's hand reaching toward the shower handle again, the thirty-second timer glowing steadily in #FF5A36, no hesitation this time.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF5A36 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S06_F032 -> images/img_032.png]
+[SHOT TYPE]: Direct address
+[ES]: Escribe en los comentarios si te animas a probarlo mañana en la mañana, y cuéntanos cuántos segundos aguantaste realmente, sin exagerar el número.
+[VI]: Hãy viết ở phần bình luận nếu bạn dám thử vào sáng mai, và cho biết bạn thực sự chịu được bao nhiêu giây, đừng phóng đại con số.
+[VISUAL DESCRIPTION]: Direct-address medium shot of the stick figure gesturing toward the viewer, a small glowing comment-bubble icon appearing beside the timer icon.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF5A36 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.
+
+[FRAME S06_F033 -> images/img_033.png]
+[SHOT TYPE]: Wide shot
+[ES]: Si este video te sirvió, dale like y suscríbete — la disciplina no hace ruido, ni siquiera bajo agua fría.
+[VI]: Nếu video này hữu ích, hãy nhấn thích và đăng ký — kỷ luật không ồn ào, kể cả dưới dòng nước lạnh.
+[VISUAL DESCRIPTION]: Final wide shot of the stick figure standing calm and alert under the cold stream without flinching, small subscribe-bell and thumbs-up icons glowing softly in #FF5A36 in the corner.
+[STYLE RULES - DO NOT MODIFY]
+Dark stick-figure illustration style, minimalist, high-contrast, solid
+dark background (#0B0B0C), single accent color #FF5A36 used sparingly
+for emphasis objects/highlights only, thin clean white/light-gray line
+work for the stick figure, no facial detail beyond simple expression
+lines, no text baked into the image, no watermark, no signature, 16:9
+frame, cinematic rim lighting, consistent character proportions across
+all frames.

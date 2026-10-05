@@ -1,0 +1,4055 @@
+[
+ {
+  "id": "S01_F001",
+  "scene": "EL GANCHO",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Cualquiera puede decir que quiere más disciplina.",
+  "visual": "Figure stands casually, a faint speech-bubble icon with the word-shape \"disciplina\" floats lightly, easy and unchallenged.",
+  "start": 0.0,
+  "end": 3.074,
+  "words": [
+   {
+    "word": "Cualquiera",
+    "start": 0.252,
+    "end": 0.803
+   },
+   {
+    "word": "puede",
+    "start": 0.803,
+    "end": 1.038
+   },
+   {
+    "word": "decir",
+    "start": 1.038,
+    "end": 1.343
+   },
+   {
+    "word": "que",
+    "start": 1.343,
+    "end": 1.484
+   },
+   {
+    "word": "quiere",
+    "start": 1.484,
+    "end": 1.766
+   },
+   {
+    "word": "más",
+    "start": 1.766,
+    "end": 1.907
+   },
+   {
+    "word": "disciplina.",
+    "start": 1.907,
+    "end": 2.46
+   }
+  ]
+ },
+ {
+  "id": "S01_F002",
+  "scene": "EL GANCHO",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Muy pocos están dispuestos a ponerla a prueba de verdad,",
+  "visual": "The speech bubble icon is replaced by a faint glowing mountain-peak silhouette, figure's posture becomes more serious.",
+  "start": 3.074,
+  "end": 6.738,
+  "words": [
+   {
+    "word": "Muy",
+    "start": 3.688,
+    "end": 3.853
+   },
+   {
+    "word": "pocos",
+    "start": 3.853,
+    "end": 4.203
+   },
+   {
+    "word": "están",
+    "start": 4.203,
+    "end": 4.478
+   },
+   {
+    "word": "dispuestos",
+    "start": 4.478,
+    "end": 5.11
+   },
+   {
+    "word": "a",
+    "start": 5.11,
+    "end": 5.165
+   },
+   {
+    "word": "ponerla",
+    "start": 5.165,
+    "end": 5.632
+   },
+   {
+    "word": "a",
+    "start": 5.632,
+    "end": 5.687
+   },
+   {
+    "word": "prueba",
+    "start": 5.687,
+    "end": 6.1
+   },
+   {
+    "word": "de",
+    "start": 6.1,
+    "end": 6.21
+   },
+   {
+    "word": "verdad,",
+    "start": 6.21,
+    "end": 6.54
+   }
+  ]
+ },
+ {
+  "id": "S01_F003",
+  "scene": "EL GANCHO",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "sin escapatoria, sin excusas, sin poder rendirse a mitad de camino sin darse cuenta.",
+  "visual": "Close-up, resolute expression, faint ghost-outline exit-doors fade closed one by one around the figure.",
+  "start": 6.738,
+  "end": 13.183,
+  "words": [
+   {
+    "word": "sin",
+    "start": 6.935,
+    "end": 7.131
+   },
+   {
+    "word": "escapatoria,",
+    "start": 7.131,
+    "end": 7.935
+   },
+   {
+    "word": "sin",
+    "start": 7.935,
+    "end": 8.52
+   },
+   {
+    "word": "excusas,",
+    "start": 8.52,
+    "end": 8.977
+   },
+   {
+    "word": "sin",
+    "start": 8.977,
+    "end": 9.173
+   },
+   {
+    "word": "poder",
+    "start": 9.173,
+    "end": 9.853
+   },
+   {
+    "word": "rendirse",
+    "start": 9.853,
+    "end": 10.376
+   },
+   {
+    "word": "a",
+    "start": 10.376,
+    "end": 10.441
+   },
+   {
+    "word": "mitad",
+    "start": 10.441,
+    "end": 10.768
+   },
+   {
+    "word": "de",
+    "start": 10.768,
+    "end": 10.982
+   },
+   {
+    "word": "camino",
+    "start": 10.982,
+    "end": 11.445
+   },
+   {
+    "word": "sin",
+    "start": 11.445,
+    "end": 11.641
+   },
+   {
+    "word": "darse",
+    "start": 11.641,
+    "end": 11.968
+   },
+   {
+    "word": "cuenta.",
+    "start": 11.968,
+    "end": 12.434
+   }
+  ]
+ },
+ {
+  "id": "S02_F004",
+  "scene": "LA PROMESA",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Hoy te muestro 5 retos que casi nadie se atreve siquiera a intentar —",
+  "visual": "Five small glowing numbered markers arrange themselves in a steady arc beside the figure, calm explanatory posture.",
+  "start": 13.183,
+  "end": 17.699,
+  "words": [
+   {
+    "word": "Hoy",
+    "start": 13.804,
+    "end": 13.996
+   },
+   {
+    "word": "te",
+    "start": 13.996,
+    "end": 14.124
+   },
+   {
+    "word": "muestro",
+    "start": 14.124,
+    "end": 14.573
+   },
+   {
+    "word": "5",
+    "start": 14.573,
+    "end": 14.638
+   },
+   {
+    "word": "retos",
+    "start": 14.638,
+    "end": 14.958
+   },
+   {
+    "word": "que",
+    "start": 14.958,
+    "end": 15.151
+   },
+   {
+    "word": "casi",
+    "start": 15.151,
+    "end": 15.407
+   },
+   {
+    "word": "nadie",
+    "start": 15.407,
+    "end": 15.728
+   },
+   {
+    "word": "se",
+    "start": 15.728,
+    "end": 15.856
+   },
+   {
+    "word": "atreve",
+    "start": 15.856,
+    "end": 16.241
+   },
+   {
+    "word": "siquiera",
+    "start": 16.241,
+    "end": 16.754
+   },
+   {
+    "word": "a",
+    "start": 16.754,
+    "end": 16.818
+   },
+   {
+    "word": "intentar",
+    "start": 16.818,
+    "end": 17.411
+   },
+   {
+    "word": "—",
+    "start": 17.411,
+    "end": 17.475
+   }
+  ]
+ },
+ {
+  "id": "S02_F005",
+  "scene": "LA PROMESA",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "no porque sean físicamente imposibles, sino porque exponen exactamente lo incómodos que nos sentimos",
+  "visual": "A faint ghost-outline muscle/strength icon is gently set aside, replaced by a small uneasy thought-bubble instead.",
+  "start": 17.699,
+  "end": 22.532,
+  "words": [
+   {
+    "word": "no",
+    "start": 17.923,
+    "end": 18.014
+   },
+   {
+    "word": "porque",
+    "start": 18.014,
+    "end": 18.357
+   },
+   {
+    "word": "sean",
+    "start": 18.357,
+    "end": 18.539
+   },
+   {
+    "word": "físicamente",
+    "start": 18.539,
+    "end": 19.039
+   },
+   {
+    "word": "imposibles,",
+    "start": 19.039,
+    "end": 19.493
+   },
+   {
+    "word": "sino",
+    "start": 19.493,
+    "end": 19.674
+   },
+   {
+    "word": "porque",
+    "start": 19.674,
+    "end": 19.947
+   },
+   {
+    "word": "exponen",
+    "start": 19.947,
+    "end": 20.671
+   },
+   {
+    "word": "exactamente",
+    "start": 20.671,
+    "end": 21.171
+   },
+   {
+    "word": "lo",
+    "start": 21.171,
+    "end": 21.341
+   },
+   {
+    "word": "incómodos",
+    "start": 21.341,
+    "end": 21.75
+   },
+   {
+    "word": "que",
+    "start": 21.75,
+    "end": 21.997
+   },
+   {
+    "word": "nos",
+    "start": 21.997,
+    "end": 22.133
+   },
+   {
+    "word": "sentimos",
+    "start": 22.133,
+    "end": 22.496
+   }
+  ]
+ },
+ {
+  "id": "S02_F006",
+  "scene": "LA PROMESA",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "sin nuestras muletas de todos los días.",
+  "visual": "Close-up, a faint glowing crutch-shaped icon (representing daily comforts/distractions) is gently pulled away from the figure.",
+  "start": 22.532,
+  "end": 26.351,
+  "words": [
+   {
+    "word": "sin",
+    "start": 22.569,
+    "end": 22.843
+   },
+   {
+    "word": "nuestras",
+    "start": 22.843,
+    "end": 23.575
+   },
+   {
+    "word": "muletas",
+    "start": 23.575,
+    "end": 24.215
+   },
+   {
+    "word": "de",
+    "start": 24.215,
+    "end": 24.398
+   },
+   {
+    "word": "todos",
+    "start": 24.398,
+    "end": 25.031
+   },
+   {
+    "word": "los",
+    "start": 25.031,
+    "end": 25.384
+   },
+   {
+    "word": "días.",
+    "start": 25.384,
+    "end": 25.75
+   }
+  ]
+ },
+ {
+  "id": "S02_F007",
+  "scene": "LA PROMESA",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Al final, dime en los comentarios cuál de los cinco crees que podrías completar de verdad.",
+  "visual": "Figure gestures toward the five glowing numbered markers, inviting open posture, warm steady light.",
+  "start": 26.351,
+  "end": 32.469,
+  "words": [
+   {
+    "word": "Al",
+    "start": 26.953,
+    "end": 27.072
+   },
+   {
+    "word": "final,",
+    "start": 27.072,
+    "end": 27.368
+   },
+   {
+    "word": "dime",
+    "start": 27.368,
+    "end": 27.932
+   },
+   {
+    "word": "en",
+    "start": 27.932,
+    "end": 28.05
+   },
+   {
+    "word": "los",
+    "start": 28.05,
+    "end": 28.228
+   },
+   {
+    "word": "comentarios",
+    "start": 28.228,
+    "end": 28.88
+   },
+   {
+    "word": "cuál",
+    "start": 28.88,
+    "end": 29.21
+   },
+   {
+    "word": "de",
+    "start": 29.21,
+    "end": 29.328
+   },
+   {
+    "word": "los",
+    "start": 29.328,
+    "end": 29.506
+   },
+   {
+    "word": "cinco",
+    "start": 29.506,
+    "end": 29.803
+   },
+   {
+    "word": "crees",
+    "start": 29.803,
+    "end": 30.099
+   },
+   {
+    "word": "que",
+    "start": 30.099,
+    "end": 30.277
+   },
+   {
+    "word": "podrías",
+    "start": 30.277,
+    "end": 30.692
+   },
+   {
+    "word": "completar",
+    "start": 30.692,
+    "end": 31.296
+   },
+   {
+    "word": "de",
+    "start": 31.296,
+    "end": 31.415
+   },
+   {
+    "word": "verdad.",
+    "start": 31.415,
+    "end": 31.852
+   }
+  ]
+ },
+ {
+  "id": "S03_F008",
+  "scene": "RETO 1 — 24 Horas de Silencio Absoluto",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Reto uno: 24 horas de silencio absoluto.",
+  "visual": "Figure sits alone in a quiet dark space, a large glowing number \"1\" beside them, calm still posture.",
+  "start": 32.469,
+  "end": 36.986,
+  "words": [
+   {
+    "word": "Reto",
+    "start": 33.086,
+    "end": 33.487
+   },
+   {
+    "word": "uno:",
+    "start": 33.487,
+    "end": 33.735
+   },
+   {
+    "word": "24",
+    "start": 33.735,
+    "end": 34.262
+   },
+   {
+    "word": "horas",
+    "start": 34.262,
+    "end": 34.753
+   },
+   {
+    "word": "de",
+    "start": 34.753,
+    "end": 34.918
+   },
+   {
+    "word": "silencio",
+    "start": 34.918,
+    "end": 35.579
+   },
+   {
+    "word": "absoluto.",
+    "start": 35.579,
+    "end": 36.241
+   }
+  ]
+ },
+ {
+  "id": "S03_F009",
+  "scene": "RETO 1 — 24 Horas de Silencio Absoluto",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "No hablar, no escuchar música, no podcasts, ningún ruido de fondo mientras haces otra cosa.",
+  "visual": "Small faint icons (a speech bubble, a musical note, a podcast microphone) each fade out one by one around the figure.",
+  "start": 36.986,
+  "end": 44.085,
+  "words": [
+   {
+    "word": "No",
+    "start": 37.619,
+    "end": 37.738
+   },
+   {
+    "word": "hablar,",
+    "start": 37.738,
+    "end": 38.096
+   },
+   {
+    "word": "no",
+    "start": 38.096,
+    "end": 38.619
+   },
+   {
+    "word": "escuchar",
+    "start": 38.619,
+    "end": 39.096
+   },
+   {
+    "word": "música,",
+    "start": 39.096,
+    "end": 39.529
+   },
+   {
+    "word": "no",
+    "start": 39.529,
+    "end": 39.649
+   },
+   {
+    "word": "podcasts,",
+    "start": 39.649,
+    "end": 40.598
+   },
+   {
+    "word": "ningún",
+    "start": 40.598,
+    "end": 41.437
+   },
+   {
+    "word": "ruido",
+    "start": 41.437,
+    "end": 41.735
+   },
+   {
+    "word": "de",
+    "start": 41.735,
+    "end": 41.855
+   },
+   {
+    "word": "fondo",
+    "start": 41.855,
+    "end": 42.153
+   },
+   {
+    "word": "mientras",
+    "start": 42.153,
+    "end": 42.631
+   },
+   {
+    "word": "haces",
+    "start": 42.631,
+    "end": 42.929
+   },
+   {
+    "word": "otra",
+    "start": 42.929,
+    "end": 43.168
+   },
+   {
+    "word": "cosa.",
+    "start": 43.168,
+    "end": 43.493
+   }
+  ]
+ },
+ {
+  "id": "S03_F010",
+  "scene": "RETO 1 — 24 Horas de Silencio Absoluto",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Suena simple hasta que lo intentas.",
+  "visual": "Close-up, calm confident expression shifting slightly to unease as the silence stretches on.",
+  "start": 44.085,
+  "end": 47.204,
+  "words": [
+   {
+    "word": "Suena",
+    "start": 44.676,
+    "end": 44.976
+   },
+   {
+    "word": "simple",
+    "start": 44.976,
+    "end": 45.335
+   },
+   {
+    "word": "hasta",
+    "start": 45.335,
+    "end": 45.635
+   },
+   {
+    "word": "que",
+    "start": 45.635,
+    "end": 45.815
+   },
+   {
+    "word": "lo",
+    "start": 45.815,
+    "end": 45.934
+   },
+   {
+    "word": "intentas.",
+    "start": 45.934,
+    "end": 46.594
+   }
+  ]
+ },
+ {
+  "id": "S03_F011",
+  "scene": "RETO 1 — 24 Horas de Silencio Absoluto",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Presta atención a esto: la mayoría de las personas llenan cada silencio posible sin notarlo —",
+  "visual": "Faint ghost-outline scenes flicker briefly around the figure: a car, a shower, a walk, each filled with small sound-wave icons.",
+  "start": 47.204,
+  "end": 53.213,
+  "words": [
+   {
+    "word": "Presta",
+    "start": 47.814,
+    "end": 48.166
+   },
+   {
+    "word": "atención",
+    "start": 48.166,
+    "end": 48.636
+   },
+   {
+    "word": "a",
+    "start": 48.636,
+    "end": 48.694
+   },
+   {
+    "word": "esto:",
+    "start": 48.694,
+    "end": 48.929
+   },
+   {
+    "word": "la",
+    "start": 48.929,
+    "end": 49.047
+   },
+   {
+    "word": "mayoría",
+    "start": 49.047,
+    "end": 49.928
+   },
+   {
+    "word": "de",
+    "start": 49.928,
+    "end": 50.046
+   },
+   {
+    "word": "las",
+    "start": 50.046,
+    "end": 50.222
+   },
+   {
+    "word": "personas",
+    "start": 50.222,
+    "end": 50.768
+   },
+   {
+    "word": "llenan",
+    "start": 50.768,
+    "end": 51.12
+   },
+   {
+    "word": "cada",
+    "start": 51.12,
+    "end": 51.355
+   },
+   {
+    "word": "silencio",
+    "start": 51.355,
+    "end": 51.825
+   },
+   {
+    "word": "posible",
+    "start": 51.825,
+    "end": 52.317
+   },
+   {
+    "word": "sin",
+    "start": 52.317,
+    "end": 52.493
+   },
+   {
+    "word": "notarlo",
+    "start": 52.493,
+    "end": 52.996
+   },
+   {
+    "word": "—",
+    "start": 52.996,
+    "end": 53.055
+   }
+  ]
+ },
+ {
+  "id": "S03_F012",
+  "scene": "RETO 1 — 24 Horas de Silencio Absoluto",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "el auto, la ducha, caminar hasta la parada del autobús.",
+  "visual": "The three faint ghost-outline scenes settle into place around the figure, each one quietly noisy in the memory.",
+  "start": 53.213,
+  "end": 57.713,
+  "words": [
+   {
+    "word": "el",
+    "start": 53.371,
+    "end": 53.491
+   },
+   {
+    "word": "auto,",
+    "start": 53.491,
+    "end": 53.838
+   },
+   {
+    "word": "la",
+    "start": 53.838,
+    "end": 54.384
+   },
+   {
+    "word": "ducha,",
+    "start": 54.384,
+    "end": 54.683
+   },
+   {
+    "word": "caminar",
+    "start": 54.683,
+    "end": 55.445
+   },
+   {
+    "word": "hasta",
+    "start": 55.445,
+    "end": 55.744
+   },
+   {
+    "word": "la",
+    "start": 55.744,
+    "end": 55.864
+   },
+   {
+    "word": "parada",
+    "start": 55.864,
+    "end": 56.313
+   },
+   {
+    "word": "del",
+    "start": 56.313,
+    "end": 56.493
+   },
+   {
+    "word": "autobús.",
+    "start": 56.493,
+    "end": 57.102
+   }
+  ]
+ },
+ {
+  "id": "S03_F013",
+  "scene": "RETO 1 — 24 Horas de Silencio Absoluto",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Este reto no te quita el sonido.",
+  "visual": "Close-up, a faint sound-wave icon remains gently visible but untouched, not the focus of the challenge.",
+  "start": 57.713,
+  "end": 60.686,
+  "words": [
+   {
+    "word": "Este",
+    "start": 58.325,
+    "end": 58.602
+   },
+   {
+    "word": "reto",
+    "start": 58.602,
+    "end": 58.88
+   },
+   {
+    "word": "no",
+    "start": 58.88,
+    "end": 59.019
+   },
+   {
+    "word": "te",
+    "start": 59.019,
+    "end": 59.157
+   },
+   {
+    "word": "quita",
+    "start": 59.157,
+    "end": 59.504
+   },
+   {
+    "word": "el",
+    "start": 59.504,
+    "end": 59.643
+   },
+   {
+    "word": "sonido.",
+    "start": 59.643,
+    "end": 60.059
+   }
+  ]
+ },
+ {
+  "id": "S03_F014",
+  "scene": "RETO 1 — 24 Horas de Silencio Absoluto",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Te quita la posibilidad de distraerte de tus propios pensamientos,",
+  "visual": "A faint glowing thought-bubble above the figure's head grows steadily larger and more present, impossible to look away from.",
+  "start": 60.686,
+  "end": 64.979,
+  "words": [
+   {
+    "word": "Te",
+    "start": 61.312,
+    "end": 61.423
+   },
+   {
+    "word": "quita",
+    "start": 61.423,
+    "end": 61.701
+   },
+   {
+    "word": "la",
+    "start": 61.701,
+    "end": 61.812
+   },
+   {
+    "word": "posibilidad",
+    "start": 61.812,
+    "end": 62.422
+   },
+   {
+    "word": "de",
+    "start": 62.422,
+    "end": 62.533
+   },
+   {
+    "word": "distraerte",
+    "start": 62.533,
+    "end": 63.168
+   },
+   {
+    "word": "de",
+    "start": 63.168,
+    "end": 63.279
+   },
+   {
+    "word": "tus",
+    "start": 63.279,
+    "end": 63.601
+   },
+   {
+    "word": "propios",
+    "start": 63.601,
+    "end": 64.063
+   },
+   {
+    "word": "pensamientos,",
+    "start": 64.063,
+    "end": 64.801
+   }
+  ]
+ },
+ {
+  "id": "S03_F015",
+  "scene": "RETO 1 — 24 Horas de Silencio Absoluto",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "y eso, para la mayoría, es más difícil que cualquier esfuerzo físico.",
+  "visual": "Close-up, figure sits with the large glowing thought-bubble fully present, uneasy but not looking away, quiet resolve forming.",
+  "start": 64.979,
+  "end": 70.192,
+  "words": [
+   {
+    "word": "y",
+    "start": 65.157,
+    "end": 65.22
+   },
+   {
+    "word": "eso,",
+    "start": 65.22,
+    "end": 65.409
+   },
+   {
+    "word": "para",
+    "start": 65.409,
+    "end": 66.046
+   },
+   {
+    "word": "la",
+    "start": 66.046,
+    "end": 66.172
+   },
+   {
+    "word": "mayoría,",
+    "start": 66.172,
+    "end": 66.612
+   },
+   {
+    "word": "es",
+    "start": 66.612,
+    "end": 66.738
+   },
+   {
+    "word": "más",
+    "start": 66.738,
+    "end": 67.313
+   },
+   {
+    "word": "difícil",
+    "start": 67.313,
+    "end": 67.754
+   },
+   {
+    "word": "que",
+    "start": 67.754,
+    "end": 68.031
+   },
+   {
+    "word": "cualquier",
+    "start": 68.031,
+    "end": 68.597
+   },
+   {
+    "word": "esfuerzo",
+    "start": 68.597,
+    "end": 69.1
+   },
+   {
+    "word": "físico.",
+    "start": 69.1,
+    "end": 69.577
+   }
+  ]
+ },
+ {
+  "id": "S04_F016",
+  "scene": "RETO 2 — 48 Horas de Soledad Deliberada",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Reto dos: 48 horas de soledad deliberada, sin ver a nadie, sin llamadas,",
+  "visual": "Figure alone in an empty room, a large glowing number \"2\" beside them, faint ghost-outline silhouettes of other people fading away outside.",
+  "start": 70.192,
+  "end": 76.822,
+  "words": [
+   {
+    "word": "Reto",
+    "start": 70.808,
+    "end": 71.145
+   },
+   {
+    "word": "dos:",
+    "start": 71.145,
+    "end": 71.397
+   },
+   {
+    "word": "48",
+    "start": 71.397,
+    "end": 71.566
+   },
+   {
+    "word": "horas",
+    "start": 71.566,
+    "end": 72.3
+   },
+   {
+    "word": "de",
+    "start": 72.3,
+    "end": 72.468
+   },
+   {
+    "word": "soledad",
+    "start": 72.468,
+    "end": 73.057
+   },
+   {
+    "word": "deliberada,",
+    "start": 73.057,
+    "end": 73.899
+   },
+   {
+    "word": "sin",
+    "start": 73.899,
+    "end": 74.152
+   },
+   {
+    "word": "ver",
+    "start": 74.152,
+    "end": 74.809
+   },
+   {
+    "word": "a",
+    "start": 74.809,
+    "end": 74.893
+   },
+   {
+    "word": "nadie,",
+    "start": 74.893,
+    "end": 75.314
+   },
+   {
+    "word": "sin",
+    "start": 75.314,
+    "end": 75.963
+   },
+   {
+    "word": "llamadas,",
+    "start": 75.963,
+    "end": 76.637
+   }
+  ]
+ },
+ {
+  "id": "S04_F017",
+  "scene": "RETO 2 — 48 Horas de Soledad Deliberada",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "sin mensajes que no sean absolutamente necesarios.",
+  "visual": "A faint glowing phone icon sits untouched and quiet on a surface nearby, screen dim.",
+  "start": 76.822,
+  "end": 80.283,
+  "words": [
+   {
+    "word": "sin",
+    "start": 77.007,
+    "end": 77.18
+   },
+   {
+    "word": "mensajes",
+    "start": 77.18,
+    "end": 77.642
+   },
+   {
+    "word": "que",
+    "start": 77.642,
+    "end": 77.889
+   },
+   {
+    "word": "no",
+    "start": 77.889,
+    "end": 78.005
+   },
+   {
+    "word": "sean",
+    "start": 78.005,
+    "end": 78.235
+   },
+   {
+    "word": "absolutamente",
+    "start": 78.235,
+    "end": 78.985
+   },
+   {
+    "word": "necesarios.",
+    "start": 78.985,
+    "end": 79.561
+   }
+  ]
+ },
+ {
+  "id": "S04_F018",
+  "scene": "RETO 2 — 48 Horas de Soledad Deliberada",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "La investigadora Thuy-vy Nguyen, de la Universidad de Durham,",
+  "visual": "Close-up, thoughtful narrating expression, a faint glowing university-building silhouette icon appears briefly.",
+  "start": 80.283,
+  "end": 85.078,
+  "words": [
+   {
+    "word": "La",
+    "start": 81.005,
+    "end": 81.144
+   },
+   {
+    "word": "investigadora",
+    "start": 81.144,
+    "end": 82.12
+   },
+   {
+    "word": "Thuy-vy",
+    "start": 82.12,
+    "end": 82.537
+   },
+   {
+    "word": "Nguyen,",
+    "start": 82.537,
+    "end": 82.954
+   },
+   {
+    "word": "de",
+    "start": 82.954,
+    "end": 83.093
+   },
+   {
+    "word": "la",
+    "start": 83.093,
+    "end": 83.543
+   },
+   {
+    "word": "Universidad",
+    "start": 83.543,
+    "end": 84.307
+   },
+   {
+    "word": "de",
+    "start": 84.307,
+    "end": 84.446
+   },
+   {
+    "word": "Durham,",
+    "start": 84.446,
+    "end": 84.863
+   }
+  ]
+ },
+ {
+  "id": "S04_F019",
+  "scene": "RETO 2 — 48 Horas de Soledad Deliberada",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "ha dedicado años a estudiar la soledad elegida, y sus hallazgos son claros:",
+  "visual": "A faint glowing timeline stretches showing years of research, figure watches attentively.",
+  "start": 85.078,
+  "end": 89.891,
+  "words": [
+   {
+    "word": "ha",
+    "start": 85.292,
+    "end": 85.421
+   },
+   {
+    "word": "dedicado",
+    "start": 85.421,
+    "end": 86.011
+   },
+   {
+    "word": "años",
+    "start": 86.011,
+    "end": 86.268
+   },
+   {
+    "word": "a",
+    "start": 86.268,
+    "end": 86.333
+   },
+   {
+    "word": "estudiar",
+    "start": 86.333,
+    "end": 86.846
+   },
+   {
+    "word": "la",
+    "start": 86.846,
+    "end": 86.975
+   },
+   {
+    "word": "soledad",
+    "start": 86.975,
+    "end": 87.424
+   },
+   {
+    "word": "elegida,",
+    "start": 87.424,
+    "end": 87.874
+   },
+   {
+    "word": "y",
+    "start": 87.874,
+    "end": 88.257
+   },
+   {
+    "word": "sus",
+    "start": 88.257,
+    "end": 88.45
+   },
+   {
+    "word": "hallazgos",
+    "start": 88.45,
+    "end": 89.028
+   },
+   {
+    "word": "son",
+    "start": 89.028,
+    "end": 89.296
+   },
+   {
+    "word": "claros:",
+    "start": 89.296,
+    "end": 89.681
+   }
+  ]
+ },
+ {
+  "id": "S04_F020",
+  "scene": "RETO 2 — 48 Horas de Soledad Deliberada",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "cuando la soledad es una decisión propia y no un castigo,",
+  "visual": "A faint dim prison-cell-like shape fades away, replaced by a calm, softly lit open space around the figure.",
+  "start": 89.891,
+  "end": 93.402,
+  "words": [
+   {
+    "word": "cuando",
+    "start": 90.1,
+    "end": 90.477
+   },
+   {
+    "word": "la",
+    "start": 90.477,
+    "end": 90.602
+   },
+   {
+    "word": "soledad",
+    "start": 90.602,
+    "end": 91.042
+   },
+   {
+    "word": "es",
+    "start": 91.042,
+    "end": 91.167
+   },
+   {
+    "word": "una",
+    "start": 91.167,
+    "end": 91.356
+   },
+   {
+    "word": "decisión",
+    "start": 91.356,
+    "end": 91.949
+   },
+   {
+    "word": "propia",
+    "start": 91.949,
+    "end": 92.419
+   },
+   {
+    "word": "y",
+    "start": 92.419,
+    "end": 92.481
+   },
+   {
+    "word": "no",
+    "start": 92.481,
+    "end": 92.607
+   },
+   {
+    "word": "un",
+    "start": 92.607,
+    "end": 92.733
+   },
+   {
+    "word": "castigo,",
+    "start": 92.733,
+    "end": 93.172
+   }
+  ]
+ },
+ {
+  "id": "S04_F021",
+  "scene": "RETO 2 — 48 Horas de Soledad Deliberada",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "reduce la activación emocional y ayuda a procesar pensamientos que el ruido social normalmente ahoga.",
+  "visual": "Close-up, a faint turbulent wave-shape around the figure's head calms into smooth, steady ripples.",
+  "start": 93.402,
+  "end": 99.866,
+  "words": [
+   {
+    "word": "reduce",
+    "start": 93.632,
+    "end": 93.993
+   },
+   {
+    "word": "la",
+    "start": 93.993,
+    "end": 94.113
+   },
+   {
+    "word": "activación",
+    "start": 94.113,
+    "end": 94.83
+   },
+   {
+    "word": "emocional",
+    "start": 94.83,
+    "end": 95.37
+   },
+   {
+    "word": "y",
+    "start": 95.37,
+    "end": 95.431
+   },
+   {
+    "word": "ayuda",
+    "start": 95.431,
+    "end": 95.731
+   },
+   {
+    "word": "a",
+    "start": 95.731,
+    "end": 95.791
+   },
+   {
+    "word": "procesar",
+    "start": 95.791,
+    "end": 96.346
+   },
+   {
+    "word": "pensamientos",
+    "start": 96.346,
+    "end": 97.184
+   },
+   {
+    "word": "que",
+    "start": 97.184,
+    "end": 97.364
+   },
+   {
+    "word": "el",
+    "start": 97.364,
+    "end": 97.484
+   },
+   {
+    "word": "ruido",
+    "start": 97.484,
+    "end": 97.784
+   },
+   {
+    "word": "social",
+    "start": 97.784,
+    "end": 98.145
+   },
+   {
+    "word": "normalmente",
+    "start": 98.145,
+    "end": 98.881
+   },
+   {
+    "word": "ahoga.",
+    "start": 98.881,
+    "end": 99.261
+   }
+  ]
+ },
+ {
+  "id": "S04_F022",
+  "scene": "RETO 2 — 48 Horas de Soledad Deliberada",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Aquí está la clave: no se trata de aislarte para siempre.",
+  "visual": "Figure gestures gently, a faint permanent-isolation icon is set aside, temporary framing emphasized instead.",
+  "start": 99.866,
+  "end": 104.513,
+  "words": [
+   {
+    "word": "Aquí",
+    "start": 100.471,
+    "end": 100.711
+   },
+   {
+    "word": "está",
+    "start": 100.711,
+    "end": 100.952
+   },
+   {
+    "word": "la",
+    "start": 100.952,
+    "end": 101.072
+   },
+   {
+    "word": "clave:",
+    "start": 101.072,
+    "end": 101.444
+   },
+   {
+    "word": "no",
+    "start": 101.444,
+    "end": 101.96
+   },
+   {
+    "word": "se",
+    "start": 101.96,
+    "end": 102.08
+   },
+   {
+    "word": "trata",
+    "start": 102.08,
+    "end": 102.381
+   },
+   {
+    "word": "de",
+    "start": 102.381,
+    "end": 102.501
+   },
+   {
+    "word": "aislarte",
+    "start": 102.501,
+    "end": 103.064
+   },
+   {
+    "word": "para",
+    "start": 103.064,
+    "end": 103.382
+   },
+   {
+    "word": "siempre.",
+    "start": 103.382,
+    "end": 103.887
+   }
+  ]
+ },
+ {
+  "id": "S04_F023",
+  "scene": "RETO 2 — 48 Horas de Soledad Deliberada",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Se trata de descubrir qué queda de tus pensamientos cuando nadie más los interrumpe durante dos días completos.",
+  "visual": "Figure sits calmly, the earlier turbulent thought-bubble now settled into a clear, steady glowing shape, quiet clarity forming.",
+  "start": 104.513,
+  "end": 111.38,
+  "words": [
+   {
+    "word": "Se",
+    "start": 105.138,
+    "end": 105.247
+   },
+   {
+    "word": "trata",
+    "start": 105.247,
+    "end": 105.52
+   },
+   {
+    "word": "de",
+    "start": 105.52,
+    "end": 105.629
+   },
+   {
+    "word": "descubrir",
+    "start": 105.629,
+    "end": 106.121
+   },
+   {
+    "word": "qué",
+    "start": 106.121,
+    "end": 106.358
+   },
+   {
+    "word": "queda",
+    "start": 106.358,
+    "end": 106.631
+   },
+   {
+    "word": "de",
+    "start": 106.631,
+    "end": 106.74
+   },
+   {
+    "word": "tus",
+    "start": 106.74,
+    "end": 106.993
+   },
+   {
+    "word": "pensamientos",
+    "start": 106.993,
+    "end": 107.648
+   },
+   {
+    "word": "cuando",
+    "start": 107.648,
+    "end": 107.976
+   },
+   {
+    "word": "nadie",
+    "start": 107.976,
+    "end": 108.249
+   },
+   {
+    "word": "más",
+    "start": 108.249,
+    "end": 108.412
+   },
+   {
+    "word": "los",
+    "start": 108.412,
+    "end": 108.576
+   },
+   {
+    "word": "interrumpe",
+    "start": 108.576,
+    "end": 109.198
+   },
+   {
+    "word": "durante",
+    "start": 109.198,
+    "end": 109.66
+   },
+   {
+    "word": "dos",
+    "start": 109.66,
+    "end": 109.824
+   },
+   {
+    "word": "días",
+    "start": 109.824,
+    "end": 110.043
+   },
+   {
+    "word": "completos.",
+    "start": 110.043,
+    "end": 110.768
+   }
+  ]
+ },
+ {
+  "id": "S05_F024",
+  "scene": "RETO 3 — 21 Días Sin Quejarte",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Reto tres: 21 días sin quejarte de nada, ni en voz alta ni en tu cabeza.",
+  "visual": "Figure stands with a large glowing number \"3\" beside them, a small glowing wristband visible on one wrist.",
+  "start": 111.38,
+  "end": 117.666,
+  "words": [
+   {
+    "word": "Reto",
+    "start": 111.993,
+    "end": 112.292
+   },
+   {
+    "word": "tres:",
+    "start": 112.292,
+    "end": 112.673
+   },
+   {
+    "word": "21",
+    "start": 112.673,
+    "end": 112.823
+   },
+   {
+    "word": "días",
+    "start": 112.823,
+    "end": 113.501
+   },
+   {
+    "word": "sin",
+    "start": 113.501,
+    "end": 113.726
+   },
+   {
+    "word": "quejarte",
+    "start": 113.726,
+    "end": 114.324
+   },
+   {
+    "word": "de",
+    "start": 114.324,
+    "end": 114.474
+   },
+   {
+    "word": "nada,",
+    "start": 114.474,
+    "end": 114.861
+   },
+   {
+    "word": "ni",
+    "start": 114.861,
+    "end": 115.01
+   },
+   {
+    "word": "en",
+    "start": 115.01,
+    "end": 115.534
+   },
+   {
+    "word": "voz",
+    "start": 115.534,
+    "end": 115.758
+   },
+   {
+    "word": "alta",
+    "start": 115.758,
+    "end": 116.057
+   },
+   {
+    "word": "ni",
+    "start": 116.057,
+    "end": 116.281
+   },
+   {
+    "word": "en",
+    "start": 116.281,
+    "end": 116.431
+   },
+   {
+    "word": "tu",
+    "start": 116.431,
+    "end": 116.58
+   },
+   {
+    "word": "cabeza.",
+    "start": 116.58,
+    "end": 117.029
+   }
+  ]
+ },
+ {
+  "id": "S05_F025",
+  "scene": "RETO 3 — 21 Días Sin Quejarte",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "El escritor Will Bowen popularizó esto con su \"pulsera morada\":",
+  "visual": "Close-up shift, thoughtful narrating expression, the small wristband glows briefly in a soft purple-toned light.",
+  "start": 117.666,
+  "end": 122.212,
+  "words": [
+   {
+    "word": "El",
+    "start": 118.304,
+    "end": 118.44
+   },
+   {
+    "word": "escritor",
+    "start": 118.44,
+    "end": 118.982
+   },
+   {
+    "word": "Will",
+    "start": 118.982,
+    "end": 119.254
+   },
+   {
+    "word": "Bowen",
+    "start": 119.254,
+    "end": 119.593
+   },
+   {
+    "word": "popularizó",
+    "start": 119.593,
+    "end": 120.271
+   },
+   {
+    "word": "esto",
+    "start": 120.271,
+    "end": 120.543
+   },
+   {
+    "word": "con",
+    "start": 120.543,
+    "end": 120.746
+   },
+   {
+    "word": "su",
+    "start": 120.746,
+    "end": 120.882
+   },
+   {
+    "word": "\"pulsera",
+    "start": 120.882,
+    "end": 121.593
+   },
+   {
+    "word": "morada\":",
+    "start": 121.593,
+    "end": 122.0
+   }
+  ]
+ },
+ {
+  "id": "S05_F026",
+  "scene": "RETO 3 — 21 Días Sin Quejarte",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "la usas en una muñeca, y cada vez que te quejas,",
+  "visual": "Close-up, figure notices a small complaint speech-bubble forming, catching themselves mid-thought.",
+  "start": 122.212,
+  "end": 125.467,
+  "words": [
+   {
+    "word": "la",
+    "start": 122.423,
+    "end": 122.555
+   },
+   {
+    "word": "usas",
+    "start": 122.555,
+    "end": 122.819
+   },
+   {
+    "word": "en",
+    "start": 122.819,
+    "end": 122.951
+   },
+   {
+    "word": "una",
+    "start": 122.951,
+    "end": 123.149
+   },
+   {
+    "word": "muñeca,",
+    "start": 123.149,
+    "end": 123.624
+   },
+   {
+    "word": "y",
+    "start": 123.624,
+    "end": 124.006
+   },
+   {
+    "word": "cada",
+    "start": 124.006,
+    "end": 124.353
+   },
+   {
+    "word": "vez",
+    "start": 124.353,
+    "end": 124.551
+   },
+   {
+    "word": "que",
+    "start": 124.551,
+    "end": 124.749
+   },
+   {
+    "word": "te",
+    "start": 124.749,
+    "end": 124.881
+   },
+   {
+    "word": "quejas,",
+    "start": 124.881,
+    "end": 125.277
+   }
+  ]
+ },
+ {
+  "id": "S05_F027",
+  "scene": "RETO 3 — 21 Días Sin Quejarte",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "te la cambias a la otra muñeca y el conteo de días vuelve a cero.",
+  "visual": "The wristband visibly moves from one wrist to the other, a small glowing counter resets sharply back to zero beside it.",
+  "start": 125.467,
+  "end": 129.565,
+  "words": [
+   {
+    "word": "te",
+    "start": 125.657,
+    "end": 125.779
+   },
+   {
+    "word": "la",
+    "start": 125.779,
+    "end": 125.973
+   },
+   {
+    "word": "cambias",
+    "start": 125.973,
+    "end": 126.4
+   },
+   {
+    "word": "a",
+    "start": 126.4,
+    "end": 126.461
+   },
+   {
+    "word": "la",
+    "start": 126.461,
+    "end": 126.582
+   },
+   {
+    "word": "otra",
+    "start": 126.582,
+    "end": 126.826
+   },
+   {
+    "word": "muñeca",
+    "start": 126.826,
+    "end": 127.276
+   },
+   {
+    "word": "y",
+    "start": 127.276,
+    "end": 127.337
+   },
+   {
+    "word": "el",
+    "start": 127.337,
+    "end": 127.548
+   },
+   {
+    "word": "conteo",
+    "start": 127.548,
+    "end": 127.914
+   },
+   {
+    "word": "de",
+    "start": 127.914,
+    "end": 128.036
+   },
+   {
+    "word": "días",
+    "start": 128.036,
+    "end": 128.279
+   },
+   {
+    "word": "vuelve",
+    "start": 128.279,
+    "end": 128.645
+   },
+   {
+    "word": "a",
+    "start": 128.645,
+    "end": 128.706
+   },
+   {
+    "word": "cero.",
+    "start": 128.706,
+    "end": 128.95
+   }
+  ]
+ },
+ {
+  "id": "S05_F028",
+  "scene": "RETO 3 — 21 Días Sin Quejarte",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Esto es lo que nadie te dice: la mayoría de las personas no logra pasar del tercer día",
+  "visual": "A faint glowing counter climbs to \"3\" then resets abruptly, repeating the same small stumble.",
+  "start": 129.565,
+  "end": 136.469,
+  "words": [
+   {
+    "word": "Esto",
+    "start": 130.179,
+    "end": 130.491
+   },
+   {
+    "word": "es",
+    "start": 130.491,
+    "end": 130.647
+   },
+   {
+    "word": "lo",
+    "start": 130.647,
+    "end": 130.803
+   },
+   {
+    "word": "que",
+    "start": 130.803,
+    "end": 131.037
+   },
+   {
+    "word": "nadie",
+    "start": 131.037,
+    "end": 131.427
+   },
+   {
+    "word": "te",
+    "start": 131.427,
+    "end": 131.583
+   },
+   {
+    "word": "dice:",
+    "start": 131.583,
+    "end": 132.372
+   },
+   {
+    "word": "la",
+    "start": 132.372,
+    "end": 132.528
+   },
+   {
+    "word": "mayoría",
+    "start": 132.528,
+    "end": 133.161
+   },
+   {
+    "word": "de",
+    "start": 133.161,
+    "end": 133.317
+   },
+   {
+    "word": "las",
+    "start": 133.317,
+    "end": 133.551
+   },
+   {
+    "word": "personas",
+    "start": 133.551,
+    "end": 134.248
+   },
+   {
+    "word": "no",
+    "start": 134.248,
+    "end": 134.484
+   },
+   {
+    "word": "logra",
+    "start": 134.484,
+    "end": 134.874
+   },
+   {
+    "word": "pasar",
+    "start": 134.874,
+    "end": 135.264
+   },
+   {
+    "word": "del",
+    "start": 135.264,
+    "end": 135.498
+   },
+   {
+    "word": "tercer",
+    "start": 135.498,
+    "end": 135.966
+   },
+   {
+    "word": "día",
+    "start": 135.966,
+    "end": 136.28
+   }
+  ]
+ },
+ {
+  "id": "S05_F029",
+  "scene": "RETO 3 — 21 Días Sin Quejarte",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "sin cambiar de muñeca, porque no se dan cuenta de cuánto de su discurso diario es queja disfrazada de conversación normal.",
+  "visual": "Close-up, several small ordinary-looking speech bubbles subtly reveal a tiny hidden complaint-shape inside each one.",
+  "start": 136.469,
+  "end": 142.192,
+  "words": [
+   {
+    "word": "sin",
+    "start": 136.659,
+    "end": 136.802
+   },
+   {
+    "word": "cambiar",
+    "start": 136.802,
+    "end": 137.135
+   },
+   {
+    "word": "de",
+    "start": 137.135,
+    "end": 137.231
+   },
+   {
+    "word": "muñeca,",
+    "start": 137.231,
+    "end": 137.516
+   },
+   {
+    "word": "porque",
+    "start": 137.516,
+    "end": 137.876
+   },
+   {
+    "word": "no",
+    "start": 137.876,
+    "end": 137.971
+   },
+   {
+    "word": "se",
+    "start": 137.971,
+    "end": 138.067
+   },
+   {
+    "word": "dan",
+    "start": 138.067,
+    "end": 138.21
+   },
+   {
+    "word": "cuenta",
+    "start": 138.21,
+    "end": 138.495
+   },
+   {
+    "word": "de",
+    "start": 138.495,
+    "end": 138.665
+   },
+   {
+    "word": "cuánto",
+    "start": 138.665,
+    "end": 138.95
+   },
+   {
+    "word": "de",
+    "start": 138.95,
+    "end": 139.046
+   },
+   {
+    "word": "su",
+    "start": 139.046,
+    "end": 139.141
+   },
+   {
+    "word": "discurso",
+    "start": 139.141,
+    "end": 139.522
+   },
+   {
+    "word": "diario",
+    "start": 139.522,
+    "end": 139.808
+   },
+   {
+    "word": "es",
+    "start": 139.808,
+    "end": 139.903
+   },
+   {
+    "word": "queja",
+    "start": 139.903,
+    "end": 140.141
+   },
+   {
+    "word": "disfrazada",
+    "start": 140.141,
+    "end": 140.617
+   },
+   {
+    "word": "de",
+    "start": 140.617,
+    "end": 140.713
+   },
+   {
+    "word": "conversación",
+    "start": 140.713,
+    "end": 141.284
+   },
+   {
+    "word": "normal.",
+    "start": 141.284,
+    "end": 141.57
+   }
+  ]
+ },
+ {
+  "id": "S05_F030",
+  "scene": "RETO 3 — 21 Días Sin Quejarte",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Y aquí está la clave: no se trata de fingir que todo está bien.",
+  "visual": "Figure gestures firmly, a faint fake-smile mask icon is set aside, not the goal of this challenge.",
+  "start": 142.192,
+  "end": 147.05,
+  "words": [
+   {
+    "word": "Y",
+    "start": 142.814,
+    "end": 142.874
+   },
+   {
+    "word": "aquí",
+    "start": 142.874,
+    "end": 143.115
+   },
+   {
+    "word": "está",
+    "start": 143.115,
+    "end": 143.356
+   },
+   {
+    "word": "la",
+    "start": 143.356,
+    "end": 143.477
+   },
+   {
+    "word": "clave:",
+    "start": 143.477,
+    "end": 143.85
+   },
+   {
+    "word": "no",
+    "start": 143.85,
+    "end": 143.971
+   },
+   {
+    "word": "se",
+    "start": 143.971,
+    "end": 144.486
+   },
+   {
+    "word": "trata",
+    "start": 144.486,
+    "end": 144.788
+   },
+   {
+    "word": "de",
+    "start": 144.788,
+    "end": 144.908
+   },
+   {
+    "word": "fingir",
+    "start": 144.908,
+    "end": 145.346
+   },
+   {
+    "word": "que",
+    "start": 145.346,
+    "end": 145.608
+   },
+   {
+    "word": "todo",
+    "start": 145.608,
+    "end": 145.945
+   },
+   {
+    "word": "está",
+    "start": 145.945,
+    "end": 146.186
+   },
+   {
+    "word": "bien.",
+    "start": 146.186,
+    "end": 146.427
+   }
+  ]
+ },
+ {
+  "id": "S05_F031",
+  "scene": "RETO 3 — 21 Días Sin Quejarte",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Se trata de notar cuántas veces eliges repetir un problema en lugar de resolverlo o soltarlo.",
+  "visual": "A faint glowing loop-shape (repeating a problem) sits beside two paths — one toward a resolved checkmark, one toward a released, faded shape.",
+  "start": 147.05,
+  "end": 153.248,
+  "words": [
+   {
+    "word": "Se",
+    "start": 147.673,
+    "end": 147.792
+   },
+   {
+    "word": "trata",
+    "start": 147.792,
+    "end": 148.09
+   },
+   {
+    "word": "de",
+    "start": 148.09,
+    "end": 148.21
+   },
+   {
+    "word": "notar",
+    "start": 148.21,
+    "end": 148.508
+   },
+   {
+    "word": "cuántas",
+    "start": 148.508,
+    "end": 149.005
+   },
+   {
+    "word": "veces",
+    "start": 149.005,
+    "end": 149.303
+   },
+   {
+    "word": "eliges",
+    "start": 149.303,
+    "end": 149.661
+   },
+   {
+    "word": "repetir",
+    "start": 149.661,
+    "end": 150.22
+   },
+   {
+    "word": "un",
+    "start": 150.22,
+    "end": 150.34
+   },
+   {
+    "word": "problema",
+    "start": 150.34,
+    "end": 150.817
+   },
+   {
+    "word": "en",
+    "start": 150.817,
+    "end": 150.936
+   },
+   {
+    "word": "lugar",
+    "start": 150.936,
+    "end": 151.234
+   },
+   {
+    "word": "de",
+    "start": 151.234,
+    "end": 151.353
+   },
+   {
+    "word": "resolverlo",
+    "start": 151.353,
+    "end": 151.949
+   },
+   {
+    "word": "o",
+    "start": 151.949,
+    "end": 152.009
+   },
+   {
+    "word": "soltarlo.",
+    "start": 152.009,
+    "end": 152.591
+   }
+  ]
+ },
+ {
+  "id": "S06_F032",
+  "scene": "RETO 4 — Ayuno de 24 a 48 Horas",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Reto cuatro: un ayuno de 24 a 48 horas, hecho con responsabilidad",
+  "visual": "Figure seated calmly with a large glowing number \"4\" beside them, an empty plate icon nearby, steady composed posture.",
+  "start": 153.248,
+  "end": 157.913,
+  "words": [
+   {
+    "word": "Reto",
+    "start": 153.905,
+    "end": 154.159
+   },
+   {
+    "word": "cuatro:",
+    "start": 154.159,
+    "end": 154.619
+   },
+   {
+    "word": "un",
+    "start": 154.619,
+    "end": 154.746
+   },
+   {
+    "word": "ayuno",
+    "start": 154.746,
+    "end": 155.426
+   },
+   {
+    "word": "de",
+    "start": 155.426,
+    "end": 155.553
+   },
+   {
+    "word": "24",
+    "start": 155.553,
+    "end": 155.68
+   },
+   {
+    "word": "a",
+    "start": 155.68,
+    "end": 155.744
+   },
+   {
+    "word": "48",
+    "start": 155.744,
+    "end": 155.871
+   },
+   {
+    "word": "horas,",
+    "start": 155.871,
+    "end": 156.267
+   },
+   {
+    "word": "hecho",
+    "start": 156.267,
+    "end": 156.584
+   },
+   {
+    "word": "con",
+    "start": 156.584,
+    "end": 156.775
+   },
+   {
+    "word": "responsabilidad",
+    "start": 156.775,
+    "end": 157.728
+   }
+  ]
+ },
+ {
+  "id": "S06_F033",
+  "scene": "RETO 4 — Ayuno de 24 a 48 Horas",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "y sin forzar el cuerpo si tienes alguna condición médica.",
+  "visual": "A small faint caution/medical-cross icon appears briefly, calm responsible framing rather than reckless.",
+  "start": 157.913,
+  "end": 163.106,
+  "words": [
+   {
+    "word": "y",
+    "start": 158.098,
+    "end": 158.181
+   },
+   {
+    "word": "sin",
+    "start": 158.181,
+    "end": 158.429
+   },
+   {
+    "word": "forzar",
+    "start": 158.429,
+    "end": 159.005
+   },
+   {
+    "word": "el",
+    "start": 159.005,
+    "end": 159.17
+   },
+   {
+    "word": "cuerpo",
+    "start": 159.17,
+    "end": 159.667
+   },
+   {
+    "word": "si",
+    "start": 159.667,
+    "end": 159.832
+   },
+   {
+    "word": "tienes",
+    "start": 159.832,
+    "end": 160.437
+   },
+   {
+    "word": "alguna",
+    "start": 160.437,
+    "end": 161.029
+   },
+   {
+    "word": "condición",
+    "start": 161.029,
+    "end": 161.852
+   },
+   {
+    "word": "médica.",
+    "start": 161.852,
+    "end": 162.349
+   }
+  ]
+ },
+ {
+  "id": "S06_F034",
+  "scene": "RETO 4 — Ayuno de 24 a 48 Horas",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "El biólogo japonés Yoshinori Ohsumi ganó el Premio Nobel de Medicina en 2016",
+  "visual": "Close-up, thoughtful narrating expression, a faint glowing medal/award icon appears briefly beside the figure.",
+  "start": 163.106,
+  "end": 168.512,
+  "words": [
+   {
+    "word": "El",
+    "start": 163.755,
+    "end": 163.899
+   },
+   {
+    "word": "biólogo",
+    "start": 163.899,
+    "end": 164.405
+   },
+   {
+    "word": "japonés",
+    "start": 164.405,
+    "end": 164.91
+   },
+   {
+    "word": "Yoshinori",
+    "start": 164.91,
+    "end": 165.56
+   },
+   {
+    "word": "Ohsumi",
+    "start": 165.56,
+    "end": 166.085
+   },
+   {
+    "word": "ganó",
+    "start": 166.085,
+    "end": 166.374
+   },
+   {
+    "word": "el",
+    "start": 166.374,
+    "end": 166.518
+   },
+   {
+    "word": "Premio",
+    "start": 166.518,
+    "end": 166.951
+   },
+   {
+    "word": "Nobel",
+    "start": 166.951,
+    "end": 167.312
+   },
+   {
+    "word": "de",
+    "start": 167.312,
+    "end": 167.456
+   },
+   {
+    "word": "Medicina",
+    "start": 167.456,
+    "end": 168.034
+   },
+   {
+    "word": "en",
+    "start": 168.034,
+    "end": 168.178
+   },
+   {
+    "word": "2016",
+    "start": 168.178,
+    "end": 168.467
+   }
+  ]
+ },
+ {
+  "id": "S06_F035",
+  "scene": "RETO 4 — Ayuno de 24 a 48 Horas",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "por descubrir el mecanismo de la autofagia —",
+  "visual": "A faint glowing cell-shaped icon appears, small internal parts visibly being cleaned and recycled within it.",
+  "start": 168.512,
+  "end": 171.039,
+  "words": [
+   {
+    "word": "por",
+    "start": 168.558,
+    "end": 168.726
+   },
+   {
+    "word": "descubrir",
+    "start": 168.726,
+    "end": 169.313
+   },
+   {
+    "word": "el",
+    "start": 169.313,
+    "end": 169.425
+   },
+   {
+    "word": "mecanismo",
+    "start": 169.425,
+    "end": 170.005
+   },
+   {
+    "word": "de",
+    "start": 170.005,
+    "end": 170.117
+   },
+   {
+    "word": "la",
+    "start": 170.117,
+    "end": 170.229
+   },
+   {
+    "word": "autofagia",
+    "start": 170.229,
+    "end": 170.823
+   },
+   {
+    "word": "—",
+    "start": 170.823,
+    "end": 170.879
+   }
+  ]
+ },
+ {
+  "id": "S06_F036",
+  "scene": "RETO 4 — Ayuno de 24 a 48 Horas",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "el proceso mediante el cual las células se limpian a sí mismas",
+  "visual": "The glowing cell icon's internal parts continue their clear self-cleaning motion, calm methodical visual.",
+  "start": 171.039,
+  "end": 174.806,
+  "words": [
+   {
+    "word": "el",
+    "start": 171.199,
+    "end": 171.327
+   },
+   {
+    "word": "proceso",
+    "start": 171.327,
+    "end": 171.854
+   },
+   {
+    "word": "mediante",
+    "start": 171.854,
+    "end": 172.521
+   },
+   {
+    "word": "el",
+    "start": 172.521,
+    "end": 172.648
+   },
+   {
+    "word": "cual",
+    "start": 172.648,
+    "end": 172.903
+   },
+   {
+    "word": "las",
+    "start": 172.903,
+    "end": 173.095
+   },
+   {
+    "word": "células",
+    "start": 173.095,
+    "end": 173.542
+   },
+   {
+    "word": "se",
+    "start": 173.542,
+    "end": 173.739
+   },
+   {
+    "word": "limpian",
+    "start": 173.739,
+    "end": 174.186
+   },
+   {
+    "word": "a",
+    "start": 174.186,
+    "end": 174.25
+   },
+   {
+    "word": "sí",
+    "start": 174.25,
+    "end": 174.377
+   },
+   {
+    "word": "mismas",
+    "start": 174.377,
+    "end": 174.76
+   }
+  ]
+ },
+ {
+  "id": "S06_F037",
+  "scene": "RETO 4 — Ayuno de 24 a 48 Horas",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "cuando el cuerpo entra en un estado de escasez temporal de nutrientes, como durante un ayuno prolongado.",
+  "visual": "Close-up, the empty plate icon and the glowing self-cleaning cell icon appear together, connected by a thin line of light.",
+  "start": 174.806,
+  "end": 180.63,
+  "words": [
+   {
+    "word": "cuando",
+    "start": 174.852,
+    "end": 175.261
+   },
+   {
+    "word": "el",
+    "start": 175.261,
+    "end": 175.363
+   },
+   {
+    "word": "cuerpo",
+    "start": 175.363,
+    "end": 175.667
+   },
+   {
+    "word": "entra",
+    "start": 175.667,
+    "end": 175.921
+   },
+   {
+    "word": "en",
+    "start": 175.921,
+    "end": 176.022
+   },
+   {
+    "word": "un",
+    "start": 176.022,
+    "end": 176.124
+   },
+   {
+    "word": "estado",
+    "start": 176.124,
+    "end": 176.428
+   },
+   {
+    "word": "de",
+    "start": 176.428,
+    "end": 176.53
+   },
+   {
+    "word": "escasez",
+    "start": 176.53,
+    "end": 176.885
+   },
+   {
+    "word": "temporal",
+    "start": 176.885,
+    "end": 177.291
+   },
+   {
+    "word": "de",
+    "start": 177.291,
+    "end": 177.473
+   },
+   {
+    "word": "nutrientes,",
+    "start": 177.473,
+    "end": 178.437
+   },
+   {
+    "word": "como",
+    "start": 178.437,
+    "end": 178.64
+   },
+   {
+    "word": "durante",
+    "start": 178.64,
+    "end": 179.074
+   },
+   {
+    "word": "un",
+    "start": 179.074,
+    "end": 179.175
+   },
+   {
+    "word": "ayuno",
+    "start": 179.175,
+    "end": 179.5
+   },
+   {
+    "word": "prolongado.",
+    "start": 179.5,
+    "end": 180.007
+   }
+  ]
+ },
+ {
+  "id": "S06_F038",
+  "scene": "RETO 4 — Ayuno de 24 a 48 Horas",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Pero espera, todavía hay más: el verdadero reto no es el hambre física,",
+  "visual": "Figure gestures firmly, a faint stomach/hunger icon is set aside, not the true difficulty being highlighted.",
+  "start": 180.63,
+  "end": 186.041,
+  "words": [
+   {
+    "word": "Pero",
+    "start": 181.253,
+    "end": 181.516
+   },
+   {
+    "word": "espera,",
+    "start": 181.516,
+    "end": 181.993
+   },
+   {
+    "word": "todavía",
+    "start": 181.993,
+    "end": 182.835
+   },
+   {
+    "word": "hay",
+    "start": 182.835,
+    "end": 183.033
+   },
+   {
+    "word": "más:",
+    "start": 183.033,
+    "end": 183.595
+   },
+   {
+    "word": "el",
+    "start": 183.595,
+    "end": 183.726
+   },
+   {
+    "word": "verdadero",
+    "start": 183.726,
+    "end": 184.318
+   },
+   {
+    "word": "reto",
+    "start": 184.318,
+    "end": 184.581
+   },
+   {
+    "word": "no",
+    "start": 184.581,
+    "end": 184.712
+   },
+   {
+    "word": "es",
+    "start": 184.712,
+    "end": 184.844
+   },
+   {
+    "word": "el",
+    "start": 184.844,
+    "end": 184.975
+   },
+   {
+    "word": "hambre",
+    "start": 184.975,
+    "end": 185.37
+   },
+   {
+    "word": "física,",
+    "start": 185.37,
+    "end": 185.84
+   }
+  ]
+ },
+ {
+  "id": "S06_F039",
+  "scene": "RETO 4 — Ayuno de 24 a 48 Horas",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "que suele pasar después de las primeras horas.",
+  "visual": "The faint hunger icon fades gently after a short stretch of the timeline passes.",
+  "start": 186.041,
+  "end": 189.199,
+  "words": [
+   {
+    "word": "que",
+    "start": 186.242,
+    "end": 186.4
+   },
+   {
+    "word": "suele",
+    "start": 186.4,
+    "end": 186.736
+   },
+   {
+    "word": "pasar",
+    "start": 186.736,
+    "end": 187.0
+   },
+   {
+    "word": "después",
+    "start": 187.0,
+    "end": 187.476
+   },
+   {
+    "word": "de",
+    "start": 187.476,
+    "end": 187.581
+   },
+   {
+    "word": "las",
+    "start": 187.581,
+    "end": 187.823
+   },
+   {
+    "word": "primeras",
+    "start": 187.823,
+    "end": 188.245
+   },
+   {
+    "word": "horas.",
+    "start": 188.245,
+    "end": 188.594
+   }
+  ]
+ },
+ {
+  "id": "S06_F040",
+  "scene": "RETO 4 — Ayuno de 24 a 48 Horas",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Es la incomodidad mental de no poder resolver una molestia con la solución más rápida y disponible que tienes a la mano.",
+  "visual": "Close-up, figure's hand reaches instinctively toward a faint glowing quick-fix icon (a snack) but stops itself mid-motion, visible restraint.",
+  "start": 189.199,
+  "end": 196.546,
+  "words": [
+   {
+    "word": "Es",
+    "start": 189.804,
+    "end": 189.923
+   },
+   {
+    "word": "la",
+    "start": 189.923,
+    "end": 190.042
+   },
+   {
+    "word": "incomodidad",
+    "start": 190.042,
+    "end": 190.698
+   },
+   {
+    "word": "mental",
+    "start": 190.698,
+    "end": 191.056
+   },
+   {
+    "word": "de",
+    "start": 191.056,
+    "end": 191.175
+   },
+   {
+    "word": "no",
+    "start": 191.175,
+    "end": 191.295
+   },
+   {
+    "word": "poder",
+    "start": 191.295,
+    "end": 191.664
+   },
+   {
+    "word": "resolver",
+    "start": 191.664,
+    "end": 192.141
+   },
+   {
+    "word": "una",
+    "start": 192.141,
+    "end": 192.32
+   },
+   {
+    "word": "molestia",
+    "start": 192.32,
+    "end": 192.796
+   },
+   {
+    "word": "con",
+    "start": 192.796,
+    "end": 192.975
+   },
+   {
+    "word": "la",
+    "start": 192.975,
+    "end": 193.095
+   },
+   {
+    "word": "solución",
+    "start": 193.095,
+    "end": 193.572
+   },
+   {
+    "word": "más",
+    "start": 193.572,
+    "end": 193.75
+   },
+   {
+    "word": "rápida",
+    "start": 193.75,
+    "end": 194.201
+   },
+   {
+    "word": "y",
+    "start": 194.201,
+    "end": 194.261
+   },
+   {
+    "word": "disponible",
+    "start": 194.261,
+    "end": 194.936
+   },
+   {
+    "word": "que",
+    "start": 194.936,
+    "end": 195.115
+   },
+   {
+    "word": "tienes",
+    "start": 195.115,
+    "end": 195.473
+   },
+   {
+    "word": "a",
+    "start": 195.473,
+    "end": 195.532
+   },
+   {
+    "word": "la",
+    "start": 195.532,
+    "end": 195.652
+   },
+   {
+    "word": "mano.",
+    "start": 195.652,
+    "end": 195.89
+   }
+  ]
+ },
+ {
+  "id": "S07_F041",
+  "scene": "RETO 5 — 30 Días Diciendo \"No\"",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Y reto cinco: 30 días diciendo \"no\" a todo lo que no sea absolutamente esencial —",
+  "visual": "Figure stands with a large glowing number \"5\" beside them, hand raised in a calm, firm \"no\" gesture.",
+  "start": 196.546,
+  "end": 202.817,
+  "words": [
+   {
+    "word": "Y",
+    "start": 197.202,
+    "end": 197.272
+   },
+   {
+    "word": "reto",
+    "start": 197.272,
+    "end": 197.551
+   },
+   {
+    "word": "cinco:",
+    "start": 197.551,
+    "end": 197.9
+   },
+   {
+    "word": "30",
+    "start": 197.9,
+    "end": 198.117
+   },
+   {
+    "word": "días",
+    "start": 198.117,
+    "end": 198.818
+   },
+   {
+    "word": "diciendo",
+    "start": 198.818,
+    "end": 199.376
+   },
+   {
+    "word": "\"no\"",
+    "start": 199.376,
+    "end": 199.516
+   },
+   {
+    "word": "a",
+    "start": 199.516,
+    "end": 199.586
+   },
+   {
+    "word": "todo",
+    "start": 199.586,
+    "end": 200.137
+   },
+   {
+    "word": "lo",
+    "start": 200.137,
+    "end": 200.427
+   },
+   {
+    "word": "que",
+    "start": 200.427,
+    "end": 200.708
+   },
+   {
+    "word": "no",
+    "start": 200.708,
+    "end": 200.924
+   },
+   {
+    "word": "sea",
+    "start": 200.924,
+    "end": 201.133
+   },
+   {
+    "word": "absolutamente",
+    "start": 201.133,
+    "end": 202.041
+   },
+   {
+    "word": "esencial",
+    "start": 202.041,
+    "end": 202.599
+   },
+   {
+    "word": "—",
+    "start": 202.599,
+    "end": 202.669
+   }
+  ]
+ },
+ {
+  "id": "S07_F042",
+  "scene": "RETO 5 — 30 Días Diciendo \"No\"",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "invitaciones que aceptas por culpa, favores que haces por miedo a decepcionar,",
+  "visual": "Small faint icons (an invitation card, a helping-hand favor) approach the figure, each carrying a tiny guilt or fear symbol.",
+  "start": 202.817,
+  "end": 207.522,
+  "words": [
+   {
+    "word": "invitaciones",
+    "start": 202.964,
+    "end": 203.613
+   },
+   {
+    "word": "que",
+    "start": 203.613,
+    "end": 203.775
+   },
+   {
+    "word": "aceptas",
+    "start": 203.775,
+    "end": 204.261
+   },
+   {
+    "word": "por",
+    "start": 204.261,
+    "end": 204.613
+   },
+   {
+    "word": "culpa,",
+    "start": 204.613,
+    "end": 205.354
+   },
+   {
+    "word": "favores",
+    "start": 205.354,
+    "end": 205.732
+   },
+   {
+    "word": "que",
+    "start": 205.732,
+    "end": 205.894
+   },
+   {
+    "word": "haces",
+    "start": 205.894,
+    "end": 206.165
+   },
+   {
+    "word": "por",
+    "start": 206.165,
+    "end": 206.417
+   },
+   {
+    "word": "miedo",
+    "start": 206.417,
+    "end": 206.687
+   },
+   {
+    "word": "a",
+    "start": 206.687,
+    "end": 206.741
+   },
+   {
+    "word": "decepcionar,",
+    "start": 206.741,
+    "end": 207.336
+   }
+  ]
+ },
+ {
+  "id": "S07_F043",
+  "scene": "RETO 5 — 30 Días Diciendo \"No\"",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "compromisos que ni siquiera querías.",
+  "visual": "Close-up, figure's face shows quiet reluctant resignation as a commitment-icon attaches itself despite the discomfort.",
+  "start": 207.522,
+  "end": 210.187,
+  "words": [
+   {
+    "word": "compromisos",
+    "start": 207.708,
+    "end": 208.316
+   },
+   {
+    "word": "que",
+    "start": 208.316,
+    "end": 208.482
+   },
+   {
+    "word": "ni",
+    "start": 208.482,
+    "end": 208.593
+   },
+   {
+    "word": "siquiera",
+    "start": 208.593,
+    "end": 209.189
+   },
+   {
+    "word": "querías.",
+    "start": 209.189,
+    "end": 209.576
+   }
+  ]
+ },
+ {
+  "id": "S07_F044",
+  "scene": "RETO 5 — 30 Días Diciendo \"No\"",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Esto es lo que cambia todo: cada \"sí\" automático que das sin pensar",
+  "visual": "A faint glowing \"yes\" icon appears reflexively and automatically, without the figure even pausing to consider it.",
+  "start": 210.187,
+  "end": 215.6,
+  "words": [
+   {
+    "word": "Esto",
+    "start": 210.798,
+    "end": 211.081
+   },
+   {
+    "word": "es",
+    "start": 211.081,
+    "end": 211.223
+   },
+   {
+    "word": "lo",
+    "start": 211.223,
+    "end": 211.364
+   },
+   {
+    "word": "que",
+    "start": 211.364,
+    "end": 211.651
+   },
+   {
+    "word": "cambia",
+    "start": 211.651,
+    "end": 212.155
+   },
+   {
+    "word": "todo:",
+    "start": 212.155,
+    "end": 213.0
+   },
+   {
+    "word": "cada",
+    "start": 213.0,
+    "end": 213.489
+   },
+   {
+    "word": "\"sí\"",
+    "start": 213.489,
+    "end": 213.631
+   },
+   {
+    "word": "automático",
+    "start": 213.631,
+    "end": 214.339
+   },
+   {
+    "word": "que",
+    "start": 214.339,
+    "end": 214.551
+   },
+   {
+    "word": "das",
+    "start": 214.551,
+    "end": 214.764
+   },
+   {
+    "word": "sin",
+    "start": 214.764,
+    "end": 214.976
+   },
+   {
+    "word": "pensar",
+    "start": 214.976,
+    "end": 215.401
+   }
+  ]
+ },
+ {
+  "id": "S07_F045",
+  "scene": "RETO 5 — 30 Días Diciendo \"No\"",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "es, en realidad, un \"no\" silencioso a algo que sí te importa —",
+  "visual": "Behind the glowing \"yes\" icon, a faint dim, neglected personal-project icon sits quietly pushed aside.",
+  "start": 215.6,
+  "end": 219.645,
+  "words": [
+   {
+    "word": "es,",
+    "start": 215.799,
+    "end": 215.924
+   },
+   {
+    "word": "en",
+    "start": 215.924,
+    "end": 216.048
+   },
+   {
+    "word": "realidad,",
+    "start": 216.048,
+    "end": 216.926
+   },
+   {
+    "word": "un",
+    "start": 216.926,
+    "end": 217.051
+   },
+   {
+    "word": "\"no\"",
+    "start": 217.051,
+    "end": 217.176
+   },
+   {
+    "word": "silencioso",
+    "start": 217.176,
+    "end": 218.092
+   },
+   {
+    "word": "a",
+    "start": 218.092,
+    "end": 218.154
+   },
+   {
+    "word": "algo",
+    "start": 218.154,
+    "end": 218.403
+   },
+   {
+    "word": "que",
+    "start": 218.403,
+    "end": 218.591
+   },
+   {
+    "word": "sí",
+    "start": 218.591,
+    "end": 218.715
+   },
+   {
+    "word": "te",
+    "start": 218.715,
+    "end": 218.84
+   },
+   {
+    "word": "importa",
+    "start": 218.84,
+    "end": 219.44
+   },
+   {
+    "word": "—",
+    "start": 219.44,
+    "end": 219.502
+   }
+  ]
+ },
+ {
+  "id": "S07_F046",
+  "scene": "RETO 5 — 30 Días Diciendo \"No\"",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "tu tiempo, tu energía, tu propio proyecto esperando en la cola.",
+  "visual": "Close-up, three small dim icons (a clock, an energy spark, a waiting project) line up quietly behind the automatic \"yes\".",
+  "start": 219.645,
+  "end": 224.192,
+  "words": [
+   {
+    "word": "tu",
+    "start": 219.788,
+    "end": 219.894
+   },
+   {
+    "word": "tiempo,",
+    "start": 219.894,
+    "end": 220.704
+   },
+   {
+    "word": "tu",
+    "start": 220.704,
+    "end": 220.81
+   },
+   {
+    "word": "energía,",
+    "start": 220.81,
+    "end": 221.183
+   },
+   {
+    "word": "tu",
+    "start": 221.183,
+    "end": 221.289
+   },
+   {
+    "word": "propio",
+    "start": 221.289,
+    "end": 221.984
+   },
+   {
+    "word": "proyecto",
+    "start": 221.984,
+    "end": 222.41
+   },
+   {
+    "word": "esperando",
+    "start": 222.41,
+    "end": 223.071
+   },
+   {
+    "word": "en",
+    "start": 223.071,
+    "end": 223.178
+   },
+   {
+    "word": "la",
+    "start": 223.178,
+    "end": 223.377
+   },
+   {
+    "word": "cola.",
+    "start": 223.377,
+    "end": 223.59
+   }
+  ]
+ },
+ {
+  "id": "S07_F047",
+  "scene": "RETO 5 — 30 Días Diciendo \"No\"",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Practicar el \"no\" durante un mes entero no te vuelve una persona fría.",
+  "visual": "Figure gently sets aside a faint cold/harsh-icon, dismissing the misconception with a calm, warm expression.",
+  "start": 224.192,
+  "end": 229.234,
+  "words": [
+   {
+    "word": "Practicar",
+    "start": 224.795,
+    "end": 225.471
+   },
+   {
+    "word": "el",
+    "start": 225.471,
+    "end": 225.721
+   },
+   {
+    "word": "\"no\"",
+    "start": 225.721,
+    "end": 225.849
+   },
+   {
+    "word": "durante",
+    "start": 225.849,
+    "end": 226.299
+   },
+   {
+    "word": "un",
+    "start": 226.299,
+    "end": 226.427
+   },
+   {
+    "word": "mes",
+    "start": 226.427,
+    "end": 226.62
+   },
+   {
+    "word": "entero",
+    "start": 226.62,
+    "end": 227.077
+   },
+   {
+    "word": "no",
+    "start": 227.077,
+    "end": 227.206
+   },
+   {
+    "word": "te",
+    "start": 227.206,
+    "end": 227.334
+   },
+   {
+    "word": "vuelve",
+    "start": 227.334,
+    "end": 227.72
+   },
+   {
+    "word": "una",
+    "start": 227.72,
+    "end": 227.912
+   },
+   {
+    "word": "persona",
+    "start": 227.912,
+    "end": 228.362
+   },
+   {
+    "word": "fría.",
+    "start": 228.362,
+    "end": 228.619
+   }
+  ]
+ },
+ {
+  "id": "S07_F048",
+  "scene": "RETO 5 — 30 Días Diciendo \"No\"",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Te vuelve una persona que por fin decide, en lugar de reaccionar.",
+  "visual": "Close-up, calm confident expression, the earlier automatic \"yes\" icon now replaced by a deliberate, glowing decision-icon.",
+  "start": 229.234,
+  "end": 234.272,
+  "words": [
+   {
+    "word": "Te",
+    "start": 229.849,
+    "end": 229.976
+   },
+   {
+    "word": "vuelve",
+    "start": 229.976,
+    "end": 230.357
+   },
+   {
+    "word": "una",
+    "start": 230.357,
+    "end": 230.547
+   },
+   {
+    "word": "persona",
+    "start": 230.547,
+    "end": 230.991
+   },
+   {
+    "word": "que",
+    "start": 230.991,
+    "end": 231.265
+   },
+   {
+    "word": "por",
+    "start": 231.265,
+    "end": 231.456
+   },
+   {
+    "word": "fin",
+    "start": 231.456,
+    "end": 231.646
+   },
+   {
+    "word": "decide,",
+    "start": 231.646,
+    "end": 232.441
+   },
+   {
+    "word": "en",
+    "start": 232.441,
+    "end": 232.567
+   },
+   {
+    "word": "lugar",
+    "start": 232.567,
+    "end": 232.885
+   },
+   {
+    "word": "de",
+    "start": 232.885,
+    "end": 233.012
+   },
+   {
+    "word": "reaccionar.",
+    "start": 233.012,
+    "end": 233.646
+   }
+  ]
+ },
+ {
+  "id": "S08_F049",
+  "scene": "EL CIERRE",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Ninguno de estos cinco retos requiere dinero, equipo especial, ni un lugar exótico.",
+  "visual": "Figure stands calm and upright, all five glowing numbered markers from the opening now arranged gently in an even arc.",
+  "start": 234.272,
+  "end": 240.75,
+  "words": [
+   {
+    "word": "Ninguno",
+    "start": 234.899,
+    "end": 235.335
+   },
+   {
+    "word": "de",
+    "start": 235.335,
+    "end": 235.46
+   },
+   {
+    "word": "estos",
+    "start": 235.46,
+    "end": 235.772
+   },
+   {
+    "word": "cinco",
+    "start": 235.772,
+    "end": 236.083
+   },
+   {
+    "word": "retos",
+    "start": 236.083,
+    "end": 236.395
+   },
+   {
+    "word": "requiere",
+    "start": 236.395,
+    "end": 236.894
+   },
+   {
+    "word": "dinero,",
+    "start": 236.894,
+    "end": 237.665
+   },
+   {
+    "word": "equipo",
+    "start": 237.665,
+    "end": 238.039
+   },
+   {
+    "word": "especial,",
+    "start": 238.039,
+    "end": 238.997
+   },
+   {
+    "word": "ni",
+    "start": 238.997,
+    "end": 239.121
+   },
+   {
+    "word": "un",
+    "start": 239.121,
+    "end": 239.246
+   },
+   {
+    "word": "lugar",
+    "start": 239.246,
+    "end": 239.558
+   },
+   {
+    "word": "exótico.",
+    "start": 239.558,
+    "end": 240.117
+   }
+  ]
+ },
+ {
+  "id": "S08_F050",
+  "scene": "EL CIERRE",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Requieren solamente que dejes de tener a dónde escapar cuando la incomodidad aparezca.",
+  "visual": "The faint ghost-outline exit-doors from the opening frame reappear, now fully closed and sealed around the figure.",
+  "start": 240.75,
+  "end": 246.233,
+  "words": [
+   {
+    "word": "Requieren",
+    "start": 241.382,
+    "end": 241.862
+   },
+   {
+    "word": "solamente",
+    "start": 241.862,
+    "end": 242.342
+   },
+   {
+    "word": "que",
+    "start": 242.342,
+    "end": 242.502
+   },
+   {
+    "word": "dejes",
+    "start": 242.502,
+    "end": 242.769
+   },
+   {
+    "word": "de",
+    "start": 242.769,
+    "end": 242.875
+   },
+   {
+    "word": "tener",
+    "start": 242.875,
+    "end": 243.142
+   },
+   {
+    "word": "a",
+    "start": 243.142,
+    "end": 243.195
+   },
+   {
+    "word": "dónde",
+    "start": 243.195,
+    "end": 243.462
+   },
+   {
+    "word": "escapar",
+    "start": 243.462,
+    "end": 243.912
+   },
+   {
+    "word": "cuando",
+    "start": 243.912,
+    "end": 244.317
+   },
+   {
+    "word": "la",
+    "start": 244.317,
+    "end": 244.424
+   },
+   {
+    "word": "incomodidad",
+    "start": 244.424,
+    "end": 245.01
+   },
+   {
+    "word": "aparezca.",
+    "start": 245.01,
+    "end": 245.617
+   }
+  ]
+ },
+ {
+  "id": "S08_F051",
+  "scene": "EL CIERRE",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Y esa es exactamente la razón por la que casi nadie los termina.",
+  "visual": "Close-up, calm knowing expression, the five glowing numbered markers pulse steadily, quietly difficult but not impossible.",
+  "start": 246.233,
+  "end": 250.969,
+  "words": [
+   {
+    "word": "Y",
+    "start": 246.85,
+    "end": 246.91
+   },
+   {
+    "word": "esa",
+    "start": 246.91,
+    "end": 247.09
+   },
+   {
+    "word": "es",
+    "start": 247.09,
+    "end": 247.211
+   },
+   {
+    "word": "exactamente",
+    "start": 247.211,
+    "end": 247.974
+   },
+   {
+    "word": "la",
+    "start": 247.974,
+    "end": 248.094
+   },
+   {
+    "word": "razón",
+    "start": 248.094,
+    "end": 248.394
+   },
+   {
+    "word": "por",
+    "start": 248.394,
+    "end": 248.671
+   },
+   {
+    "word": "la",
+    "start": 248.671,
+    "end": 248.791
+   },
+   {
+    "word": "que",
+    "start": 248.791,
+    "end": 248.971
+   },
+   {
+    "word": "casi",
+    "start": 248.971,
+    "end": 249.285
+   },
+   {
+    "word": "nadie",
+    "start": 249.285,
+    "end": 249.585
+   },
+   {
+    "word": "los",
+    "start": 249.585,
+    "end": 249.765
+   },
+   {
+    "word": "termina.",
+    "start": 249.765,
+    "end": 250.265
+   }
+  ]
+ },
+ {
+  "id": "S08_F052",
+  "scene": "EL CIERRE",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Escribe en los comentarios cuál de los cinco te da más miedo, y por qué crees que es precisamente ese el que más falta te hace.",
+  "visual": "Figure points directly toward the camera/viewer, warm inviting expression, a faint speech-bubble icon glowing softly in accent color.",
+  "start": 250.969,
+  "end": 258.67,
+  "words": [
+   {
+    "word": "Escribe",
+    "start": 251.584,
+    "end": 251.978
+   },
+   {
+    "word": "en",
+    "start": 251.978,
+    "end": 252.091
+   },
+   {
+    "word": "los",
+    "start": 252.091,
+    "end": 252.26
+   },
+   {
+    "word": "comentarios",
+    "start": 252.26,
+    "end": 252.879
+   },
+   {
+    "word": "cuál",
+    "start": 252.879,
+    "end": 253.187
+   },
+   {
+    "word": "de",
+    "start": 253.187,
+    "end": 253.3
+   },
+   {
+    "word": "los",
+    "start": 253.3,
+    "end": 253.469
+   },
+   {
+    "word": "cinco",
+    "start": 253.469,
+    "end": 253.75
+   },
+   {
+    "word": "te",
+    "start": 253.75,
+    "end": 253.863
+   },
+   {
+    "word": "da",
+    "start": 253.863,
+    "end": 253.976
+   },
+   {
+    "word": "más",
+    "start": 253.976,
+    "end": 254.145
+   },
+   {
+    "word": "miedo,",
+    "start": 254.145,
+    "end": 254.426
+   },
+   {
+    "word": "y",
+    "start": 254.426,
+    "end": 254.482
+   },
+   {
+    "word": "por",
+    "start": 254.482,
+    "end": 254.999
+   },
+   {
+    "word": "qué",
+    "start": 254.999,
+    "end": 255.25
+   },
+   {
+    "word": "crees",
+    "start": 255.25,
+    "end": 255.532
+   },
+   {
+    "word": "que",
+    "start": 255.532,
+    "end": 255.701
+   },
+   {
+    "word": "es",
+    "start": 255.701,
+    "end": 255.813
+   },
+   {
+    "word": "precisamente",
+    "start": 255.813,
+    "end": 256.566
+   },
+   {
+    "word": "ese",
+    "start": 256.566,
+    "end": 256.735
+   },
+   {
+    "word": "el",
+    "start": 256.735,
+    "end": 256.921
+   },
+   {
+    "word": "que",
+    "start": 256.921,
+    "end": 257.09
+   },
+   {
+    "word": "más",
+    "start": 257.09,
+    "end": 257.259
+   },
+   {
+    "word": "falta",
+    "start": 257.259,
+    "end": 257.707
+   },
+   {
+    "word": "te",
+    "start": 257.707,
+    "end": 257.82
+   },
+   {
+    "word": "hace.",
+    "start": 257.82,
+    "end": 258.045
+   }
+  ]
+ },
+ {
+  "id": "S08_F053",
+  "scene": "EL CIERRE",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Si este video te sirvió, dale like y suscríbete —",
+  "visual": "Figure gives a genuine thumbs-up gesture with a warm smile, a faint bell icon glows softly beside them.",
+  "start": 258.67,
+  "end": 262.921,
+  "words": [
+   {
+    "word": "Si",
+    "start": 259.295,
+    "end": 259.441
+   },
+   {
+    "word": "este",
+    "start": 259.441,
+    "end": 259.734
+   },
+   {
+    "word": "video",
+    "start": 259.734,
+    "end": 260.1
+   },
+   {
+    "word": "te",
+    "start": 260.1,
+    "end": 260.246
+   },
+   {
+    "word": "sirvió,",
+    "start": 260.246,
+    "end": 260.685
+   },
+   {
+    "word": "dale",
+    "start": 260.685,
+    "end": 261.327
+   },
+   {
+    "word": "like",
+    "start": 261.327,
+    "end": 261.619
+   },
+   {
+    "word": "y",
+    "start": 261.619,
+    "end": 261.77
+   },
+   {
+    "word": "suscríbete",
+    "start": 261.77,
+    "end": 262.651
+   },
+   {
+    "word": "—",
+    "start": 262.651,
+    "end": 262.724
+   }
+  ]
+ },
+ {
+  "id": "S08_F054",
+  "scene": "EL CIERRE",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "la disciplina no hace ruido, incluso en los retos que nadie ve terminar.",
+  "visual": "Figure stands calm and still in the quiet dark space, faint warm rim light outlining their silhouette, serene composed expression.",
+  "start": 262.921,
+  "end": 268.06,
+  "words": [
+   {
+    "word": "la",
+    "start": 263.118,
+    "end": 263.232
+   },
+   {
+    "word": "disciplina",
+    "start": 263.232,
+    "end": 263.883
+   },
+   {
+    "word": "no",
+    "start": 263.883,
+    "end": 263.997
+   },
+   {
+    "word": "hace",
+    "start": 263.997,
+    "end": 264.226
+   },
+   {
+    "word": "ruido,",
+    "start": 264.226,
+    "end": 264.512
+   },
+   {
+    "word": "incluso",
+    "start": 264.512,
+    "end": 265.262
+   },
+   {
+    "word": "en",
+    "start": 265.262,
+    "end": 265.376
+   },
+   {
+    "word": "los",
+    "start": 265.376,
+    "end": 265.548
+   },
+   {
+    "word": "retos",
+    "start": 265.548,
+    "end": 265.834
+   },
+   {
+    "word": "que",
+    "start": 265.834,
+    "end": 266.006
+   },
+   {
+    "word": "nadie",
+    "start": 266.006,
+    "end": 266.292
+   },
+   {
+    "word": "ve",
+    "start": 266.292,
+    "end": 266.406
+   },
+   {
+    "word": "terminar.",
+    "start": 266.406,
+    "end": 266.938
+   }
+  ]
+ }
+]

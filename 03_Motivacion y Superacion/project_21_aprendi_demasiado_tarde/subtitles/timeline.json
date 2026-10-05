@@ -1,0 +1,5071 @@
+[
+ {
+  "id": "S01_F001",
+  "scene": "EL GANCHO",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Hay lecciones que nadie te puede enseñar a tiempo.",
+  "visual": "Dark still lighting, figure stands alone facing forward, calm reflective expression, a faint ghost-outline open book floats closed beside them.",
+  "start": 0.0,
+  "end": 3.352,
+  "words": [
+   {
+    "word": "Hay",
+    "start": 0.248,
+    "end": 0.412
+   },
+   {
+    "word": "lecciones",
+    "start": 0.412,
+    "end": 0.902
+   },
+   {
+    "word": "que",
+    "start": 0.902,
+    "end": 1.066
+   },
+   {
+    "word": "nadie",
+    "start": 1.066,
+    "end": 1.338
+   },
+   {
+    "word": "te",
+    "start": 1.338,
+    "end": 1.447
+   },
+   {
+    "word": "puede",
+    "start": 1.447,
+    "end": 1.795
+   },
+   {
+    "word": "enseñar",
+    "start": 1.795,
+    "end": 2.177
+   },
+   {
+    "word": "a",
+    "start": 2.177,
+    "end": 2.232
+   },
+   {
+    "word": "tiempo.",
+    "start": 2.232,
+    "end": 2.726
+   }
+  ]
+ },
+ {
+  "id": "S01_F002",
+  "scene": "EL GANCHO",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Las entiendes después, cuando ya pagaste el precio de no saberlas.",
+  "visual": "The book ghost-outline opens on its own, faint pages turning, figure looks at it with a slightly pained, knowing expression.",
+  "start": 3.352,
+  "end": 8.443,
+  "words": [
+   {
+    "word": "Las",
+    "start": 3.978,
+    "end": 4.159
+   },
+   {
+    "word": "entiendes",
+    "start": 4.159,
+    "end": 4.702
+   },
+   {
+    "word": "después,",
+    "start": 4.702,
+    "end": 5.236
+   },
+   {
+    "word": "cuando",
+    "start": 5.236,
+    "end": 5.915
+   },
+   {
+    "word": "ya",
+    "start": 5.915,
+    "end": 6.112
+   },
+   {
+    "word": "pagaste",
+    "start": 6.112,
+    "end": 6.636
+   },
+   {
+    "word": "el",
+    "start": 6.636,
+    "end": 6.757
+   },
+   {
+    "word": "precio",
+    "start": 6.757,
+    "end": 7.119
+   },
+   {
+    "word": "de",
+    "start": 7.119,
+    "end": 7.24
+   },
+   {
+    "word": "no",
+    "start": 7.24,
+    "end": 7.361
+   },
+   {
+    "word": "saberlas.",
+    "start": 7.361,
+    "end": 7.844
+   }
+  ]
+ },
+ {
+  "id": "S01_F003",
+  "scene": "EL GANCHO",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Yo aprendí estas cinco demasiado tarde.",
+  "visual": "Close-up, wistful reflective expression, eyes slightly downcast, five small faint glowing dots arranged in an arc beside the head.",
+  "start": 8.443,
+  "end": 11.718,
+  "words": [
+   {
+    "word": "Yo",
+    "start": 9.042,
+    "end": 9.157
+   },
+   {
+    "word": "aprendí",
+    "start": 9.157,
+    "end": 9.561
+   },
+   {
+    "word": "estas",
+    "start": 9.561,
+    "end": 9.849
+   },
+   {
+    "word": "cinco",
+    "start": 9.849,
+    "end": 10.137
+   },
+   {
+    "word": "demasiado",
+    "start": 10.137,
+    "end": 10.656
+   },
+   {
+    "word": "tarde.",
+    "start": 10.656,
+    "end": 11.039
+   }
+  ]
+ },
+ {
+  "id": "S01_F004",
+  "scene": "EL GANCHO",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Ojalá alguien me las hubiera dicho antes —",
+  "visual": "Figure reaches a hand out toward a faint ghost-outline of a younger version of themselves standing at a distance, wistful expression.",
+  "start": 11.718,
+  "end": 14.626,
+  "words": [
+   {
+    "word": "Ojalá",
+    "start": 12.397,
+    "end": 12.685
+   },
+   {
+    "word": "alguien",
+    "start": 12.685,
+    "end": 13.088
+   },
+   {
+    "word": "me",
+    "start": 13.088,
+    "end": 13.203
+   },
+   {
+    "word": "las",
+    "start": 13.203,
+    "end": 13.376
+   },
+   {
+    "word": "hubiera",
+    "start": 13.376,
+    "end": 13.779
+   },
+   {
+    "word": "dicho",
+    "start": 13.779,
+    "end": 14.067
+   },
+   {
+    "word": "antes",
+    "start": 14.067,
+    "end": 14.442
+   },
+   {
+    "word": "—",
+    "start": 14.442,
+    "end": 14.5
+   }
+  ]
+ },
+ {
+  "id": "S01_F005",
+  "scene": "EL GANCHO",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "aunque, siendo honesto, probablemente no las habría escuchado.",
+  "visual": "Figure gives a small rueful, self-aware half-smile, shrugging gently, the ghost-outline of the younger self turns away unheeding.",
+  "start": 14.626,
+  "end": 19.11,
+  "words": [
+   {
+    "word": "aunque,",
+    "start": 14.753,
+    "end": 15.159
+   },
+   {
+    "word": "siendo",
+    "start": 15.159,
+    "end": 15.874
+   },
+   {
+    "word": "honesto,",
+    "start": 15.874,
+    "end": 16.266
+   },
+   {
+    "word": "probablemente",
+    "start": 16.266,
+    "end": 17.359
+   },
+   {
+    "word": "no",
+    "start": 17.359,
+    "end": 17.471
+   },
+   {
+    "word": "las",
+    "start": 17.471,
+    "end": 17.639
+   },
+   {
+    "word": "habría",
+    "start": 17.639,
+    "end": 17.975
+   },
+   {
+    "word": "escuchado.",
+    "start": 17.975,
+    "end": 18.48
+   }
+  ]
+ },
+ {
+  "id": "S02_F006",
+  "scene": "LA PROMESA",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Te las cuento tal como las viví,",
+  "visual": "Figure sits down calmly facing the viewer, warm inviting posture, the five glowing dots settle into a steady row.",
+  "start": 19.11,
+  "end": 21.497,
+  "words": [
+   {
+    "word": "Te",
+    "start": 19.74,
+    "end": 19.867
+   },
+   {
+    "word": "las",
+    "start": 19.867,
+    "end": 20.057
+   },
+   {
+    "word": "cuento",
+    "start": 20.057,
+    "end": 20.436
+   },
+   {
+    "word": "tal",
+    "start": 20.436,
+    "end": 20.626
+   },
+   {
+    "word": "como",
+    "start": 20.626,
+    "end": 20.879
+   },
+   {
+    "word": "las",
+    "start": 20.879,
+    "end": 21.069
+   },
+   {
+    "word": "viví,",
+    "start": 21.069,
+    "end": 21.322
+   }
+  ]
+ },
+ {
+  "id": "S02_F007",
+  "scene": "LA PROMESA",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "y por qué la ciencia detrás de cada una explica por qué nos cuesta tanto aprenderlas a tiempo.",
+  "visual": "A faint ghost-outline brain icon glows gently beside the figure, connecting lines reaching toward each of the five dots.",
+  "start": 21.497,
+  "end": 26.911,
+  "words": [
+   {
+    "word": "y",
+    "start": 21.672,
+    "end": 21.727
+   },
+   {
+    "word": "por",
+    "start": 21.727,
+    "end": 21.895
+   },
+   {
+    "word": "qué",
+    "start": 21.895,
+    "end": 22.062
+   },
+   {
+    "word": "la",
+    "start": 22.062,
+    "end": 22.173
+   },
+   {
+    "word": "ciencia",
+    "start": 22.173,
+    "end": 22.563
+   },
+   {
+    "word": "detrás",
+    "start": 22.563,
+    "end": 22.898
+   },
+   {
+    "word": "de",
+    "start": 22.898,
+    "end": 23.009
+   },
+   {
+    "word": "cada",
+    "start": 23.009,
+    "end": 23.302
+   },
+   {
+    "word": "una",
+    "start": 23.302,
+    "end": 23.47
+   },
+   {
+    "word": "explica",
+    "start": 23.47,
+    "end": 23.86
+   },
+   {
+    "word": "por",
+    "start": 23.86,
+    "end": 24.027
+   },
+   {
+    "word": "qué",
+    "start": 24.027,
+    "end": 24.266
+   },
+   {
+    "word": "nos",
+    "start": 24.266,
+    "end": 24.434
+   },
+   {
+    "word": "cuesta",
+    "start": 24.434,
+    "end": 24.768
+   },
+   {
+    "word": "tanto",
+    "start": 24.768,
+    "end": 25.128
+   },
+   {
+    "word": "aprenderlas",
+    "start": 25.128,
+    "end": 25.741
+   },
+   {
+    "word": "a",
+    "start": 25.741,
+    "end": 25.797
+   },
+   {
+    "word": "tiempo.",
+    "start": 25.797,
+    "end": 26.213
+   }
+  ]
+ },
+ {
+  "id": "S02_F008",
+  "scene": "LA PROMESA",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "La lección cinco es la que más me costó —",
+  "visual": "Close-up, the fifth dot glows noticeably brighter in accent color than the rest, figure's expression turns momentarily more serious.",
+  "start": 26.911,
+  "end": 29.843,
+  "words": [
+   {
+    "word": "La",
+    "start": 27.609,
+    "end": 27.739
+   },
+   {
+    "word": "lección",
+    "start": 27.739,
+    "end": 28.196
+   },
+   {
+    "word": "cinco",
+    "start": 28.196,
+    "end": 28.523
+   },
+   {
+    "word": "es",
+    "start": 28.523,
+    "end": 28.653
+   },
+   {
+    "word": "la",
+    "start": 28.653,
+    "end": 28.784
+   },
+   {
+    "word": "que",
+    "start": 28.784,
+    "end": 28.98
+   },
+   {
+    "word": "más",
+    "start": 28.98,
+    "end": 29.175
+   },
+   {
+    "word": "me",
+    "start": 29.175,
+    "end": 29.306
+   },
+   {
+    "word": "costó",
+    "start": 29.306,
+    "end": 29.632
+   },
+   {
+    "word": "—",
+    "start": 29.632,
+    "end": 29.698
+   }
+  ]
+ },
+ {
+  "id": "S02_F009",
+  "scene": "LA PROMESA",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "y la que más rápido cambió todo.",
+  "visual": "Figure gives a small determined nod, faint hopeful expression, the bright fifth dot pulses once warmly.",
+  "start": 29.843,
+  "end": 32.243,
+  "words": [
+   {
+    "word": "y",
+    "start": 29.989,
+    "end": 30.046
+   },
+   {
+    "word": "la",
+    "start": 30.046,
+    "end": 30.161
+   },
+   {
+    "word": "que",
+    "start": 30.161,
+    "end": 30.333
+   },
+   {
+    "word": "más",
+    "start": 30.333,
+    "end": 30.505
+   },
+   {
+    "word": "rápido",
+    "start": 30.505,
+    "end": 30.946
+   },
+   {
+    "word": "cambió",
+    "start": 30.946,
+    "end": 31.29
+   },
+   {
+    "word": "todo.",
+    "start": 31.29,
+    "end": 31.613
+   }
+  ]
+ },
+ {
+  "id": "S03_F010",
+  "scene": "LECCIÓN 1 — El Piloto Automático",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Lección uno: la mayoría de tus días no los vives — los repites.",
+  "visual": "Figure walks the same looping path in a circle, flat neutral expression, a faint dotted circular path glowing softly beneath their feet.",
+  "start": 32.243,
+  "end": 37.726,
+  "words": [
+   {
+    "word": "Lección",
+    "start": 32.874,
+    "end": 33.357
+   },
+   {
+    "word": "uno:",
+    "start": 33.357,
+    "end": 33.564
+   },
+   {
+    "word": "la",
+    "start": 33.564,
+    "end": 34.067
+   },
+   {
+    "word": "mayoría",
+    "start": 34.067,
+    "end": 34.55
+   },
+   {
+    "word": "de",
+    "start": 34.55,
+    "end": 34.687
+   },
+   {
+    "word": "tus",
+    "start": 34.687,
+    "end": 34.894
+   },
+   {
+    "word": "días",
+    "start": 34.894,
+    "end": 35.17
+   },
+   {
+    "word": "no",
+    "start": 35.17,
+    "end": 35.308
+   },
+   {
+    "word": "los",
+    "start": 35.308,
+    "end": 35.515
+   },
+   {
+    "word": "vives",
+    "start": 35.515,
+    "end": 35.859
+   },
+   {
+    "word": "—",
+    "start": 35.859,
+    "end": 35.928
+   },
+   {
+    "word": "los",
+    "start": 35.928,
+    "end": 36.477
+   },
+   {
+    "word": "repites.",
+    "start": 36.477,
+    "end": 37.118
+   }
+  ]
+ },
+ {
+  "id": "S03_F011",
+  "scene": "LECCIÓN 1 — El Piloto Automático",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Durante años hice lo mismo cada mañana sin notarlo:",
+  "visual": "Figure repeats an identical gesture (brushing teeth motion) in three faint overlapping ghost-outline poses, unaware neutral expression.",
+  "start": 37.726,
+  "end": 41.399,
+  "words": [
+   {
+    "word": "Durante",
+    "start": 38.333,
+    "end": 38.796
+   },
+   {
+    "word": "años",
+    "start": 38.796,
+    "end": 39.061
+   },
+   {
+    "word": "hice",
+    "start": 39.061,
+    "end": 39.326
+   },
+   {
+    "word": "lo",
+    "start": 39.326,
+    "end": 39.458
+   },
+   {
+    "word": "mismo",
+    "start": 39.458,
+    "end": 39.789
+   },
+   {
+    "word": "cada",
+    "start": 39.789,
+    "end": 40.054
+   },
+   {
+    "word": "mañana",
+    "start": 40.054,
+    "end": 40.451
+   },
+   {
+    "word": "sin",
+    "start": 40.451,
+    "end": 40.65
+   },
+   {
+    "word": "notarlo:",
+    "start": 40.65,
+    "end": 41.198
+   }
+  ]
+ },
+ {
+  "id": "S03_F012",
+  "scene": "LECCIÓN 1 — El Piloto Automático",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "mismo camino, mismas frases, mismas reacciones automáticas ante todo.",
+  "visual": "A faint looping arrow path connects a home icon, a road icon, and a desk icon in a fixed repeating triangle.",
+  "start": 41.399,
+  "end": 46.807,
+  "words": [
+   {
+    "word": "mismo",
+    "start": 41.6,
+    "end": 41.924
+   },
+   {
+    "word": "camino,",
+    "start": 41.924,
+    "end": 42.313
+   },
+   {
+    "word": "mismas",
+    "start": 42.313,
+    "end": 43.075
+   },
+   {
+    "word": "frases,",
+    "start": 43.075,
+    "end": 43.464
+   },
+   {
+    "word": "mismas",
+    "start": 43.464,
+    "end": 44.205
+   },
+   {
+    "word": "reacciones",
+    "start": 44.205,
+    "end": 44.854
+   },
+   {
+    "word": "automáticas",
+    "start": 44.854,
+    "end": 45.568
+   },
+   {
+    "word": "ante",
+    "start": 45.568,
+    "end": 45.828
+   },
+   {
+    "word": "todo.",
+    "start": 45.828,
+    "end": 46.181
+   }
+  ]
+ },
+ {
+  "id": "S03_F013",
+  "scene": "LECCIÓN 1 — El Piloto Automático",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "La psicóloga de Harvard Ellen Langer llamó a esto \"mindlessness\" —",
+  "visual": "Close-up, thoughtful narrating expression, a faint glowing accent-colored fog or haze drifts gently around the figure's head.",
+  "start": 46.807,
+  "end": 51.077,
+  "words": [
+   {
+    "word": "La",
+    "start": 47.434,
+    "end": 47.555
+   },
+   {
+    "word": "psicóloga",
+    "start": 47.555,
+    "end": 48.098
+   },
+   {
+    "word": "de",
+    "start": 48.098,
+    "end": 48.219
+   },
+   {
+    "word": "Harvard",
+    "start": 48.219,
+    "end": 48.642
+   },
+   {
+    "word": "Ellen",
+    "start": 48.642,
+    "end": 48.944
+   },
+   {
+    "word": "Langer",
+    "start": 48.944,
+    "end": 49.307
+   },
+   {
+    "word": "llamó",
+    "start": 49.307,
+    "end": 49.609
+   },
+   {
+    "word": "a",
+    "start": 49.609,
+    "end": 49.669
+   },
+   {
+    "word": "esto",
+    "start": 49.669,
+    "end": 49.911
+   },
+   {
+    "word": "\"mindlessness\"",
+    "start": 49.911,
+    "end": 50.825
+   },
+   {
+    "word": "—",
+    "start": 50.825,
+    "end": 50.886
+   }
+  ]
+ },
+ {
+  "id": "S03_F014",
+  "scene": "LECCIÓN 1 — El Piloto Automático",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "el piloto automático mental que activamos apenas algo se vuelve familiar.",
+  "visual": "A faint ghost-outline switch flips to an 'auto' position glowing softly, figure's eyes look slightly glazed, unfocused.",
+  "start": 51.077,
+  "end": 55.789,
+  "words": [
+   {
+    "word": "el",
+    "start": 51.268,
+    "end": 51.382
+   },
+   {
+    "word": "piloto",
+    "start": 51.382,
+    "end": 51.799
+   },
+   {
+    "word": "automático",
+    "start": 51.799,
+    "end": 52.369
+   },
+   {
+    "word": "mental",
+    "start": 52.369,
+    "end": 52.782
+   },
+   {
+    "word": "que",
+    "start": 52.782,
+    "end": 52.953
+   },
+   {
+    "word": "activamos",
+    "start": 52.953,
+    "end": 53.593
+   },
+   {
+    "word": "apenas",
+    "start": 53.593,
+    "end": 54.015
+   },
+   {
+    "word": "algo",
+    "start": 54.015,
+    "end": 54.244
+   },
+   {
+    "word": "se",
+    "start": 54.244,
+    "end": 54.358
+   },
+   {
+    "word": "vuelve",
+    "start": 54.358,
+    "end": 54.7
+   },
+   {
+    "word": "familiar.",
+    "start": 54.7,
+    "end": 55.156
+   }
+  ]
+ },
+ {
+  "id": "S03_F015",
+  "scene": "LECCIÓN 1 — El Piloto Automático",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Presta atención a esto: tu cerebro ahorra energía repitiendo,",
+  "visual": "Close-up, eyebrows raised in emphasis, a faint glowing battery icon beside the head shows energy being conserved.",
+  "start": 55.789,
+  "end": 60.206,
+  "words": [
+   {
+    "word": "Presta",
+    "start": 56.422,
+    "end": 56.782
+   },
+   {
+    "word": "atención",
+    "start": 56.782,
+    "end": 57.261
+   },
+   {
+    "word": "a",
+    "start": 57.261,
+    "end": 57.321
+   },
+   {
+    "word": "esto:",
+    "start": 57.321,
+    "end": 57.561
+   },
+   {
+    "word": "tu",
+    "start": 57.561,
+    "end": 57.681
+   },
+   {
+    "word": "cerebro",
+    "start": 57.681,
+    "end": 58.538
+   },
+   {
+    "word": "ahorra",
+    "start": 58.538,
+    "end": 58.897
+   },
+   {
+    "word": "energía",
+    "start": 58.897,
+    "end": 59.317
+   },
+   {
+    "word": "repitiendo,",
+    "start": 59.317,
+    "end": 59.999
+   }
+  ]
+ },
+ {
+  "id": "S03_F016",
+  "scene": "LECCIÓN 1 — El Piloto Automático",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "pero ese ahorro tiene un precio —",
+  "visual": "The battery icon flickers, a small crack of accent color appears across it, figure's expression shifts to slight concern.",
+  "start": 60.206,
+  "end": 62.024,
+  "words": [
+   {
+    "word": "pero",
+    "start": 60.414,
+    "end": 60.615
+   },
+   {
+    "word": "ese",
+    "start": 60.615,
+    "end": 60.766
+   },
+   {
+    "word": "ahorro",
+    "start": 60.766,
+    "end": 61.068
+   },
+   {
+    "word": "tiene",
+    "start": 61.068,
+    "end": 61.319
+   },
+   {
+    "word": "un",
+    "start": 61.319,
+    "end": 61.494
+   },
+   {
+    "word": "precio",
+    "start": 61.494,
+    "end": 61.796
+   },
+   {
+    "word": "—",
+    "start": 61.796,
+    "end": 61.846
+   }
+  ]
+ },
+ {
+  "id": "S03_F017",
+  "scene": "LECCIÓN 1 — El Piloto Automático",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "dejas de notar cuándo algo ya no te sirve.",
+  "visual": "Figure walks past a faint ghost-outline door that is slightly ajar, without turning to look at it, eyes fixed forward, flat expression.",
+  "start": 62.024,
+  "end": 64.919,
+  "words": [
+   {
+    "word": "dejas",
+    "start": 62.203,
+    "end": 62.486
+   },
+   {
+    "word": "de",
+    "start": 62.486,
+    "end": 62.599
+   },
+   {
+    "word": "notar",
+    "start": 62.599,
+    "end": 63.034
+   },
+   {
+    "word": "cuándo",
+    "start": 63.034,
+    "end": 63.374
+   },
+   {
+    "word": "algo",
+    "start": 63.374,
+    "end": 63.6
+   },
+   {
+    "word": "ya",
+    "start": 63.6,
+    "end": 63.714
+   },
+   {
+    "word": "no",
+    "start": 63.714,
+    "end": 63.91
+   },
+   {
+    "word": "te",
+    "start": 63.91,
+    "end": 64.024
+   },
+   {
+    "word": "sirve.",
+    "start": 64.024,
+    "end": 64.307
+   }
+  ]
+ },
+ {
+  "id": "S03_F018",
+  "scene": "LECCIÓN 1 — El Piloto Automático",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Aquí está lo que aprendí: cambiar una sola cosa pequeña en tu rutina —",
+  "visual": "Figure deliberately reaches with the opposite hand than usual toward the brushing-teeth motion, self-aware determined expression.",
+  "start": 64.919,
+  "end": 69.895,
+  "words": [
+   {
+    "word": "Aquí",
+    "start": 65.531,
+    "end": 65.779
+   },
+   {
+    "word": "está",
+    "start": 65.779,
+    "end": 66.027
+   },
+   {
+    "word": "lo",
+    "start": 66.027,
+    "end": 66.151
+   },
+   {
+    "word": "que",
+    "start": 66.151,
+    "end": 66.337
+   },
+   {
+    "word": "aprendí:",
+    "start": 66.337,
+    "end": 66.771
+   },
+   {
+    "word": "cambiar",
+    "start": 66.771,
+    "end": 67.611
+   },
+   {
+    "word": "una",
+    "start": 67.611,
+    "end": 67.797
+   },
+   {
+    "word": "sola",
+    "start": 67.797,
+    "end": 68.044
+   },
+   {
+    "word": "cosa",
+    "start": 68.044,
+    "end": 68.292
+   },
+   {
+    "word": "pequeña",
+    "start": 68.292,
+    "end": 68.817
+   },
+   {
+    "word": "en",
+    "start": 68.817,
+    "end": 68.941
+   },
+   {
+    "word": "tu",
+    "start": 68.941,
+    "end": 69.141
+   },
+   {
+    "word": "rutina",
+    "start": 69.141,
+    "end": 69.613
+   },
+   {
+    "word": "—",
+    "start": 69.613,
+    "end": 69.675
+   }
+  ]
+ },
+ {
+  "id": "S03_F019",
+  "scene": "LECCIÓN 1 — El Piloto Automático",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "la mano con la que te cepillas los dientes, la ruta al trabajo —",
+  "visual": "The looping triangle path from before bends slightly off its usual track, glowing faintly at the point of change.",
+  "start": 69.895,
+  "end": 73.911,
+  "words": [
+   {
+    "word": "la",
+    "start": 70.115,
+    "end": 70.233
+   },
+   {
+    "word": "mano",
+    "start": 70.233,
+    "end": 70.467
+   },
+   {
+    "word": "con",
+    "start": 70.467,
+    "end": 70.643
+   },
+   {
+    "word": "la",
+    "start": 70.643,
+    "end": 70.76
+   },
+   {
+    "word": "que",
+    "start": 70.76,
+    "end": 70.936
+   },
+   {
+    "word": "te",
+    "start": 70.936,
+    "end": 71.054
+   },
+   {
+    "word": "cepillas",
+    "start": 71.054,
+    "end": 71.614
+   },
+   {
+    "word": "los",
+    "start": 71.614,
+    "end": 71.79
+   },
+   {
+    "word": "dientes,",
+    "start": 71.79,
+    "end": 72.2
+   },
+   {
+    "word": "la",
+    "start": 72.2,
+    "end": 72.789
+   },
+   {
+    "word": "ruta",
+    "start": 72.789,
+    "end": 73.024
+   },
+   {
+    "word": "al",
+    "start": 73.024,
+    "end": 73.22
+   },
+   {
+    "word": "trabajo",
+    "start": 73.22,
+    "end": 73.63
+   },
+   {
+    "word": "—",
+    "start": 73.63,
+    "end": 73.689
+   }
+  ]
+ },
+ {
+  "id": "S03_F020",
+  "scene": "LECCIÓN 1 — El Piloto Automático",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "obliga a tu cerebro a prestar atención de nuevo.",
+  "visual": "Close-up, eyes suddenly more alert and focused, eyebrows raised, the fog/haze motif from before clears around the head.",
+  "start": 73.911,
+  "end": 77.091,
+  "words": [
+   {
+    "word": "obliga",
+    "start": 74.037,
+    "end": 74.374
+   },
+   {
+    "word": "a",
+    "start": 74.374,
+    "end": 74.43
+   },
+   {
+    "word": "tu",
+    "start": 74.43,
+    "end": 74.634
+   },
+   {
+    "word": "cerebro",
+    "start": 74.634,
+    "end": 75.028
+   },
+   {
+    "word": "a",
+    "start": 75.028,
+    "end": 75.084
+   },
+   {
+    "word": "prestar",
+    "start": 75.084,
+    "end": 75.553
+   },
+   {
+    "word": "atención",
+    "start": 75.553,
+    "end": 76.074
+   },
+   {
+    "word": "de",
+    "start": 76.074,
+    "end": 76.187
+   },
+   {
+    "word": "nuevo.",
+    "start": 76.187,
+    "end": 76.468
+   }
+  ]
+ },
+ {
+  "id": "S03_F021",
+  "scene": "LECCIÓN 1 — El Piloto Automático",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Cuando empecé a hacerlo, noté algo incómodo:",
+  "visual": "Figure pauses mid-step, uneasy realization expression, brow slightly furrowed.",
+  "start": 77.091,
+  "end": 80.564,
+  "words": [
+   {
+    "word": "Cuando",
+    "start": 77.714,
+    "end": 78.089
+   },
+   {
+    "word": "empecé",
+    "start": 78.089,
+    "end": 78.465
+   },
+   {
+    "word": "a",
+    "start": 78.465,
+    "end": 78.527
+   },
+   {
+    "word": "hacerlo,",
+    "start": 78.527,
+    "end": 79.343
+   },
+   {
+    "word": "noté",
+    "start": 79.343,
+    "end": 79.594
+   },
+   {
+    "word": "algo",
+    "start": 79.594,
+    "end": 79.844
+   },
+   {
+    "word": "incómodo:",
+    "start": 79.844,
+    "end": 80.344
+   }
+  ]
+ },
+ {
+  "id": "S03_F022",
+  "scene": "LECCIÓN 1 — El Piloto Automático",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "la mitad de mis \"decisiones\" diarias no eran decisiones.",
+  "visual": "Close-up, unsettled realization expression, a faint ghost-outline scale/balance icon tips completely to one side, unbalanced.",
+  "start": 80.564,
+  "end": 85.087,
+  "words": [
+   {
+    "word": "la",
+    "start": 80.784,
+    "end": 80.931
+   },
+   {
+    "word": "mitad",
+    "start": 80.931,
+    "end": 81.3
+   },
+   {
+    "word": "de",
+    "start": 81.3,
+    "end": 81.448
+   },
+   {
+    "word": "mis",
+    "start": 81.448,
+    "end": 81.814
+   },
+   {
+    "word": "\"decisiones\"",
+    "start": 81.814,
+    "end": 82.553
+   },
+   {
+    "word": "diarias",
+    "start": 82.553,
+    "end": 83.301
+   },
+   {
+    "word": "no",
+    "start": 83.301,
+    "end": 83.448
+   },
+   {
+    "word": "eran",
+    "start": 83.448,
+    "end": 83.744
+   },
+   {
+    "word": "decisiones.",
+    "start": 83.744,
+    "end": 84.482
+   }
+  ]
+ },
+ {
+  "id": "S03_F023",
+  "scene": "LECCIÓN 1 — El Piloto Automático",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Eran repeticiones con piloto automático.",
+  "visual": "Wide shot, figure stands still in the center of the looping path from the first frame, now visibly aware of the loop around them, resigned but clear-eyed expression.",
+  "start": 85.087,
+  "end": 88.744,
+  "words": [
+   {
+    "word": "Eran",
+    "start": 85.692,
+    "end": 85.938
+   },
+   {
+    "word": "repeticiones",
+    "start": 85.938,
+    "end": 86.675
+   },
+   {
+    "word": "con",
+    "start": 86.675,
+    "end": 86.859
+   },
+   {
+    "word": "piloto",
+    "start": 86.859,
+    "end": 87.228
+   },
+   {
+    "word": "automático.",
+    "start": 87.228,
+    "end": 88.1
+   }
+  ]
+ },
+ {
+  "id": "S04_F024",
+  "scene": "LECCIÓN 2 — Esperar Sentirte Listo",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Lección dos: esperar sentirte listo es la trampa más cara que existe.",
+  "visual": "Figure stands at the edge of a faint glowing threshold/doorway, hesitant expression, one foot not quite stepping through.",
+  "start": 88.744,
+  "end": 94.292,
+  "words": [
+   {
+    "word": "Lección",
+    "start": 89.388,
+    "end": 89.861
+   },
+   {
+    "word": "dos:",
+    "start": 89.861,
+    "end": 90.064
+   },
+   {
+    "word": "esperar",
+    "start": 90.064,
+    "end": 90.976
+   },
+   {
+    "word": "sentirte",
+    "start": 90.976,
+    "end": 91.591
+   },
+   {
+    "word": "listo",
+    "start": 91.591,
+    "end": 91.93
+   },
+   {
+    "word": "es",
+    "start": 91.93,
+    "end": 92.065
+   },
+   {
+    "word": "la",
+    "start": 92.065,
+    "end": 92.2
+   },
+   {
+    "word": "trampa",
+    "start": 92.2,
+    "end": 92.607
+   },
+   {
+    "word": "más",
+    "start": 92.607,
+    "end": 92.81
+   },
+   {
+    "word": "cara",
+    "start": 92.81,
+    "end": 93.08
+   },
+   {
+    "word": "que",
+    "start": 93.08,
+    "end": 93.283
+   },
+   {
+    "word": "existe.",
+    "start": 93.283,
+    "end": 93.689
+   }
+  ]
+ },
+ {
+  "id": "S04_F025",
+  "scene": "LECCIÓN 2 — Esperar Sentirte Listo",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Pasé años posponiendo cosas importantes porque \"todavía no me sentía preparado\" —",
+  "visual": "Multiple faint overlapping ghost-outline calendar pages pile up behind the figure, each showing the same unfinished threshold, weary expression.",
+  "start": 94.292,
+  "end": 99.449,
+  "words": [
+   {
+    "word": "Pasé",
+    "start": 94.895,
+    "end": 95.11
+   },
+   {
+    "word": "años",
+    "start": 95.11,
+    "end": 95.325
+   },
+   {
+    "word": "posponiendo",
+    "start": 95.325,
+    "end": 96.078
+   },
+   {
+    "word": "cosas",
+    "start": 96.078,
+    "end": 96.346
+   },
+   {
+    "word": "importantes",
+    "start": 96.346,
+    "end": 97.024
+   },
+   {
+    "word": "porque",
+    "start": 97.024,
+    "end": 97.513
+   },
+   {
+    "word": "\"todavía",
+    "start": 97.513,
+    "end": 98.107
+   },
+   {
+    "word": "no",
+    "start": 98.107,
+    "end": 98.215
+   },
+   {
+    "word": "me",
+    "start": 98.215,
+    "end": 98.322
+   },
+   {
+    "word": "sentía",
+    "start": 98.322,
+    "end": 98.644
+   },
+   {
+    "word": "preparado\"",
+    "start": 98.644,
+    "end": 99.2
+   },
+   {
+    "word": "—",
+    "start": 99.2,
+    "end": 99.254
+   }
+  ]
+ },
+ {
+  "id": "S04_F026",
+  "scene": "LECCIÓN 2 — Esperar Sentirte Listo",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "como si la preparación fuera un sentimiento que llega solo, antes de actuar.",
+  "visual": "Close-up, contemplative slightly frustrated expression, a faint glowing feeling-icon (a small heart/spark) floats just out of reach of an outstretched hand.",
+  "start": 99.449,
+  "end": 104.41,
+  "words": [
+   {
+    "word": "como",
+    "start": 99.645,
+    "end": 99.87
+   },
+   {
+    "word": "si",
+    "start": 99.87,
+    "end": 99.982
+   },
+   {
+    "word": "la",
+    "start": 99.982,
+    "end": 100.095
+   },
+   {
+    "word": "preparación",
+    "start": 100.095,
+    "end": 100.713
+   },
+   {
+    "word": "fuera",
+    "start": 100.713,
+    "end": 100.994
+   },
+   {
+    "word": "un",
+    "start": 100.994,
+    "end": 101.106
+   },
+   {
+    "word": "sentimiento",
+    "start": 101.106,
+    "end": 101.724
+   },
+   {
+    "word": "que",
+    "start": 101.724,
+    "end": 101.892
+   },
+   {
+    "word": "llega",
+    "start": 101.892,
+    "end": 102.173
+   },
+   {
+    "word": "solo,",
+    "start": 102.173,
+    "end": 102.398
+   },
+   {
+    "word": "antes",
+    "start": 102.398,
+    "end": 103.195
+   },
+   {
+    "word": "de",
+    "start": 103.195,
+    "end": 103.307
+   },
+   {
+    "word": "actuar.",
+    "start": 103.307,
+    "end": 103.773
+   }
+  ]
+ },
+ {
+  "id": "S04_F027",
+  "scene": "LECCIÓN 2 — Esperar Sentirte Listo",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "La autora Mel Robbins documentó lo contrario en su \"regla de los cinco segundos\":",
+  "visual": "A faint glowing accent-colored countdown \"5-4-3-2-1\" arcs across the frame, figure watches it with focused anticipation.",
+  "start": 104.41,
+  "end": 109.651,
+  "words": [
+   {
+    "word": "La",
+    "start": 105.048,
+    "end": 105.177
+   },
+   {
+    "word": "autora",
+    "start": 105.177,
+    "end": 105.563
+   },
+   {
+    "word": "Mel",
+    "start": 105.563,
+    "end": 105.756
+   },
+   {
+    "word": "Robbins",
+    "start": 105.756,
+    "end": 106.207
+   },
+   {
+    "word": "documentó",
+    "start": 106.207,
+    "end": 106.786
+   },
+   {
+    "word": "lo",
+    "start": 106.786,
+    "end": 106.915
+   },
+   {
+    "word": "contrario",
+    "start": 106.915,
+    "end": 107.495
+   },
+   {
+    "word": "en",
+    "start": 107.495,
+    "end": 107.623
+   },
+   {
+    "word": "su",
+    "start": 107.623,
+    "end": 107.945
+   },
+   {
+    "word": "\"regla",
+    "start": 107.945,
+    "end": 108.267
+   },
+   {
+    "word": "de",
+    "start": 108.267,
+    "end": 108.396
+   },
+   {
+    "word": "los",
+    "start": 108.396,
+    "end": 108.589
+   },
+   {
+    "word": "cinco",
+    "start": 108.589,
+    "end": 108.911
+   },
+   {
+    "word": "segundos\":",
+    "start": 108.911,
+    "end": 109.426
+   }
+  ]
+ },
+ {
+  "id": "S04_F028",
+  "scene": "LECCIÓN 2 — Esperar Sentirte Listo",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "la motivación casi nunca llega antes de la acción —",
+  "visual": "The feeling-icon spark from before stays dim and distant, while the figure begins moving forward regardless, determined expression.",
+  "start": 109.651,
+  "end": 112.583,
+  "words": [
+   {
+    "word": "la",
+    "start": 109.876,
+    "end": 109.998
+   },
+   {
+    "word": "motivación",
+    "start": 109.998,
+    "end": 110.609
+   },
+   {
+    "word": "casi",
+    "start": 110.609,
+    "end": 110.854
+   },
+   {
+    "word": "nunca",
+    "start": 110.854,
+    "end": 111.159
+   },
+   {
+    "word": "llega",
+    "start": 111.159,
+    "end": 111.464
+   },
+   {
+    "word": "antes",
+    "start": 111.464,
+    "end": 111.77
+   },
+   {
+    "word": "de",
+    "start": 111.77,
+    "end": 111.892
+   },
+   {
+    "word": "la",
+    "start": 111.892,
+    "end": 112.014
+   },
+   {
+    "word": "acción",
+    "start": 112.014,
+    "end": 112.381
+   },
+   {
+    "word": "—",
+    "start": 112.381,
+    "end": 112.442
+   }
+  ]
+ },
+ {
+  "id": "S04_F029",
+  "scene": "LECCIÓN 2 — Esperar Sentirte Listo",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "llega después, como consecuencia de haber empezado.",
+  "visual": "Close-up, the spark icon suddenly brightens right as the figure's foot crosses the threshold, surprised pleased expression.",
+  "start": 112.583,
+  "end": 116.204,
+  "words": [
+   {
+    "word": "llega",
+    "start": 112.724,
+    "end": 113.002
+   },
+   {
+    "word": "después,",
+    "start": 113.002,
+    "end": 113.491
+   },
+   {
+    "word": "como",
+    "start": 113.491,
+    "end": 114.074
+   },
+   {
+    "word": "consecuencia",
+    "start": 114.074,
+    "end": 114.742
+   },
+   {
+    "word": "de",
+    "start": 114.742,
+    "end": 114.853
+   },
+   {
+    "word": "haber",
+    "start": 114.853,
+    "end": 115.131
+   },
+   {
+    "word": "empezado.",
+    "start": 115.131,
+    "end": 115.576
+   }
+  ]
+ },
+ {
+  "id": "S04_F030",
+  "scene": "LECCIÓN 2 — Esperar Sentirte Listo",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Esto es lo que nadie te dice: tu cerebro interpreta la duda como una señal de peligro,",
+  "visual": "Figure's eyes widen slightly, tense alert expression, a faint red-orange warning glow briefly outlines the hesitant posture.",
+  "start": 116.204,
+  "end": 121.707,
+  "words": [
+   {
+    "word": "Esto",
+    "start": 116.833,
+    "end": 117.075
+   },
+   {
+    "word": "es",
+    "start": 117.075,
+    "end": 117.196
+   },
+   {
+    "word": "lo",
+    "start": 117.196,
+    "end": 117.317
+   },
+   {
+    "word": "que",
+    "start": 117.317,
+    "end": 117.499
+   },
+   {
+    "word": "nadie",
+    "start": 117.499,
+    "end": 117.801
+   },
+   {
+    "word": "te",
+    "start": 117.801,
+    "end": 117.923
+   },
+   {
+    "word": "dice:",
+    "start": 117.923,
+    "end": 118.165
+   },
+   {
+    "word": "tu",
+    "start": 118.165,
+    "end": 118.286
+   },
+   {
+    "word": "cerebro",
+    "start": 118.286,
+    "end": 119.138
+   },
+   {
+    "word": "interpreta",
+    "start": 119.138,
+    "end": 119.826
+   },
+   {
+    "word": "la",
+    "start": 119.826,
+    "end": 119.947
+   },
+   {
+    "word": "duda",
+    "start": 119.947,
+    "end": 120.189
+   },
+   {
+    "word": "como",
+    "start": 120.189,
+    "end": 120.431
+   },
+   {
+    "word": "una",
+    "start": 120.431,
+    "end": 120.613
+   },
+   {
+    "word": "señal",
+    "start": 120.613,
+    "end": 120.915
+   },
+   {
+    "word": "de",
+    "start": 120.915,
+    "end": 121.036
+   },
+   {
+    "word": "peligro,",
+    "start": 121.036,
+    "end": 121.532
+   }
+  ]
+ },
+ {
+  "id": "S04_F031",
+  "scene": "LECCIÓN 2 — Esperar Sentirte Listo",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "y entre más lo piensas, más miedo genera, no menos.",
+  "visual": "The warning glow grows larger and more chaotic the longer the figure stands still, increasingly anxious expression.",
+  "start": 121.707,
+  "end": 125.867,
+  "words": [
+   {
+    "word": "y",
+    "start": 121.883,
+    "end": 121.952
+   },
+   {
+    "word": "entre",
+    "start": 121.952,
+    "end": 122.297
+   },
+   {
+    "word": "más",
+    "start": 122.297,
+    "end": 122.504
+   },
+   {
+    "word": "lo",
+    "start": 122.504,
+    "end": 122.739
+   },
+   {
+    "word": "piensas,",
+    "start": 122.739,
+    "end": 123.503
+   },
+   {
+    "word": "más",
+    "start": 123.503,
+    "end": 123.711
+   },
+   {
+    "word": "miedo",
+    "start": 123.711,
+    "end": 124.056
+   },
+   {
+    "word": "genera,",
+    "start": 124.056,
+    "end": 124.777
+   },
+   {
+    "word": "no",
+    "start": 124.777,
+    "end": 124.915
+   },
+   {
+    "word": "menos.",
+    "start": 124.915,
+    "end": 125.26
+   }
+  ]
+ },
+ {
+  "id": "S04_F032",
+  "scene": "LECCIÓN 2 — Esperar Sentirte Listo",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Aquí está lo que aprendí: cuenta hacia atrás desde cinco,",
+  "visual": "Figure straightens posture, the countdown arc from before reappears glowing steadily, determined focused expression.",
+  "start": 125.867,
+  "end": 129.988,
+  "words": [
+   {
+    "word": "Aquí",
+    "start": 126.474,
+    "end": 126.717
+   },
+   {
+    "word": "está",
+    "start": 126.717,
+    "end": 126.959
+   },
+   {
+    "word": "lo",
+    "start": 126.959,
+    "end": 127.081
+   },
+   {
+    "word": "que",
+    "start": 127.081,
+    "end": 127.262
+   },
+   {
+    "word": "aprendí:",
+    "start": 127.262,
+    "end": 127.687
+   },
+   {
+    "word": "cuenta",
+    "start": 127.687,
+    "end": 128.441
+   },
+   {
+    "word": "hacia",
+    "start": 128.441,
+    "end": 128.815
+   },
+   {
+    "word": "atrás",
+    "start": 128.815,
+    "end": 129.118
+   },
+   {
+    "word": "desde",
+    "start": 129.118,
+    "end": 129.422
+   },
+   {
+    "word": "cinco,",
+    "start": 129.422,
+    "end": 129.803
+   }
+  ]
+ },
+ {
+  "id": "S04_F033",
+  "scene": "LECCIÓN 2 — Esperar Sentirte Listo",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "y muévete físicamente antes de que la duda tenga tiempo de instalarse.",
+  "visual": "Figure steps decisively forward through the threshold, warning glow dissolving behind them, resolute expression.",
+  "start": 129.988,
+  "end": 134.315,
+  "words": [
+   {
+    "word": "y",
+    "start": 130.172,
+    "end": 130.232
+   },
+   {
+    "word": "muévete",
+    "start": 130.232,
+    "end": 130.649
+   },
+   {
+    "word": "físicamente",
+    "start": 130.649,
+    "end": 131.305
+   },
+   {
+    "word": "antes",
+    "start": 131.305,
+    "end": 131.603
+   },
+   {
+    "word": "de",
+    "start": 131.603,
+    "end": 131.722
+   },
+   {
+    "word": "que",
+    "start": 131.722,
+    "end": 131.901
+   },
+   {
+    "word": "la",
+    "start": 131.901,
+    "end": 132.02
+   },
+   {
+    "word": "duda",
+    "start": 132.02,
+    "end": 132.259
+   },
+   {
+    "word": "tenga",
+    "start": 132.259,
+    "end": 132.557
+   },
+   {
+    "word": "tiempo",
+    "start": 132.557,
+    "end": 132.994
+   },
+   {
+    "word": "de",
+    "start": 132.994,
+    "end": 133.113
+   },
+   {
+    "word": "instalarse.",
+    "start": 133.113,
+    "end": 133.709
+   }
+  ]
+ },
+ {
+  "id": "S04_F034",
+  "scene": "LECCIÓN 2 — Esperar Sentirte Listo",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "No se siente valiente. Se siente incómodo.",
+  "visual": "Close-up, a mixed uneasy-but-resolute expression, slight grimace but steady eyes.",
+  "start": 134.315,
+  "end": 138.972,
+  "words": [
+   {
+    "word": "No",
+    "start": 134.921,
+    "end": 135.05
+   },
+   {
+    "word": "se",
+    "start": 135.05,
+    "end": 135.18
+   },
+   {
+    "word": "siente",
+    "start": 135.18,
+    "end": 135.567
+   },
+   {
+    "word": "valiente.",
+    "start": 135.567,
+    "end": 136.172
+   },
+   {
+    "word": "Se",
+    "start": 136.172,
+    "end": 137.441
+   },
+   {
+    "word": "siente",
+    "start": 137.441,
+    "end": 137.829
+   },
+   {
+    "word": "incómodo.",
+    "start": 137.829,
+    "end": 138.346
+   }
+  ]
+ },
+ {
+  "id": "S04_F035",
+  "scene": "LECCIÓN 2 — Esperar Sentirte Listo",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Pero es la única forma en que la \"preparación\" llega — actuando primero.",
+  "visual": "Wide shot, figure now stands fully on the other side of the threshold, the feeling-spark icon now glowing warmly right beside them, calm satisfied expression.",
+  "start": 138.972,
+  "end": 144.334,
+  "words": [
+   {
+    "word": "Pero",
+    "start": 139.599,
+    "end": 139.832
+   },
+   {
+    "word": "es",
+    "start": 139.832,
+    "end": 139.948
+   },
+   {
+    "word": "la",
+    "start": 139.948,
+    "end": 140.065
+   },
+   {
+    "word": "única",
+    "start": 140.065,
+    "end": 140.356
+   },
+   {
+    "word": "forma",
+    "start": 140.356,
+    "end": 140.647
+   },
+   {
+    "word": "en",
+    "start": 140.647,
+    "end": 140.764
+   },
+   {
+    "word": "que",
+    "start": 140.764,
+    "end": 140.938
+   },
+   {
+    "word": "la",
+    "start": 140.938,
+    "end": 141.055
+   },
+   {
+    "word": "\"preparación\"",
+    "start": 141.055,
+    "end": 141.878
+   },
+   {
+    "word": "llega",
+    "start": 141.878,
+    "end": 142.296
+   },
+   {
+    "word": "—",
+    "start": 142.296,
+    "end": 142.355
+   },
+   {
+    "word": "actuando",
+    "start": 142.355,
+    "end": 143.228
+   },
+   {
+    "word": "primero.",
+    "start": 143.228,
+    "end": 143.712
+   }
+  ]
+ },
+ {
+  "id": "S05_F036",
+  "scene": "LECCIÓN 3 — Decir Sí a Todo",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Lección tres: decir que sí a todo no te hacía mejor persona —",
+  "visual": "Figure stands surrounded by multiple faint ghost-outline hands reaching in from all sides, overwhelmed but outwardly composed expression.",
+  "start": 144.334,
+  "end": 148.754,
+  "words": [
+   {
+    "word": "Lección",
+    "start": 144.955,
+    "end": 145.389
+   },
+   {
+    "word": "tres:",
+    "start": 145.389,
+    "end": 145.71
+   },
+   {
+    "word": "decir",
+    "start": 145.71,
+    "end": 146.306
+   },
+   {
+    "word": "que",
+    "start": 146.306,
+    "end": 146.492
+   },
+   {
+    "word": "sí",
+    "start": 146.492,
+    "end": 146.695
+   },
+   {
+    "word": "a",
+    "start": 146.695,
+    "end": 146.757
+   },
+   {
+    "word": "todo",
+    "start": 146.757,
+    "end": 147.089
+   },
+   {
+    "word": "no",
+    "start": 147.089,
+    "end": 147.213
+   },
+   {
+    "word": "te",
+    "start": 147.213,
+    "end": 147.337
+   },
+   {
+    "word": "hacía",
+    "start": 147.337,
+    "end": 147.647
+   },
+   {
+    "word": "mejor",
+    "start": 147.647,
+    "end": 147.956
+   },
+   {
+    "word": "persona",
+    "start": 147.956,
+    "end": 148.508
+   },
+   {
+    "word": "—",
+    "start": 148.508,
+    "end": 148.57
+   }
+  ]
+ },
+ {
+  "id": "S05_F037",
+  "scene": "LECCIÓN 3 — Decir Sí a Todo",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "te hacía resentido en silencio.",
+  "visual": "Close-up shift to a tight, forced smile while the eyes betray quiet resentment, subtle tension in the brow.",
+  "start": 148.754,
+  "end": 151.169,
+  "words": [
+   {
+    "word": "te",
+    "start": 148.937,
+    "end": 149.061
+   },
+   {
+    "word": "hacía",
+    "start": 149.061,
+    "end": 149.372
+   },
+   {
+    "word": "resentido",
+    "start": 149.372,
+    "end": 149.932
+   },
+   {
+    "word": "en",
+    "start": 149.932,
+    "end": 150.056
+   },
+   {
+    "word": "silencio.",
+    "start": 150.056,
+    "end": 150.554
+   }
+  ]
+ },
+ {
+  "id": "S05_F038",
+  "scene": "LECCIÓN 3 — Decir Sí a Todo",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Durante años confundí ser amable con no poner límites,",
+  "visual": "Figure stands with no boundary line around them at all, the reaching ghost-outline hands freely crossing into their space.",
+  "start": 151.169,
+  "end": 155.157,
+  "words": [
+   {
+    "word": "Durante",
+    "start": 151.785,
+    "end": 152.248
+   },
+   {
+    "word": "años",
+    "start": 152.248,
+    "end": 152.513
+   },
+   {
+    "word": "confundí",
+    "start": 152.513,
+    "end": 153.042
+   },
+   {
+    "word": "ser",
+    "start": 153.042,
+    "end": 153.24
+   },
+   {
+    "word": "amable",
+    "start": 153.24,
+    "end": 153.637
+   },
+   {
+    "word": "con",
+    "start": 153.637,
+    "end": 153.836
+   },
+   {
+    "word": "no",
+    "start": 153.836,
+    "end": 153.968
+   },
+   {
+    "word": "poner",
+    "start": 153.968,
+    "end": 154.404
+   },
+   {
+    "word": "límites,",
+    "start": 154.404,
+    "end": 154.948
+   }
+  ]
+ },
+ {
+  "id": "S05_F039",
+  "scene": "LECCIÓN 3 — Decir Sí a Todo",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "hasta que terminaba haciendo compromisos que después cumplía de mal humor.",
+  "visual": "Figure slumps slightly while carrying several faint glowing obligation-icons stacked on their shoulders, tired irritated expression.",
+  "start": 155.157,
+  "end": 159.375,
+  "words": [
+   {
+    "word": "hasta",
+    "start": 155.366,
+    "end": 155.619
+   },
+   {
+    "word": "que",
+    "start": 155.619,
+    "end": 155.77
+   },
+   {
+    "word": "terminaba",
+    "start": 155.77,
+    "end": 156.225
+   },
+   {
+    "word": "haciendo",
+    "start": 156.225,
+    "end": 156.629
+   },
+   {
+    "word": "compromisos",
+    "start": 156.629,
+    "end": 157.185
+   },
+   {
+    "word": "que",
+    "start": 157.185,
+    "end": 157.42
+   },
+   {
+    "word": "después",
+    "start": 157.42,
+    "end": 157.873
+   },
+   {
+    "word": "cumplía",
+    "start": 157.873,
+    "end": 158.227
+   },
+   {
+    "word": "de",
+    "start": 158.227,
+    "end": 158.328
+   },
+   {
+    "word": "mal",
+    "start": 158.328,
+    "end": 158.479
+   },
+   {
+    "word": "humor.",
+    "start": 158.479,
+    "end": 158.732
+   }
+  ]
+ },
+ {
+  "id": "S05_F040",
+  "scene": "LECCIÓN 3 — Decir Sí a Todo",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "La investigadora Brené Brown resume esto en una frase que debería estar en cada oficina:",
+  "visual": "Close-up, thoughtful narrating expression, a faint glowing speech-bubble icon forms beside the head, empty and waiting.",
+  "start": 159.375,
+  "end": 164.706,
+  "words": [
+   {
+    "word": "La",
+    "start": 160.017,
+    "end": 160.135
+   },
+   {
+    "word": "investigadora",
+    "start": 160.135,
+    "end": 160.906
+   },
+   {
+    "word": "Brené",
+    "start": 160.906,
+    "end": 161.202
+   },
+   {
+    "word": "Brown",
+    "start": 161.202,
+    "end": 161.498
+   },
+   {
+    "word": "resume",
+    "start": 161.498,
+    "end": 161.854
+   },
+   {
+    "word": "esto",
+    "start": 161.854,
+    "end": 162.091
+   },
+   {
+    "word": "en",
+    "start": 162.091,
+    "end": 162.209
+   },
+   {
+    "word": "una",
+    "start": 162.209,
+    "end": 162.387
+   },
+   {
+    "word": "frase",
+    "start": 162.387,
+    "end": 162.683
+   },
+   {
+    "word": "que",
+    "start": 162.683,
+    "end": 162.939
+   },
+   {
+    "word": "debería",
+    "start": 162.939,
+    "end": 163.354
+   },
+   {
+    "word": "estar",
+    "start": 163.354,
+    "end": 163.65
+   },
+   {
+    "word": "en",
+    "start": 163.65,
+    "end": 163.856
+   },
+   {
+    "word": "cada",
+    "start": 163.856,
+    "end": 164.093
+   },
+   {
+    "word": "oficina:",
+    "start": 164.093,
+    "end": 164.508
+   }
+  ]
+ },
+ {
+  "id": "S05_F041",
+  "scene": "LECCIÓN 3 — Decir Sí a Todo",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "\"claro es amable, no claro es cruel\".",
+  "visual": "The speech bubble fills with a simple glowing accent-colored line, figure's expression turns calm and clear-eyed.",
+  "start": 164.706,
+  "end": 167.605,
+  "words": [
+   {
+    "word": "\"claro",
+    "start": 164.904,
+    "end": 165.191
+   },
+   {
+    "word": "es",
+    "start": 165.191,
+    "end": 165.306
+   },
+   {
+    "word": "amable,",
+    "start": 165.306,
+    "end": 165.651
+   },
+   {
+    "word": "no",
+    "start": 165.651,
+    "end": 166.22
+   },
+   {
+    "word": "claro",
+    "start": 166.22,
+    "end": 166.508
+   },
+   {
+    "word": "es",
+    "start": 166.508,
+    "end": 166.623
+   },
+   {
+    "word": "cruel\".",
+    "start": 166.623,
+    "end": 166.984
+   }
+  ]
+ },
+ {
+  "id": "S05_F042",
+  "scene": "LECCIÓN 3 — Decir Sí a Todo",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Y esto es lo que cambia todo: cuando no dices lo que realmente piensas por miedo a incomodar,",
+  "visual": "Figure holds back words, mouth slightly closed, one of the reaching ghost-outline hands lingers uncomfortably close, tense restrained expression.",
+  "start": 167.605,
+  "end": 173.188,
+  "words": [
+   {
+    "word": "Y",
+    "start": 168.226,
+    "end": 168.279
+   },
+   {
+    "word": "esto",
+    "start": 168.279,
+    "end": 168.491
+   },
+   {
+    "word": "es",
+    "start": 168.491,
+    "end": 168.598
+   },
+   {
+    "word": "lo",
+    "start": 168.598,
+    "end": 168.704
+   },
+   {
+    "word": "que",
+    "start": 168.704,
+    "end": 168.863
+   },
+   {
+    "word": "cambia",
+    "start": 168.863,
+    "end": 169.259
+   },
+   {
+    "word": "todo:",
+    "start": 169.259,
+    "end": 169.549
+   },
+   {
+    "word": "cuando",
+    "start": 169.549,
+    "end": 170.241
+   },
+   {
+    "word": "no",
+    "start": 170.241,
+    "end": 170.347
+   },
+   {
+    "word": "dices",
+    "start": 170.347,
+    "end": 170.613
+   },
+   {
+    "word": "lo",
+    "start": 170.613,
+    "end": 170.719
+   },
+   {
+    "word": "que",
+    "start": 170.719,
+    "end": 170.878
+   },
+   {
+    "word": "realmente",
+    "start": 170.878,
+    "end": 171.356
+   },
+   {
+    "word": "piensas",
+    "start": 171.356,
+    "end": 171.817
+   },
+   {
+    "word": "por",
+    "start": 171.817,
+    "end": 172.082
+   },
+   {
+    "word": "miedo",
+    "start": 172.082,
+    "end": 172.347
+   },
+   {
+    "word": "a",
+    "start": 172.347,
+    "end": 172.4
+   },
+   {
+    "word": "incomodar,",
+    "start": 172.4,
+    "end": 172.958
+   }
+  ]
+ },
+ {
+  "id": "S05_F043",
+  "scene": "LECCIÓN 3 — Decir Sí a Todo",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "no estás siendo generoso — estás pasándole la incomodidad a la otra persona, más tarde y más grande.",
+  "visual": "The lingering hand's ghost-outline grows larger and darker the longer it's left unaddressed, figure looks increasingly weary.",
+  "start": 173.188,
+  "end": 179.618,
+  "words": [
+   {
+    "word": "no",
+    "start": 173.418,
+    "end": 173.535
+   },
+   {
+    "word": "estás",
+    "start": 173.535,
+    "end": 173.827
+   },
+   {
+    "word": "siendo",
+    "start": 173.827,
+    "end": 174.178
+   },
+   {
+    "word": "generoso",
+    "start": 174.178,
+    "end": 174.645
+   },
+   {
+    "word": "—",
+    "start": 174.645,
+    "end": 175.016
+   },
+   {
+    "word": "estás",
+    "start": 175.016,
+    "end": 175.389
+   },
+   {
+    "word": "pasándole",
+    "start": 175.389,
+    "end": 175.915
+   },
+   {
+    "word": "la",
+    "start": 175.915,
+    "end": 176.106
+   },
+   {
+    "word": "incomodidad",
+    "start": 176.106,
+    "end": 176.749
+   },
+   {
+    "word": "a",
+    "start": 176.749,
+    "end": 176.808
+   },
+   {
+    "word": "la",
+    "start": 176.808,
+    "end": 176.924
+   },
+   {
+    "word": "otra",
+    "start": 176.924,
+    "end": 177.24
+   },
+   {
+    "word": "persona,",
+    "start": 177.24,
+    "end": 177.906
+   },
+   {
+    "word": "más",
+    "start": 177.906,
+    "end": 178.082
+   },
+   {
+    "word": "tarde",
+    "start": 178.082,
+    "end": 178.374
+   },
+   {
+    "word": "y",
+    "start": 178.374,
+    "end": 178.432
+   },
+   {
+    "word": "más",
+    "start": 178.432,
+    "end": 178.607
+   },
+   {
+    "word": "grande.",
+    "start": 178.607,
+    "end": 178.958
+   }
+  ]
+ },
+ {
+  "id": "S05_F044",
+  "scene": "LECCIÓN 3 — Decir Sí a Todo",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Aquí está lo que aprendí: un \"no\" claro y respetuoso, dicho a tiempo,",
+  "visual": "Close-up, calm firm expression, a small glowing accent-colored boundary line now clearly drawn around the figure.",
+  "start": 179.618,
+  "end": 185.291,
+  "words": [
+   {
+    "word": "Aquí",
+    "start": 180.278,
+    "end": 180.551
+   },
+   {
+    "word": "está",
+    "start": 180.551,
+    "end": 180.823
+   },
+   {
+    "word": "lo",
+    "start": 180.823,
+    "end": 180.96
+   },
+   {
+    "word": "que",
+    "start": 180.96,
+    "end": 181.164
+   },
+   {
+    "word": "aprendí:",
+    "start": 181.164,
+    "end": 182.01
+   },
+   {
+    "word": "un",
+    "start": 182.01,
+    "end": 182.297
+   },
+   {
+    "word": "\"no\"",
+    "start": 182.297,
+    "end": 182.433
+   },
+   {
+    "word": "claro",
+    "start": 182.433,
+    "end": 183.012
+   },
+   {
+    "word": "y",
+    "start": 183.012,
+    "end": 183.08
+   },
+   {
+    "word": "respetuoso,",
+    "start": 183.08,
+    "end": 183.928
+   },
+   {
+    "word": "dicho",
+    "start": 183.928,
+    "end": 184.612
+   },
+   {
+    "word": "a",
+    "start": 184.612,
+    "end": 184.68
+   },
+   {
+    "word": "tiempo,",
+    "start": 184.68,
+    "end": 185.089
+   }
+  ]
+ },
+ {
+  "id": "S05_F045",
+  "scene": "LECCIÓN 3 — Decir Sí a Todo",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "lastima mucho menos que un \"sí\" falso, sostenido durante meses.",
+  "visual": "Side-by-side comparison: a small quick wince versus a long dragging heavy weight, figure choosing the smaller wince with resolve.",
+  "start": 185.291,
+  "end": 190.308,
+  "words": [
+   {
+    "word": "lastima",
+    "start": 185.493,
+    "end": 185.98
+   },
+   {
+    "word": "mucho",
+    "start": 185.98,
+    "end": 186.327
+   },
+   {
+    "word": "menos",
+    "start": 186.327,
+    "end": 186.675
+   },
+   {
+    "word": "que",
+    "start": 186.675,
+    "end": 186.883
+   },
+   {
+    "word": "un",
+    "start": 186.883,
+    "end": 187.265
+   },
+   {
+    "word": "\"sí\"",
+    "start": 187.265,
+    "end": 187.404
+   },
+   {
+    "word": "falso,",
+    "start": 187.404,
+    "end": 187.918
+   },
+   {
+    "word": "sostenido",
+    "start": 187.918,
+    "end": 188.869
+   },
+   {
+    "word": "durante",
+    "start": 188.869,
+    "end": 189.355
+   },
+   {
+    "word": "meses.",
+    "start": 189.355,
+    "end": 189.703
+   }
+  ]
+ },
+ {
+  "id": "S05_F046",
+  "scene": "LECCIÓN 3 — Decir Sí a Todo",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Nadie te lo agradece en el momento.",
+  "visual": "Figure stands alone, the reaching hands withdraw quietly without acknowledgment, neutral accepting expression.",
+  "start": 190.308,
+  "end": 193.328,
+  "words": [
+   {
+    "word": "Nadie",
+    "start": 190.912,
+    "end": 191.212
+   },
+   {
+    "word": "te",
+    "start": 191.212,
+    "end": 191.332
+   },
+   {
+    "word": "lo",
+    "start": 191.332,
+    "end": 191.452
+   },
+   {
+    "word": "agradece",
+    "start": 191.452,
+    "end": 191.933
+   },
+   {
+    "word": "en",
+    "start": 191.933,
+    "end": 192.053
+   },
+   {
+    "word": "el",
+    "start": 192.053,
+    "end": 192.173
+   },
+   {
+    "word": "momento.",
+    "start": 192.173,
+    "end": 192.705
+   }
+  ]
+ },
+ {
+  "id": "S05_F047",
+  "scene": "LECCIÓN 3 — Decir Sí a Todo",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Pero tampoco terminas odiando a nadie por tu propia culpa.",
+  "visual": "Wide shot, figure stands calm and unburdened, the earlier stacked obligation-icons and resentful tight smile both gone, relaxed genuine expression.",
+  "start": 193.328,
+  "end": 197.732,
+  "words": [
+   {
+    "word": "Pero",
+    "start": 193.951,
+    "end": 194.177
+   },
+   {
+    "word": "tampoco",
+    "start": 194.177,
+    "end": 194.644
+   },
+   {
+    "word": "terminas",
+    "start": 194.644,
+    "end": 195.097
+   },
+   {
+    "word": "odiando",
+    "start": 195.097,
+    "end": 195.493
+   },
+   {
+    "word": "a",
+    "start": 195.493,
+    "end": 195.55
+   },
+   {
+    "word": "nadie",
+    "start": 195.55,
+    "end": 195.833
+   },
+   {
+    "word": "por",
+    "start": 195.833,
+    "end": 196.081
+   },
+   {
+    "word": "tu",
+    "start": 196.081,
+    "end": 196.291
+   },
+   {
+    "word": "propia",
+    "start": 196.291,
+    "end": 196.725
+   },
+   {
+    "word": "culpa.",
+    "start": 196.725,
+    "end": 197.121
+   }
+  ]
+ },
+ {
+  "id": "S06_F048",
+  "scene": "LECCIÓN 4 — El Descanso No se Gana",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Lección cuatro: el descanso no había que ganárselo.",
+  "visual": "Figure stands beside a faint glowing scale with a mountain of tasks on one side and a small bed icon on the other, tense expression.",
+  "start": 197.732,
+  "end": 201.972,
+  "words": [
+   {
+    "word": "Lección",
+    "start": 198.343,
+    "end": 198.749
+   },
+   {
+    "word": "cuatro:",
+    "start": 198.749,
+    "end": 199.251
+   },
+   {
+    "word": "el",
+    "start": 199.251,
+    "end": 199.775
+   },
+   {
+    "word": "descanso",
+    "start": 199.775,
+    "end": 200.238
+   },
+   {
+    "word": "no",
+    "start": 200.238,
+    "end": 200.354
+   },
+   {
+    "word": "había",
+    "start": 200.354,
+    "end": 200.644
+   },
+   {
+    "word": "que",
+    "start": 200.644,
+    "end": 200.818
+   },
+   {
+    "word": "ganárselo.",
+    "start": 200.818,
+    "end": 201.34
+   }
+  ]
+ },
+ {
+  "id": "S06_F049",
+  "scene": "LECCIÓN 4 — El Descanso No se Gana",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Crecí pensando que solo merecía parar cuando había terminado todo —",
+  "visual": "The task-mountain side of the scale glows heavier, figure reaches toward the bed icon but hesitates, guilty expression.",
+  "start": 201.972,
+  "end": 206.105,
+  "words": [
+   {
+    "word": "Crecí",
+    "start": 202.604,
+    "end": 202.867
+   },
+   {
+    "word": "pensando",
+    "start": 202.867,
+    "end": 203.287
+   },
+   {
+    "word": "que",
+    "start": 203.287,
+    "end": 203.444
+   },
+   {
+    "word": "solo",
+    "start": 203.444,
+    "end": 203.654
+   },
+   {
+    "word": "merecía",
+    "start": 203.654,
+    "end": 204.022
+   },
+   {
+    "word": "parar",
+    "start": 204.022,
+    "end": 204.362
+   },
+   {
+    "word": "cuando",
+    "start": 204.362,
+    "end": 204.772
+   },
+   {
+    "word": "había",
+    "start": 204.772,
+    "end": 205.035
+   },
+   {
+    "word": "terminado",
+    "start": 205.035,
+    "end": 205.587
+   },
+   {
+    "word": "todo",
+    "start": 205.587,
+    "end": 205.886
+   },
+   {
+    "word": "—",
+    "start": 205.886,
+    "end": 205.939
+   }
+  ]
+ },
+ {
+  "id": "S06_F050",
+  "scene": "LECCIÓN 4 — El Descanso No se Gana",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "y como nunca terminaba todo, nunca paraba de verdad, solo colapsaba cuando el cuerpo ya no daba más.",
+  "visual": "Figure finally collapses, slumped over the desk, eyes half-closed, exhausted depleted expression, the task-mountain still towering unfinished.",
+  "start": 206.105,
+  "end": 212.7,
+  "words": [
+   {
+    "word": "y",
+    "start": 206.27,
+    "end": 206.327
+   },
+   {
+    "word": "como",
+    "start": 206.327,
+    "end": 206.633
+   },
+   {
+    "word": "nunca",
+    "start": 206.633,
+    "end": 206.915
+   },
+   {
+    "word": "terminaba",
+    "start": 206.915,
+    "end": 207.424
+   },
+   {
+    "word": "todo,",
+    "start": 207.424,
+    "end": 207.734
+   },
+   {
+    "word": "nunca",
+    "start": 207.734,
+    "end": 208.456
+   },
+   {
+    "word": "paraba",
+    "start": 208.456,
+    "end": 208.795
+   },
+   {
+    "word": "de",
+    "start": 208.795,
+    "end": 208.908
+   },
+   {
+    "word": "verdad,",
+    "start": 208.908,
+    "end": 209.33
+   },
+   {
+    "word": "solo",
+    "start": 209.33,
+    "end": 209.917
+   },
+   {
+    "word": "colapsaba",
+    "start": 209.917,
+    "end": 210.498
+   },
+   {
+    "word": "cuando",
+    "start": 210.498,
+    "end": 210.837
+   },
+   {
+    "word": "el",
+    "start": 210.837,
+    "end": 211.038
+   },
+   {
+    "word": "cuerpo",
+    "start": 211.038,
+    "end": 211.475
+   },
+   {
+    "word": "ya",
+    "start": 211.475,
+    "end": 211.588
+   },
+   {
+    "word": "no",
+    "start": 211.588,
+    "end": 211.701
+   },
+   {
+    "word": "daba",
+    "start": 211.701,
+    "end": 211.927
+   },
+   {
+    "word": "más.",
+    "start": 211.927,
+    "end": 212.097
+   }
+  ]
+ },
+ {
+  "id": "S06_F051",
+  "scene": "LECCIÓN 4 — El Descanso No se Gana",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "La activista Tricia Hersey, creadora de The Nap Ministry, lo dice sin rodeos en su libro \"Rest is Resistance\":",
+  "visual": "Close-up, thoughtful narrating expression, a faint glowing open-book icon with a soft warm light emanating from its pages.",
+  "start": 212.7,
+  "end": 220.37,
+  "words": [
+   {
+    "word": "La",
+    "start": 213.302,
+    "end": 213.431
+   },
+   {
+    "word": "activista",
+    "start": 213.431,
+    "end": 214.189
+   },
+   {
+    "word": "Tricia",
+    "start": 214.189,
+    "end": 214.574
+   },
+   {
+    "word": "Hersey,",
+    "start": 214.574,
+    "end": 215.373
+   },
+   {
+    "word": "creadora",
+    "start": 215.373,
+    "end": 215.888
+   },
+   {
+    "word": "de",
+    "start": 215.888,
+    "end": 216.017
+   },
+   {
+    "word": "The",
+    "start": 216.017,
+    "end": 216.21
+   },
+   {
+    "word": "Nap",
+    "start": 216.21,
+    "end": 216.403
+   },
+   {
+    "word": "Ministry,",
+    "start": 216.403,
+    "end": 217.37
+   },
+   {
+    "word": "lo",
+    "start": 217.37,
+    "end": 217.499
+   },
+   {
+    "word": "dice",
+    "start": 217.499,
+    "end": 217.756
+   },
+   {
+    "word": "sin",
+    "start": 217.756,
+    "end": 217.949
+   },
+   {
+    "word": "rodeos",
+    "start": 217.949,
+    "end": 218.335
+   },
+   {
+    "word": "en",
+    "start": 218.335,
+    "end": 218.464
+   },
+   {
+    "word": "su",
+    "start": 218.464,
+    "end": 218.592
+   },
+   {
+    "word": "libro",
+    "start": 218.592,
+    "end": 219.128
+   },
+   {
+    "word": "\"Rest",
+    "start": 219.128,
+    "end": 219.385
+   },
+   {
+    "word": "is",
+    "start": 219.385,
+    "end": 219.514
+   },
+   {
+    "word": "Resistance\":",
+    "start": 219.514,
+    "end": 220.157
+   }
+  ]
+ },
+ {
+  "id": "S06_F052",
+  "scene": "LECCIÓN 4 — El Descanso No se Gana",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "el descanso no es un premio por productividad, es una necesidad humana básica, tengas o no la lista completa.",
+  "visual": "The scale from earlier snaps and dissolves, replaced by the bed icon glowing steady and equal in importance, calm expression.",
+  "start": 220.37,
+  "end": 227.76,
+  "words": [
+   {
+    "word": "el",
+    "start": 220.583,
+    "end": 220.7
+   },
+   {
+    "word": "descanso",
+    "start": 220.7,
+    "end": 221.166
+   },
+   {
+    "word": "no",
+    "start": 221.166,
+    "end": 221.283
+   },
+   {
+    "word": "es",
+    "start": 221.283,
+    "end": 221.4
+   },
+   {
+    "word": "un",
+    "start": 221.4,
+    "end": 221.516
+   },
+   {
+    "word": "premio",
+    "start": 221.516,
+    "end": 222.028
+   },
+   {
+    "word": "por",
+    "start": 222.028,
+    "end": 222.287
+   },
+   {
+    "word": "productividad,",
+    "start": 222.287,
+    "end": 223.522
+   },
+   {
+    "word": "es",
+    "start": 223.522,
+    "end": 223.639
+   },
+   {
+    "word": "una",
+    "start": 223.639,
+    "end": 223.814
+   },
+   {
+    "word": "necesidad",
+    "start": 223.814,
+    "end": 224.339
+   },
+   {
+    "word": "humana",
+    "start": 224.339,
+    "end": 224.689
+   },
+   {
+    "word": "básica,",
+    "start": 224.689,
+    "end": 225.574
+   },
+   {
+    "word": "tengas",
+    "start": 225.574,
+    "end": 225.924
+   },
+   {
+    "word": "o",
+    "start": 225.924,
+    "end": 225.982
+   },
+   {
+    "word": "no",
+    "start": 225.982,
+    "end": 226.099
+   },
+   {
+    "word": "la",
+    "start": 226.099,
+    "end": 226.216
+   },
+   {
+    "word": "lista",
+    "start": 226.216,
+    "end": 226.507
+   },
+   {
+    "word": "completa.",
+    "start": 226.507,
+    "end": 227.147
+   }
+  ]
+ },
+ {
+  "id": "S06_F053",
+  "scene": "LECCIÓN 4 — El Descanso No se Gana",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Pero espera — todavía hay más:",
+  "visual": "Figure leans in slightly, anticipatory raised-eyebrow expression.",
+  "start": 227.76,
+  "end": 230.414,
+  "words": [
+   {
+    "word": "Pero",
+    "start": 228.374,
+    "end": 228.609
+   },
+   {
+    "word": "espera",
+    "start": 228.609,
+    "end": 229.378
+   },
+   {
+    "word": "—",
+    "start": 229.378,
+    "end": 229.437
+   },
+   {
+    "word": "todavía",
+    "start": 229.437,
+    "end": 229.849
+   },
+   {
+    "word": "hay",
+    "start": 229.849,
+    "end": 230.025
+   },
+   {
+    "word": "más:",
+    "start": 230.025,
+    "end": 230.201
+   }
+  ]
+ },
+ {
+  "id": "S06_F054",
+  "scene": "LECCIÓN 4 — El Descanso No se Gana",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "la cultura del agotamiento te convence de que descansar sin haberlo \"ganado\" es pereza.",
+  "visual": "A faint ghost-outline crowd of tired figures glares disapprovingly from the background, judgmental atmosphere, figure looks briefly uncertain.",
+  "start": 230.414,
+  "end": 236.159,
+  "words": [
+   {
+    "word": "la",
+    "start": 230.628,
+    "end": 230.748
+   },
+   {
+    "word": "cultura",
+    "start": 230.748,
+    "end": 231.244
+   },
+   {
+    "word": "del",
+    "start": 231.244,
+    "end": 231.424
+   },
+   {
+    "word": "agotamiento",
+    "start": 231.424,
+    "end": 232.085
+   },
+   {
+    "word": "te",
+    "start": 232.085,
+    "end": 232.205
+   },
+   {
+    "word": "convence",
+    "start": 232.205,
+    "end": 232.686
+   },
+   {
+    "word": "de",
+    "start": 232.686,
+    "end": 232.806
+   },
+   {
+    "word": "que",
+    "start": 232.806,
+    "end": 232.986
+   },
+   {
+    "word": "descansar",
+    "start": 232.986,
+    "end": 233.527
+   },
+   {
+    "word": "sin",
+    "start": 233.527,
+    "end": 233.707
+   },
+   {
+    "word": "haberlo",
+    "start": 233.707,
+    "end": 234.347
+   },
+   {
+    "word": "\"ganado\"",
+    "start": 234.347,
+    "end": 234.707
+   },
+   {
+    "word": "es",
+    "start": 234.707,
+    "end": 235.097
+   },
+   {
+    "word": "pereza.",
+    "start": 235.097,
+    "end": 235.557
+   }
+  ]
+ },
+ {
+  "id": "S06_F055",
+  "scene": "LECCIÓN 4 — El Descanso No se Gana",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "No lo es. Es supervivencia.",
+  "visual": "Close-up, firm resolute expression, the disapproving crowd fades away, figure's gaze steady and unbothered.",
+  "start": 236.159,
+  "end": 240.241,
+  "words": [
+   {
+    "word": "No",
+    "start": 236.761,
+    "end": 236.925
+   },
+   {
+    "word": "lo",
+    "start": 236.925,
+    "end": 237.09
+   },
+   {
+    "word": "es.",
+    "start": 237.09,
+    "end": 237.254
+   },
+   {
+    "word": "Es",
+    "start": 237.254,
+    "end": 238.562
+   },
+   {
+    "word": "supervivencia.",
+    "start": 238.562,
+    "end": 239.631
+   }
+  ]
+ },
+ {
+  "id": "S06_F056",
+  "scene": "LECCIÓN 4 — El Descanso No se Gana",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Aquí está lo que aprendí: ahora descanso ANTES de colapsar, no después.",
+  "visual": "Figure lies down calmly and intentionally on a simple bed shape, peaceful proactive expression, bed icon glowing warmly in accent color.",
+  "start": 240.241,
+  "end": 246.014,
+  "words": [
+   {
+    "word": "Aquí",
+    "start": 240.851,
+    "end": 241.107
+   },
+   {
+    "word": "está",
+    "start": 241.107,
+    "end": 241.363
+   },
+   {
+    "word": "lo",
+    "start": 241.363,
+    "end": 241.491
+   },
+   {
+    "word": "que",
+    "start": 241.491,
+    "end": 241.683
+   },
+   {
+    "word": "aprendí:",
+    "start": 241.683,
+    "end": 242.54
+   },
+   {
+    "word": "ahora",
+    "start": 242.54,
+    "end": 242.86
+   },
+   {
+    "word": "descanso",
+    "start": 242.86,
+    "end": 243.372
+   },
+   {
+    "word": "ANTES",
+    "start": 243.372,
+    "end": 243.692
+   },
+   {
+    "word": "de",
+    "start": 243.692,
+    "end": 243.82
+   },
+   {
+    "word": "colapsar,",
+    "start": 243.82,
+    "end": 244.332
+   },
+   {
+    "word": "no",
+    "start": 244.332,
+    "end": 244.869
+   },
+   {
+    "word": "después.",
+    "start": 244.869,
+    "end": 245.408
+   }
+  ]
+ },
+ {
+  "id": "S06_F057",
+  "scene": "LECCIÓN 4 — El Descanso No se Gana",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Y sorprendentemente, hago más —",
+  "visual": "Figure rises refreshed from the bed, energetic alert posture, faint glowing checkmark icons appearing rapidly beside them.",
+  "start": 246.014,
+  "end": 248.939,
+  "words": [
+   {
+    "word": "Y",
+    "start": 246.62,
+    "end": 246.686
+   },
+   {
+    "word": "sorprendentemente,",
+    "start": 246.686,
+    "end": 247.875
+   },
+   {
+    "word": "hago",
+    "start": 247.875,
+    "end": 248.519
+   },
+   {
+    "word": "más",
+    "start": 248.519,
+    "end": 248.715
+   },
+   {
+    "word": "—",
+    "start": 248.715,
+    "end": 248.781
+   }
+  ]
+ },
+ {
+  "id": "S06_F058",
+  "scene": "LECCIÓN 4 — El Descanso No se Gana",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "porque ya no arrastro semanas de cansancio acumulado detrás de cada tarea.",
+  "visual": "Wide shot, figure walks forward lightly, no longer trailed by the heavy exhausted shadow that followed them in earlier frames.",
+  "start": 248.939,
+  "end": 253.389,
+  "words": [
+   {
+    "word": "porque",
+    "start": 249.097,
+    "end": 249.43
+   },
+   {
+    "word": "ya",
+    "start": 249.43,
+    "end": 249.542
+   },
+   {
+    "word": "no",
+    "start": 249.542,
+    "end": 249.653
+   },
+   {
+    "word": "arrastro",
+    "start": 249.653,
+    "end": 250.097
+   },
+   {
+    "word": "semanas",
+    "start": 250.097,
+    "end": 250.486
+   },
+   {
+    "word": "de",
+    "start": 250.486,
+    "end": 250.597
+   },
+   {
+    "word": "cansancio",
+    "start": 250.597,
+    "end": 251.097
+   },
+   {
+    "word": "acumulado",
+    "start": 251.097,
+    "end": 251.597
+   },
+   {
+    "word": "detrás",
+    "start": 251.597,
+    "end": 251.931
+   },
+   {
+    "word": "de",
+    "start": 251.931,
+    "end": 252.042
+   },
+   {
+    "word": "cada",
+    "start": 252.042,
+    "end": 252.339
+   },
+   {
+    "word": "tarea.",
+    "start": 252.339,
+    "end": 252.699
+   }
+  ]
+ },
+ {
+  "id": "S07_F059",
+  "scene": "LECCIÓN 5 — Nadie Viene a Salvarte",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Lección cinco — la que más me costó, y la que más rápido cambió todo:",
+  "visual": "Figure stands facing a vast dark empty space, small and still, the five glowing dots from the opening reappear faintly overhead.",
+  "start": 253.389,
+  "end": 258.716,
+  "words": [
+   {
+    "word": "Lección",
+    "start": 254.079,
+    "end": 254.556
+   },
+   {
+    "word": "cinco",
+    "start": 254.556,
+    "end": 254.896
+   },
+   {
+    "word": "—",
+    "start": 254.896,
+    "end": 254.964
+   },
+   {
+    "word": "la",
+    "start": 254.964,
+    "end": 255.1
+   },
+   {
+    "word": "que",
+    "start": 255.1,
+    "end": 255.608
+   },
+   {
+    "word": "más",
+    "start": 255.608,
+    "end": 255.812
+   },
+   {
+    "word": "me",
+    "start": 255.812,
+    "end": 255.948
+   },
+   {
+    "word": "costó,",
+    "start": 255.948,
+    "end": 256.289
+   },
+   {
+    "word": "y",
+    "start": 256.289,
+    "end": 256.357
+   },
+   {
+    "word": "la",
+    "start": 256.357,
+    "end": 256.827
+   },
+   {
+    "word": "que",
+    "start": 256.827,
+    "end": 257.031
+   },
+   {
+    "word": "más",
+    "start": 257.031,
+    "end": 257.235
+   },
+   {
+    "word": "rápido",
+    "start": 257.235,
+    "end": 257.737
+   },
+   {
+    "word": "cambió",
+    "start": 257.737,
+    "end": 258.146
+   },
+   {
+    "word": "todo:",
+    "start": 258.146,
+    "end": 258.509
+   }
+  ]
+ },
+ {
+  "id": "S07_F060",
+  "scene": "LECCIÓN 5 — Nadie Viene a Salvarte",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "nadie viene a salvarte, y está bien.",
+  "visual": "Close-up, calm accepting expression, no longer searching the horizon, a faint gentle warm glow settles around the figure instead.",
+  "start": 258.716,
+  "end": 261.63,
+  "words": [
+   {
+    "word": "nadie",
+    "start": 258.923,
+    "end": 259.233
+   },
+   {
+    "word": "viene",
+    "start": 259.233,
+    "end": 259.542
+   },
+   {
+    "word": "a",
+    "start": 259.542,
+    "end": 259.604
+   },
+   {
+    "word": "salvarte,",
+    "start": 259.604,
+    "end": 260.466
+   },
+   {
+    "word": "y",
+    "start": 260.466,
+    "end": 260.528
+   },
+   {
+    "word": "está",
+    "start": 260.528,
+    "end": 260.775
+   },
+   {
+    "word": "bien.",
+    "start": 260.775,
+    "end": 261.023
+   }
+  ]
+ },
+ {
+  "id": "S07_F061",
+  "scene": "LECCIÓN 5 — Nadie Viene a Salvarte",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Pasé años esperando que las circunstancias cambiaran,",
+  "visual": "Figure stands still looking toward a distant faint horizon line, waiting posture, arms crossed passively.",
+  "start": 261.63,
+  "end": 265.23,
+  "words": [
+   {
+    "word": "Pasé",
+    "start": 262.238,
+    "end": 262.463
+   },
+   {
+    "word": "años",
+    "start": 262.463,
+    "end": 262.688
+   },
+   {
+    "word": "esperando",
+    "start": 262.688,
+    "end": 263.291
+   },
+   {
+    "word": "que",
+    "start": 263.291,
+    "end": 263.46
+   },
+   {
+    "word": "las",
+    "start": 263.46,
+    "end": 263.629
+   },
+   {
+    "word": "circunstancias",
+    "start": 263.629,
+    "end": 264.506
+   },
+   {
+    "word": "cambiaran,",
+    "start": 264.506,
+    "end": 265.013
+   }
+  ]
+ },
+ {
+  "id": "S07_F062",
+  "scene": "LECCIÓN 5 — Nadie Viene a Salvarte",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "que alguien más notara el esfuerzo, que la suerte finalmente se acomodara.",
+  "visual": "A faint ghost-outline dice and a faint ghost-outline eye (representing luck and recognition) float distant and unreachable in the dark space.",
+  "start": 265.23,
+  "end": 270.003,
+  "words": [
+   {
+    "word": "que",
+    "start": 265.447,
+    "end": 265.614
+   },
+   {
+    "word": "alguien",
+    "start": 265.614,
+    "end": 266.005
+   },
+   {
+    "word": "más",
+    "start": 266.005,
+    "end": 266.172
+   },
+   {
+    "word": "notara",
+    "start": 266.172,
+    "end": 266.507
+   },
+   {
+    "word": "el",
+    "start": 266.507,
+    "end": 266.618
+   },
+   {
+    "word": "esfuerzo,",
+    "start": 266.618,
+    "end": 267.064
+   },
+   {
+    "word": "que",
+    "start": 267.064,
+    "end": 267.684
+   },
+   {
+    "word": "la",
+    "start": 267.684,
+    "end": 267.795
+   },
+   {
+    "word": "suerte",
+    "start": 267.795,
+    "end": 268.13
+   },
+   {
+    "word": "finalmente",
+    "start": 268.13,
+    "end": 268.688
+   },
+   {
+    "word": "se",
+    "start": 268.688,
+    "end": 268.799
+   },
+   {
+    "word": "acomodara.",
+    "start": 268.799,
+    "end": 269.387
+   }
+  ]
+ },
+ {
+  "id": "S07_F063",
+  "scene": "LECCIÓN 5 — Nadie Viene a Salvarte",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "El psicólogo Julian Rotter lo llamó \"locus de control\":",
+  "visual": "Close-up, thoughtful narrating expression, a faint glowing compass icon appears beside the head, needle spinning uncertainly.",
+  "start": 270.003,
+  "end": 274.174,
+  "words": [
+   {
+    "word": "El",
+    "start": 270.619,
+    "end": 270.755
+   },
+   {
+    "word": "psicólogo",
+    "start": 270.755,
+    "end": 271.365
+   },
+   {
+    "word": "Julian",
+    "start": 271.365,
+    "end": 271.772
+   },
+   {
+    "word": "Rotter",
+    "start": 271.772,
+    "end": 272.249
+   },
+   {
+    "word": "lo",
+    "start": 272.249,
+    "end": 272.385
+   },
+   {
+    "word": "llamó",
+    "start": 272.385,
+    "end": 273.011
+   },
+   {
+    "word": "\"locus",
+    "start": 273.011,
+    "end": 273.35
+   },
+   {
+    "word": "de",
+    "start": 273.35,
+    "end": 273.486
+   },
+   {
+    "word": "control\":",
+    "start": 273.486,
+    "end": 273.961
+   }
+  ]
+ },
+ {
+  "id": "S07_F064",
+  "scene": "LECCIÓN 5 — Nadie Viene a Salvarte",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "las personas que creen que los resultados dependen principalmente de sus propias decisiones —",
+  "visual": "The compass needle steadies and points firmly inward toward the figure's own chest, determined focused expression.",
+  "start": 274.174,
+  "end": 279.403,
+  "words": [
+   {
+    "word": "las",
+    "start": 274.388,
+    "end": 274.553
+   },
+   {
+    "word": "personas",
+    "start": 274.553,
+    "end": 274.994
+   },
+   {
+    "word": "que",
+    "start": 274.994,
+    "end": 275.159
+   },
+   {
+    "word": "creen",
+    "start": 275.159,
+    "end": 275.434
+   },
+   {
+    "word": "que",
+    "start": 275.434,
+    "end": 275.6
+   },
+   {
+    "word": "los",
+    "start": 275.6,
+    "end": 275.765
+   },
+   {
+    "word": "resultados",
+    "start": 275.765,
+    "end": 276.422
+   },
+   {
+    "word": "dependen",
+    "start": 276.422,
+    "end": 276.944
+   },
+   {
+    "word": "principalmente",
+    "start": 276.944,
+    "end": 277.787
+   },
+   {
+    "word": "de",
+    "start": 277.787,
+    "end": 277.897
+   },
+   {
+    "word": "sus",
+    "start": 277.897,
+    "end": 278.156
+   },
+   {
+    "word": "propias",
+    "start": 278.156,
+    "end": 278.619
+   },
+   {
+    "word": "decisiones",
+    "start": 278.619,
+    "end": 279.17
+   },
+   {
+    "word": "—",
+    "start": 279.17,
+    "end": 279.225
+   }
+  ]
+ },
+ {
+  "id": "S07_F065",
+  "scene": "LECCIÓN 5 — Nadie Viene a Salvarte",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "no de la suerte externa — manejan mejor el estrés y persisten más tiempo frente a los obstáculos.",
+  "visual": "Figure pushes steadily against a faint ghost-outline obstacle wall, the dice and distant eye icons fading into the background, determined steady expression.",
+  "start": 279.403,
+  "end": 285.891,
+  "words": [
+   {
+    "word": "no",
+    "start": 279.58,
+    "end": 279.708
+   },
+   {
+    "word": "de",
+    "start": 279.708,
+    "end": 279.835
+   },
+   {
+    "word": "la",
+    "start": 279.835,
+    "end": 279.963
+   },
+   {
+    "word": "suerte",
+    "start": 279.963,
+    "end": 280.426
+   },
+   {
+    "word": "externa",
+    "start": 280.426,
+    "end": 280.873
+   },
+   {
+    "word": "—",
+    "start": 280.873,
+    "end": 281.265
+   },
+   {
+    "word": "manejan",
+    "start": 281.265,
+    "end": 281.712
+   },
+   {
+    "word": "mejor",
+    "start": 281.712,
+    "end": 282.031
+   },
+   {
+    "word": "el",
+    "start": 282.031,
+    "end": 282.158
+   },
+   {
+    "word": "estrés",
+    "start": 282.158,
+    "end": 282.541
+   },
+   {
+    "word": "y",
+    "start": 282.541,
+    "end": 282.605
+   },
+   {
+    "word": "persisten",
+    "start": 282.605,
+    "end": 283.253
+   },
+   {
+    "word": "más",
+    "start": 283.253,
+    "end": 283.444
+   },
+   {
+    "word": "tiempo",
+    "start": 283.444,
+    "end": 283.827
+   },
+   {
+    "word": "frente",
+    "start": 283.827,
+    "end": 284.21
+   },
+   {
+    "word": "a",
+    "start": 284.21,
+    "end": 284.274
+   },
+   {
+    "word": "los",
+    "start": 284.274,
+    "end": 284.466
+   },
+   {
+    "word": "obstáculos.",
+    "start": 284.466,
+    "end": 285.274
+   }
+  ]
+ },
+ {
+  "id": "S07_F066",
+  "scene": "LECCIÓN 5 — Nadie Viene a Salvarte",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "Aquí está lo que aprendí: esperar rescate es cómodo, porque no exige nada de ti.",
+  "visual": "Figure stands still in a comfortable but passive posture beside the faded horizon line, mild resigned expression.",
+  "start": 285.891,
+  "end": 291.917,
+  "words": [
+   {
+    "word": "Aquí",
+    "start": 286.508,
+    "end": 286.746
+   },
+   {
+    "word": "está",
+    "start": 286.746,
+    "end": 286.984
+   },
+   {
+    "word": "lo",
+    "start": 286.984,
+    "end": 287.103
+   },
+   {
+    "word": "que",
+    "start": 287.103,
+    "end": 287.282
+   },
+   {
+    "word": "aprendí:",
+    "start": 287.282,
+    "end": 287.779
+   },
+   {
+    "word": "esperar",
+    "start": 287.779,
+    "end": 288.623
+   },
+   {
+    "word": "rescate",
+    "start": 288.623,
+    "end": 289.039
+   },
+   {
+    "word": "es",
+    "start": 289.039,
+    "end": 289.158
+   },
+   {
+    "word": "cómodo,",
+    "start": 289.158,
+    "end": 289.588
+   },
+   {
+    "word": "porque",
+    "start": 289.588,
+    "end": 290.331
+   },
+   {
+    "word": "no",
+    "start": 290.331,
+    "end": 290.45
+   },
+   {
+    "word": "exige",
+    "start": 290.45,
+    "end": 290.748
+   },
+   {
+    "word": "nada",
+    "start": 290.748,
+    "end": 290.986
+   },
+   {
+    "word": "de",
+    "start": 290.986,
+    "end": 291.188
+   },
+   {
+    "word": "ti.",
+    "start": 291.188,
+    "end": 291.307
+   }
+  ]
+ },
+ {
+  "id": "S07_F067",
+  "scene": "LECCIÓN 5 — Nadie Viene a Salvarte",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Pero también te deja completamente indefenso cuando el rescate no llega.",
+  "visual": "The horizon line fades to nothing, figure looks around at the empty space, vulnerable uncertain expression.",
+  "start": 291.917,
+  "end": 296.793,
+  "words": [
+   {
+    "word": "Pero",
+    "start": 292.527,
+    "end": 292.767
+   },
+   {
+    "word": "también",
+    "start": 292.767,
+    "end": 293.187
+   },
+   {
+    "word": "te",
+    "start": 293.187,
+    "end": 293.307
+   },
+   {
+    "word": "deja",
+    "start": 293.307,
+    "end": 293.547
+   },
+   {
+    "word": "completamente",
+    "start": 293.547,
+    "end": 294.327
+   },
+   {
+    "word": "indefenso",
+    "start": 294.327,
+    "end": 294.867
+   },
+   {
+    "word": "cuando",
+    "start": 294.867,
+    "end": 295.227
+   },
+   {
+    "word": "el",
+    "start": 295.227,
+    "end": 295.347
+   },
+   {
+    "word": "rescate",
+    "start": 295.347,
+    "end": 295.767
+   },
+   {
+    "word": "no",
+    "start": 295.767,
+    "end": 295.887
+   },
+   {
+    "word": "llega.",
+    "start": 295.887,
+    "end": 296.187
+   }
+  ]
+ },
+ {
+  "id": "S07_F068",
+  "scene": "LECCIÓN 5 — Nadie Viene a Salvarte",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "El día que dejé de esperar que algo externo cambiara mi situación,",
+  "visual": "Close-up, a shift from uncertain to resolute expression, the compass from before glows steadily pointing inward again.",
+  "start": 296.793,
+  "end": 300.989,
+  "words": [
+   {
+    "word": "El",
+    "start": 297.399,
+    "end": 297.518
+   },
+   {
+    "word": "día",
+    "start": 297.518,
+    "end": 297.696
+   },
+   {
+    "word": "que",
+    "start": 297.696,
+    "end": 297.875
+   },
+   {
+    "word": "dejé",
+    "start": 297.875,
+    "end": 298.113
+   },
+   {
+    "word": "de",
+    "start": 298.113,
+    "end": 298.232
+   },
+   {
+    "word": "esperar",
+    "start": 298.232,
+    "end": 298.721
+   },
+   {
+    "word": "que",
+    "start": 298.721,
+    "end": 298.982
+   },
+   {
+    "word": "algo",
+    "start": 298.982,
+    "end": 299.219
+   },
+   {
+    "word": "externo",
+    "start": 299.219,
+    "end": 299.712
+   },
+   {
+    "word": "cambiara",
+    "start": 299.712,
+    "end": 300.188
+   },
+   {
+    "word": "mi",
+    "start": 300.188,
+    "end": 300.307
+   },
+   {
+    "word": "situación,",
+    "start": 300.307,
+    "end": 300.842
+   }
+  ]
+ },
+ {
+  "id": "S07_F069",
+  "scene": "LECCIÓN 5 — Nadie Viene a Salvarte",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "y empecé a preguntarme qué parte sí podía controlar yo,",
+  "visual": "Figure raises both hands and examines them thoughtfully, small glowing accent-colored gears begin turning in their palms.",
+  "start": 300.989,
+  "end": 304.328,
+  "words": [
+   {
+    "word": "y",
+    "start": 301.136,
+    "end": 301.194
+   },
+   {
+    "word": "empecé",
+    "start": 301.194,
+    "end": 301.54
+   },
+   {
+    "word": "a",
+    "start": 301.54,
+    "end": 301.597
+   },
+   {
+    "word": "preguntarme",
+    "start": 301.597,
+    "end": 302.323
+   },
+   {
+    "word": "qué",
+    "start": 302.323,
+    "end": 302.569
+   },
+   {
+    "word": "parte",
+    "start": 302.569,
+    "end": 302.937
+   },
+   {
+    "word": "sí",
+    "start": 302.937,
+    "end": 303.153
+   },
+   {
+    "word": "podía",
+    "start": 303.153,
+    "end": 303.442
+   },
+   {
+    "word": "controlar",
+    "start": 303.442,
+    "end": 304.039
+   },
+   {
+    "word": "yo,",
+    "start": 304.039,
+    "end": 304.154
+   }
+  ]
+ },
+ {
+  "id": "S07_F070",
+  "scene": "LECCIÓN 5 — Nadie Viene a Salvarte",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "todo lo demás — la disciplina, los hábitos, la paciencia — se volvió mucho más fácil de sostener.",
+  "visual": "Wide shot, figure walks forward steadily through the dark space, the five glowing dots from the very beginning now form a bright steady line behind them, calm confident expression.",
+  "start": 304.328,
+  "end": 311.519,
+  "words": [
+   {
+    "word": "todo",
+    "start": 304.503,
+    "end": 304.754
+   },
+   {
+    "word": "lo",
+    "start": 304.754,
+    "end": 304.88
+   },
+   {
+    "word": "demás",
+    "start": 304.88,
+    "end": 305.194
+   },
+   {
+    "word": "—",
+    "start": 305.194,
+    "end": 305.56
+   },
+   {
+    "word": "la",
+    "start": 305.56,
+    "end": 305.685
+   },
+   {
+    "word": "disciplina,",
+    "start": 305.685,
+    "end": 306.722
+   },
+   {
+    "word": "los",
+    "start": 306.722,
+    "end": 306.911
+   },
+   {
+    "word": "hábitos,",
+    "start": 306.911,
+    "end": 307.429
+   },
+   {
+    "word": "la",
+    "start": 307.429,
+    "end": 308.046
+   },
+   {
+    "word": "paciencia",
+    "start": 308.046,
+    "end": 308.611
+   },
+   {
+    "word": "—",
+    "start": 308.611,
+    "end": 308.986
+   },
+   {
+    "word": "se",
+    "start": 308.986,
+    "end": 309.112
+   },
+   {
+    "word": "volvió",
+    "start": 309.112,
+    "end": 309.488
+   },
+   {
+    "word": "mucho",
+    "start": 309.488,
+    "end": 309.803
+   },
+   {
+    "word": "más",
+    "start": 309.803,
+    "end": 309.991
+   },
+   {
+    "word": "fácil",
+    "start": 309.991,
+    "end": 310.305
+   },
+   {
+    "word": "de",
+    "start": 310.305,
+    "end": 310.431
+   },
+   {
+    "word": "sostener.",
+    "start": 310.431,
+    "end": 310.933
+   }
+  ]
+ },
+ {
+  "id": "S08_F071",
+  "scene": "EL CIERRE",
+  "shot_raw": "CLOSE-UP",
+  "shot": "CLOSE-UP",
+  "es": "Cinco lecciones.",
+  "visual": "Close-up, calm direct gaze toward camera, the five glowing dots arranged in a small steady arc beside the head.",
+  "start": 311.519,
+  "end": 313.774,
+  "words": [
+   {
+    "word": "Cinco",
+    "start": 312.104,
+    "end": 312.484
+   },
+   {
+    "word": "lecciones.",
+    "start": 312.484,
+    "end": 313.168
+   }
+  ]
+ },
+ {
+  "id": "S08_F072",
+  "scene": "EL CIERRE",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Ninguna las aprendí a tiempo,",
+  "visual": "Figure gives a small rueful but warm smile, gesturing openly with one hand.",
+  "start": 313.774,
+  "end": 316.093,
+  "words": [
+   {
+    "word": "Ninguna",
+    "start": 314.381,
+    "end": 314.763
+   },
+   {
+    "word": "las",
+    "start": 314.763,
+    "end": 314.927
+   },
+   {
+    "word": "aprendí",
+    "start": 314.927,
+    "end": 315.38
+   },
+   {
+    "word": "a",
+    "start": 315.38,
+    "end": 315.509
+   },
+   {
+    "word": "tiempo,",
+    "start": 315.509,
+    "end": 315.914
+   }
+  ]
+ },
+ {
+  "id": "S08_F073",
+  "scene": "EL CIERRE",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "y probablemente tú tampoco vas a aprenderlas solo por escucharlas hoy —",
+  "visual": "Figure gestures gently toward the viewer, honest warm expression, no judgment implied.",
+  "start": 316.093,
+  "end": 320.118,
+  "words": [
+   {
+    "word": "y",
+    "start": 316.272,
+    "end": 316.329
+   },
+   {
+    "word": "probablemente",
+    "start": 316.329,
+    "end": 317.071
+   },
+   {
+    "word": "tú",
+    "start": 317.071,
+    "end": 317.185
+   },
+   {
+    "word": "tampoco",
+    "start": 317.185,
+    "end": 317.739
+   },
+   {
+    "word": "vas",
+    "start": 317.739,
+    "end": 317.91
+   },
+   {
+    "word": "a",
+    "start": 317.91,
+    "end": 317.967
+   },
+   {
+    "word": "aprenderlas",
+    "start": 317.967,
+    "end": 318.595
+   },
+   {
+    "word": "solo",
+    "start": 318.595,
+    "end": 318.823
+   },
+   {
+    "word": "por",
+    "start": 318.823,
+    "end": 319.087
+   },
+   {
+    "word": "escucharlas",
+    "start": 319.087,
+    "end": 319.715
+   },
+   {
+    "word": "hoy",
+    "start": 319.715,
+    "end": 319.886
+   },
+   {
+    "word": "—",
+    "start": 319.886,
+    "end": 319.943
+   }
+  ]
+ },
+ {
+  "id": "S08_F074",
+  "scene": "EL CIERRE",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "pero al menos ya las tienes escritas, antes de necesitarlas.",
+  "visual": "A faint glowing notepad icon with five numbered lines appears steadily beside the figure, reassuring calm expression.",
+  "start": 320.118,
+  "end": 324.595,
+  "words": [
+   {
+    "word": "pero",
+    "start": 320.294,
+    "end": 320.558
+   },
+   {
+    "word": "al",
+    "start": 320.558,
+    "end": 320.69
+   },
+   {
+    "word": "menos",
+    "start": 320.69,
+    "end": 321.021
+   },
+   {
+    "word": "ya",
+    "start": 321.021,
+    "end": 321.153
+   },
+   {
+    "word": "las",
+    "start": 321.153,
+    "end": 321.351
+   },
+   {
+    "word": "tienes",
+    "start": 321.351,
+    "end": 321.748
+   },
+   {
+    "word": "escritas,",
+    "start": 321.748,
+    "end": 322.276
+   },
+   {
+    "word": "antes",
+    "start": 322.276,
+    "end": 322.993
+   },
+   {
+    "word": "de",
+    "start": 322.993,
+    "end": 323.125
+   },
+   {
+    "word": "necesitarlas.",
+    "start": 323.125,
+    "end": 323.995
+   }
+  ]
+ },
+ {
+  "id": "S08_F075",
+  "scene": "EL CIERRE",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Dime en los comentarios cuál de las cinco te suena más a ti ahora mismo.",
+  "visual": "Figure points directly toward the camera/viewer, warm inviting expression, a faint speech-bubble icon glowing softly in accent color.",
+  "start": 324.595,
+  "end": 329.291,
+  "words": [
+   {
+    "word": "Dime",
+    "start": 325.195,
+    "end": 325.429
+   },
+   {
+    "word": "en",
+    "start": 325.429,
+    "end": 325.546
+   },
+   {
+    "word": "los",
+    "start": 325.546,
+    "end": 325.722
+   },
+   {
+    "word": "comentarios",
+    "start": 325.722,
+    "end": 326.366
+   },
+   {
+    "word": "cuál",
+    "start": 326.366,
+    "end": 326.671
+   },
+   {
+    "word": "de",
+    "start": 326.671,
+    "end": 326.789
+   },
+   {
+    "word": "las",
+    "start": 326.789,
+    "end": 326.964
+   },
+   {
+    "word": "cinco",
+    "start": 326.964,
+    "end": 327.257
+   },
+   {
+    "word": "te",
+    "start": 327.257,
+    "end": 327.374
+   },
+   {
+    "word": "suena",
+    "start": 327.374,
+    "end": 327.667
+   },
+   {
+    "word": "más",
+    "start": 327.667,
+    "end": 327.843
+   },
+   {
+    "word": "a",
+    "start": 327.843,
+    "end": 327.901
+   },
+   {
+    "word": "ti",
+    "start": 327.901,
+    "end": 328.018
+   },
+   {
+    "word": "ahora",
+    "start": 328.018,
+    "end": 328.311
+   },
+   {
+    "word": "mismo.",
+    "start": 328.311,
+    "end": 328.604
+   }
+  ]
+ },
+ {
+  "id": "S08_F076",
+  "scene": "EL CIERRE",
+  "shot_raw": "MEDIUM SHOT",
+  "shot": "MEDIUM SHOT",
+  "es": "Si este video te sirvió, dale like y suscríbete —",
+  "visual": "Figure gives a genuine thumbs-up gesture with a warm smile, a faint bell icon glows softly beside them.",
+  "start": 329.291,
+  "end": 333.596,
+  "words": [
+   {
+    "word": "Si",
+    "start": 329.978,
+    "end": 330.122
+   },
+   {
+    "word": "este",
+    "start": 330.122,
+    "end": 330.409
+   },
+   {
+    "word": "video",
+    "start": 330.409,
+    "end": 330.769
+   },
+   {
+    "word": "te",
+    "start": 330.769,
+    "end": 330.913
+   },
+   {
+    "word": "sirvió,",
+    "start": 330.913,
+    "end": 331.344
+   },
+   {
+    "word": "dale",
+    "start": 331.344,
+    "end": 331.97
+   },
+   {
+    "word": "like",
+    "start": 331.97,
+    "end": 332.257
+   },
+   {
+    "word": "y",
+    "start": 332.257,
+    "end": 332.329
+   },
+   {
+    "word": "suscríbete",
+    "start": 332.329,
+    "end": 333.302
+   },
+   {
+    "word": "—",
+    "start": 333.302,
+    "end": 333.374
+   }
+  ]
+ },
+ {
+  "id": "S08_F077",
+  "scene": "EL CIERRE",
+  "shot_raw": "WIDE SHOT",
+  "shot": "WIDE SHOT",
+  "es": "la disciplina no hace ruido.",
+  "visual": "Figure stands calm and still in the quiet dark space, faint warm rim light outlining their silhouette, serene composed expression.",
+  "start": 333.596,
+  "end": 336.26,
+  "words": [
+   {
+    "word": "la",
+    "start": 333.818,
+    "end": 333.928
+   },
+   {
+    "word": "disciplina",
+    "start": 333.928,
+    "end": 334.557
+   },
+   {
+    "word": "no",
+    "start": 334.557,
+    "end": 334.667
+   },
+   {
+    "word": "hace",
+    "start": 334.667,
+    "end": 334.886
+   },
+   {
+    "word": "ruido.",
+    "start": 334.886,
+    "end": 335.161
+   }
+  ]
+ }
+]

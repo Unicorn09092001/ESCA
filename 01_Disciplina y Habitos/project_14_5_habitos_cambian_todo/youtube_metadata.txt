@@ -1,0 +1,204 @@
+================================================================================
+PROJECT 14 — Chủ đề #3 (20-chu-de-video-tiep-theo-2026-09.md)
+Trụ cột: Disciplina y Hábitos (40%) — Khuôn A (đếm danh sách, diễn đạt evergreen)
+Playlist Folder: 01_Disciplina y Habitos  |  Màu nhấn: #FF5A36
+================================================================================
+
+## BƯỚC 0.5 — REVERSE ENGINEER OUTLIER
+
+Căn cứ chính: "Don't Enter 2026 Without These 10 Life-Changing Habits"
+(264K views, nêu trong `20-chu-de-video-tiep-theo-2026-09.md`). QUYẾT ĐỊNH
+THÍCH NGHI (giống tiền lệ V05: 20→7, V21: 13→5): giảm 10 → 5 hábitos để mỗi
+mục đủ 4 lớp trong ngân sách từ. Diễn đạt EVERGREEN — bỏ mốc năm cụ thể khỏi
+tiêu đề/script để có thể tái dùng bất kỳ thời điểm nào (không chỉ dịp cuối
+năm), đúng ghi chú gốc trong danh sách chủ đề. Cố ý chọn 5 hábito trải rộng
+5 khía cạnh khác nhau của cuộc sống (tinh thần/nhận thức/thể chất/quan hệ/
+tài chính) để khác biệt hẳn với V05 (7 hábito nhỏ trong ngày) và V12 (5
+hábito trong giờ làm việc).
+
+## BƯỚC 2 — NGUỒN ĐÃ VERIFY QUA WEBSEARCH (5/5 hábito có tên cụ thể, đều MỚI)
+
+1. Robert Emmons (UC Davis) — nghiên cứu >20 năm về nhật ký biết ơn, giảm
+   25% triệu chứng trầm cảm, tăng ~90 phút giấc ngủ sau 3 tuần.
+2. Norman Doidge — sách "The Brain That Changes Itself" (thần kinh dẻo ở
+   người trưởng thành).
+3. John Ratey (Harvard) — sách "Spark" (tập thể dục, BDNF, tâm trạng).
+4. Robert Waldinger — Harvard Study of Adult Development (~80 năm, nghiên
+   cứu hạnh phúc dài nhất lịch sử, chất lượng quan hệ dự đoán tuổi già
+   hạnh phúc tốt hơn tiền bạc/danh tiếng).
+5. Richard Thaler (Nobel kinh tế) & Shlomo Benartzi — chương trình "Save
+   More Tomorrow" (tự động tăng % tiết kiệm theo lương).
+Toàn bộ 5 nguồn đều MỚI, không trùng bất kỳ nguồn nào trong Duplicate Check
+của 11 video trước lẫn 3 video đã làm trong batch này (V12, V19, V21).
+
+## BƯỚC 1 — TITLES
+
+1. [RECOMENDADO] 5 Hábitos Que Cambian Todo (No Esperes al Año Nuevo) (52 ký tự)
+2. ⏳ 5 Hábitos Que lo Cambian TODO Este Año (42 ký tự, bản emoji)
+3. No Esperes a Enero Para Estos 5 Hábitos (Cambian Todo) (54 ký tự, Khuôn D)
+
+## BƯỚC 1 — PLAYLIST
+
+01_Disciplina y Habitos (màu nhấn #FF5A36)
+
+## BƯỚC 1 — THUMBNAIL PROMPTS (đúng 1 Mẫu B + 1 Mẫu C, dùng CHUNG 1 headline)
+
+Headline dùng chung: "5 HABITOS CAMBIAN TODO" (từ nhấn "TODO" màu #FF5A36 —
+bỏ dấu theo quy tắc ký tự an toàn 1.3). Cỡ chữ 29-34% chiều cao ảnh.
+
+{NHÂN_VẬT_CỐ_ĐỊNH} = a young adult male anime character, athletic lean
+build, short dark messy hair, calm-intense neutral expression by default,
+wearing dark casual streetwear (hoodie or henley, muted charcoal/black)
+with exactly ONE accent-colored detail (drawstring, zipper, or small
+patch) in #FF5A36. Detailed anime illustration style with clean line
+art and cel-shading, fully rendered face with clear eyes, nose, and mouth.
+This exact character design must repeat identically across every
+thumbnail — only pose, facial expression, camera angle, and background
+change per video.
+
+### THUMBNAIL B — Triptych 3 khung
+
+```
+A YouTube thumbnail, 16:9. Three-panel triptych layout, thin dark vertical
+dividers between panels. Each panel shows the character performing ONE
+specific, concrete action/habit — the three panels are NOT a linear story
+(no "problem/climax/result" roles) — and each panel has a DIFFERENT
+background lighting/tone matching its own action, so the three panels are
+instantly distinguishable even at small size.
+
+panel 1 (left): {NHÂN_VẬT_CỐ_ĐỊNH}, shown writing three specific good
+things from the day in a small journal by warm lamp light just before
+bed, with a calm and reflective facial expression, set against a
+background/lighting that fits this specific action (#0B0B0C base with a
+subtle warm tint suited to the scene).
+
+panel 2 (center): {NHÂN_VẬT_CỐ_ĐỊNH}, shown mid-run through empty
+streets in the pale light of sunrise, with a determined and energized
+facial expression, set against a background/lighting that fits this
+specific action, clearly distinct in tone from panel 1 and panel 3.
+
+panel 3 (right): {NHÂN_VẬT_CỐ_ĐỊNH}, shown sharing a warm meal across
+the table from a faint ghost-outline second figure, phones nowhere in
+sight, with a warmly engaged and connected facial expression, set
+against a background/lighting that fits this specific action, clearly
+distinct in tone from the other two panels. One small accent object in
+solid flat #FF5A36 may appear in this panel only.
+
+Bold cinematic anime illustration style throughout, clean line art,
+NO photorealistic rendering, NO real photograph, NO 3D render, NO stick
+figure. The character's face, hair, and outfit must look IDENTICAL across
+all three panels — only pose, expression, camera angle, and background
+tone change.
+
+Below the three panels, bold ultra-condensed sans-serif headline text in
+warm white, reading exactly "5 HABITOS CAMBIAN TODO", all capital
+letters, with the word "TODO" in #FF5A36, sitting on a soft dark
+gradient scrim for legibility, positioned in the lower-middle area, text
+height about 29-34% of the image height, perfectly legible when shrunk
+to 160x90 px. A small circular badge in the top-left corner containing a
+simple white mountain-peak icon on a dark circle.
+
+--ar 16:9 --no bright background, light background, cream background,
+yellow banner, gradient glow, extra text, additional words, captions,
+subtitles, watermark, small lettering, gibberish text, photorealistic
+face, real photograph, 3D render, stick figure, identical flat background
+across all three panels, inconsistent character design
+```
+
+### THUMBNAIL C — Lưới 6 khung
+
+```
+A YouTube thumbnail, 16:9. A grid of six small panels arranged 2 rows by
+3 columns, each panel separated by a thin dark border (2-3px, #0B0B0C),
+filling the entire frame edge-to-edge with no outer margin, all six panels
+equal size.
+
+{NHÂN_VẬT_CỐ_ĐỊNH} appears in most panels — the character's FACE,
+HAIRSTYLE, and BODY BUILD stay perfectly identical to the reference design
+in every panel that includes them, but the OUTFIT changes per panel to
+match that panel's own habit, always staying within the same dark/muted
+color family as the base design.
+
+panel 1: writing three lines in a journal by lamp light, wearing dark
+pajamas (hábito: gratitud). panel 2: practicing a small guitar or reading
+a foreign-language book, focused expression, wearing a plain shirt
+(hábito: aprender algo nuevo). panel 3: mid-run outdoors at sunrise,
+determined expression, wearing running gear (hábito: ejercicio). panel 4:
+sharing a warm meal across the table from a faint ghost-outline second
+figure, phones absent, wearing a plain sweater (hábito: relaciones).
+panel 5: a close-up still-life of a small coin dropping into a glass jar,
+moodily lit, no character present (hábito: ahorro automático). panel 6:
+standing calm and satisfied under a sunrise, faint smile, wearing a plain
+jacket (payoff/cierre).
+
+Each panel has its own dark, moody lighting appropriate to its own
+activity/setting, but all six panels keep the same bold cinematic anime
+illustration style and the same overall dark color grading (#0B0B0C-based)
+so the grid reads as ONE cohesive poster, not six unrelated pictures. NO
+photorealistic rendering, NO real photograph, NO 3D render, NO stick
+figure, in any panel.
+
+Bold ultra-condensed sans-serif headline text overlaid ACROSS the grid
+(spanning over several panels, not confined inside a single panel),
+reading exactly "5 HABITOS CAMBIAN TODO", all capital letters, with the
+word "TODO" in #FF5A36, sitting on a soft dark gradient scrim across the
+panels it overlaps for legibility, positioned in the lower-middle area,
+text height about 29-34% of the image height, perfectly legible when
+shrunk to 160x90 px.
+
+A small circular badge in the top-left corner containing a simple white
+mountain-peak icon on a dark circle.
+
+--ar 16:9 --no bright background, light background, cream background,
+yellow banner, gradient glow, extra text, additional words, captions,
+subtitles, watermark, small lettering, gibberish text, photorealistic
+face, real photograph, 3D render, stick figure, inconsistent character
+design across panels, uneven panel sizes, thick white borders, panels
+in completely different art styles
+```
+
+## BƯỚC 2.9 — DESCRIPTION (tiếng Tây Ban Nha, ~150 từ)
+
+No hace falta que sea enero para cambiar tu vida. La fecha en el
+calendario no tiene ningún poder — pero estos 5 hábitos sí, y la ciencia
+detrás de cada uno lo explica.
+
+Te muestro por qué escribir 3 cosas buenas cada noche reduce síntomas de
+depresión hasta un 25% (20+ años de investigación de Robert Emmons, UC
+Davis); por qué seguir aprendiendo algo nuevo mantiene tu cerebro moldeable
+a cualquier edad (Norman Doidge); cómo 20 minutos de ejercicio cambian la
+química de tu cerebro (John Ratey, Harvard, "Spark"); por qué la calidad de
+tus relaciones predice una vida larga y feliz mejor que el dinero o la fama
+(Robert Waldinger, el estudio de felicidad más largo de la historia); y
+cómo automatizar tu ahorro sin depender de la fuerza de voluntad (Richard
+Thaler, premio Nobel de economía).
+
+Dime en los comentarios cuál vas a empezar esta semana — no en enero. 👇
+
+## HASHTAGS (13)
+
+#habitos #disciplina #desarrollopersonal #crecimientopersonal
+#habitossaludables #productividad #mentalidaddeexito #motivacion
+#bienestar #superacionpersonal #vidasaludable #autodisciplina
+#rutinadiaria
+
+## CHAPTERS (timestamp ƯỚC TÍNH — 2,5 từ/giây, tổng ≈ 5:08 phút — THAY BẰNG
+## TIMESTAMP THẬT từ .srt ngay khi có audio edge-tts thật)
+
+0:00 El Gancho
+0:14 La Promesa
+0:29 Hábito 1: Tres Cosas Buenas
+1:21 Hábito 2: Sigue Siendo Principiante
+2:11 Hábito 3: Veinte Minutos de Movimiento
+3:01 Hábito 4: Relaciones Reales
+4:00 Hábito 5: Ahorra Más Mañana
+4:53 Cierre
+
+## CHECKLIST METADATA
+
+- [x] Description >= 120 từ, từ khóa "hábitos" trong 2 dòng đầu
+- [x] >= 10 hashtags lowercase (13)
+- [x] 3 titles <= 60 ký tự, mỗi title chứa "hábitos"
+- [x] Đã gán Playlist Folder (01_Disciplina y Habitos)
+- [x] 2 thumbnail prompts — đúng 1 Mẫu B + 1 Mẫu C, dùng {NHÂN_VẬT_CỐ_ĐỊNH}, cỡ chữ 29-34%, KHÔNG chứa số năm cụ thể (evergreen)
+- [x] Chapters >= 3 mốc, dòng đầu 0:00, tên khớp từng Hábito, timestamp ƯỚC TÍNH (chưa có audio thật)

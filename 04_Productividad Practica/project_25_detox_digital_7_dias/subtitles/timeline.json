@@ -1,0 +1,4012 @@
+[
+ {
+  "id": "S01_F001",
+  "scene": "EL GANCHO",
+  "shot_raw": "Close-up",
+  "shot": "CLOSE-UP",
+  "es": "Tu mano ya está buscando el teléfono antes de que termine de leer esta frase, y ni siquiera te diste cuenta.",
+  "visual": "Extreme close-up of a stick-figure hand reaching reflexively toward a dark phone on a table, phone screen dark, faint glow beginning to flicker at the edge.",
+  "start": 0.0,
+  "end": 6.689,
+  "words": [
+   {
+    "word": "Tu",
+    "start": 0.252,
+    "end": 0.375
+   },
+   {
+    "word": "mano",
+    "start": 0.375,
+    "end": 0.622
+   },
+   {
+    "word": "ya",
+    "start": 0.622,
+    "end": 0.745
+   },
+   {
+    "word": "está",
+    "start": 0.745,
+    "end": 0.991
+   },
+   {
+    "word": "buscando",
+    "start": 0.991,
+    "end": 1.484
+   },
+   {
+    "word": "el",
+    "start": 1.484,
+    "end": 1.694
+   },
+   {
+    "word": "teléfono",
+    "start": 1.694,
+    "end": 2.186
+   },
+   {
+    "word": "antes",
+    "start": 2.186,
+    "end": 2.494
+   },
+   {
+    "word": "de",
+    "start": 2.494,
+    "end": 2.617
+   },
+   {
+    "word": "que",
+    "start": 2.617,
+    "end": 2.802
+   },
+   {
+    "word": "termine",
+    "start": 2.802,
+    "end": 3.233
+   },
+   {
+    "word": "de",
+    "start": 3.233,
+    "end": 3.356
+   },
+   {
+    "word": "leer",
+    "start": 3.356,
+    "end": 3.603
+   },
+   {
+    "word": "esta",
+    "start": 3.603,
+    "end": 3.849
+   },
+   {
+    "word": "frase,",
+    "start": 3.849,
+    "end": 4.157
+   },
+   {
+    "word": "y",
+    "start": 4.157,
+    "end": 4.219
+   },
+   {
+    "word": "ni",
+    "start": 4.219,
+    "end": 4.689
+   },
+   {
+    "word": "siquiera",
+    "start": 4.689,
+    "end": 5.182
+   },
+   {
+    "word": "te",
+    "start": 5.182,
+    "end": 5.305
+   },
+   {
+    "word": "diste",
+    "start": 5.305,
+    "end": 5.613
+   },
+   {
+    "word": "cuenta.",
+    "start": 5.613,
+    "end": 6.069
+   }
+  ]
+ },
+ {
+  "id": "S01_F002",
+  "scene": "EL GANCHO",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "Eso no es falta de voluntad. Es diseño.",
+  "visual": "Stick figure staring at the now-glowing phone screen, small gear-and-circuit icon in #3BA7C9 overlaid subtly on the screen glow, suggesting deliberate engineering.",
+  "start": 6.689,
+  "end": 11.197,
+  "words": [
+   {
+    "word": "Eso",
+    "start": 7.308,
+    "end": 7.503
+   },
+   {
+    "word": "no",
+    "start": 7.503,
+    "end": 7.633
+   },
+   {
+    "word": "es",
+    "start": 7.633,
+    "end": 7.763
+   },
+   {
+    "word": "falta",
+    "start": 7.763,
+    "end": 8.165
+   },
+   {
+    "word": "de",
+    "start": 8.165,
+    "end": 8.295
+   },
+   {
+    "word": "voluntad.",
+    "start": 8.295,
+    "end": 10.06
+   },
+   {
+    "word": "Es",
+    "start": 10.06,
+    "end": 10.19
+   },
+   {
+    "word": "diseño.",
+    "start": 10.19,
+    "end": 10.58
+   }
+  ]
+ },
+ {
+  "id": "S01_F003",
+  "scene": "EL GANCHO",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Durante los próximos 7 días vas a hacer algo distinto a un \"detox digital\" genérico:",
+  "visual": "Wide shot of a glowing 7-tile calendar strip floating in dark space, all seven tiles dim/unlit, stick figure standing before it, small and contemplative.",
+  "start": 11.197,
+  "end": 16.546,
+  "words": [
+   {
+    "word": "Durante",
+    "start": 11.813,
+    "end": 12.238
+   },
+   {
+    "word": "los",
+    "start": 12.238,
+    "end": 12.42
+   },
+   {
+    "word": "próximos",
+    "start": 12.42,
+    "end": 12.987
+   },
+   {
+    "word": "7",
+    "start": 12.987,
+    "end": 13.048
+   },
+   {
+    "word": "días",
+    "start": 13.048,
+    "end": 13.291
+   },
+   {
+    "word": "vas",
+    "start": 13.291,
+    "end": 13.473
+   },
+   {
+    "word": "a",
+    "start": 13.473,
+    "end": 13.534
+   },
+   {
+    "word": "hacer",
+    "start": 13.534,
+    "end": 13.837
+   },
+   {
+    "word": "algo",
+    "start": 13.837,
+    "end": 14.08
+   },
+   {
+    "word": "distinto",
+    "start": 14.08,
+    "end": 14.566
+   },
+   {
+    "word": "a",
+    "start": 14.566,
+    "end": 14.627
+   },
+   {
+    "word": "un",
+    "start": 14.627,
+    "end": 14.748
+   },
+   {
+    "word": "\"detox",
+    "start": 14.748,
+    "end": 15.125
+   },
+   {
+    "word": "digital\"",
+    "start": 15.125,
+    "end": 15.765
+   },
+   {
+    "word": "genérico:",
+    "start": 15.765,
+    "end": 16.344
+   }
+  ]
+ },
+ {
+  "id": "S01_F004",
+  "scene": "EL GANCHO",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "vas a entender exactamente qué le pasa a tu cerebro cada día que pasas sin scroll compulsivo,",
+  "visual": "Stick figure with a simplified glowing brain icon above the head, #3BA7C9 pulse lines radiating outward, representing internal neural activity being observed.",
+  "start": 16.546,
+  "end": 22.92,
+  "words": [
+   {
+    "word": "vas",
+    "start": 16.749,
+    "end": 16.942
+   },
+   {
+    "word": "a",
+    "start": 16.942,
+    "end": 17.006
+   },
+   {
+    "word": "entender",
+    "start": 17.006,
+    "end": 17.965
+   },
+   {
+    "word": "exactamente",
+    "start": 17.965,
+    "end": 18.78
+   },
+   {
+    "word": "qué",
+    "start": 18.78,
+    "end": 18.973
+   },
+   {
+    "word": "le",
+    "start": 18.973,
+    "end": 19.102
+   },
+   {
+    "word": "pasa",
+    "start": 19.102,
+    "end": 19.438
+   },
+   {
+    "word": "a",
+    "start": 19.438,
+    "end": 19.502
+   },
+   {
+    "word": "tu",
+    "start": 19.502,
+    "end": 19.63
+   },
+   {
+    "word": "cerebro",
+    "start": 19.63,
+    "end": 20.176
+   },
+   {
+    "word": "cada",
+    "start": 20.176,
+    "end": 20.529
+   },
+   {
+    "word": "día",
+    "start": 20.529,
+    "end": 20.721
+   },
+   {
+    "word": "que",
+    "start": 20.721,
+    "end": 20.914
+   },
+   {
+    "word": "pasas",
+    "start": 20.914,
+    "end": 21.321
+   },
+   {
+    "word": "sin",
+    "start": 21.321,
+    "end": 21.514
+   },
+   {
+    "word": "scroll",
+    "start": 21.514,
+    "end": 22.072
+   },
+   {
+    "word": "compulsivo,",
+    "start": 22.072,
+    "end": 22.715
+   }
+  ]
+ },
+ {
+  "id": "S01_F005",
+  "scene": "EL GANCHO",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "por qué los primeros días son los peores, y qué hacer para que el cambio dure después del día 7.",
+  "visual": "Wide establishing shot of the same 7-tile calendar strip, first two tiles now flickering red-orange with strain, tile seven glowing steady and calm in the distance, stick figure walking toward it.",
+  "start": 22.92,
+  "end": 29.0,
+  "words": [
+   {
+    "word": "por",
+    "start": 23.125,
+    "end": 23.382
+   },
+   {
+    "word": "qué",
+    "start": 23.382,
+    "end": 23.638
+   },
+   {
+    "word": "los",
+    "start": 23.638,
+    "end": 23.805
+   },
+   {
+    "word": "primeros",
+    "start": 23.805,
+    "end": 24.249
+   },
+   {
+    "word": "días",
+    "start": 24.249,
+    "end": 24.471
+   },
+   {
+    "word": "son",
+    "start": 24.471,
+    "end": 24.637
+   },
+   {
+    "word": "los",
+    "start": 24.637,
+    "end": 24.899
+   },
+   {
+    "word": "peores,",
+    "start": 24.899,
+    "end": 25.232
+   },
+   {
+    "word": "y",
+    "start": 25.232,
+    "end": 25.59
+   },
+   {
+    "word": "qué",
+    "start": 25.59,
+    "end": 25.827
+   },
+   {
+    "word": "hacer",
+    "start": 25.827,
+    "end": 26.197
+   },
+   {
+    "word": "para",
+    "start": 26.197,
+    "end": 26.499
+   },
+   {
+    "word": "que",
+    "start": 26.499,
+    "end": 26.765
+   },
+   {
+    "word": "el",
+    "start": 26.765,
+    "end": 26.876
+   },
+   {
+    "word": "cambio",
+    "start": 26.876,
+    "end": 27.209
+   },
+   {
+    "word": "dure",
+    "start": 27.209,
+    "end": 27.534
+   },
+   {
+    "word": "después",
+    "start": 27.534,
+    "end": 27.923
+   },
+   {
+    "word": "del",
+    "start": 27.923,
+    "end": 28.089
+   },
+   {
+    "word": "día",
+    "start": 28.089,
+    "end": 28.354
+   },
+   {
+    "word": "7.",
+    "start": 28.354,
+    "end": 28.409
+   }
+  ]
+ },
+ {
+  "id": "S02_F006",
+  "scene": "MODULO 1 - Dias 1 y 2: Por Que Es Dificil (Adam Alter)",
+  "shot_raw": "Text card / title",
+  "shot": "MEDIUM SHOT",
+  "es": "Días 1 y 2: por qué se siente tan difícil.",
+  "visual": "Minimal title card, two calendar tiles (Día 1, Día 2) glowing red-orange with tension lines around them, centered in dark frame.",
+  "start": 29.0,
+  "end": 33.121,
+  "words": [
+   {
+    "word": "Días",
+    "start": 29.591,
+    "end": 29.925
+   },
+   {
+    "word": "1",
+    "start": 29.925,
+    "end": 30.009
+   },
+   {
+    "word": "y",
+    "start": 30.009,
+    "end": 30.092
+   },
+   {
+    "word": "2:",
+    "start": 30.092,
+    "end": 30.176
+   },
+   {
+    "word": "por",
+    "start": 30.176,
+    "end": 30.426
+   },
+   {
+    "word": "qué",
+    "start": 30.426,
+    "end": 30.677
+   },
+   {
+    "word": "se",
+    "start": 30.677,
+    "end": 31.163
+   },
+   {
+    "word": "siente",
+    "start": 31.163,
+    "end": 31.664
+   },
+   {
+    "word": "tan",
+    "start": 31.664,
+    "end": 31.914
+   },
+   {
+    "word": "difícil.",
+    "start": 31.914,
+    "end": 32.498
+   }
+  ]
+ },
+ {
+  "id": "S02_F007",
+  "scene": "MODULO 1 - Dias 1 y 2: Por Que Es Dificil (Adam Alter)",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "El psicólogo Adam Alter, de la Universidad de Nueva York, explica en su libro \"Irresistible\"",
+  "visual": "Stick figure standing beside a glowing book icon labeled with a simple open-book silhouette, small NYU-style academic building icon faintly in the background.",
+  "start": 33.121,
+  "end": 39.736,
+  "words": [
+   {
+    "word": "El",
+    "start": 33.743,
+    "end": 33.867
+   },
+   {
+    "word": "psicólogo",
+    "start": 33.867,
+    "end": 34.423
+   },
+   {
+    "word": "Adam",
+    "start": 34.423,
+    "end": 34.67
+   },
+   {
+    "word": "Alter,",
+    "start": 34.67,
+    "end": 35.443
+   },
+   {
+    "word": "de",
+    "start": 35.443,
+    "end": 35.567
+   },
+   {
+    "word": "la",
+    "start": 35.567,
+    "end": 35.69
+   },
+   {
+    "word": "Universidad",
+    "start": 35.69,
+    "end": 36.37
+   },
+   {
+    "word": "de",
+    "start": 36.37,
+    "end": 36.493
+   },
+   {
+    "word": "Nueva",
+    "start": 36.493,
+    "end": 36.802
+   },
+   {
+    "word": "York,",
+    "start": 36.802,
+    "end": 37.547
+   },
+   {
+    "word": "explica",
+    "start": 37.547,
+    "end": 38.073
+   },
+   {
+    "word": "en",
+    "start": 38.073,
+    "end": 38.197
+   },
+   {
+    "word": "su",
+    "start": 38.197,
+    "end": 38.32
+   },
+   {
+    "word": "libro",
+    "start": 38.32,
+    "end": 38.881
+   },
+   {
+    "word": "\"Irresistible\"",
+    "start": 38.881,
+    "end": 39.622
+   }
+  ]
+ },
+ {
+  "id": "S02_F008",
+  "scene": "MODULO 1 - Dias 1 y 2: Por Que Es Dificil (Adam Alter)",
+  "shot_raw": "Close-up",
+  "shot": "CLOSE-UP",
+  "es": "que las aplicaciones de redes sociales no son adictivas por accidente.",
+  "visual": "Close-up of a phone screen icon with small gear teeth visible inside it, implying deliberate mechanical design rather than accident.",
+  "start": 39.736,
+  "end": 44.127,
+  "words": [
+   {
+    "word": "que",
+    "start": 39.851,
+    "end": 40.021
+   },
+   {
+    "word": "las",
+    "start": 40.021,
+    "end": 40.192
+   },
+   {
+    "word": "aplicaciones",
+    "start": 40.192,
+    "end": 40.874
+   },
+   {
+    "word": "de",
+    "start": 40.874,
+    "end": 40.988
+   },
+   {
+    "word": "redes",
+    "start": 40.988,
+    "end": 41.272
+   },
+   {
+    "word": "sociales",
+    "start": 41.272,
+    "end": 41.727
+   },
+   {
+    "word": "no",
+    "start": 41.727,
+    "end": 41.841
+   },
+   {
+    "word": "son",
+    "start": 41.841,
+    "end": 42.012
+   },
+   {
+    "word": "adictivas",
+    "start": 42.012,
+    "end": 42.654
+   },
+   {
+    "word": "por",
+    "start": 42.654,
+    "end": 42.91
+   },
+   {
+    "word": "accidente.",
+    "start": 42.91,
+    "end": 43.523
+   }
+  ]
+ },
+ {
+  "id": "S02_F009",
+  "scene": "MODULO 1 - Dias 1 y 2: Por Que Es Dificil (Adam Alter)",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Usan el mismo mecanismo de recompensa variable que hace irresistibles las máquinas tragamonedas:",
+  "visual": "Split visual: on one side a simplified slot-machine icon with spinning symbols, on the other a phone screen with a spinning feed icon, both connected by a glowing #3BA7C9 link line showing they share the same mechanism.",
+  "start": 44.127,
+  "end": 50.209,
+  "words": [
+   {
+    "word": "Usan",
+    "start": 44.731,
+    "end": 44.977
+   },
+   {
+    "word": "el",
+    "start": 44.977,
+    "end": 45.1
+   },
+   {
+    "word": "mismo",
+    "start": 45.1,
+    "end": 45.407
+   },
+   {
+    "word": "mecanismo",
+    "start": 45.407,
+    "end": 45.96
+   },
+   {
+    "word": "de",
+    "start": 45.96,
+    "end": 46.083
+   },
+   {
+    "word": "recompensa",
+    "start": 46.083,
+    "end": 46.777
+   },
+   {
+    "word": "variable",
+    "start": 46.777,
+    "end": 47.344
+   },
+   {
+    "word": "que",
+    "start": 47.344,
+    "end": 47.529
+   },
+   {
+    "word": "hace",
+    "start": 47.529,
+    "end": 47.775
+   },
+   {
+    "word": "irresistibles",
+    "start": 47.775,
+    "end": 48.573
+   },
+   {
+    "word": "las",
+    "start": 48.573,
+    "end": 48.758
+   },
+   {
+    "word": "máquinas",
+    "start": 48.758,
+    "end": 49.25
+   },
+   {
+    "word": "tragamonedas:",
+    "start": 49.25,
+    "end": 49.987
+   }
+  ]
+ },
+ {
+  "id": "S02_F010",
+  "scene": "MODULO 1 - Dias 1 y 2: Por Que Es Dificil (Adam Alter)",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "nunca sabes si el siguiente scroll te va a mostrar algo aburrido o algo fascinante,",
+  "visual": "Stick figure mid-scroll gesture, two faint ghost icons above the phone — one dull gray box, one glowing bright box — both equally likely, question mark hovering between them.",
+  "start": 50.209,
+  "end": 54.814,
+  "words": [
+   {
+    "word": "nunca",
+    "start": 50.43,
+    "end": 50.721
+   },
+   {
+    "word": "sabes",
+    "start": 50.721,
+    "end": 51.011
+   },
+   {
+    "word": "si",
+    "start": 51.011,
+    "end": 51.127
+   },
+   {
+    "word": "el",
+    "start": 51.127,
+    "end": 51.243
+   },
+   {
+    "word": "siguiente",
+    "start": 51.243,
+    "end": 51.837
+   },
+   {
+    "word": "scroll",
+    "start": 51.837,
+    "end": 52.261
+   },
+   {
+    "word": "te",
+    "start": 52.261,
+    "end": 52.378
+   },
+   {
+    "word": "va",
+    "start": 52.378,
+    "end": 52.494
+   },
+   {
+    "word": "a",
+    "start": 52.494,
+    "end": 52.552
+   },
+   {
+    "word": "mostrar",
+    "start": 52.552,
+    "end": 52.958
+   },
+   {
+    "word": "algo",
+    "start": 52.958,
+    "end": 53.19
+   },
+   {
+    "word": "aburrido",
+    "start": 53.19,
+    "end": 53.737
+   },
+   {
+    "word": "o",
+    "start": 53.737,
+    "end": 53.795
+   },
+   {
+    "word": "algo",
+    "start": 53.795,
+    "end": 54.027
+   },
+   {
+    "word": "fascinante,",
+    "start": 54.027,
+    "end": 54.693
+   }
+  ]
+ },
+ {
+  "id": "S02_F011",
+  "scene": "MODULO 1 - Dias 1 y 2: Por Que Es Dificil (Adam Alter)",
+  "shot_raw": "Close-up",
+  "shot": "CLOSE-UP",
+  "es": "y esa incertidumbre es precisamente lo que mantiene a tu cerebro enganchado,",
+  "visual": "Close-up of the simplified brain icon with a small glowing hook shape in #3BA7C9 lodged into it, symbolizing being hooked by uncertainty.",
+  "start": 54.814,
+  "end": 58.946,
+  "words": [
+   {
+    "word": "y",
+    "start": 54.934,
+    "end": 54.989
+   },
+   {
+    "word": "esa",
+    "start": 54.989,
+    "end": 55.152
+   },
+   {
+    "word": "incertidumbre",
+    "start": 55.152,
+    "end": 55.943
+   },
+   {
+    "word": "es",
+    "start": 55.943,
+    "end": 56.135
+   },
+   {
+    "word": "precisamente",
+    "start": 56.135,
+    "end": 56.787
+   },
+   {
+    "word": "lo",
+    "start": 56.787,
+    "end": 56.978
+   },
+   {
+    "word": "que",
+    "start": 56.978,
+    "end": 57.141
+   },
+   {
+    "word": "mantiene",
+    "start": 57.141,
+    "end": 57.65
+   },
+   {
+    "word": "a",
+    "start": 57.65,
+    "end": 57.704
+   },
+   {
+    "word": "tu",
+    "start": 57.704,
+    "end": 57.813
+   },
+   {
+    "word": "cerebro",
+    "start": 57.813,
+    "end": 58.193
+   },
+   {
+    "word": "enganchado,",
+    "start": 58.193,
+    "end": 58.736
+   }
+  ]
+ },
+ {
+  "id": "S02_F012",
+  "scene": "MODULO 1 - Dias 1 y 2: Por Que Es Dificil (Adam Alter)",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "revisando \"por si acaso\" una y otra vez.",
+  "visual": "Stick figure shown in a short repeating-motion sequence (three overlapping faint silhouettes) reaching for the phone again and again, motion blur lines.",
+  "start": 58.946,
+  "end": 62.245,
+  "words": [
+   {
+    "word": "revisando",
+    "start": 59.156,
+    "end": 59.952
+   },
+   {
+    "word": "\"por",
+    "start": 59.952,
+    "end": 60.165
+   },
+   {
+    "word": "si",
+    "start": 60.165,
+    "end": 60.377
+   },
+   {
+    "word": "acaso\"",
+    "start": 60.377,
+    "end": 60.86
+   },
+   {
+    "word": "una",
+    "start": 60.86,
+    "end": 61.073
+   },
+   {
+    "word": "y",
+    "start": 61.073,
+    "end": 61.143
+   },
+   {
+    "word": "otra",
+    "start": 61.143,
+    "end": 61.427
+   },
+   {
+    "word": "vez.",
+    "start": 61.427,
+    "end": 61.639
+   }
+  ]
+ },
+ {
+  "id": "S02_F013",
+  "scene": "MODULO 1 - Dias 1 y 2: Por Que Es Dificil (Adam Alter)",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "Anota esto: durante los días 1 y 2, vas a sentir un impulso físico de revisar el teléfono sin ninguna razón real.",
+  "visual": "Stick figure with a small glowing pulse icon in #3BA7C9 at the hand, indicating a physical urge, calendar tiles 1 and 2 flickering red-orange in the background.",
+  "start": 62.245,
+  "end": 70.893,
+  "words": [
+   {
+    "word": "Anota",
+    "start": 62.852,
+    "end": 63.216
+   },
+   {
+    "word": "esto:",
+    "start": 63.216,
+    "end": 63.507
+   },
+   {
+    "word": "durante",
+    "start": 63.507,
+    "end": 64.42
+   },
+   {
+    "word": "los",
+    "start": 64.42,
+    "end": 64.639
+   },
+   {
+    "word": "días",
+    "start": 64.639,
+    "end": 64.93
+   },
+   {
+    "word": "1",
+    "start": 64.93,
+    "end": 65.002
+   },
+   {
+    "word": "y",
+    "start": 65.002,
+    "end": 65.075
+   },
+   {
+    "word": "2,",
+    "start": 65.075,
+    "end": 65.148
+   },
+   {
+    "word": "vas",
+    "start": 65.148,
+    "end": 65.366
+   },
+   {
+    "word": "a",
+    "start": 65.366,
+    "end": 65.439
+   },
+   {
+    "word": "sentir",
+    "start": 65.439,
+    "end": 66.226
+   },
+   {
+    "word": "un",
+    "start": 66.226,
+    "end": 66.371
+   },
+   {
+    "word": "impulso",
+    "start": 66.371,
+    "end": 66.88
+   },
+   {
+    "word": "físico",
+    "start": 66.88,
+    "end": 67.407
+   },
+   {
+    "word": "de",
+    "start": 67.407,
+    "end": 67.552
+   },
+   {
+    "word": "revisar",
+    "start": 67.552,
+    "end": 68.062
+   },
+   {
+    "word": "el",
+    "start": 68.062,
+    "end": 68.207
+   },
+   {
+    "word": "teléfono",
+    "start": 68.207,
+    "end": 68.88
+   },
+   {
+    "word": "sin",
+    "start": 68.88,
+    "end": 69.098
+   },
+   {
+    "word": "ninguna",
+    "start": 69.098,
+    "end": 69.608
+   },
+   {
+    "word": "razón",
+    "start": 69.608,
+    "end": 69.972
+   },
+   {
+    "word": "real.",
+    "start": 69.972,
+    "end": 70.263
+   }
+  ]
+ },
+ {
+  "id": "S02_F014",
+  "scene": "MODULO 1 - Dias 1 y 2: Por Que Es Dificil (Adam Alter)",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Eso no significa que estés fallando.",
+  "visual": "Wide shot of the stick figure standing steady despite the flickering tiles behind, posture calm and upright rather than defeated.",
+  "start": 70.893,
+  "end": 74.014,
+  "words": [
+   {
+    "word": "Eso",
+    "start": 71.523,
+    "end": 71.712
+   },
+   {
+    "word": "no",
+    "start": 71.712,
+    "end": 71.837
+   },
+   {
+    "word": "significa",
+    "start": 71.837,
+    "end": 72.401
+   },
+   {
+    "word": "que",
+    "start": 72.401,
+    "end": 72.59
+   },
+   {
+    "word": "estés",
+    "start": 72.59,
+    "end": 72.903
+   },
+   {
+    "word": "fallando.",
+    "start": 72.903,
+    "end": 73.405
+   }
+  ]
+ },
+ {
+  "id": "S02_F015",
+  "scene": "MODULO 1 - Dias 1 y 2: Por Que Es Dificil (Adam Alter)",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Significa que el mecanismo está funcionando exactamente como fue diseñado, y tú apenas estás empezando a notarlo por primera vez.",
+  "visual": "Wide shot pulling back to reveal the gear-and-circuit icon from earlier now large and fully visible behind the phone, stick figure looking at it directly for the first time, #3BA7C9 rim light outlining the gear.",
+  "start": 74.014,
+  "end": 82.567,
+  "words": [
+   {
+    "word": "Significa",
+    "start": 74.623,
+    "end": 75.155
+   },
+   {
+    "word": "que",
+    "start": 75.155,
+    "end": 75.332
+   },
+   {
+    "word": "el",
+    "start": 75.332,
+    "end": 75.451
+   },
+   {
+    "word": "mecanismo",
+    "start": 75.451,
+    "end": 75.983
+   },
+   {
+    "word": "está",
+    "start": 75.983,
+    "end": 76.219
+   },
+   {
+    "word": "funcionando",
+    "start": 76.219,
+    "end": 76.87
+   },
+   {
+    "word": "exactamente",
+    "start": 76.87,
+    "end": 77.647
+   },
+   {
+    "word": "como",
+    "start": 77.647,
+    "end": 77.955
+   },
+   {
+    "word": "fue",
+    "start": 77.955,
+    "end": 78.133
+   },
+   {
+    "word": "diseñado,",
+    "start": 78.133,
+    "end": 78.606
+   },
+   {
+    "word": "y",
+    "start": 78.606,
+    "end": 79.078
+   },
+   {
+    "word": "tú",
+    "start": 79.078,
+    "end": 79.197
+   },
+   {
+    "word": "apenas",
+    "start": 79.197,
+    "end": 79.625
+   },
+   {
+    "word": "estás",
+    "start": 79.625,
+    "end": 79.921
+   },
+   {
+    "word": "empezando",
+    "start": 79.921,
+    "end": 80.453
+   },
+   {
+    "word": "a",
+    "start": 80.453,
+    "end": 80.512
+   },
+   {
+    "word": "notarlo",
+    "start": 80.512,
+    "end": 81.0
+   },
+   {
+    "word": "por",
+    "start": 81.0,
+    "end": 81.378
+   },
+   {
+    "word": "primera",
+    "start": 81.378,
+    "end": 81.792
+   },
+   {
+    "word": "vez.",
+    "start": 81.792,
+    "end": 81.97
+   }
+  ]
+ },
+ {
+  "id": "S03_F016",
+  "scene": "MODULO 2 - Dias 3 y 4: La Caida Antes de la Mejora",
+  "shot_raw": "Text card / title",
+  "shot": "MEDIUM SHOT",
+  "es": "Días 3 y 4: la caída antes de la mejora.",
+  "visual": "Minimal title card, two calendar tiles (Día 3, Día 4) glowing dim gray-blue, a small downward arrow icon beneath them.",
+  "start": 82.567,
+  "end": 86.904,
+  "words": [
+   {
+    "word": "Días",
+    "start": 83.165,
+    "end": 83.522
+   },
+   {
+    "word": "3",
+    "start": 83.522,
+    "end": 83.611
+   },
+   {
+    "word": "y",
+    "start": 83.611,
+    "end": 83.7
+   },
+   {
+    "word": "4:",
+    "start": 83.7,
+    "end": 83.789
+   },
+   {
+    "word": "la",
+    "start": 83.789,
+    "end": 83.968
+   },
+   {
+    "word": "caída",
+    "start": 83.968,
+    "end": 84.946
+   },
+   {
+    "word": "antes",
+    "start": 84.946,
+    "end": 85.392
+   },
+   {
+    "word": "de",
+    "start": 85.392,
+    "end": 85.57
+   },
+   {
+    "word": "la",
+    "start": 85.57,
+    "end": 85.749
+   },
+   {
+    "word": "mejora.",
+    "start": 85.749,
+    "end": 86.284
+   }
+  ]
+ },
+ {
+  "id": "S03_F017",
+  "scene": "MODULO 2 - Dias 3 y 4: La Caida Antes de la Mejora",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "Aquí está lo importante: la mayoría de las personas abandona el detox digital exactamente en este punto,",
+  "visual": "Stick figure standing at a fork in a glowing path, one branch leading back to a bright phone icon, the other continuing forward dimly, #3BA7C9 highlight on the fork point.",
+  "start": 86.904,
+  "end": 93.996,
+  "words": [
+   {
+    "word": "Aquí",
+    "start": 87.524,
+    "end": 87.765
+   },
+   {
+    "word": "está",
+    "start": 87.765,
+    "end": 88.007
+   },
+   {
+    "word": "lo",
+    "start": 88.007,
+    "end": 88.127
+   },
+   {
+    "word": "importante:",
+    "start": 88.127,
+    "end": 88.891
+   },
+   {
+    "word": "la",
+    "start": 88.891,
+    "end": 89.458
+   },
+   {
+    "word": "mayoría",
+    "start": 89.458,
+    "end": 89.88
+   },
+   {
+    "word": "de",
+    "start": 89.88,
+    "end": 90.001
+   },
+   {
+    "word": "las",
+    "start": 90.001,
+    "end": 90.257
+   },
+   {
+    "word": "personas",
+    "start": 90.257,
+    "end": 90.739
+   },
+   {
+    "word": "abandona",
+    "start": 90.739,
+    "end": 91.222
+   },
+   {
+    "word": "el",
+    "start": 91.222,
+    "end": 91.342
+   },
+   {
+    "word": "detox",
+    "start": 91.342,
+    "end": 91.726
+   },
+   {
+    "word": "digital",
+    "start": 91.726,
+    "end": 92.148
+   },
+   {
+    "word": "exactamente",
+    "start": 92.148,
+    "end": 92.934
+   },
+   {
+    "word": "en",
+    "start": 92.934,
+    "end": 93.055
+   },
+   {
+    "word": "este",
+    "start": 93.055,
+    "end": 93.296
+   },
+   {
+    "word": "punto,",
+    "start": 93.296,
+    "end": 93.781
+   }
+  ]
+ },
+ {
+  "id": "S03_F018",
+  "scene": "MODULO 2 - Dias 3 y 4: La Caida Antes de la Mejora",
+  "shot_raw": "Close-up",
+  "shot": "CLOSE-UP",
+  "es": "porque en lugar de sentirse mejor, se sienten más aburridas, más irritables",
+  "visual": "Close-up of the stick figure's simplified face showing a flat, restless expression, small jagged tension lines around the head.",
+  "start": 93.996,
+  "end": 99.446,
+  "words": [
+   {
+    "word": "porque",
+    "start": 94.21,
+    "end": 94.621
+   },
+   {
+    "word": "en",
+    "start": 94.621,
+    "end": 94.758
+   },
+   {
+    "word": "lugar",
+    "start": 94.758,
+    "end": 95.101
+   },
+   {
+    "word": "de",
+    "start": 95.101,
+    "end": 95.239
+   },
+   {
+    "word": "sentirse",
+    "start": 95.239,
+    "end": 95.787
+   },
+   {
+    "word": "mejor,",
+    "start": 95.787,
+    "end": 96.562
+   },
+   {
+    "word": "se",
+    "start": 96.562,
+    "end": 96.7
+   },
+   {
+    "word": "sienten",
+    "start": 96.7,
+    "end": 97.18
+   },
+   {
+    "word": "más",
+    "start": 97.18,
+    "end": 97.386
+   },
+   {
+    "word": "aburridas,",
+    "start": 97.386,
+    "end": 98.278
+   },
+   {
+    "word": "más",
+    "start": 98.278,
+    "end": 98.484
+   },
+   {
+    "word": "irritables",
+    "start": 98.484,
+    "end": 99.259
+   }
+  ]
+ },
+ {
+  "id": "S03_F019",
+  "scene": "MODULO 2 - Dias 3 y 4: La Caida Antes de la Mejora",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "y, paradójicamente, más ansiosas por revisar el teléfono que el primer día.",
+  "visual": "Stick figure glancing sideways at the dark phone with a stronger, larger #3BA7C9 pulse icon at the hand than in Módulo 1, showing intensified urge.",
+  "start": 99.446,
+  "end": 104.431,
+  "words": [
+   {
+    "word": "y,",
+    "start": 99.633,
+    "end": 99.688
+   },
+   {
+    "word": "paradójicamente,",
+    "start": 99.688,
+    "end": 101.072
+   },
+   {
+    "word": "más",
+    "start": 101.072,
+    "end": 101.236
+   },
+   {
+    "word": "ansiosas",
+    "start": 101.236,
+    "end": 101.672
+   },
+   {
+    "word": "por",
+    "start": 101.672,
+    "end": 101.927
+   },
+   {
+    "word": "revisar",
+    "start": 101.927,
+    "end": 102.308
+   },
+   {
+    "word": "el",
+    "start": 102.308,
+    "end": 102.417
+   },
+   {
+    "word": "teléfono",
+    "start": 102.417,
+    "end": 102.946
+   },
+   {
+    "word": "que",
+    "start": 102.946,
+    "end": 103.109
+   },
+   {
+    "word": "el",
+    "start": 103.109,
+    "end": 103.325
+   },
+   {
+    "word": "primer",
+    "start": 103.325,
+    "end": 103.652
+   },
+   {
+    "word": "día.",
+    "start": 103.652,
+    "end": 103.816
+   }
+  ]
+ },
+ {
+  "id": "S03_F020",
+  "scene": "MODULO 2 - Dias 3 y 4: La Caida Antes de la Mejora",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Esto es una fase esperada, no una señal de que el detox no está funcionando —",
+  "visual": "Wide shot of a simple dipping curve/graph line drawn in light glowing strokes, dipping low around the middle before implying a future rise, calendar tiles 3-4 sitting at the low point of the curve.",
+  "start": 104.431,
+  "end": 109.648,
+  "words": [
+   {
+    "word": "Esto",
+    "start": 105.047,
+    "end": 105.3
+   },
+   {
+    "word": "es",
+    "start": 105.3,
+    "end": 105.427
+   },
+   {
+    "word": "una",
+    "start": 105.427,
+    "end": 105.617
+   },
+   {
+    "word": "fase",
+    "start": 105.617,
+    "end": 105.87
+   },
+   {
+    "word": "esperada,",
+    "start": 105.87,
+    "end": 106.449
+   },
+   {
+    "word": "no",
+    "start": 106.449,
+    "end": 106.955
+   },
+   {
+    "word": "una",
+    "start": 106.955,
+    "end": 107.145
+   },
+   {
+    "word": "señal",
+    "start": 107.145,
+    "end": 107.462
+   },
+   {
+    "word": "de",
+    "start": 107.462,
+    "end": 107.588
+   },
+   {
+    "word": "que",
+    "start": 107.588,
+    "end": 107.778
+   },
+   {
+    "word": "el",
+    "start": 107.778,
+    "end": 107.905
+   },
+   {
+    "word": "detox",
+    "start": 107.905,
+    "end": 108.294
+   },
+   {
+    "word": "no",
+    "start": 108.294,
+    "end": 108.421
+   },
+   {
+    "word": "está",
+    "start": 108.421,
+    "end": 108.674
+   },
+   {
+    "word": "funcionando",
+    "start": 108.674,
+    "end": 109.371
+   },
+   {
+    "word": "—",
+    "start": 109.371,
+    "end": 109.434
+   }
+  ]
+ },
+ {
+  "id": "S03_F021",
+  "scene": "MODULO 2 - Dias 3 y 4: La Caida Antes de la Mejora",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "es el mismo patrón que aparece cuando se reduce cualquier estímulo de recompensa rápida y constante",
+  "visual": "Medium shot of three small generic reward icons (star, bell, heart) fading out one by one in sequence, the dipping curve line visible faintly beneath them.",
+  "start": 109.648,
+  "end": 115.008,
+  "words": [
+   {
+    "word": "es",
+    "start": 109.861,
+    "end": 109.969
+   },
+   {
+    "word": "el",
+    "start": 109.969,
+    "end": 110.078
+   },
+   {
+    "word": "mismo",
+    "start": 110.078,
+    "end": 110.349
+   },
+   {
+    "word": "patrón",
+    "start": 110.349,
+    "end": 110.747
+   },
+   {
+    "word": "que",
+    "start": 110.747,
+    "end": 110.909
+   },
+   {
+    "word": "aparece",
+    "start": 110.909,
+    "end": 111.428
+   },
+   {
+    "word": "cuando",
+    "start": 111.428,
+    "end": 111.754
+   },
+   {
+    "word": "se",
+    "start": 111.754,
+    "end": 111.862
+   },
+   {
+    "word": "reduce",
+    "start": 111.862,
+    "end": 112.187
+   },
+   {
+    "word": "cualquier",
+    "start": 112.187,
+    "end": 112.747
+   },
+   {
+    "word": "estímulo",
+    "start": 112.747,
+    "end": 113.18
+   },
+   {
+    "word": "de",
+    "start": 113.18,
+    "end": 113.288
+   },
+   {
+    "word": "recompensa",
+    "start": 113.288,
+    "end": 113.919
+   },
+   {
+    "word": "rápida",
+    "start": 113.919,
+    "end": 114.349
+   },
+   {
+    "word": "y",
+    "start": 114.349,
+    "end": 114.403
+   },
+   {
+    "word": "constante",
+    "start": 114.403,
+    "end": 114.968
+   }
+  ]
+ },
+ {
+  "id": "S03_F022",
+  "scene": "MODULO 2 - Dias 3 y 4: La Caida Antes de la Mejora",
+  "shot_raw": "Close-up",
+  "shot": "CLOSE-UP",
+  "es": "al que el cerebro se había acostumbrado durante meses o incluso años sin que lo notaras conscientemente.",
+  "visual": "Close-up of the simplified brain icon with faint layered rings around it representing accumulated time/habit, rings labeled subtly by size rather than text.",
+  "start": 115.008,
+  "end": 121.233,
+  "words": [
+   {
+    "word": "al",
+    "start": 115.048,
+    "end": 115.167
+   },
+   {
+    "word": "que",
+    "start": 115.167,
+    "end": 115.423
+   },
+   {
+    "word": "el",
+    "start": 115.423,
+    "end": 115.543
+   },
+   {
+    "word": "cerebro",
+    "start": 115.543,
+    "end": 115.96
+   },
+   {
+    "word": "se",
+    "start": 115.96,
+    "end": 116.08
+   },
+   {
+    "word": "había",
+    "start": 116.08,
+    "end": 116.378
+   },
+   {
+    "word": "acostumbrado",
+    "start": 116.378,
+    "end": 117.094
+   },
+   {
+    "word": "durante",
+    "start": 117.094,
+    "end": 117.593
+   },
+   {
+    "word": "meses",
+    "start": 117.593,
+    "end": 117.892
+   },
+   {
+    "word": "o",
+    "start": 117.892,
+    "end": 117.951
+   },
+   {
+    "word": "incluso",
+    "start": 117.951,
+    "end": 118.442
+   },
+   {
+    "word": "años",
+    "start": 118.442,
+    "end": 118.681
+   },
+   {
+    "word": "sin",
+    "start": 118.681,
+    "end": 118.86
+   },
+   {
+    "word": "que",
+    "start": 118.86,
+    "end": 119.039
+   },
+   {
+    "word": "lo",
+    "start": 119.039,
+    "end": 119.158
+   },
+   {
+    "word": "notaras",
+    "start": 119.158,
+    "end": 119.65
+   },
+   {
+    "word": "conscientemente.",
+    "start": 119.65,
+    "end": 120.628
+   }
+  ]
+ },
+ {
+  "id": "S03_F023",
+  "scene": "MODULO 2 - Dias 3 y 4: La Caida Antes de la Mejora",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Si abandonas aquí, justo en el punto más incómodo, vuelves exactamente al mismo punto de partida de siempre,",
+  "visual": "Wide shot of the fork-in-path visual returning, stick figure now shown taking the branch back toward the bright phone icon, path behind fading to darkness.",
+  "start": 121.233,
+  "end": 128.459,
+  "words": [
+   {
+    "word": "Si",
+    "start": 121.837,
+    "end": 121.958
+   },
+   {
+    "word": "abandonas",
+    "start": 121.958,
+    "end": 122.504
+   },
+   {
+    "word": "aquí,",
+    "start": 122.504,
+    "end": 122.746
+   },
+   {
+    "word": "justo",
+    "start": 122.746,
+    "end": 123.416
+   },
+   {
+    "word": "en",
+    "start": 123.416,
+    "end": 123.537
+   },
+   {
+    "word": "el",
+    "start": 123.537,
+    "end": 123.658
+   },
+   {
+    "word": "punto",
+    "start": 123.658,
+    "end": 124.034
+   },
+   {
+    "word": "más",
+    "start": 124.034,
+    "end": 124.216
+   },
+   {
+    "word": "incómodo,",
+    "start": 124.216,
+    "end": 124.701
+   },
+   {
+    "word": "vuelves",
+    "start": 124.701,
+    "end": 125.52
+   },
+   {
+    "word": "exactamente",
+    "start": 125.52,
+    "end": 126.29
+   },
+   {
+    "word": "al",
+    "start": 126.29,
+    "end": 126.411
+   },
+   {
+    "word": "mismo",
+    "start": 126.411,
+    "end": 126.714
+   },
+   {
+    "word": "punto",
+    "start": 126.714,
+    "end": 127.091
+   },
+   {
+    "word": "de",
+    "start": 127.091,
+    "end": 127.212
+   },
+   {
+    "word": "partida",
+    "start": 127.212,
+    "end": 127.719
+   },
+   {
+    "word": "de",
+    "start": 127.719,
+    "end": 127.84
+   },
+   {
+    "word": "siempre,",
+    "start": 127.84,
+    "end": 128.264
+   }
+  ]
+ },
+ {
+  "id": "S03_F024",
+  "scene": "MODULO 2 - Dias 3 y 4: La Caida Antes de la Mejora",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "sin haber llegado nunca a la parte donde el cambio se vuelve visible y sostenible.",
+  "visual": "Wide shot showing the abandoned dim path continuing onward into darkness, the calendar tiles for days 5-7 barely visible and unlit far in the distance, unreached.",
+  "start": 128.459,
+  "end": 133.281,
+  "words": [
+   {
+    "word": "sin",
+    "start": 128.654,
+    "end": 128.822
+   },
+   {
+    "word": "haber",
+    "start": 128.822,
+    "end": 129.101
+   },
+   {
+    "word": "llegado",
+    "start": 129.101,
+    "end": 129.492
+   },
+   {
+    "word": "nunca",
+    "start": 129.492,
+    "end": 129.772
+   },
+   {
+    "word": "a",
+    "start": 129.772,
+    "end": 129.828
+   },
+   {
+    "word": "la",
+    "start": 129.828,
+    "end": 130.02
+   },
+   {
+    "word": "parte",
+    "start": 130.02,
+    "end": 130.394
+   },
+   {
+    "word": "donde",
+    "start": 130.394,
+    "end": 130.771
+   },
+   {
+    "word": "el",
+    "start": 130.771,
+    "end": 130.882
+   },
+   {
+    "word": "cambio",
+    "start": 130.882,
+    "end": 131.218
+   },
+   {
+    "word": "se",
+    "start": 131.218,
+    "end": 131.33
+   },
+   {
+    "word": "vuelve",
+    "start": 131.33,
+    "end": 131.665
+   },
+   {
+    "word": "visible",
+    "start": 131.665,
+    "end": 132.056
+   },
+   {
+    "word": "y",
+    "start": 132.056,
+    "end": 132.112
+   },
+   {
+    "word": "sostenible.",
+    "start": 132.112,
+    "end": 132.671
+   }
+  ]
+ },
+ {
+  "id": "S04_F025",
+  "scene": "MODULO 3 - Dias 5, 6 y 7: El Cambio Real (Melissa Hunt)",
+  "shot_raw": "Text card / title",
+  "shot": "MEDIUM SHOT",
+  "es": "Días 5, 6 y 7: cuándo aparece el cambio real.",
+  "visual": "Minimal title card, three calendar tiles (Día 5, Día 6, Día 7) glowing steady #3BA7C9, calm and stable compared to earlier flickering tiles.",
+  "start": 133.281,
+  "end": 138.471,
+  "words": [
+   {
+    "word": "Días",
+    "start": 133.891,
+    "end": 134.253
+   },
+   {
+    "word": "5,",
+    "start": 134.253,
+    "end": 134.344
+   },
+   {
+    "word": "6",
+    "start": 134.344,
+    "end": 134.434
+   },
+   {
+    "word": "y",
+    "start": 134.434,
+    "end": 134.525
+   },
+   {
+    "word": "7:",
+    "start": 134.525,
+    "end": 134.615
+   },
+   {
+    "word": "cuándo",
+    "start": 134.615,
+    "end": 135.554
+   },
+   {
+    "word": "aparece",
+    "start": 135.554,
+    "end": 136.665
+   },
+   {
+    "word": "el",
+    "start": 136.665,
+    "end": 136.846
+   },
+   {
+    "word": "cambio",
+    "start": 136.846,
+    "end": 137.477
+   },
+   {
+    "word": "real.",
+    "start": 137.477,
+    "end": 137.839
+   }
+  ]
+ },
+ {
+  "id": "S04_F026",
+  "scene": "MODULO 3 - Dias 5, 6 y 7: El Cambio Real (Melissa Hunt)",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "La psicóloga Melissa Hunt, de la Universidad de Pensilvania, publicó un estudio",
+  "visual": "Stick figure standing beside a glowing document/study-paper icon, small university-building icon faintly in the background, distinct from the earlier NYU icon.",
+  "start": 138.471,
+  "end": 143.004,
+  "words": [
+   {
+    "word": "La",
+    "start": 139.102,
+    "end": 139.198
+   },
+   {
+    "word": "psicóloga",
+    "start": 139.198,
+    "end": 139.709
+   },
+   {
+    "word": "Melissa",
+    "start": 139.709,
+    "end": 140.045
+   },
+   {
+    "word": "Hunt,",
+    "start": 140.045,
+    "end": 140.237
+   },
+   {
+    "word": "de",
+    "start": 140.237,
+    "end": 140.333
+   },
+   {
+    "word": "la",
+    "start": 140.333,
+    "end": 140.429
+   },
+   {
+    "word": "Universidad",
+    "start": 140.429,
+    "end": 141.416
+   },
+   {
+    "word": "de",
+    "start": 141.416,
+    "end": 141.512
+   },
+   {
+    "word": "Pensilvania,",
+    "start": 141.512,
+    "end": 142.04
+   },
+   {
+    "word": "publicó",
+    "start": 142.04,
+    "end": 142.376
+   },
+   {
+    "word": "un",
+    "start": 142.376,
+    "end": 142.472
+   },
+   {
+    "word": "estudio",
+    "start": 142.472,
+    "end": 142.808
+   }
+  ]
+ },
+ {
+  "id": "S04_F027",
+  "scene": "MODULO 3 - Dias 5, 6 y 7: El Cambio Real (Melissa Hunt)",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "donde un grupo de personas limitó su uso de redes sociales a 30 minutos diarios durante tres semanas.",
+  "visual": "Wide shot of a simple clock icon showing a small 30-minute wedge highlighted, beside a row of three glowing week-markers (Semana 1, 2, 3) in sequence.",
+  "start": 143.004,
+  "end": 150.372,
+  "words": [
+   {
+    "word": "donde",
+    "start": 143.199,
+    "end": 143.624
+   },
+   {
+    "word": "un",
+    "start": 143.624,
+    "end": 143.764
+   },
+   {
+    "word": "grupo",
+    "start": 143.764,
+    "end": 144.113
+   },
+   {
+    "word": "de",
+    "start": 144.113,
+    "end": 144.253
+   },
+   {
+    "word": "personas",
+    "start": 144.253,
+    "end": 144.811
+   },
+   {
+    "word": "limitó",
+    "start": 144.811,
+    "end": 145.315
+   },
+   {
+    "word": "su",
+    "start": 145.315,
+    "end": 145.455
+   },
+   {
+    "word": "uso",
+    "start": 145.455,
+    "end": 145.743
+   },
+   {
+    "word": "de",
+    "start": 145.743,
+    "end": 145.883
+   },
+   {
+    "word": "redes",
+    "start": 145.883,
+    "end": 146.232
+   },
+   {
+    "word": "sociales",
+    "start": 146.232,
+    "end": 146.791
+   },
+   {
+    "word": "a",
+    "start": 146.791,
+    "end": 146.861
+   },
+   {
+    "word": "30",
+    "start": 146.861,
+    "end": 147.0
+   },
+   {
+    "word": "minutos",
+    "start": 147.0,
+    "end": 147.639
+   },
+   {
+    "word": "diarios",
+    "start": 147.639,
+    "end": 148.128
+   },
+   {
+    "word": "durante",
+    "start": 148.128,
+    "end": 148.617
+   },
+   {
+    "word": "tres",
+    "start": 148.617,
+    "end": 149.07
+   },
+   {
+    "word": "semanas.",
+    "start": 149.07,
+    "end": 149.559
+   }
+  ]
+ },
+ {
+  "id": "S04_F028",
+  "scene": "MODULO 3 - Dias 5, 6 y 7: El Cambio Real (Melissa Hunt)",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "Esto es lo que cambia todo: los niveles de soledad y de síntomas depresivos bajaron de forma medible",
+  "visual": "Medium shot of two simple downward-trending bar/line indicators (one labeled by a small isolated-figure icon, one by a small cloud-over-head icon) both dropping, #3BA7C9 highlight on the downward trend.",
+  "start": 150.372,
+  "end": 157.355,
+  "words": [
+   {
+    "word": "Esto",
+    "start": 150.979,
+    "end": 151.254
+   },
+   {
+    "word": "es",
+    "start": 151.254,
+    "end": 151.392
+   },
+   {
+    "word": "lo",
+    "start": 151.392,
+    "end": 151.53
+   },
+   {
+    "word": "que",
+    "start": 151.53,
+    "end": 151.816
+   },
+   {
+    "word": "cambia",
+    "start": 151.816,
+    "end": 152.749
+   },
+   {
+    "word": "todo:",
+    "start": 152.749,
+    "end": 153.024
+   },
+   {
+    "word": "los",
+    "start": 153.024,
+    "end": 153.23
+   },
+   {
+    "word": "niveles",
+    "start": 153.23,
+    "end": 153.712
+   },
+   {
+    "word": "de",
+    "start": 153.712,
+    "end": 153.85
+   },
+   {
+    "word": "soledad",
+    "start": 153.85,
+    "end": 154.423
+   },
+   {
+    "word": "y",
+    "start": 154.423,
+    "end": 154.492
+   },
+   {
+    "word": "de",
+    "start": 154.492,
+    "end": 154.63
+   },
+   {
+    "word": "síntomas",
+    "start": 154.63,
+    "end": 155.181
+   },
+   {
+    "word": "depresivos",
+    "start": 155.181,
+    "end": 155.869
+   },
+   {
+    "word": "bajaron",
+    "start": 155.869,
+    "end": 156.351
+   },
+   {
+    "word": "de",
+    "start": 156.351,
+    "end": 156.489
+   },
+   {
+    "word": "forma",
+    "start": 156.489,
+    "end": 156.833
+   },
+   {
+    "word": "medible",
+    "start": 156.833,
+    "end": 157.315
+   }
+  ]
+ },
+ {
+  "id": "S04_F029",
+  "scene": "MODULO 3 - Dias 5, 6 y 7: El Cambio Real (Melissa Hunt)",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "frente al grupo que siguió usándolas sin límite, y la mejora se hizo más clara pasada la primera semana, no en los primeros días.",
+  "visual": "Split wide shot: left side shows a flat/unchanged indicator line for the unrestricted group, right side shows the downward-improving line from before, both aligned against a timeline where the change visibly separates after the first week mark.",
+  "start": 157.355,
+  "end": 164.671,
+  "words": [
+   {
+    "word": "frente",
+    "start": 157.395,
+    "end": 157.797
+   },
+   {
+    "word": "al",
+    "start": 157.797,
+    "end": 157.903
+   },
+   {
+    "word": "grupo",
+    "start": 157.903,
+    "end": 158.17
+   },
+   {
+    "word": "que",
+    "start": 158.17,
+    "end": 158.331
+   },
+   {
+    "word": "siguió",
+    "start": 158.331,
+    "end": 158.651
+   },
+   {
+    "word": "usándolas",
+    "start": 158.651,
+    "end": 159.219
+   },
+   {
+    "word": "sin",
+    "start": 159.219,
+    "end": 159.61
+   },
+   {
+    "word": "límite,",
+    "start": 159.61,
+    "end": 159.931
+   },
+   {
+    "word": "y",
+    "start": 159.931,
+    "end": 159.984
+   },
+   {
+    "word": "la",
+    "start": 159.984,
+    "end": 160.091
+   },
+   {
+    "word": "mejora",
+    "start": 160.091,
+    "end": 160.411
+   },
+   {
+    "word": "se",
+    "start": 160.411,
+    "end": 160.518
+   },
+   {
+    "word": "hizo",
+    "start": 160.518,
+    "end": 160.732
+   },
+   {
+    "word": "más",
+    "start": 160.732,
+    "end": 160.892
+   },
+   {
+    "word": "clara",
+    "start": 160.892,
+    "end": 161.252
+   },
+   {
+    "word": "pasada",
+    "start": 161.252,
+    "end": 161.677
+   },
+   {
+    "word": "la",
+    "start": 161.677,
+    "end": 161.784
+   },
+   {
+    "word": "primera",
+    "start": 161.784,
+    "end": 162.158
+   },
+   {
+    "word": "semana,",
+    "start": 162.158,
+    "end": 162.894
+   },
+   {
+    "word": "no",
+    "start": 162.894,
+    "end": 163.001
+   },
+   {
+    "word": "en",
+    "start": 163.001,
+    "end": 163.108
+   },
+   {
+    "word": "los",
+    "start": 163.108,
+    "end": 163.342
+   },
+   {
+    "word": "primeros",
+    "start": 163.342,
+    "end": 163.769
+   },
+   {
+    "word": "días.",
+    "start": 163.769,
+    "end": 164.063
+   }
+  ]
+ },
+ {
+  "id": "S04_F030",
+  "scene": "MODULO 3 - Dias 5, 6 y 7: El Cambio Real (Melissa Hunt)",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "Un detox de 7 días no te da los mismos resultados que tres semanas,",
+  "visual": "Medium shot comparing a short 7-tile calendar strip beside a longer 21-tile calendar strip, both glowing but the shorter one visibly less far along the improvement curve.",
+  "start": 164.671,
+  "end": 169.442,
+  "words": [
+   {
+    "word": "Un",
+    "start": 165.279,
+    "end": 165.418
+   },
+   {
+    "word": "detox",
+    "start": 165.418,
+    "end": 165.765
+   },
+   {
+    "word": "de",
+    "start": 165.765,
+    "end": 165.904
+   },
+   {
+    "word": "7",
+    "start": 165.904,
+    "end": 165.974
+   },
+   {
+    "word": "días",
+    "start": 165.974,
+    "end": 166.252
+   },
+   {
+    "word": "no",
+    "start": 166.252,
+    "end": 166.391
+   },
+   {
+    "word": "te",
+    "start": 166.391,
+    "end": 166.53
+   },
+   {
+    "word": "da",
+    "start": 166.53,
+    "end": 166.669
+   },
+   {
+    "word": "los",
+    "start": 166.669,
+    "end": 166.955
+   },
+   {
+    "word": "mismos",
+    "start": 166.955,
+    "end": 167.372
+   },
+   {
+    "word": "resultados",
+    "start": 167.372,
+    "end": 168.176
+   },
+   {
+    "word": "que",
+    "start": 168.176,
+    "end": 168.457
+   },
+   {
+    "word": "tres",
+    "start": 168.457,
+    "end": 168.735
+   },
+   {
+    "word": "semanas,",
+    "start": 168.735,
+    "end": 169.221
+   }
+  ]
+ },
+ {
+  "id": "S04_F031",
+  "scene": "MODULO 3 - Dias 5, 6 y 7: El Cambio Real (Melissa Hunt)",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "pero sí es suficiente para llegar al punto donde el cerebro empieza a dejar de pedir el teléfono por reflejo —",
+  "visual": "Wide shot of the simplified brain icon with the earlier glowing hook shape now visibly loosening/detaching, #3BA7C9 light softening around it.",
+  "start": 169.442,
+  "end": 175.125,
+  "words": [
+   {
+    "word": "pero",
+    "start": 169.662,
+    "end": 169.878
+   },
+   {
+    "word": "sí",
+    "start": 169.878,
+    "end": 169.986
+   },
+   {
+    "word": "es",
+    "start": 169.986,
+    "end": 170.094
+   },
+   {
+    "word": "suficiente",
+    "start": 170.094,
+    "end": 170.634
+   },
+   {
+    "word": "para",
+    "start": 170.634,
+    "end": 170.923
+   },
+   {
+    "word": "llegar",
+    "start": 170.923,
+    "end": 171.247
+   },
+   {
+    "word": "al",
+    "start": 171.247,
+    "end": 171.355
+   },
+   {
+    "word": "punto",
+    "start": 171.355,
+    "end": 171.727
+   },
+   {
+    "word": "donde",
+    "start": 171.727,
+    "end": 171.997
+   },
+   {
+    "word": "el",
+    "start": 171.997,
+    "end": 172.105
+   },
+   {
+    "word": "cerebro",
+    "start": 172.105,
+    "end": 172.483
+   },
+   {
+    "word": "empieza",
+    "start": 172.483,
+    "end": 172.861
+   },
+   {
+    "word": "a",
+    "start": 172.861,
+    "end": 172.915
+   },
+   {
+    "word": "dejar",
+    "start": 172.915,
+    "end": 173.185
+   },
+   {
+    "word": "de",
+    "start": 173.185,
+    "end": 173.293
+   },
+   {
+    "word": "pedir",
+    "start": 173.293,
+    "end": 173.655
+   },
+   {
+    "word": "el",
+    "start": 173.655,
+    "end": 173.763
+   },
+   {
+    "word": "teléfono",
+    "start": 173.763,
+    "end": 174.286
+   },
+   {
+    "word": "por",
+    "start": 174.286,
+    "end": 174.55
+   },
+   {
+    "word": "reflejo",
+    "start": 174.55,
+    "end": 174.928
+   },
+   {
+    "word": "—",
+    "start": 174.928,
+    "end": 174.982
+   }
+  ]
+ },
+ {
+  "id": "S04_F032",
+  "scene": "MODULO 3 - Dias 5, 6 y 7: El Cambio Real (Melissa Hunt)",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "y para sentir, aunque sea brevemente, cómo se siente tener la atención de vuelta.",
+  "visual": "Medium shot of the stick figure standing calm and upright, eyes/focus line drawn steady and clear ahead, phone resting dark and untouched in the lower corner of frame.",
+  "start": 175.125,
+  "end": 180.907,
+  "words": [
+   {
+    "word": "y",
+    "start": 175.269,
+    "end": 175.328
+   },
+   {
+    "word": "para",
+    "start": 175.328,
+    "end": 175.644
+   },
+   {
+    "word": "sentir,",
+    "start": 175.644,
+    "end": 176.079
+   },
+   {
+    "word": "aunque",
+    "start": 176.079,
+    "end": 176.813
+   },
+   {
+    "word": "sea",
+    "start": 176.813,
+    "end": 176.989
+   },
+   {
+    "word": "brevemente,",
+    "start": 176.989,
+    "end": 177.655
+   },
+   {
+    "word": "cómo",
+    "start": 177.655,
+    "end": 178.288
+   },
+   {
+    "word": "se",
+    "start": 178.288,
+    "end": 178.405
+   },
+   {
+    "word": "siente",
+    "start": 178.405,
+    "end": 178.757
+   },
+   {
+    "word": "tener",
+    "start": 178.757,
+    "end": 179.05
+   },
+   {
+    "word": "la",
+    "start": 179.05,
+    "end": 179.167
+   },
+   {
+    "word": "atención",
+    "start": 179.167,
+    "end": 179.715
+   },
+   {
+    "word": "de",
+    "start": 179.715,
+    "end": 179.832
+   },
+   {
+    "word": "vuelta.",
+    "start": 179.832,
+    "end": 180.302
+   }
+  ]
+ },
+ {
+  "id": "S05_F033",
+  "scene": "MODULO 4 - Que Hacer en Su Lugar",
+  "shot_raw": "Text card / title",
+  "shot": "MEDIUM SHOT",
+  "es": "Qué hacer en su lugar, todos los siete días.",
+  "visual": "Minimal title card, the full 7-tile calendar strip now all glowing steady, small replacement-activity icons floating faintly above each tile.",
+  "start": 180.907,
+  "end": 184.756,
+  "words": [
+   {
+    "word": "Qué",
+    "start": 181.513,
+    "end": 181.699
+   },
+   {
+    "word": "hacer",
+    "start": 181.699,
+    "end": 182.009
+   },
+   {
+    "word": "en",
+    "start": 182.009,
+    "end": 182.133
+   },
+   {
+    "word": "su",
+    "start": 182.133,
+    "end": 182.257
+   },
+   {
+    "word": "lugar,",
+    "start": 182.257,
+    "end": 183.019
+   },
+   {
+    "word": "todos",
+    "start": 183.019,
+    "end": 183.329
+   },
+   {
+    "word": "los",
+    "start": 183.329,
+    "end": 183.515
+   },
+   {
+    "word": "siete",
+    "start": 183.515,
+    "end": 183.895
+   },
+   {
+    "word": "días.",
+    "start": 183.895,
+    "end": 184.143
+   }
+  ]
+ },
+ {
+  "id": "S05_F034",
+  "scene": "MODULO 4 - Que Hacer en Su Lugar",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "No se trata de eliminar el teléfono por completo ni de aislarte del mundo, ni de convertir el detox en un castigo que resientes cada mañana.",
+  "visual": "Wide shot of the stick figure with the phone visible but simply set aside on a table (not hidden, not destroyed), calm neutral expression, no punishment/cage imagery.",
+  "start": 184.756,
+  "end": 193.731,
+  "words": [
+   {
+    "word": "No",
+    "start": 185.369,
+    "end": 185.488
+   },
+   {
+    "word": "se",
+    "start": 185.488,
+    "end": 185.606
+   },
+   {
+    "word": "trata",
+    "start": 185.606,
+    "end": 185.903
+   },
+   {
+    "word": "de",
+    "start": 185.903,
+    "end": 186.022
+   },
+   {
+    "word": "eliminar",
+    "start": 186.022,
+    "end": 186.497
+   },
+   {
+    "word": "el",
+    "start": 186.497,
+    "end": 186.615
+   },
+   {
+    "word": "teléfono",
+    "start": 186.615,
+    "end": 187.175
+   },
+   {
+    "word": "por",
+    "start": 187.175,
+    "end": 187.509
+   },
+   {
+    "word": "completo",
+    "start": 187.509,
+    "end": 187.984
+   },
+   {
+    "word": "ni",
+    "start": 187.984,
+    "end": 188.102
+   },
+   {
+    "word": "de",
+    "start": 188.102,
+    "end": 188.221
+   },
+   {
+    "word": "aislarte",
+    "start": 188.221,
+    "end": 188.792
+   },
+   {
+    "word": "del",
+    "start": 188.792,
+    "end": 188.97
+   },
+   {
+    "word": "mundo,",
+    "start": 188.97,
+    "end": 189.716
+   },
+   {
+    "word": "ni",
+    "start": 189.716,
+    "end": 189.834
+   },
+   {
+    "word": "de",
+    "start": 189.834,
+    "end": 189.953
+   },
+   {
+    "word": "convertir",
+    "start": 189.953,
+    "end": 190.557
+   },
+   {
+    "word": "el",
+    "start": 190.557,
+    "end": 190.749
+   },
+   {
+    "word": "detox",
+    "start": 190.749,
+    "end": 191.046
+   },
+   {
+    "word": "en",
+    "start": 191.046,
+    "end": 191.164
+   },
+   {
+    "word": "un",
+    "start": 191.164,
+    "end": 191.283
+   },
+   {
+    "word": "castigo",
+    "start": 191.283,
+    "end": 191.698
+   },
+   {
+    "word": "que",
+    "start": 191.698,
+    "end": 191.965
+   },
+   {
+    "word": "resientes",
+    "start": 191.965,
+    "end": 192.5
+   },
+   {
+    "word": "cada",
+    "start": 192.5,
+    "end": 192.737
+   },
+   {
+    "word": "mañana.",
+    "start": 192.737,
+    "end": 193.093
+   }
+  ]
+ },
+ {
+  "id": "S05_F035",
+  "scene": "MODULO 4 - Que Hacer en Su Lugar",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "Se trata de reemplazar el hueco que deja el scroll con algo específico y decidido de antemano, no improvisado en el momento:",
+  "visual": "Medium shot of a simple glowing puzzle-piece-shaped gap where the phone icon used to be, a small planning/checklist icon in #3BA7C9 being placed into the gap.",
+  "start": 193.731,
+  "end": 201.362,
+  "words": [
+   {
+    "word": "Se",
+    "start": 194.37,
+    "end": 194.489
+   },
+   {
+    "word": "trata",
+    "start": 194.489,
+    "end": 194.785
+   },
+   {
+    "word": "de",
+    "start": 194.785,
+    "end": 194.903
+   },
+   {
+    "word": "reemplazar",
+    "start": 194.903,
+    "end": 195.496
+   },
+   {
+    "word": "el",
+    "start": 195.496,
+    "end": 195.615
+   },
+   {
+    "word": "hueco",
+    "start": 195.615,
+    "end": 195.911
+   },
+   {
+    "word": "que",
+    "start": 195.911,
+    "end": 196.089
+   },
+   {
+    "word": "deja",
+    "start": 196.089,
+    "end": 196.326
+   },
+   {
+    "word": "el",
+    "start": 196.326,
+    "end": 196.444
+   },
+   {
+    "word": "scroll",
+    "start": 196.444,
+    "end": 196.97
+   },
+   {
+    "word": "con",
+    "start": 196.97,
+    "end": 197.148
+   },
+   {
+    "word": "algo",
+    "start": 197.148,
+    "end": 197.385
+   },
+   {
+    "word": "específico",
+    "start": 197.385,
+    "end": 198.126
+   },
+   {
+    "word": "y",
+    "start": 198.126,
+    "end": 198.185
+   },
+   {
+    "word": "decidido",
+    "start": 198.185,
+    "end": 198.659
+   },
+   {
+    "word": "de",
+    "start": 198.659,
+    "end": 198.777
+   },
+   {
+    "word": "antemano,",
+    "start": 198.777,
+    "end": 199.252
+   },
+   {
+    "word": "no",
+    "start": 199.252,
+    "end": 199.8
+   },
+   {
+    "word": "improvisado",
+    "start": 199.8,
+    "end": 200.452
+   },
+   {
+    "word": "en",
+    "start": 200.452,
+    "end": 200.571
+   },
+   {
+    "word": "el",
+    "start": 200.571,
+    "end": 200.689
+   },
+   {
+    "word": "momento:",
+    "start": 200.689,
+    "end": 201.195
+   }
+  ]
+ },
+ {
+  "id": "S05_F036",
+  "scene": "MODULO 4 - Que Hacer en Su Lugar",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "una caminata sin teléfono, una llamada real en lugar de un mensaje,",
+  "visual": "Wide shot split into two simple vignettes: stick figure walking outdoors with no phone visible, and stick figure holding a simple phone-call icon (not a screen) to the ear.",
+  "start": 201.362,
+  "end": 205.67,
+  "words": [
+   {
+    "word": "una",
+    "start": 201.529,
+    "end": 201.725
+   },
+   {
+    "word": "caminata",
+    "start": 201.725,
+    "end": 202.246
+   },
+   {
+    "word": "sin",
+    "start": 202.246,
+    "end": 202.442
+   },
+   {
+    "word": "teléfono,",
+    "start": 202.442,
+    "end": 203.037
+   },
+   {
+    "word": "una",
+    "start": 203.037,
+    "end": 203.598
+   },
+   {
+    "word": "llamada",
+    "start": 203.598,
+    "end": 204.055
+   },
+   {
+    "word": "real",
+    "start": 204.055,
+    "end": 204.315
+   },
+   {
+    "word": "en",
+    "start": 204.315,
+    "end": 204.446
+   },
+   {
+    "word": "lugar",
+    "start": 204.446,
+    "end": 204.772
+   },
+   {
+    "word": "de",
+    "start": 204.772,
+    "end": 204.902
+   },
+   {
+    "word": "un",
+    "start": 204.902,
+    "end": 205.033
+   },
+   {
+    "word": "mensaje,",
+    "start": 205.033,
+    "end": 205.489
+   }
+  ]
+ },
+ {
+  "id": "S05_F037",
+  "scene": "MODULO 4 - Que Hacer en Su Lugar",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "un libro físico junto a la cama en lugar de la pantalla que ilumina tu cara hasta la madrugada.",
+  "visual": "Medium shot of a simple glowing book icon resting on a nightstand beside a bed, phone shown dark and face-down beside it, warm soft lamp light instead of cold screen glow.",
+  "start": 205.67,
+  "end": 211.25,
+  "words": [
+   {
+    "word": "un",
+    "start": 205.851,
+    "end": 205.968
+   },
+   {
+    "word": "libro",
+    "start": 205.968,
+    "end": 206.26
+   },
+   {
+    "word": "físico",
+    "start": 206.26,
+    "end": 206.611
+   },
+   {
+    "word": "junto",
+    "start": 206.611,
+    "end": 207.009
+   },
+   {
+    "word": "a",
+    "start": 207.009,
+    "end": 207.067
+   },
+   {
+    "word": "la",
+    "start": 207.067,
+    "end": 207.184
+   },
+   {
+    "word": "cama",
+    "start": 207.184,
+    "end": 207.496
+   },
+   {
+    "word": "en",
+    "start": 207.496,
+    "end": 207.613
+   },
+   {
+    "word": "lugar",
+    "start": 207.613,
+    "end": 207.905
+   },
+   {
+    "word": "de",
+    "start": 207.905,
+    "end": 208.022
+   },
+   {
+    "word": "la",
+    "start": 208.022,
+    "end": 208.139
+   },
+   {
+    "word": "pantalla",
+    "start": 208.139,
+    "end": 208.699
+   },
+   {
+    "word": "que",
+    "start": 208.699,
+    "end": 208.874
+   },
+   {
+    "word": "ilumina",
+    "start": 208.874,
+    "end": 209.283
+   },
+   {
+    "word": "tu",
+    "start": 209.283,
+    "end": 209.4
+   },
+   {
+    "word": "cara",
+    "start": 209.4,
+    "end": 209.707
+   },
+   {
+    "word": "hasta",
+    "start": 209.707,
+    "end": 209.999
+   },
+   {
+    "word": "la",
+    "start": 209.999,
+    "end": 210.116
+   },
+   {
+    "word": "madrugada.",
+    "start": 210.116,
+    "end": 210.642
+   }
+  ]
+ },
+ {
+  "id": "S05_F038",
+  "scene": "MODULO 4 - Que Hacer en Su Lugar",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Y todavía falta lo más difícil: sostener esto después del día 7,",
+  "visual": "Wide shot of the 7-tile calendar strip with an eighth, unlit tile appearing faintly beyond it, representing the uncertain continuation after the challenge ends.",
+  "start": 211.25,
+  "end": 216.157,
+  "words": [
+   {
+    "word": "Y",
+    "start": 211.859,
+    "end": 211.926
+   },
+   {
+    "word": "todavía",
+    "start": 211.926,
+    "end": 212.394
+   },
+   {
+    "word": "falta",
+    "start": 212.394,
+    "end": 212.802
+   },
+   {
+    "word": "lo",
+    "start": 212.802,
+    "end": 212.936
+   },
+   {
+    "word": "más",
+    "start": 212.936,
+    "end": 213.137
+   },
+   {
+    "word": "difícil:",
+    "start": 213.137,
+    "end": 214.039
+   },
+   {
+    "word": "sostener",
+    "start": 214.039,
+    "end": 214.573
+   },
+   {
+    "word": "esto",
+    "start": 214.573,
+    "end": 214.841
+   },
+   {
+    "word": "después",
+    "start": 214.841,
+    "end": 215.403
+   },
+   {
+    "word": "del",
+    "start": 215.403,
+    "end": 215.604
+   },
+   {
+    "word": "día",
+    "start": 215.604,
+    "end": 215.891
+   },
+   {
+    "word": "7,",
+    "start": 215.891,
+    "end": 215.958
+   }
+  ]
+ },
+ {
+  "id": "S05_F039",
+  "scene": "MODULO 4 - Que Hacer en Su Lugar",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "cuando ya nadie te está mirando ni felicitando por el reto,",
+  "visual": "Medium shot of the stick figure standing alone in a now-empty space, small fading applause/star icons drifting away into the darkness.",
+  "start": 216.157,
+  "end": 219.6,
+  "words": [
+   {
+    "word": "cuando",
+    "start": 216.357,
+    "end": 216.711
+   },
+   {
+    "word": "ya",
+    "start": 216.711,
+    "end": 216.829
+   },
+   {
+    "word": "nadie",
+    "start": 216.829,
+    "end": 217.124
+   },
+   {
+    "word": "te",
+    "start": 217.124,
+    "end": 217.242
+   },
+   {
+    "word": "está",
+    "start": 217.242,
+    "end": 217.478
+   },
+   {
+    "word": "mirando",
+    "start": 217.478,
+    "end": 217.892
+   },
+   {
+    "word": "ni",
+    "start": 217.892,
+    "end": 218.01
+   },
+   {
+    "word": "felicitando",
+    "start": 218.01,
+    "end": 218.819
+   },
+   {
+    "word": "por",
+    "start": 218.819,
+    "end": 218.996
+   },
+   {
+    "word": "el",
+    "start": 218.996,
+    "end": 219.114
+   },
+   {
+    "word": "reto,",
+    "start": 219.114,
+    "end": 219.449
+   }
+  ]
+ },
+ {
+  "id": "S05_F040",
+  "scene": "MODULO 4 - Que Hacer en Su Lugar",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "y la app vuelve a estar a un solo toque de distancia, exactamente igual de diseñada para atraerte que antes de que empezaras.",
+  "visual": "Wide shot of the phone glowing again on the table, the gear-and-circuit icon from Módulo 1 reappearing faintly behind it in #3BA7C9, stick figure standing at a calm distance, aware but not reaching.",
+  "start": 219.6,
+  "end": 227.083,
+  "words": [
+   {
+    "word": "y",
+    "start": 219.751,
+    "end": 219.807
+   },
+   {
+    "word": "la",
+    "start": 219.807,
+    "end": 219.919
+   },
+   {
+    "word": "app",
+    "start": 219.919,
+    "end": 220.171
+   },
+   {
+    "word": "vuelve",
+    "start": 220.171,
+    "end": 220.506
+   },
+   {
+    "word": "a",
+    "start": 220.506,
+    "end": 220.562
+   },
+   {
+    "word": "estar",
+    "start": 220.562,
+    "end": 220.842
+   },
+   {
+    "word": "a",
+    "start": 220.842,
+    "end": 220.898
+   },
+   {
+    "word": "un",
+    "start": 220.898,
+    "end": 221.009
+   },
+   {
+    "word": "solo",
+    "start": 221.009,
+    "end": 221.316
+   },
+   {
+    "word": "toque",
+    "start": 221.316,
+    "end": 221.595
+   },
+   {
+    "word": "de",
+    "start": 221.595,
+    "end": 221.707
+   },
+   {
+    "word": "distancia,",
+    "start": 221.707,
+    "end": 222.21
+   },
+   {
+    "word": "exactamente",
+    "start": 222.21,
+    "end": 223.405
+   },
+   {
+    "word": "igual",
+    "start": 223.405,
+    "end": 223.685
+   },
+   {
+    "word": "de",
+    "start": 223.685,
+    "end": 223.796
+   },
+   {
+    "word": "diseñada",
+    "start": 223.796,
+    "end": 224.243
+   },
+   {
+    "word": "para",
+    "start": 224.243,
+    "end": 224.549
+   },
+   {
+    "word": "atraerte",
+    "start": 224.549,
+    "end": 225.175
+   },
+   {
+    "word": "que",
+    "start": 225.175,
+    "end": 225.342
+   },
+   {
+    "word": "antes",
+    "start": 225.342,
+    "end": 225.622
+   },
+   {
+    "word": "de",
+    "start": 225.622,
+    "end": 225.734
+   },
+   {
+    "word": "que",
+    "start": 225.734,
+    "end": 225.972
+   },
+   {
+    "word": "empezaras.",
+    "start": 225.972,
+    "end": 226.475
+   }
+  ]
+ },
+ {
+  "id": "S06_F041",
+  "scene": "EL CIERRE",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Los 7 días no te cambian la vida por sí solos.",
+  "visual": "Wide shot of the full glowing 7-tile calendar strip, steady and complete, stick figure standing beside it without dramatic celebration, calm realism.",
+  "start": 227.083,
+  "end": 231.041,
+  "words": [
+   {
+    "word": "Los",
+    "start": 227.691,
+    "end": 227.919
+   },
+   {
+    "word": "7",
+    "start": 227.919,
+    "end": 227.995
+   },
+   {
+    "word": "días",
+    "start": 227.995,
+    "end": 228.299
+   },
+   {
+    "word": "no",
+    "start": 228.299,
+    "end": 228.45
+   },
+   {
+    "word": "te",
+    "start": 228.45,
+    "end": 228.602
+   },
+   {
+    "word": "cambian",
+    "start": 228.602,
+    "end": 229.134
+   },
+   {
+    "word": "la",
+    "start": 229.134,
+    "end": 229.286
+   },
+   {
+    "word": "vida",
+    "start": 229.286,
+    "end": 229.673
+   },
+   {
+    "word": "por",
+    "start": 229.673,
+    "end": 229.9
+   },
+   {
+    "word": "sí",
+    "start": 229.9,
+    "end": 230.052
+   },
+   {
+    "word": "solos.",
+    "start": 230.052,
+    "end": 230.432
+   }
+  ]
+ },
+ {
+  "id": "S06_F042",
+  "scene": "EL CIERRE",
+  "shot_raw": "Medium shot",
+  "shot": "MEDIUM SHOT",
+  "es": "Te muestran, con datos, que tu atención puede volver a ser tuya si decides dónde ponerla antes de que una notificación lo decida por ti.",
+  "visual": "Medium shot of the simplified brain icon now steady and calm, a small glowing compass/direction icon in #3BA7C9 appearing above it, suggesting the person now steers their own attention.",
+  "start": 231.041,
+  "end": 239.949,
+  "words": [
+   {
+    "word": "Te",
+    "start": 231.649,
+    "end": 231.763
+   },
+   {
+    "word": "muestran,",
+    "start": 231.763,
+    "end": 232.221
+   },
+   {
+    "word": "con",
+    "start": 232.221,
+    "end": 232.699
+   },
+   {
+    "word": "datos,",
+    "start": 232.699,
+    "end": 233.086
+   },
+   {
+    "word": "que",
+    "start": 233.086,
+    "end": 233.258
+   },
+   {
+    "word": "tu",
+    "start": 233.258,
+    "end": 233.75
+   },
+   {
+    "word": "atención",
+    "start": 233.75,
+    "end": 234.208
+   },
+   {
+    "word": "puede",
+    "start": 234.208,
+    "end": 234.583
+   },
+   {
+    "word": "volver",
+    "start": 234.583,
+    "end": 234.926
+   },
+   {
+    "word": "a",
+    "start": 234.926,
+    "end": 234.984
+   },
+   {
+    "word": "ser",
+    "start": 234.984,
+    "end": 235.155
+   },
+   {
+    "word": "tuya",
+    "start": 235.155,
+    "end": 235.485
+   },
+   {
+    "word": "si",
+    "start": 235.485,
+    "end": 235.6
+   },
+   {
+    "word": "decides",
+    "start": 235.6,
+    "end": 236.001
+   },
+   {
+    "word": "dónde",
+    "start": 236.001,
+    "end": 236.287
+   },
+   {
+    "word": "ponerla",
+    "start": 236.287,
+    "end": 236.767
+   },
+   {
+    "word": "antes",
+    "start": 236.767,
+    "end": 237.124
+   },
+   {
+    "word": "de",
+    "start": 237.124,
+    "end": 237.238
+   },
+   {
+    "word": "que",
+    "start": 237.238,
+    "end": 237.41
+   },
+   {
+    "word": "una",
+    "start": 237.41,
+    "end": 237.582
+   },
+   {
+    "word": "notificación",
+    "start": 237.582,
+    "end": 238.339
+   },
+   {
+    "word": "lo",
+    "start": 238.339,
+    "end": 238.453
+   },
+   {
+    "word": "decida",
+    "start": 238.453,
+    "end": 238.797
+   },
+   {
+    "word": "por",
+    "start": 238.797,
+    "end": 239.072
+   },
+   {
+    "word": "ti.",
+    "start": 239.072,
+    "end": 239.342
+   }
+  ]
+ },
+ {
+  "id": "S06_F043",
+  "scene": "EL CIERRE",
+  "shot_raw": "Direct address",
+  "shot": "MEDIUM SHOT",
+  "es": "Escribe en los comentarios en qué día vas ahora mismo, y cuéntanos en qué momento sentiste el impulso más fuerte de rendirte.",
+  "visual": "Medium shot of the stick figure gesturing toward the viewer, a simple glowing comment-bubble icon appearing beside them, calendar strip still visible in the background.",
+  "start": 239.949,
+  "end": 247.875,
+  "words": [
+   {
+    "word": "Escribe",
+    "start": 240.556,
+    "end": 240.967
+   },
+   {
+    "word": "en",
+    "start": 240.967,
+    "end": 241.085
+   },
+   {
+    "word": "los",
+    "start": 241.085,
+    "end": 241.261
+   },
+   {
+    "word": "comentarios",
+    "start": 241.261,
+    "end": 241.907
+   },
+   {
+    "word": "en",
+    "start": 241.907,
+    "end": 242.024
+   },
+   {
+    "word": "qué",
+    "start": 242.024,
+    "end": 242.2
+   },
+   {
+    "word": "día",
+    "start": 242.2,
+    "end": 242.376
+   },
+   {
+    "word": "vas",
+    "start": 242.376,
+    "end": 242.553
+   },
+   {
+    "word": "ahora",
+    "start": 242.553,
+    "end": 242.846
+   },
+   {
+    "word": "mismo,",
+    "start": 242.846,
+    "end": 243.14
+   },
+   {
+    "word": "y",
+    "start": 243.14,
+    "end": 243.199
+   },
+   {
+    "word": "cuéntanos",
+    "start": 243.199,
+    "end": 244.18
+   },
+   {
+    "word": "en",
+    "start": 244.18,
+    "end": 244.298
+   },
+   {
+    "word": "qué",
+    "start": 244.298,
+    "end": 244.474
+   },
+   {
+    "word": "momento",
+    "start": 244.474,
+    "end": 244.885
+   },
+   {
+    "word": "sentiste",
+    "start": 244.885,
+    "end": 245.355
+   },
+   {
+    "word": "el",
+    "start": 245.355,
+    "end": 245.472
+   },
+   {
+    "word": "impulso",
+    "start": 245.472,
+    "end": 245.883
+   },
+   {
+    "word": "más",
+    "start": 245.883,
+    "end": 246.059
+   },
+   {
+    "word": "fuerte",
+    "start": 246.059,
+    "end": 246.412
+   },
+   {
+    "word": "de",
+    "start": 246.412,
+    "end": 246.628
+   },
+   {
+    "word": "rendirte.",
+    "start": 246.628,
+    "end": 247.257
+   }
+  ]
+ },
+ {
+  "id": "S06_F044",
+  "scene": "EL CIERRE",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "Si este video te sirvió, dale like y suscríbete — la disciplina no hace ruido,",
+  "visual": "Wide shot of the stick figure standing calm in dim light, a small subscribe-bell icon and thumbs-up icon glowing softly in #3BA7C9 in the corner of frame, understated rather than flashy.",
+  "start": 247.875,
+  "end": 253.959,
+  "words": [
+   {
+    "word": "Si",
+    "start": 248.492,
+    "end": 248.627
+   },
+   {
+    "word": "este",
+    "start": 248.627,
+    "end": 248.898
+   },
+   {
+    "word": "video",
+    "start": 248.898,
+    "end": 249.236
+   },
+   {
+    "word": "te",
+    "start": 249.236,
+    "end": 249.371
+   },
+   {
+    "word": "sirvió,",
+    "start": 249.371,
+    "end": 249.777
+   },
+   {
+    "word": "dale",
+    "start": 249.777,
+    "end": 250.404
+   },
+   {
+    "word": "like",
+    "start": 250.404,
+    "end": 250.675
+   },
+   {
+    "word": "y",
+    "start": 250.675,
+    "end": 250.743
+   },
+   {
+    "word": "suscríbete",
+    "start": 250.743,
+    "end": 251.571
+   },
+   {
+    "word": "—",
+    "start": 251.571,
+    "end": 251.639
+   },
+   {
+    "word": "la",
+    "start": 251.639,
+    "end": 251.855
+   },
+   {
+    "word": "disciplina",
+    "start": 251.855,
+    "end": 253.021
+   },
+   {
+    "word": "no",
+    "start": 253.021,
+    "end": 253.156
+   },
+   {
+    "word": "hace",
+    "start": 253.156,
+    "end": 253.427
+   },
+   {
+    "word": "ruido,",
+    "start": 253.427,
+    "end": 253.765
+   }
+  ]
+ },
+ {
+  "id": "S06_F045",
+  "scene": "EL CIERRE",
+  "shot_raw": "Wide shot",
+  "shot": "WIDE SHOT",
+  "es": "ni siquiera cuando apaga una pantalla que llevaba años encendida.",
+  "visual": "Final wide shot of the phone screen dimming to fully dark on the table, stick figure walking away calmly into soft darkness, the seven calendar tiles fading gently to a quiet glow behind, no dramatic light burst.",
+  "start": 253.959,
+  "end": 258.5,
+  "words": [
+   {
+    "word": "ni",
+    "start": 254.154,
+    "end": 254.266
+   },
+   {
+    "word": "siquiera",
+    "start": 254.266,
+    "end": 254.715
+   },
+   {
+    "word": "cuando",
+    "start": 254.715,
+    "end": 255.133
+   },
+   {
+    "word": "apaga",
+    "start": 255.133,
+    "end": 255.414
+   },
+   {
+    "word": "una",
+    "start": 255.414,
+    "end": 255.582
+   },
+   {
+    "word": "pantalla",
+    "start": 255.582,
+    "end": 256.104
+   },
+   {
+    "word": "que",
+    "start": 256.104,
+    "end": 256.272
+   },
+   {
+    "word": "llevaba",
+    "start": 256.272,
+    "end": 256.665
+   },
+   {
+    "word": "años",
+    "start": 256.665,
+    "end": 256.89
+   },
+   {
+    "word": "encendida.",
+    "start": 256.89,
+    "end": 257.395
+   }
+  ]
+ }
+]
