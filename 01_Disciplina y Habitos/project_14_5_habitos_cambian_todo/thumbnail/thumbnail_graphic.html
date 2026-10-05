@@ -1,0 +1,96 @@
+<!doctype html>
+<!--
+  Thumbnail graphic — Project 14 "5 Hábitos Que Cambian Todo (No Esperes al Año Nuevo)"
+  Theo docs/quy-tac-thumbnail-graphic.md: 1 con số gây sốc + punch 2–3 chữ + ngữ cảnh ≤ 7 chữ + hình dữ liệu.
+  Phát hiện: Robert Emmons (UC Davis) — gratitud escrita 3 semanas reduce síntomas de depresión hasta un 25%.
+  Render: node tools/render_thumb_graphic.js "<thư mục thumbnail>"
+-->
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Thumbnail graphic P14</title>
+<style>
+  @font-face { font-family: "Anton"; src: url("../../../fonts/Anton-Regular.ttf"); }
+  @font-face { font-family: "EB Garamond"; font-style: italic; src: url("../../../fonts/EBGaramond-Italic.ttf"); }
+  html, body { margin: 0; background: #0A0908; }
+  canvas { display: block; }
+</style>
+</head>
+<body>
+<canvas id="c" width="1280" height="720"></canvas>
+<script>
+const CONTENT = {
+  number: "25%",
+  punch: "MENOS DEPRESION",
+  context: ["hasta, en 3 semanas", "de gratitud escrita"],
+  filled: 25,              // waffle 10x10: số ô tô màu nhấn
+  icon: "pencil",          // 1 biểu tượng trắng đè lên khối màu
+};
+const ACC = "#FF5A36";     // màu nhấn playlist 01_Disciplina y Habitos (= màu video)
+const INK = "#F4EFE7", BG = "#0A0908";
+const W = 1280, H = 720, M = 64, TEXT_X = 668, SAFE_BOTTOM = 634;
+
+function fitFont(ctx, text, family, maxPx, maxW) {
+  let px = maxPx;
+  for (; px > 20; px -= 2) { ctx.font = `${px}px ${family}`; if (ctx.measureText(text).width <= maxW) break; }
+  return px;
+}
+
+function pencil(ctx, cx, cy, s) {
+  ctx.save(); ctx.translate(cx, cy); ctx.rotate(-Math.PI / 4);
+  ctx.fillStyle = INK; ctx.strokeStyle = BG; ctx.lineWidth = s * 0.05;
+  const L = s, T = s * 0.24;
+  ctx.beginPath(); ctx.rect(-L / 2, -T / 2, L * 0.72, T); ctx.fill();                 // thân
+  ctx.beginPath(); ctx.moveTo(L * 0.22, -T / 2); ctx.lineTo(L / 2, 0); ctx.lineTo(L * 0.22, T / 2); ctx.closePath(); ctx.fill();  // ngòi
+  ctx.beginPath(); ctx.moveTo(L * 0.42, -T * 0.14); ctx.lineTo(L / 2, 0); ctx.lineTo(L * 0.42, T * 0.14); ctx.closePath();
+  ctx.fillStyle = BG; ctx.fill();                                                        // đầu chì
+  ctx.beginPath(); ctx.moveTo(-L * 0.36, -T / 2); ctx.lineTo(-L * 0.36, T / 2); ctx.stroke();  // vành tẩy
+  ctx.restore();
+}
+
+function roundRect(ctx, x, y, w, h, r) {
+  ctx.beginPath(); ctx.moveTo(x + r, y); ctx.arcTo(x + w, y, x + w, y + h, r); ctx.arcTo(x + w, y + h, x, y + h, r);
+  ctx.arcTo(x, y + h, x, y, r); ctx.arcTo(x, y, x + w, y, r); ctx.closePath();
+}
+
+document.fonts.load('330px "Anton"').then(() => document.fonts.load('italic 44px "EB Garamond"')).then(() => document.fonts.ready).then(() => {
+  const ctx = document.getElementById("c").getContext("2d");
+  ctx.fillStyle = BG; ctx.fillRect(0, 0, W, H);
+
+  // Quầng sáng màu nhấn ~10% sau khối hình
+  const g = ctx.createRadialGradient(341, 335, 20, 341, 335, 420);
+  g.addColorStop(0, "rgba(255,90,54,0.13)"); g.addColorStop(1, "rgba(255,90,54,0)");
+  ctx.fillStyle = g; ctx.fillRect(0, 0, W, H);
+
+  // Waffle 10x10 — ô 50px, khe 6px, bo 6px, vùng x 64–618, y 58–612
+  const CELL = 50, GAP = 6, X0 = 64, Y0 = 58;
+  for (let i = 0; i < 100; i++) {
+    const r = Math.floor(i / 10), c = i % 10;
+    roundRect(ctx, X0 + c * (CELL + GAP), Y0 + r * (CELL + GAP), CELL, CELL, 6);
+    ctx.fillStyle = i < CONTENT.filled ? ACC : "rgba(244,239,231,0.10)"; ctx.fill();
+  }
+  // Biểu tượng trắng đè lên khối màu (25 ô = 2,5 hàng trên cùng)
+  pencil(ctx, X0 + 4.5 * (CELL + GAP), Y0 + 1.3 * (CELL + GAP), 150);
+
+  // Cột chữ
+  const maxW = W - M - TEXT_X;
+  const numPx = fitFont(ctx, CONTENT.number, '"Anton"', 330, maxW);
+  const punchPx = fitFont(ctx, CONTENT.punch, '"Anton"', 130, maxW);
+  const ctxPx = 44, ctxLead = 54;
+  const blockH = numPx * 0.86 + 18 + punchPx * 0.9 + 26 + ctxLead * CONTENT.context.length;
+  let y = Math.max(M, (SAFE_BOTTOM - M - blockH) / 2 + M - 10);
+
+  ctx.textBaseline = "alphabetic"; ctx.textAlign = "left";
+  ctx.fillStyle = INK; ctx.font = `${numPx}px "Anton"`;
+  y += numPx * 0.86; ctx.fillText(CONTENT.number, TEXT_X, y);
+  ctx.fillStyle = ACC; ctx.font = `${punchPx}px "Anton"`;
+  y += 18 + punchPx * 0.9; ctx.fillText(CONTENT.punch, TEXT_X, y);
+  ctx.fillStyle = "rgba(244,239,231,0.88)"; ctx.font = `italic ${ctxPx}px "EB Garamond"`;
+  y += 26;
+  for (const line of CONTENT.context) { y += ctxLead; ctx.fillText(line, TEXT_X + 4, y - 14); }
+  window.__layout = { numPx, punchPx, bottom: y - 14 };
+  document.body.dataset.ready = "1";
+});
+</script>
+</body>
+</html>
