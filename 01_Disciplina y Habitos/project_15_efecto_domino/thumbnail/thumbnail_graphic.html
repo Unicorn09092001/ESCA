@@ -1,0 +1,99 @@
+<!doctype html>
+<!--
+  Thumbnail graphic — Project 15 "El Efecto Dominó: Por Qué UN SOLO Hábito Lo Cambia Todo"
+  Theo docs/quy-tac-thumbnail-graphic.md: 1 con số + punch 2–3 chữ + ngữ cảnh ≤ 7 chữ + hình dữ liệu.
+  Phát hiện: Charles Duhigg, "El Poder de los Hábitos" — Paul O'Neill (Alcoa) convirtió en hábito clave
+  reportar cada accidente en menos de 24 horas; las ganancias, que nadie perseguía, se multiplicaron.
+  Video: 0:52 (regla de 24 horas) → 1:10 (las ganancias se multiplicaron), mục "El Hábito Clave".
+  Hình (cơ chế, không có số đo): 1 quân domino nhỏ màu nhấn đang đổ vào hàng domino xám lớn dần.
+  Render: node tools/render_thumb_graphic.js "<thư mục thumbnail>"
+-->
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Thumbnail graphic P15</title>
+<style>
+  @font-face { font-family: "Anton"; src: url("../../../fonts/Anton-Regular.ttf"); }
+  @font-face { font-family: "EB Garamond"; font-style: italic; src: url("../../../fonts/EBGaramond-Italic.ttf"); }
+  html, body { margin: 0; background: #0A0908; }
+  canvas { display: block; }
+</style>
+</head>
+<body>
+<canvas id="c" width="1280" height="720"></canvas>
+<script>
+const CONTENT = {
+  number: "24H",
+  punch: "MAS GANANCIAS",
+  context: ["una regla de seguridad", "dentro de Alcoa"],
+  dominoes: [120, 175, 255, 370, 530],   // chiều cao, lớn dần (hiệu ứng domino)
+};
+const ACC = "#FF5A36";     // màu nhấn playlist 01_Disciplina y Habitos (= màu video)
+const INK = "#F4EFE7", BG = "#0A0908";
+const W = 1280, H = 720, M = 64, TEXT_X = 668, SAFE_BOTTOM = 634;
+
+function fitFont(ctx, text, family, maxPx, maxW) {
+  let px = maxPx;
+  for (; px > 20; px -= 2) { ctx.font = `${px}px ${family}`; if (ctx.measureText(text).width <= maxW) break; }
+  return px;
+}
+function roundRect(ctx, x, y, w, h, r) {
+  ctx.beginPath(); ctx.moveTo(x + r, y); ctx.arcTo(x + w, y, x + w, y + h, r); ctx.arcTo(x + w, y + h, x, y + h, r);
+  ctx.arcTo(x, y + h, x, y, r); ctx.arcTo(x, y, x + w, y, r); ctx.closePath();
+}
+// Một quân domino, gốc toạ độ ở góc dưới-phải, nghiêng angle (rad) quanh điểm đó
+function domino(ctx, xr, yb, w, h, angle, lit) {
+  ctx.save(); ctx.translate(xr, yb); ctx.rotate(angle);
+  roundRect(ctx, -w, -h, w, h, Math.max(6, w * 0.12));
+  if (lit) { ctx.fillStyle = ACC; ctx.fill(); }
+  else { ctx.fillStyle = "rgba(244,239,231,0.12)"; ctx.fill(); ctx.strokeStyle = "rgba(244,239,231,0.35)"; ctx.lineWidth = 3; ctx.stroke(); }
+  const col = lit ? BG : "rgba(244,239,231,0.45)";
+  ctx.strokeStyle = col; ctx.lineWidth = Math.max(3, w * 0.06);
+  ctx.beginPath(); ctx.moveTo(-w * 0.82, -h / 2); ctx.lineTo(-w * 0.18, -h / 2); ctx.stroke();
+  ctx.fillStyle = col;
+  for (const fy of [0.25, 0.75]) { ctx.beginPath(); ctx.arc(-w / 2, -h * fy, Math.max(4, w * 0.09), 0, 2 * Math.PI); ctx.fill(); }
+  ctx.restore();
+}
+
+document.fonts.load('330px "Anton"').then(() => document.fonts.load('italic 44px "EB Garamond"')).then(() => document.fonts.ready).then(() => {
+  const ctx = document.getElementById("c").getContext("2d");
+  ctx.fillStyle = BG; ctx.fillRect(0, 0, W, H);
+
+  // Quầng sáng màu nhấn ~10% quanh quân domino đầu tiên
+  const g = ctx.createRadialGradient(140, 520, 10, 140, 520, 380);
+  g.addColorStop(0, "rgba(255,90,54,0.16)"); g.addColorStop(1, "rgba(255,90,54,0)");
+  ctx.fillStyle = g; ctx.fillRect(0, 0, W, H);
+
+  // Hàng domino trong vùng x 64–620, y 58–612, đáy chung y = 612
+  const BASE = 612, GAP = 16, RATIO = 0.32, LEAN = 0.42;
+  ctx.strokeStyle = "rgba(244,239,231,0.18)"; ctx.lineWidth = 3;
+  ctx.beginPath(); ctx.moveTo(64, BASE + 2); ctx.lineTo(620, BASE + 2); ctx.stroke();
+  let x = 64;
+  CONTENT.dominoes.forEach((h, i) => {
+    const w = h * RATIO;
+    x += w;
+    domino(ctx, x, BASE, w, h, i === 0 ? LEAN : 0, i === 0);
+    x += i === 0 ? h * Math.sin(LEAN) - 4 : GAP;   // quân đầu nghiêng tựa vào quân thứ hai
+  });
+  // Cột chữ
+  const maxW = W - M - TEXT_X;
+  const numPx = fitFont(ctx, CONTENT.number, '"Anton"', 330, maxW);
+  const punchPx = fitFont(ctx, CONTENT.punch, '"Anton"', 130, maxW);
+  const ctxPx = 44, ctxLead = 54;
+  const blockH = numPx * 0.86 + 18 + punchPx * 0.9 + 26 + ctxLead * CONTENT.context.length;
+  let y = Math.max(M, (SAFE_BOTTOM - M - blockH) / 2 + M - 10);
+
+  ctx.textBaseline = "alphabetic"; ctx.textAlign = "left";
+  ctx.fillStyle = INK; ctx.font = `${numPx}px "Anton"`;
+  y += numPx * 0.86; ctx.fillText(CONTENT.number, TEXT_X, y);
+  ctx.fillStyle = ACC; ctx.font = `${punchPx}px "Anton"`;
+  y += 18 + punchPx * 0.9; ctx.fillText(CONTENT.punch, TEXT_X, y);
+  ctx.fillStyle = "rgba(244,239,231,0.88)"; ctx.font = `italic ${ctxPx}px "EB Garamond"`;
+  y += 26;
+  for (const line of CONTENT.context) { y += ctxLead; ctx.fillText(line, TEXT_X + 4, y - 14); }
+  window.__layout = { numPx, punchPx, bottom: y - 14 };
+  document.body.dataset.ready = "1";
+});
+</script>
+</body>
+</html>
