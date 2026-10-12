@@ -1,0 +1,102 @@
+<!doctype html>
+<!--
+  Thumbnail graphic — Project 30 "¿Por Qué Nunca Sientes Que Es Suficiente? (Perfeccionismo)"
+  Theo docs/quy-tac-thumbnail-graphic.md — PHƯƠNG ÁN B (không có số liệu đủ điều kiện):
+  kịch bản không có con số nào vừa nằm trong kịch bản vừa nằm trong mục nguồn (Curran & Hill chỉ nói
+  "aumento significativo"; "9 de 10 elogios", "5 veces" là ví dụ minh hoạ, không phải số nghiên cứu).
+  → Hình cơ chế lớn + punch 2–3 chữ ở vị trí con số.
+  Ý: "esa imagen siempre se mueve un poco más lejos cada vez que te acercas" (video 3:48, mục Señal 5).
+  Hình: thanh tiến độ màu nhấn tiến gần, lá cờ đích (trắng) đã dời xa, các vị trí cũ còn mờ phía sau.
+  Render: node tools/render_thumb_graphic.js "<thư mục thumbnail>"
+-->
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Thumbnail graphic P30</title>
+<style>
+  @font-face { font-family: "Anton"; src: url("../../../fonts/Anton-Regular.ttf"); }
+  @font-face { font-family: "EB Garamond"; font-style: italic; src: url("../../../fonts/EBGaramond-Italic.ttf"); }
+  html, body { margin: 0; background: #0A0908; }
+  canvas { display: block; }
+</style>
+</head>
+<body>
+<canvas id="c" width="1280" height="720"></canvas>
+<script>
+const CONTENT = {
+  big: "LA META",              // phương án B: chữ lớn thay cho con số
+  punch: "SE MUEVE",
+  context: ["cada vez que", "te acercas"],
+};
+const ACC = "#8B6CFF";     // màu nhấn playlist 05_Autoconocimiento (= màu video)
+const INK = "#F4EFE7", BG = "#0A0908";
+const W = 1280, H = 720, M = 64, TEXT_X = 668, SAFE_BOTTOM = 634;
+
+function fitFont(ctx, text, family, maxPx, maxW) {
+  let px = maxPx;
+  for (; px > 20; px -= 2) { ctx.font = `${px}px ${family}`; if (ctx.measureText(text).width <= maxW) break; }
+  return px;
+}
+function roundRect(ctx, x, y, w, h, r) {
+  ctx.beginPath(); ctx.moveTo(x + r, y); ctx.arcTo(x + w, y, x + w, y + h, r); ctx.arcTo(x + w, y + h, x, y + h, r);
+  ctx.arcTo(x, y + h, x, y, r); ctx.arcTo(x, y, x + w, y, r); ctx.closePath();
+}
+// Lá cờ: chân cột ở (x, yb), cao h
+function flag(ctx, x, yb, h, style) {
+  const pw = h * 0.06, fw = h * 0.55, fh = h * 0.36;
+  ctx.save();
+  if (style === "solid") { ctx.fillStyle = INK; }
+  else { ctx.strokeStyle = `rgba(244,239,231,${style})`; ctx.lineWidth = 4; ctx.setLineDash([12, 10]); }
+  ctx.beginPath(); ctx.rect(x - pw / 2, yb - h, pw, h);
+  style === "solid" ? ctx.fill() : ctx.stroke();
+  ctx.beginPath(); ctx.moveTo(x + pw / 2, yb - h); ctx.lineTo(x + pw / 2 + fw, yb - h + fh / 2); ctx.lineTo(x + pw / 2, yb - h + fh); ctx.closePath();
+  style === "solid" ? ctx.fill() : ctx.stroke();
+  ctx.restore();
+}
+
+document.fonts.load('330px "Anton"').then(() => document.fonts.load('italic 44px "EB Garamond"')).then(() => document.fonts.ready).then(() => {
+  const ctx = document.getElementById("c").getContext("2d");
+  ctx.fillStyle = BG; ctx.fillRect(0, 0, W, H);
+
+  // Quầng sáng màu nhấn ~10% sau khối hình
+  const g = ctx.createRadialGradient(300, 470, 20, 300, 470, 420);
+  g.addColorStop(0, "rgba(139,108,255,0.15)"); g.addColorStop(1, "rgba(139,108,255,0)");
+  ctx.fillStyle = g; ctx.fillRect(0, 0, W, H);
+
+  // Đường đua (x 64–620): nền xám + tiến độ màu nhấn
+  const TY = 520, TH = 46, X0 = 64, X1 = 620;
+  roundRect(ctx, X0, TY, X1 - X0, TH, TH / 2); ctx.fillStyle = "rgba(244,239,231,0.10)"; ctx.fill();
+  const prog = 250;
+  roundRect(ctx, X0, TY, prog - X0, TH, TH / 2); ctx.fillStyle = ACC; ctx.fill();
+  ctx.beginPath(); ctx.arc(prog, TY + TH / 2, 34, 0, 2 * Math.PI); ctx.fillStyle = ACC; ctx.fill();
+  ctx.beginPath(); ctx.arc(prog, TY + TH / 2, 14, 0, 2 * Math.PI); ctx.fillStyle = BG; ctx.fill();
+
+  // Các vị trí cờ cũ (mờ dần) → cờ hiện tại đã dời xa
+  [[290, 0.22], [335, 0.34], [380, 0.5]].forEach(([x, a]) => flag(ctx, x, TY - 14, 280, a));
+  flag(ctx, 410, TY - 14, 370, "solid");   // mép phải cờ ≈ 615 < 620
+  // mũi tên nhỏ chỉ hướng dời
+  ctx.strokeStyle = "rgba(244,239,231,0.6)"; ctx.lineWidth = 5; ctx.lineCap = "round";
+  ctx.beginPath(); ctx.moveTo(300, 600); ctx.lineTo(600, 600); ctx.moveTo(580, 586); ctx.lineTo(600, 600); ctx.lineTo(580, 614); ctx.stroke();
+
+  // Cột chữ — phương án B: chữ lớn trắng + punch màu nhấn cùng cỡ
+  const maxW = W - M - TEXT_X;
+  const bigPx = fitFont(ctx, CONTENT.big, '"Anton"', 330, maxW);
+  const punchPx = Math.min(bigPx, fitFont(ctx, CONTENT.punch, '"Anton"', 330, maxW));
+  const ctxPx = 44, ctxLead = 54;
+  const blockH = bigPx * 0.86 + 18 + punchPx * 0.9 + 26 + ctxLead * CONTENT.context.length;
+  let y = Math.max(M, (SAFE_BOTTOM - M - blockH) / 2 + M - 10);
+
+  ctx.textBaseline = "alphabetic"; ctx.textAlign = "left";
+  ctx.fillStyle = INK; ctx.font = `${bigPx}px "Anton"`;
+  y += bigPx * 0.86; ctx.fillText(CONTENT.big, TEXT_X, y);
+  ctx.fillStyle = ACC; ctx.font = `${punchPx}px "Anton"`;
+  y += 18 + punchPx * 0.9; ctx.fillText(CONTENT.punch, TEXT_X, y);
+  ctx.fillStyle = "rgba(244,239,231,0.88)"; ctx.font = `italic ${ctxPx}px "EB Garamond"`;
+  y += 26;
+  for (const line of CONTENT.context) { y += ctxLead; ctx.fillText(line, TEXT_X + 4, y - 14); }
+  window.__layout = { numPx: bigPx, punchPx, bottom: y - 14 };
+  document.body.dataset.ready = "1";
+});
+</script>
+</body>
+</html>
