@@ -1,0 +1,118 @@
+<!doctype html>
+<!--
+  Thumbnail graphic — Project 16 "Tu Entorno Decide Antes Que Tu Fuerza de Voluntad"
+  Theo docs/quy-tac-thumbnail-graphic.md: 1 con số + punch 2–3 chữ + ngữ cảnh ≤ 7 chữ + hình.
+  Phát hiện: Anne Thorndike (Massachusetts General Hospital) — sin cambiar ni un solo precio, solo
+  reorganizando dónde estaban las bebidas, las ventas de agua subieron y las de refrescos bajaron.
+  Video: 0:37 (sin cambiar ni un solo precio) → 0:50 (ventas de agua subieron), mục "El Experimento de la Cafetería".
+  Kịch bản không có % doanh số → không vẽ cột số liệu giả; hình là kệ đồ uống (cơ chế):
+  nước (màu nhấn) ngang tầm mắt phía trước, nước ngọt (xám) bị đẩy xuống góc dưới.
+  Render: node tools/render_thumb_graphic.js "<thư mục thumbnail>"
+-->
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Thumbnail graphic P16</title>
+<style>
+  @font-face { font-family: "Anton"; src: url("../../../fonts/Anton-Regular.ttf"); }
+  @font-face { font-family: "EB Garamond"; font-style: italic; src: url("../../../fonts/EBGaramond-Italic.ttf"); }
+  html, body { margin: 0; background: #0A0908; }
+  canvas { display: block; }
+</style>
+</head>
+<body>
+<canvas id="c" width="1280" height="720"></canvas>
+<script>
+const CONTENT = {
+  number: "0",
+  punch: "CAMBIOS DE PRECIO",
+  context: ["y aun así", "ganó el agua"],
+};
+const ACC = "#FF5A36";     // màu nhấn playlist 01_Disciplina y Habitos (= màu video)
+const INK = "#F4EFE7", BG = "#0A0908";
+const W = 1280, H = 720, M = 64, TEXT_X = 668, SAFE_BOTTOM = 634;
+
+function fitFont(ctx, text, family, maxPx, maxW) {
+  let px = maxPx;
+  for (; px > 20; px -= 2) { ctx.font = `${px}px ${family}`; if (ctx.measureText(text).width <= maxW) break; }
+  return px;
+}
+function roundRect(ctx, x, y, w, h, r) {
+  ctx.beginPath(); ctx.moveTo(x + r, y); ctx.arcTo(x + w, y, x + w, y + h, r); ctx.arcTo(x + w, y + h, x, y + h, r);
+  ctx.arcTo(x, y + h, x, y, r); ctx.arcTo(x, y, x + w, y, r); ctx.closePath();
+}
+// Chai nước: đáy ở (cx, yb), cao h
+function bottle(ctx, cx, yb, h, fill) {
+  const w = h * 0.38, neck = w * 0.42, shoulder = h * 0.28, capH = h * 0.1;
+  ctx.beginPath();
+  ctx.moveTo(cx - w / 2, yb);
+  ctx.lineTo(cx - w / 2, yb - h + shoulder + capH);
+  ctx.quadraticCurveTo(cx - w / 2, yb - h + capH + shoulder * 0.35, cx - neck / 2, yb - h + capH + shoulder * 0.15);
+  ctx.lineTo(cx - neck / 2, yb - h + capH);
+  ctx.lineTo(cx + neck / 2, yb - h + capH);
+  ctx.lineTo(cx + neck / 2, yb - h + capH + shoulder * 0.15);
+  ctx.quadraticCurveTo(cx + w / 2, yb - h + capH + shoulder * 0.35, cx + w / 2, yb - h + shoulder + capH);
+  ctx.lineTo(cx + w / 2, yb); ctx.closePath();
+  ctx.fillStyle = fill; ctx.fill();
+  roundRect(ctx, cx - neck * 0.6, yb - h, neck * 1.2, capH, 4); ctx.fill();
+}
+// Lon nước ngọt (xám)
+function can(ctx, cx, yb, h) {
+  const w = h * 0.6;
+  roundRect(ctx, cx - w / 2, yb - h, w, h, 8);
+  ctx.fillStyle = "rgba(244,239,231,0.12)"; ctx.fill();
+  ctx.strokeStyle = "rgba(244,239,231,0.35)"; ctx.lineWidth = 3; ctx.stroke();
+}
+// Giọt nước trắng (biểu tượng duy nhất)
+function drop(ctx, cx, cy, s) {
+  ctx.beginPath(); ctx.moveTo(cx, cy - s / 2);
+  ctx.bezierCurveTo(cx + s * 0.1, cy - s * 0.25, cx + s * 0.38, cy + s * 0.02, cx + s * 0.38, cy + s * 0.2);
+  ctx.arc(cx, cy + s * 0.2, s * 0.38, 0, Math.PI, false);
+  ctx.bezierCurveTo(cx - s * 0.38, cy + s * 0.02, cx - s * 0.1, cy - s * 0.25, cx, cy - s / 2);
+  ctx.fillStyle = INK; ctx.fill();
+}
+
+document.fonts.load('330px "Anton"').then(() => document.fonts.load('italic 44px "EB Garamond"')).then(() => document.fonts.ready).then(() => {
+  const ctx = document.getElementById("c").getContext("2d");
+  ctx.fillStyle = BG; ctx.fillRect(0, 0, W, H);
+
+  // Quầng sáng màu nhấn ~10% sau tầng kệ ngang tầm mắt
+  const g = ctx.createRadialGradient(330, 300, 20, 330, 300, 400);
+  g.addColorStop(0, "rgba(255,90,54,0.15)"); g.addColorStop(1, "rgba(255,90,54,0)");
+  ctx.fillStyle = g; ctx.fillRect(0, 0, W, H);
+
+  // Khung kệ trong vùng x 64–620, y 58–612
+  const X0 = 64, X1 = 620, YT = 64, YB = 610, SH = [64, 236, 424, 610];
+  ctx.strokeStyle = "rgba(244,239,231,0.30)"; ctx.lineWidth = 5;
+  roundRect(ctx, X0, YT, X1 - X0, YB - YT, 10); ctx.stroke();
+  for (const y of SH.slice(1, 3)) { ctx.beginPath(); ctx.moveTo(X0, y); ctx.lineTo(X1, y); ctx.stroke(); }
+
+  // Tầng giữa (ngang tầm mắt): 3 chai nước màu nhấn, phía trước
+  [170, 342, 514].forEach(cx => bottle(ctx, cx, SH[2] - 6, 170, ACC));
+  drop(ctx, 342, SH[2] - 70, 62);
+  // Tầng dưới, góc phải: nước ngọt bị đẩy vào trong, mờ
+  [470, 530, 590 - 4].forEach((cx, i) => can(ctx, cx - 4, SH[3] - 8, 84 - i * 2));
+  // Tầng trên: trống
+
+  // Cột chữ
+  const maxW = W - M - TEXT_X;
+  const numPx = fitFont(ctx, CONTENT.number, '"Anton"', 330, maxW);
+  const punchPx = fitFont(ctx, CONTENT.punch, '"Anton"', 130, maxW);
+  const ctxPx = 44, ctxLead = 54;
+  const blockH = numPx * 0.86 + 18 + punchPx * 0.9 + 26 + ctxLead * CONTENT.context.length;
+  let y = Math.max(M, (SAFE_BOTTOM - M - blockH) / 2 + M - 10);
+
+  ctx.textBaseline = "alphabetic"; ctx.textAlign = "left";
+  ctx.fillStyle = INK; ctx.font = `${numPx}px "Anton"`;
+  y += numPx * 0.86; ctx.fillText(CONTENT.number, TEXT_X, y);
+  ctx.fillStyle = ACC; ctx.font = `${punchPx}px "Anton"`;
+  y += 18 + punchPx * 0.9; ctx.fillText(CONTENT.punch, TEXT_X, y);
+  ctx.fillStyle = "rgba(244,239,231,0.88)"; ctx.font = `italic ${ctxPx}px "EB Garamond"`;
+  y += 26;
+  for (const line of CONTENT.context) { y += ctxLead; ctx.fillText(line, TEXT_X + 4, y - 14); }
+  window.__layout = { numPx, punchPx, bottom: y - 14 };
+  document.body.dataset.ready = "1";
+});
+</script>
+</body>
+</html>
