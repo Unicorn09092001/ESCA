@@ -1,0 +1,99 @@
+<!doctype html>
+<!--
+  Thumbnail graphic — Project 21 "5 Lecciones de Vida Que Aprendí Demasiado Tarde"
+  Theo docs/quy-tac-thumbnail-graphic.md — PHƯƠNG ÁN B.
+  Con số duy nhất có cả trong kịch bản lẫn nguồn là "5 segundos" (Mel Robbins), nhưng tiêu đề đã mở
+  bằng "5 Lecciones" → lặp số "5", gây nhầm (5 bài học hay 5 giây?) và vi phạm quy tắc 1+1=3.
+  "La mitad de mis decisiones" là trải nghiệm cá nhân, không phải số liệu nghiên cứu.
+  → Hình cơ chế lớn + punch: Lección 5 "nadie viene a salvarte, y está bien" (locus de control, Julian Rotter).
+  Video: nhắc trước ở 0:27 ("la lección cinco es la que más me costó"), trả lời ở 4:13–4:19.
+  Hình: phao cứu sinh lớn mờ, nét đứt (sự giải cứu không đến) + lõi màu nhấn ở giữa với mũi tên trắng
+  hướng vào trong (điểm kiểm soát nằm bên trong bạn).
+  Render: node tools/render_thumb_graphic.js "<thư mục thumbnail>"
+-->
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Thumbnail graphic P21</title>
+<style>
+  @font-face { font-family: "Anton"; src: url("../../../fonts/Anton-Regular.ttf"); }
+  @font-face { font-family: "EB Garamond"; font-style: italic; src: url("../../../fonts/EBGaramond-Italic.ttf"); }
+  html, body { margin: 0; background: #0A0908; }
+  canvas { display: block; }
+</style>
+</head>
+<body>
+<canvas id="c" width="1280" height="720"></canvas>
+<script>
+const CONTENT = {
+  big: "NADIE VIENE",            // phương án B: chữ lớn thay cho con số
+  punch: "A SALVARTE",
+  context: ["y está bien", "(locus de control, Rotter)"],
+};
+const ACC = "#FF3B78";     // màu nhấn playlist 03_Motivacion y Superacion (= màu video)
+const INK = "#F4EFE7", BG = "#0A0908";
+const W = 1280, H = 720, M = 64, TEXT_X = 668, SAFE_BOTTOM = 634;
+
+function fitFont(ctx, text, family, maxPx, maxW) {
+  let px = maxPx;
+  for (; px > 20; px -= 2) { ctx.font = `${px}px ${family}`; if (ctx.measureText(text).width <= maxW) break; }
+  return px;
+}
+
+document.fonts.load('330px "Anton"').then(() => document.fonts.load('italic 44px "EB Garamond"')).then(() => document.fonts.ready).then(() => {
+  const ctx = document.getElementById("c").getContext("2d");
+  ctx.fillStyle = BG; ctx.fillRect(0, 0, W, H);
+
+  const CX = 342, CY = 335;   // tâm vùng hình x 64–620, y 58–612
+  // Quầng sáng màu nhấn ~10%
+  const g = ctx.createRadialGradient(CX, CY, 20, CX, CY, 400);
+  g.addColorStop(0, "rgba(255,59,120,0.16)"); g.addColorStop(1, "rgba(255,59,120,0)");
+  ctx.fillStyle = g; ctx.fillRect(0, 0, W, H);
+
+  // Phao cứu sinh mờ, nét đứt (bán kính ngoài 270, trong 150)
+  const RO = 270, RI = 150;
+  ctx.save();
+  ctx.setLineDash([16, 14]); ctx.lineWidth = 5; ctx.strokeStyle = "rgba(244,239,231,0.30)";
+  ctx.beginPath(); ctx.arc(CX, CY, RO, 0, 2 * Math.PI); ctx.stroke();
+  ctx.beginPath(); ctx.arc(CX, CY, RI, 0, 2 * Math.PI); ctx.stroke();
+  ctx.setLineDash([]);
+  // 4 dải băng trên phao (mờ)
+  ctx.fillStyle = "rgba(244,239,231,0.10)";
+  for (let k = 0; k < 4; k++) {
+    const a = Math.PI / 4 + k * Math.PI / 2, da = 0.26;
+    ctx.beginPath(); ctx.arc(CX, CY, RO - 4, a - da, a + da); ctx.arc(CX, CY, RI + 4, a + da * 1.6, a - da * 1.6, true); ctx.closePath(); ctx.fill();
+  }
+  ctx.restore();
+
+  // Lõi màu nhấn = điểm kiểm soát bên trong
+  ctx.beginPath(); ctx.arc(CX, CY, 118, 0, 2 * Math.PI); ctx.fillStyle = ACC; ctx.fill();
+  // Mũi tên trắng chỉ vào tâm (biểu tượng duy nhất)
+  ctx.fillStyle = INK;
+  ctx.beginPath();
+  const s = 120;
+  ctx.moveTo(CX, CY + s * 0.42); ctx.lineTo(CX + s * 0.38, CY + s * 0.02); ctx.lineTo(CX + s * 0.13, CY + s * 0.02);
+  ctx.lineTo(CX + s * 0.13, CY - s * 0.44); ctx.lineTo(CX - s * 0.13, CY - s * 0.44); ctx.lineTo(CX - s * 0.13, CY + s * 0.02);
+  ctx.lineTo(CX - s * 0.38, CY + s * 0.02); ctx.closePath(); ctx.fill();
+
+  // Cột chữ — phương án B: chữ lớn trắng + punch màu nhấn
+  const maxW = W - M - TEXT_X;
+  const bigPx = fitFont(ctx, CONTENT.big, '"Anton"', 330, maxW);
+  const punchPx = Math.min(bigPx, fitFont(ctx, CONTENT.punch, '"Anton"', 330, maxW));
+  const ctxPx = 44, ctxLead = 54;
+  const blockH = bigPx * 0.86 + 18 + punchPx * 0.9 + 26 + ctxLead * CONTENT.context.length;
+  let y = Math.max(M, (SAFE_BOTTOM - M - blockH) / 2 + M - 10);
+
+  ctx.textBaseline = "alphabetic"; ctx.textAlign = "left";
+  ctx.fillStyle = INK; ctx.font = `${bigPx}px "Anton"`;
+  y += bigPx * 0.86; ctx.fillText(CONTENT.big, TEXT_X, y);
+  ctx.fillStyle = ACC; ctx.font = `${punchPx}px "Anton"`;
+  y += 18 + punchPx * 0.9; ctx.fillText(CONTENT.punch, TEXT_X, y);
+  ctx.fillStyle = "rgba(244,239,231,0.88)"; ctx.font = `italic ${ctxPx}px "EB Garamond"`;
+  y += 26;
+  for (const line of CONTENT.context) { y += ctxLead; ctx.fillText(line, TEXT_X + 4, y - 14); }
+  window.__layout = { numPx: bigPx, punchPx, bottom: y - 14 };
+  document.body.dataset.ready = "1";
+});
+</script>
+</body>
+</html>
